@@ -1,0 +1,18 @@
+---
+title: "Modeling Notebook"
+output: html_notebook
+---
+
+I have produced a data set containing ball by ball information for 1960 women's T20 internationals.
+
+```{r Summary of our Data set}
+summary(wt20)
+```
+
+Selecting some good variables for pairs:
+
+```{r}
+cts_data <- data.frame(wt20$date, wt20$win_by_runs, wt20$target, wt20$current_run_rate, wt20$required_run_rate)
+
+pairs(cts_data)
+```

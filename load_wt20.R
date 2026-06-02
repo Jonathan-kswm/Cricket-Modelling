@@ -1,0 +1,74 @@
+# load_wt20.R
+# Load the ball-by-ball Women's T20I dataset produced by parse_wt20.py,
+# enforce sensible column types, summarise, and run a sanity check that
+# no innings exceeds 120 legal deliveries.
+
+suppressPackageStartupMessages({
+  library(readr)
+  library(dplyr)
+})
+
+wt20 <- read_csv(
+  "wt20_ball_by_ball.csv",
+  col_types = cols(
+    match_id           = col_factor(),
+    date               = col_date(format = "%Y-%m-%d"),
+    venue              = col_factor(),
+    city               = col_factor(),
+    match_type         = col_factor(),
+    gender             = col_factor(),
+    team_1             = col_factor(),
+    team_2             = col_factor(),
+    toss_winner        = col_factor(),
+    toss_decision      = col_factor(),
+    winner             = col_factor(),
+    win_by_runs        = col_integer(),
+    win_by_wickets     = col_integer(),
+    player_of_match    = col_factor(),
+    innings            = col_integer(),
+    batting_team       = col_factor(),
+    bowling_team       = col_factor(),
+    over               = col_integer(),
+    ball               = col_integer(),
+    global_ball        = col_integer(),
+    batter             = col_factor(),
+    non_striker        = col_factor(),
+    bowler             = col_factor(),
+    runs_batter        = col_integer(),
+    runs_extras        = col_integer(),
+    runs_total         = col_integer(),
+    extras_type        = col_factor(),
+    is_wide            = col_integer(),
+    is_noball          = col_integer(),
+    is_legal_delivery  = col_integer(),
+    cumulative_runs    = col_integer(),
+    cumulative_wickets = col_integer(),
+    balls_bowled       = col_integer(),
+    balls_remaining    = col_integer(),
+    current_run_rate   = col_double(),
+    target             = col_integer(),
+    runs_required      = col_integer(),
+    required_run_rate  = col_double(),
+    is_wicket          = col_integer(),
+    wicket_kind        = col_factor(),
+    player_out         = col_factor(),
+    fielder            = col_factor()
+  )
+)
+
+print(summary(wt20))
+
+# Sanity check: no regular innings (1 or 2) should have more than 120
+# legal deliveries. Super overs (innings 3) are excluded.
+violations <- wt20 %>%
+  filter(innings %in% c(1, 2)) %>%
+  group_by(match_id, innings) %>%
+  summarise(legal_deliveries = sum(is_legal_delivery), .groups = "drop") %>%
+  filter(legal_deliveries > 120)
+
+if (nrow(violations) == 0) {
+  cat("\nSanity check passed: no innings exceeds 120 legal deliveries.\n")
+} else {
+  cat("\nSanity check FAILED: innings exceeding 120 legal deliveries:\n")
+  print(violations)
+}
