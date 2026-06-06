@@ -1,0 +1,2452 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2025-12-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2595
+  outcome:
+    winner: Bahrain
+    by:
+      runs: 107
+  overs: 20
+  player_of_match:
+  - HMD Rasangika
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - R Rodrigo
+    - HMD Rasangika
+    - Poorvaja Jagdeesha
+    - Sweeta Corda
+    - Sana Butt
+    - P Shetty
+    - RL D'Souza
+    - Sadamali Bhakshala
+    - SD Ranawaka
+    - I Suhun
+    Saudi Arabia:
+    - Mashael Waqas
+    - Abeer Maryam
+    - Nimra Ghazanfar
+    - Simrah Mirza
+    - Najwa Akram
+    - Sara
+    - Mah Noor Amir
+    - Rumaisa Jawad Nasir
+    - Ashmal Hashmi
+    - Laiba Nasrullah
+    - Mah Noor
+  registry:
+    people:
+      Abeer Maryam: 8067b378
+      Ashmal Hashmi: 9eaf6e16
+      G Pillai: c363921c
+      HMD Rasangika: d6f9dfd6
+      I Suhun: 41bfb2a9
+      Laiba Nasrullah: e7a3e3a0
+      Mah Noor: 1252c950
+      Mah Noor Amir: e95cf4f8
+      Mashael Waqas: 7ea926c6
+      Najwa Akram: a1cb1472
+      Nimra Ghazanfar: 9b2159a6
+      Nishit Punja: 5b606d11
+      P Shetty: 0dda36e7
+      Poorvaja Jagdeesha: 322855f7
+      R Rodrigo: fe676043
+      RL D'Souza: 2d0b7057
+      Rabab Ahsan: a1ed27f3
+      Ridwan Parkar: f7356421
+      Rumaisa Jawad Nasir: 38f2525c
+      SD Ranawaka: 4afe1806
+      Sadamali Bhakshala: 89df3901
+      Sana Butt: 0f49b970
+      Sara: 2c78e246
+      Simrah Mirza: 1f578535
+      Sweeta Corda: 3ab9a451
+      TI Gajanayake: d577d45a
+  teams:
+  - Bahrain
+  - Saudi Arabia
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - G Pillai
+  - Rabab Ahsan
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.2:
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.3:
+        non_striker: R Rodrigo
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: R Rodrigo
+          fielders:
+          - Nimra Ghazanfar
+          - Simrah Mirza
+          kind: run out
+    - 0.4:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 0.5:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 0.6:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HMD Rasangika
+    - 0.7:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.1:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 1.2:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 1.3:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.4:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.5:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.6:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.7:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TI Gajanayake
+    - 1.8:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.9:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.1:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 2.2:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 2.3:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.4:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 2.5:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 2.6:
+        non_striker: TI Gajanayake
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 2.7:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.1:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 3.2:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 3.3:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 3.4:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 3.5:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 3.6:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor Amir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HMD Rasangika
+    - 3.7:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.8:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.9:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: TI Gajanayake
+    - 4.1:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.2:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.3:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.4:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.5:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.6:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.1:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TI Gajanayake
+    - 5.2:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 5.3:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TI Gajanayake
+    - 5.4:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 5.5:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: TI Gajanayake
+    - 5.6:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 5.7:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 5.8:
+        non_striker: TI Gajanayake
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HMD Rasangika
+    - 6.1:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 6.2:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 6.3:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 6.4:
+        non_striker: TI Gajanayake
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.5:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          kind: bowled
+    - 6.6:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+    - 7.1:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Mah Noor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 7.2:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 7.3:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 7.4:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 7.5:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 7.6:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Poorvaja Jagdeesha
+    - 7.7:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Poorvaja Jagdeesha
+    - 8.1:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+    - 8.2:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Poorvaja Jagdeesha
+    - 8.3:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HMD Rasangika
+    - 8.4:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+    - 8.5:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poorvaja Jagdeesha
+    - 8.6:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HMD Rasangika
+    - 8.7:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poorvaja Jagdeesha
+    - 8.8:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 9.1:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 9.2:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 9.3:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HMD Rasangika
+    - 9.4:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 9.5:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 9.6:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 9.7:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 10.1:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+    - 10.2:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+    - 10.3:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poorvaja Jagdeesha
+    - 10.4:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 10.5:
+        non_striker: Poorvaja Jagdeesha
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 10.6:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+        wicket:
+          player_out: Poorvaja Jagdeesha
+          kind: caught and bowled
+    - 10.7:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 10.8:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 11.1:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sweeta Corda
+    - 11.2:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 11.3:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 11.4:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 11.5:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 11.6:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 12.1:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 12.2:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 12.3:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 12.4:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 12.5:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 12.6:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 13.1:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 13.2:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 13.3:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 13.4:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 13.5:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 13.6:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 13.7:
+        non_striker: HMD Rasangika
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 13.8:
+        non_striker: Sweeta Corda
+        bowler: Sara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 14.1:
+        non_striker: HMD Rasangika
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 14.2:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.3:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.4:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.5:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.6:
+        non_striker: Sweeta Corda
+        bowler: Rumaisa Jawad Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 15.1:
+        non_striker: Sweeta Corda
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 15.2:
+        non_striker: Sweeta Corda
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 15.3:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 15.4:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 15.5:
+        non_striker: Sweeta Corda
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 15.6:
+        non_striker: HMD Rasangika
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 16.1:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 16.2:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 16.3:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 16.4:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sweeta Corda
+    - 16.5:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 16.6:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 16.7:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 17.1:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 17.2:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 17.3:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 17.4:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 17.5:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 17.6:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 18.1:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 18.2:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 18.3:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 18.4:
+        non_striker: Sweeta Corda
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 18.5:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 18.6:
+        non_striker: HMD Rasangika
+        bowler: Ashmal Hashmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 19.1:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 19.2:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 19.3:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 19.4:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Sweeta Corda
+    - 19.5:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 19.6:
+        non_striker: HMD Rasangika
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 19.7:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 19.8:
+        non_striker: Sweeta Corda
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+- 2nd innings:
+    team: Saudi Arabia
+    deliveries:
+    - 0.1:
+        bowler: P Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.2:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.3:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.4:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.5:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.6:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.7:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeer Maryam
+    - 0.8:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 1.1:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 1.2:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 1.3:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 1.4:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 1.5:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeer Maryam
+    - 1.6:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 1.7:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 2.1:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 2.2:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 2.3:
+        non_striker: Abeer Maryam
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 2.4:
+        non_striker: Abeer Maryam
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 2.5:
+        non_striker: Abeer Maryam
+        bowler: P Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mashael Waqas
+    - 2.6:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 3.1:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 3.2:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 3.3:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 3.4:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 3.5:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeer Maryam
+    - 3.6:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 3.7:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 4.1:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 4.2:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 4.3:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 4.4:
+        non_striker: Mashael Waqas
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 4.5:
+        non_striker: Abeer Maryam
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 4.6:
+        non_striker: Abeer Maryam
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 5.1:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 5.2:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 5.3:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 5.4:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 5.5:
+        non_striker: Abeer Maryam
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 5.6:
+        non_striker: Mashael Waqas
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 6.1:
+        non_striker: Abeer Maryam
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 6.2:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 6.3:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 6.4:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abeer Maryam
+    - 6.5:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 6.6:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 7.1:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 7.2:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 7.3:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 7.4:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 7.5:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 7.6:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 8.1:
+        non_striker: Abeer Maryam
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 8.2:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 8.3:
+        non_striker: Abeer Maryam
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 8.4:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 8.5:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 8.6:
+        non_striker: Mashael Waqas
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 9.1:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 9.2:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 9.3:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abeer Maryam
+    - 9.4:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 9.5:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 9.6:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 10.1:
+        non_striker: Abeer Maryam
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 10.2:
+        non_striker: Abeer Maryam
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 10.3:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 10.4:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 10.5:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Abeer Maryam
+    - 10.6:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 11.1:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 11.2:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 11.3:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 11.4:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 11.5:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Abeer Maryam
+    - 11.6:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mashael Waqas
+    - 11.7:
+        non_striker: Abeer Maryam
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+        wicket:
+          player_out: Abeer Maryam
+          fielders:
+          - Sana Butt
+          - SD Ranawaka
+          kind: run out
+    - 12.1:
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nimra Ghazanfar
+        batsman: Mashael Waqas
+    - 12.2:
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nimra Ghazanfar
+        batsman: Mashael Waqas
+    - 12.3:
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nimra Ghazanfar
+        batsman: Mashael Waqas
+    - 12.4:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nimra Ghazanfar
+    - 12.5:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nimra Ghazanfar
+    - 12.6:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 12.7:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 12.8:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nimra Ghazanfar
+    - 13.1:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 13.2:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nimra Ghazanfar
+    - 13.3:
+        non_striker: Nimra Ghazanfar
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 13.4:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 13.5:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 13.6:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 14.1:
+        non_striker: Nimra Ghazanfar
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 14.2:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nimra Ghazanfar
+    - 14.3:
+        non_striker: Nimra Ghazanfar
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashael Waqas
+    - 14.4:
+        non_striker: Nimra Ghazanfar
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 14.5:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 14.6:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nimra Ghazanfar
+    - 14.7:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+        wicket:
+          player_out: Nimra Ghazanfar
+          kind: lbw
+    - 15.1:
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Simrah Mirza
+        batsman: Mashael Waqas
+    - 15.2:
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simrah Mirza
+        batsman: Mashael Waqas
+    - 15.3:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simrah Mirza
+        wicket:
+          player_out: Simrah Mirza
+          kind: lbw
+    - 15.4:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+        wicket:
+          player_out: Najwa Akram
+          fielders:
+          - R Rodrigo
+          kind: caught
+    - 15.5:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Sara
+    - 15.6:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara
+        wicket:
+          player_out: Sara
+          fielders:
+          - I Suhun
+          kind: caught
+    - 15.7:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mah Noor Amir
+    - 15.8:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mah Noor Amir
+    - 15.9:
+        non_striker: Mah Noor Amir
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashael Waqas
+    - 16.1:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mah Noor Amir
+    - 16.2:
+        non_striker: Mah Noor Amir
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 16.3:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mah Noor Amir
+    - 16.4:
+        non_striker: Mah Noor Amir
+        bowler: SD Ranawaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mashael Waqas
+    - 16.5:
+        non_striker: Mah Noor Amir
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 16.6:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mah Noor Amir
+        wicket:
+          player_out: Mah Noor Amir
+          kind: bowled
+    - 16.7:
+        non_striker: Mashael Waqas
+        bowler: SD Ranawaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumaisa Jawad Nasir
+    - 17.1:
+        non_striker: Rumaisa Jawad Nasir
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashael Waqas
+    - 17.2:
+        non_striker: Rumaisa Jawad Nasir
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+    - 17.3:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumaisa Jawad Nasir
+    - 17.4:
+        non_striker: Mashael Waqas
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rumaisa Jawad Nasir
+    - 17.5:
+        non_striker: Rumaisa Jawad Nasir
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 17.6:
+        non_striker: Rumaisa Jawad Nasir
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+    - 18.1:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rumaisa Jawad Nasir
+        wicket:
+          player_out: Rumaisa Jawad Nasir
+          fielders:
+          - Poorvaja Jagdeesha
+          - Sana Butt
+          kind: run out
+    - 18.2:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashmal Hashmi
+    - 18.3:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashmal Hashmi
+        wicket:
+          player_out: Ashmal Hashmi
+          fielders:
+          - Sana Butt
+          kind: stumped
+    - 18.4:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 18.5:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 18.6:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 18.7:
+        non_striker: Mashael Waqas
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 19.1:
+        non_striker: Laiba Nasrullah
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashael Waqas
+    - 19.2:
+        non_striker: Laiba Nasrullah
+        bowler: Sweeta Corda
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Mashael Waqas
+    - 19.3:
+        non_striker: Mashael Waqas
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 19.4:
+        non_striker: Mashael Waqas
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 19.5:
+        non_striker: Mashael Waqas
+        bowler: Sweeta Corda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Laiba Nasrullah
+    - 19.6:
+        non_striker: Mashael Waqas
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Laiba Nasrullah
+    - 19.7:
+        non_striker: Laiba Nasrullah
+        bowler: Sweeta Corda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mashael Waqas
+    - 19.8:
+        non_striker: Laiba Nasrullah
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashael Waqas
+        wicket:
+          player_out: Laiba Nasrullah
+          fielders:
+          - Sweeta Corda
+          - I Suhun
+          kind: run out
+    - 19.9:
+        non_striker: Mah Noor
+        bowler: Sweeta Corda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas

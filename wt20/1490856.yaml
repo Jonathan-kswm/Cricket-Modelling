@@ -1,0 +1,2584 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2025-07-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2392
+  outcome:
+    winner: Turkey
+    by:
+      runs: 63
+  overs: 20
+  player_of_match:
+  - G Keles
+  players:
+    Turkey:
+    - M Bayram
+    - R Cenik
+    - Z Akpinar
+    - Ezgi Nur Kilic
+    - G Keles
+    - Suzan Turan
+    - G Ayan
+    - S Yildirim
+    - D Tekyildirim
+    - H Celik
+    - S Ozkunduz
+    Serbia:
+    - A Mesarovic
+    - M Perisic
+    - T Trajkovic
+    - M Nikolic
+    - S Matijevic
+    - D Demic
+    - B Ercegovcevic
+    - N Nojic
+    - M Trajkovi
+    - M Jevdjenovic
+    - E Prokic
+  registry:
+    people:
+      A Mesarovic: 15404b57
+      B Ercegovcevic: be5b6d0d
+      D Demic: 618327de
+      D Tekyildirim: ae5f7b63
+      E Prokic: 6153ce0d
+      Ezgi Nur Kilic: ec8132b2
+      G Ayan: 66d258e2
+      G Keles: 3e84a803
+      H Celik: 266f372c
+      M Bayram: 4867ffbf
+      M Jevdjenovic: 3be2b0a3
+      M Nikolic: 852f74c8
+      M Perisic: 81599c08
+      M Trajkovi: 2f208ab6
+      N Nojic: ef537c2e
+      R Cenik: '050009d9'
+      S Matijevic: eae6959b
+      S Ozkunduz: 25850e31
+      S Yildirim: aae9b47b
+      Suzan Turan: fec8377a
+      T Trajkovic: 1e630426
+      Z Akpinar: e2619bcc
+  teams:
+  - Turkey
+  - Serbia
+  toss:
+    winner: Turkey
+    decision: bat
+  venue: Vassil Levski National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: N Nojic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: R Cenik
+        batsman: M Bayram
+    - 0.2:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 0.3:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 0.4:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 0.5:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 0.6:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 0.7:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 0.8:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Bayram
+    - 0.9:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.1:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 1.2:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 1.3:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 1.4:
+        non_striker: R Cenik
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.5:
+        non_striker: R Cenik
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 1.6:
+        non_striker: R Cenik
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.7:
+        non_striker: R Cenik
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 1.8:
+        non_striker: R Cenik
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 2.1:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 2.2:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 2.3:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 2.4:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 2.5:
+        non_striker: R Cenik
+        bowler: N Nojic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Bayram
+    - 2.6:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 2.7:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 2.8:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 2.9:
+        non_striker: M Bayram
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 3.1:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Cenik
+    - 3.2:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 3.3:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 3.4:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 3.5:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 3.6:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 3.7:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 3.8:
+        non_striker: M Bayram
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 4.1:
+        non_striker: R Cenik
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 4.2:
+        non_striker: M Bayram
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 4.3:
+        non_striker: R Cenik
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 4.4:
+        non_striker: M Bayram
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+        wicket:
+          player_out: R Cenik
+          fielders:
+          - D Demic
+          kind: caught
+    - 4.5:
+        non_striker: M Bayram
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Akpinar
+    - 4.6:
+        non_striker: Z Akpinar
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 5.1:
+        non_striker: Z Akpinar
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 5.2:
+        non_striker: Z Akpinar
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+        wicket:
+          player_out: M Bayram
+          kind: bowled
+    - 5.3:
+        non_striker: Z Akpinar
+        bowler: A Mesarovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ezgi Nur Kilic
+    - 5.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Akpinar
+    - 5.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Akpinar
+    - 5.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+        wicket:
+          player_out: Z Akpinar
+          kind: bowled
+    - 5.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 6.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 6.2:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 6.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: G Keles
+    - 6.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 6.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 6.6:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 6.7:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 7.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 7.2:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 7.3:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ezgi Nur Kilic
+    - 7.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 7.5:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 7.6:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 7.7:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 8.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 8.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Trajkovi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 8.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 8.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Trajkovi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 8.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 8.6:
+        non_striker: G Keles
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 8.7:
+        non_striker: G Keles
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 8.8:
+        non_striker: G Keles
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 9.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 9.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 9.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 9.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 9.5:
+        non_striker: G Keles
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 9.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 9.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 10.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 10.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 10.3:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 10.4:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 10.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 10.6:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 10.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: G Keles
+    - 10.8:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 11.1:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 11.2:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 11.3:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 11.4:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 11.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 11.6:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 11.7:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 12.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 12.2:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 12.3:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 12.4:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 12.5:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 12.6:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+        wicket:
+          player_out: Ezgi Nur Kilic
+          fielders:
+          - A Mesarovic
+          kind: caught
+    - 12.7:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 13.1:
+        non_striker: Suzan Turan
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 13.2:
+        non_striker: Suzan Turan
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 13.3:
+        non_striker: Suzan Turan
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 13.4:
+        non_striker: G Keles
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 13.5:
+        non_striker: Suzan Turan
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 13.6:
+        non_striker: Suzan Turan
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 14.1:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 14.2:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Keles
+    - 14.3:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 14.4:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Keles
+    - 14.5:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Suzan Turan
+    - 14.6:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 15.1:
+        non_striker: Suzan Turan
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 15.2:
+        non_striker: G Keles
+        bowler: T Trajkovic
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Suzan Turan
+    - 15.3:
+        non_striker: G Keles
+        bowler: T Trajkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Suzan Turan
+    - 15.4:
+        non_striker: G Keles
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 15.5:
+        non_striker: Suzan Turan
+        bowler: T Trajkovic
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Keles
+    - 15.6:
+        non_striker: G Keles
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 15.7:
+        non_striker: Suzan Turan
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 15.8:
+        non_striker: Suzan Turan
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 15.9:
+        non_striker: Suzan Turan
+        bowler: T Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 16.1:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 16.2:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 16.3:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 16.4:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Keles
+    - 16.5:
+        non_striker: G Keles
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 16.6:
+        non_striker: G Keles
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 16.7:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 16.8:
+        non_striker: Suzan Turan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 17.1:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 17.2:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 17.3:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 17.4:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 17.5:
+        non_striker: G Keles
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 17.6:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Keles
+    - 17.7:
+        non_striker: Suzan Turan
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 18.1:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 18.2:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 18.3:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+        wicket:
+          player_out: Suzan Turan
+          kind: bowled
+    - 18.4:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: G Ayan
+    - 18.5:
+        non_striker: G Ayan
+        bowler: E Prokic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: G Keles
+    - 18.6:
+        non_striker: G Keles
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 18.7:
+        non_striker: G Ayan
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Keles
+    - 18.8:
+        non_striker: G Ayan
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.1:
+        non_striker: G Ayan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.2:
+        non_striker: G Keles
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 19.3:
+        non_striker: G Ayan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.4:
+        non_striker: G Keles
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 19.5:
+        non_striker: G Ayan
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.6:
+        non_striker: G Keles
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.2:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.3:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.4:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.5:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.6:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.7:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Perisic
+        batsman: A Mesarovic
+    - 0.8:
+        non_striker: M Perisic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 1.1:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 1.2:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 1.3:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: M Perisic
+    - 1.4:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 1.5:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 1.6:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Perisic
+    - 1.7:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 1.8:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 1.9:
+        non_striker: M Perisic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 1.10:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Perisic
+    - 1.11:
+        non_striker: A Mesarovic
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 2.1:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.2:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Perisic
+    - 2.3:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 2.4:
+        non_striker: M Perisic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 2.5:
+        non_striker: M Perisic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 2.6:
+        non_striker: M Perisic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Mesarovic
+    - 2.7:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.8:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.9:
+        non_striker: A Mesarovic
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 3.1:
+        non_striker: M Perisic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 3.2:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 3.3:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 3.4:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+        wicket:
+          player_out: M Perisic
+          kind: lbw
+    - 3.5:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 3.6:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 3.7:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 3.8:
+        non_striker: T Trajkovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 4.1:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mesarovic
+    - 4.2:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 4.3:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 4.4:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 4.5:
+        non_striker: A Mesarovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 4.6:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 5.1:
+        non_striker: T Trajkovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 5.2:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 5.3:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 5.4:
+        non_striker: T Trajkovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mesarovic
+    - 5.5:
+        non_striker: T Trajkovic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Mesarovic
+    - 5.6:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 5.7:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 5.8:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 5.9:
+        non_striker: A Mesarovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 6.1:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 6.2:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mesarovic
+    - 6.3:
+        non_striker: A Mesarovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.4:
+        non_striker: A Mesarovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 6.5:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Mesarovic
+    - 6.6:
+        non_striker: A Mesarovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.7:
+        non_striker: A Mesarovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+        wicket:
+          player_out: A Mesarovic
+          fielders:
+          - R Cenik
+          - D Tekyildirim
+          kind: run out
+    - 6.8:
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Nikolic
+        batsman: T Trajkovic
+    - 6.9:
+        non_striker: T Trajkovic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 7.1:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 7.2:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Nikolic
+    - 7.3:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 7.4:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 7.5:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 7.6:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 8.1:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 8.2:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 8.3:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 8.4:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Nikolic
+    - 8.5:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 8.6:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 8.7:
+        non_striker: T Trajkovic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 9.1:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 9.2:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 9.3:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Nikolic
+    - 9.4:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 9.5:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 9.6:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Nikolic
+    - 9.7:
+        non_striker: T Trajkovic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 9.8:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 10.1:
+        non_striker: M Nikolic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 10.2:
+        non_striker: T Trajkovic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 10.3:
+        non_striker: M Nikolic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 10.4:
+        non_striker: M Nikolic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+        wicket:
+          player_out: T Trajkovic
+          kind: bowled
+    - 10.5:
+        non_striker: M Nikolic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matijevic
+    - 10.6:
+        non_striker: S Matijevic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 11.1:
+        non_striker: M Nikolic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matijevic
+    - 11.2:
+        non_striker: S Matijevic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 11.3:
+        non_striker: M Nikolic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matijevic
+    - 11.4:
+        non_striker: M Nikolic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matijevic
+    - 11.5:
+        non_striker: M Nikolic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matijevic
+        wicket:
+          player_out: S Matijevic
+          kind: bowled
+    - 11.6:
+        non_striker: M Nikolic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Demic
+    - 12.1:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Demic
+    - 12.2:
+        non_striker: M Nikolic
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Demic
+    - 12.3:
+        non_striker: D Demic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+        wicket:
+          player_out: M Nikolic
+          kind: bowled
+    - 12.4:
+        non_striker: D Demic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ercegovcevic
+    - 12.5:
+        non_striker: D Demic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ercegovcevic
+    - 12.6:
+        non_striker: D Demic
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ercegovcevic
+    - 13.1:
+        non_striker: B Ercegovcevic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Demic
+    - 13.2:
+        non_striker: B Ercegovcevic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Demic
+    - 13.3:
+        non_striker: D Demic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ercegovcevic
+    - 13.4:
+        non_striker: B Ercegovcevic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Demic
+    - 13.5:
+        non_striker: D Demic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ercegovcevic
+    - 13.6:
+        non_striker: D Demic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ercegovcevic
+        wicket:
+          player_out: B Ercegovcevic
+          kind: lbw
+    - 14.1:
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nojic
+        batsman: D Demic
+    - 14.2:
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Nojic
+        batsman: D Demic
+    - 14.3:
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Nojic
+        batsman: D Demic
+    - 14.4:
+        non_striker: D Demic
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Nojic
+    - 14.5:
+        non_striker: D Demic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nojic
+    - 14.6:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Demic
+    - 14.7:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Demic
+    - 14.8:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Demic
+    - 14.9:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Demic
+        wicket:
+          player_out: D Demic
+          fielders:
+          - S Ozkunduz
+          kind: run out
+    - 15.1:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 15.2:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 15.3:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trajkovi
+    - 15.4:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 15.5:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trajkovi
+    - 15.6:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 15.7:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Trajkovi
+    - 15.8:
+        non_striker: M Trajkovi
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Nojic
+    - 15.9:
+        non_striker: N Nojic
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Trajkovi
+    - 16.1:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 16.2:
+        non_striker: N Nojic
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Trajkovi
+    - 16.3:
+        non_striker: M Trajkovi
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nojic
+    - 16.4:
+        non_striker: M Trajkovi
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nojic
+        wicket:
+          player_out: N Nojic
+          fielders:
+          - H Celik
+          kind: caught
+    - 16.5:
+        non_striker: M Trajkovi
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jevdjenovic
+    - 16.6:
+        non_striker: M Trajkovi
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jevdjenovic
+        wicket:
+          player_out: M Jevdjenovic
+          kind: bowled
+    - 17.1:
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Prokic
+        batsman: M Trajkovi
+    - 17.2:
+        non_striker: M Trajkovi
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Prokic
+    - 17.3:
+        non_striker: M Trajkovi
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Prokic
+    - 17.4:
+        non_striker: E Prokic
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trajkovi
+    - 17.5:
+        non_striker: E Prokic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Trajkovi
+    - 17.6:
+        non_striker: M Trajkovi
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Prokic
+    - 17.7:
+        non_striker: E Prokic
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trajkovi
+    - 18.1:
+        non_striker: M Trajkovi
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Prokic
+    - 18.2:
+        non_striker: M Trajkovi
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Prokic
+    - 18.3:
+        non_striker: M Trajkovi
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Prokic
+    - 18.4:
+        non_striker: M Trajkovi
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Prokic
+    - 18.5:
+        non_striker: M Trajkovi
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Prokic
+        wicket:
+          player_out: M Trajkovi
+          fielders:
+          - R Cenik
+          - S Ozkunduz
+          kind: run out

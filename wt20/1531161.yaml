@@ -1,0 +1,1677 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2026-04-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2741
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - IM Vaghela
+  players:
+    Nepal:
+    - Samjhana Khadka
+    - B Rawal
+    - Puja Mahato
+    - R Poddar
+    - K Joshi
+    - I Barma
+    - K Kunwar
+    - M Upadhayay
+    - Roma Thapa
+    - S Bist
+    - Riya Sharma
+    United States of America:
+    - S Kambalapalli
+    - CR Pagydyala
+    - IM Vaghela
+    - Pooja Ganesh
+    - GC Bhogle
+    - L Shetty
+    - Maahi Madhavan
+    - JL Aras
+    - RP Singh
+    - AI Chudasama
+    - T Chopra
+  registry:
+    people:
+      AI Chudasama: 9414a81c
+      B Rawal: 4d1cc284
+      CR Pagydyala: d7c02672
+      D Odhiambo: '45994517'
+      F Mutizwa: d3e83eef
+      GC Bhogle: a1965ce2
+      I Barma: 521abce2
+      IM Vaghela: 8d62fc14
+      J Chibhabha: 4c5c47a4
+      JL Aras: e21475a5
+      K Joshi: 0cd297b9
+      K Kunwar: 97e6e41a
+      L Rusere: 6a4734ae
+      L Shetty: f0a0ed1d
+      M Upadhayay: cdda92be
+      Maahi Madhavan: c6002ece
+      Pooja Ganesh: a186b627
+      Puja Mahato: 4b95058b
+      R Poddar: 4e38a3d6
+      RP Singh: 0ab3c788
+      Riya Sharma: 8b7cda26
+      Roma Thapa: 05d9faac
+      S Bist: ec05df4e
+      S Kambalapalli: 4fd4cef9
+      Samjhana Khadka: 765a2354
+      T Chopra: 73df1fe8
+  teams:
+  - Nepal
+  - United States of America
+  toss:
+    winner: Nepal
+    decision: bat
+  umpires:
+  - F Mutizwa
+  - L Rusere
+  venue: Gahanga B Ground, Rwanda
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        non_striker: B Rawal
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+        wicket:
+          player_out: Samjhana Khadka
+          fielders:
+          - RP Singh
+          kind: caught
+    - 0.2:
+        non_striker: B Rawal
+        bowler: Maahi Madhavan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Puja Mahato
+    - 0.3:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.4:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 0.5:
+        non_striker: B Rawal
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 0.6:
+        non_striker: B Rawal
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 1.1:
+        non_striker: Puja Mahato
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 1.2:
+        non_striker: Puja Mahato
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 1.3:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 1.4:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 1.5:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 1.6:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 2.1:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.2:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.3:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.4:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.5:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.6:
+        non_striker: Puja Mahato
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 3.1:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.2:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.3:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 3.4:
+        non_striker: Puja Mahato
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 3.5:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.6:
+        non_striker: B Rawal
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 4.1:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 4.2:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 4.3:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 4.4:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+        wicket:
+          player_out: B Rawal
+          fielders:
+          - T Chopra
+          kind: caught
+    - 4.5:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 4.6:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 5.1:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 5.2:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 5.3:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 5.4:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 5.5:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Poddar
+    - 5.6:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 5.7:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 6.1:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 6.2:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 6.3:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 6.4:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 6.5:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 6.6:
+        non_striker: Puja Mahato
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 7.1:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 7.2:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 7.3:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 7.4:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 7.5:
+        non_striker: R Poddar
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 7.6:
+        non_striker: Puja Mahato
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 8.1:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 8.2:
+        non_striker: Puja Mahato
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 8.3:
+        non_striker: Puja Mahato
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 8.4:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 8.5:
+        non_striker: Puja Mahato
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 8.6:
+        non_striker: Puja Mahato
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 9.1:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.2:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.3:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.4:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puja Mahato
+    - 9.5:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.6:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+        wicket:
+          player_out: Puja Mahato
+          fielders:
+          - T Chopra
+          kind: caught
+    - 10.1:
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Joshi
+        batsman: R Poddar
+    - 10.2:
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Joshi
+        batsman: R Poddar
+    - 10.3:
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Joshi
+        batsman: R Poddar
+    - 10.4:
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Joshi
+        batsman: R Poddar
+    - 10.5:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 10.6:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 11.1:
+        non_striker: K Joshi
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Poddar
+    - 11.2:
+        non_striker: K Joshi
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 11.3:
+        non_striker: K Joshi
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 11.4:
+        non_striker: K Joshi
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 11.5:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Joshi
+    - 11.6:
+        non_striker: K Joshi
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 12.1:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+        wicket:
+          player_out: K Joshi
+          fielders:
+          - Maahi Madhavan
+          kind: caught
+    - 12.2:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 12.3:
+        non_striker: I Barma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 12.4:
+        non_striker: I Barma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 12.5:
+        non_striker: I Barma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Poddar
+    - 12.6:
+        non_striker: I Barma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Poddar
+    - 13.1:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 13.2:
+        non_striker: I Barma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 13.3:
+        non_striker: I Barma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 13.4:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 13.5:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 13.6:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 14.1:
+        non_striker: I Barma
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 14.2:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 14.3:
+        non_striker: I Barma
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 14.4:
+        non_striker: I Barma
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 14.5:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 14.6:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 15.1:
+        non_striker: I Barma
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 15.2:
+        non_striker: I Barma
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 15.3:
+        non_striker: I Barma
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 15.4:
+        non_striker: R Poddar
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 15.5:
+        non_striker: I Barma
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 15.6:
+        non_striker: I Barma
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 16.1:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+        wicket:
+          player_out: I Barma
+          kind: lbw
+    - 16.2:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 16.3:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 16.4:
+        non_striker: R Poddar
+        bowler: S Kambalapalli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Kunwar
+    - 16.5:
+        non_striker: K Kunwar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poddar
+    - 16.6:
+        non_striker: K Kunwar
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 17.1:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 17.2:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 17.3:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 17.4:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+        wicket:
+          player_out: K Kunwar
+          fielders:
+          - CR Pagydyala
+          kind: caught
+    - 17.5:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Upadhayay
+    - 17.6:
+        non_striker: R Poddar
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Upadhayay
+    - 18.1:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Upadhayay
+    - 18.2:
+        non_striker: M Upadhayay
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Poddar
+    - 18.3:
+        non_striker: M Upadhayay
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 18.4:
+        non_striker: R Poddar
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Upadhayay
+    - 18.5:
+        non_striker: M Upadhayay
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Poddar
+    - 18.6:
+        non_striker: M Upadhayay
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 19.1:
+        non_striker: M Upadhayay
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 19.2:
+        non_striker: M Upadhayay
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 19.3:
+        non_striker: M Upadhayay
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Poddar
+    - 19.4:
+        non_striker: M Upadhayay
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+    - 19.5:
+        non_striker: R Poddar
+        bowler: RP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Upadhayay
+    - 19.6:
+        non_striker: M Upadhayay
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poddar
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.2:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.3:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.4:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.5:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.6:
+        non_striker: CR Pagydyala
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 1.1:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.2:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.3:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.4:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 1.5:
+        non_striker: CR Pagydyala
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 1.6:
+        non_striker: CR Pagydyala
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kambalapalli
+    - 2.1:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.2:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.3:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+        wicket:
+          player_out: CR Pagydyala
+          fielders:
+          - Riya Sharma
+          kind: caught
+    - 2.4:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.5:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.6:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 3.1:
+        non_striker: IM Vaghela
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kambalapalli
+    - 3.2:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 3.3:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 3.4:
+        non_striker: S Kambalapalli
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 3.5:
+        non_striker: IM Vaghela
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kambalapalli
+    - 3.6:
+        non_striker: IM Vaghela
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 4.1:
+        non_striker: S Kambalapalli
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 4.2:
+        non_striker: IM Vaghela
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kambalapalli
+    - 4.3:
+        non_striker: IM Vaghela
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 4.4:
+        non_striker: IM Vaghela
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 4.5:
+        non_striker: IM Vaghela
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kambalapalli
+    - 4.6:
+        non_striker: IM Vaghela
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+    - 5.1:
+        non_striker: S Kambalapalli
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 5.2:
+        non_striker: S Kambalapalli
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 5.3:
+        non_striker: S Kambalapalli
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 5.4:
+        non_striker: IM Vaghela
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+        wicket:
+          player_out: S Kambalapalli
+          fielders:
+          - I Barma
+          kind: caught
+    - 5.5:
+        non_striker: IM Vaghela
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 5.6:
+        non_striker: IM Vaghela
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 6.1:
+        non_striker: Pooja Ganesh
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 6.2:
+        non_striker: Pooja Ganesh
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 6.3:
+        non_striker: Pooja Ganesh
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 6.4:
+        non_striker: IM Vaghela
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 6.5:
+        non_striker: IM Vaghela
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 6.6:
+        non_striker: IM Vaghela
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 7.1:
+        non_striker: Pooja Ganesh
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 7.2:
+        non_striker: Pooja Ganesh
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 7.3:
+        non_striker: Pooja Ganesh
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 7.4:
+        non_striker: Pooja Ganesh
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 7.5:
+        non_striker: Pooja Ganesh
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 7.6:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 8.1:
+        non_striker: Pooja Ganesh
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 8.2:
+        non_striker: Pooja Ganesh
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 8.3:
+        non_striker: Pooja Ganesh
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 8.4:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 8.5:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+        wicket:
+          player_out: Pooja Ganesh
+          fielders:
+          - Roma Thapa
+          kind: caught
+    - 8.6:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 9.1:
+        non_striker: GC Bhogle
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 9.2:
+        non_striker: GC Bhogle
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 9.3:
+        non_striker: GC Bhogle
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 9.4:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 9.5:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 9.6:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 10.1:
+        non_striker: GC Bhogle
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 10.2:
+        non_striker: GC Bhogle
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 10.3:
+        non_striker: GC Bhogle
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 10.4:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 10.5:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 10.6:
+        non_striker: IM Vaghela
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 11.1:
+        non_striker: GC Bhogle
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IM Vaghela
+    - 11.2:
+        non_striker: GC Bhogle
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 11.3:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 11.4:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 11.5:
+        non_striker: IM Vaghela
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle

@@ -1,0 +1,2214 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-05-28'
+  gender: female
+  match_type: T20
+  match_type_number: 2781
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - I Barma
+  players:
+    Indonesia:
+    - RD Pangestuti
+    - K Winda Prastini
+    - NLKWR Dewi
+    - NPAN Sakarini
+    - NMP Suwandewi
+    - NKF Rada Rani
+    - D Wulandari
+    - KS Kasse
+    - SAN Maypriani
+    - NK Ariani
+    - DAL Paramitha
+    Nepal:
+    - Samjhana Khadka
+    - Puja Mahato
+    - S Pakhrin
+    - R Poddar
+    - I Barma
+    - K Kunwar
+    - RC Belbashi
+    - SR Magar
+    - Riya Sharma
+    - M Upadhayay
+    - Seemana KC
+  registry:
+    people:
+      AS Guha: c21b184d
+      D Wulandari: 8c0d904e
+      DAL Paramitha: 84f831c3
+      Humaira Farah: 6b6d6623
+      I Barma: 521abce2
+      K Kunwar: 97e6e41a
+      K Winda Prastini: bd6f7c24
+      KS Kasse: 007a3773
+      M Upadhayay: cdda92be
+      NK Ariani: 382377a4
+      NKF Rada Rani: 39f4084c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      Puja Mahato: 4b95058b
+      R Poddar: 4e38a3d6
+      RC Belbashi: dfdaca74
+      RD Pangestuti: 63fc4b92
+      Riya Sharma: 8b7cda26
+      Rokeya Sultana: 20abf9b9
+      S Pakhrin: '18377910'
+      SAN Maypriani: ad135bde
+      SR Magar: 61c22ad0
+      Samjhana Khadka: 765a2354
+      Seemana KC: 927d0471
+      VR Nagre: fadaac76
+  teams:
+  - Indonesia
+  - Nepal
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - AS Guha
+  - Humaira Farah
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Winda Prastini
+        batsman: RD Pangestuti
+    - 0.2:
+        non_striker: K Winda Prastini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Pangestuti
+        wicket:
+          player_out: K Winda Prastini
+          fielders:
+          - K Kunwar
+          kind: run out
+    - 0.3:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NLKWR Dewi
+        batsman: RD Pangestuti
+    - 0.4:
+        non_striker: RD Pangestuti
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 0.5:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Pangestuti
+    - 0.6:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Pangestuti
+        wicket:
+          player_out: RD Pangestuti
+          kind: bowled
+    - 1.1:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NPAN Sakarini
+        batsman: NLKWR Dewi
+    - 1.2:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NPAN Sakarini
+        batsman: NLKWR Dewi
+    - 1.3:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NPAN Sakarini
+        batsman: NLKWR Dewi
+    - 1.4:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NPAN Sakarini
+        batsman: NLKWR Dewi
+    - 1.5:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NPAN Sakarini
+        batsman: NLKWR Dewi
+    - 1.6:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 2.1:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.2:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.3:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 2.4:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.5:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 2.6:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 3.1:
+        non_striker: NLKWR Dewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 3.2:
+        non_striker: NLKWR Dewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 3.3:
+        non_striker: NLKWR Dewi
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NPAN Sakarini
+    - 3.4:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 3.5:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 3.6:
+        non_striker: NLKWR Dewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 4.1:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.2:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.3:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.4:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 4.5:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.6:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.1:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.2:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 5.3:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.4:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 5.5:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 5.6:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.7:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 6.1:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 6.2:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 6.3:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 6.4:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 6.5:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 6.6:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 7.1:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.2:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.3:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 7.4:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 7.5:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.6:
+        non_striker: NLKWR Dewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 8.1:
+        non_striker: NLKWR Dewi
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 8.2:
+        non_striker: NLKWR Dewi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 8.3:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLKWR Dewi
+    - 8.4:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 8.5:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 8.6:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 8.7:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 8.8:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NLKWR Dewi
+    - 9.1:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 9.2:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 9.3:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 9.4:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 9.5:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 9.6:
+        non_striker: NLKWR Dewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 9.7:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 9.8:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 10.1:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 10.2:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 10.3:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 10.4:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 10.5:
+        non_striker: NPAN Sakarini
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 10.6:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 10.7:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 10.8:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 10.9:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 10.10:
+        non_striker: NLKWR Dewi
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 11.1:
+        non_striker: NLKWR Dewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 11.2:
+        non_striker: NLKWR Dewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 11.3:
+        non_striker: NLKWR Dewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 11.4:
+        non_striker: NPAN Sakarini
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 11.5:
+        non_striker: NLKWR Dewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 11.6:
+        non_striker: NPAN Sakarini
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 12.1:
+        non_striker: NLKWR Dewi
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 12.2:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 12.3:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 12.4:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+        wicket:
+          player_out: NLKWR Dewi
+          kind: lbw
+    - 12.5:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 12.6:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 12.7:
+        non_striker: NPAN Sakarini
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 13.1:
+        non_striker: NMP Suwandewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.2:
+        non_striker: NPAN Sakarini
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NMP Suwandewi
+    - 13.3:
+        non_striker: NMP Suwandewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 13.4:
+        non_striker: NMP Suwandewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.5:
+        non_striker: NPAN Sakarini
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NMP Suwandewi
+    - 13.6:
+        non_striker: NMP Suwandewi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.1:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NMP Suwandewi
+    - 14.2:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NMP Suwandewi
+    - 14.3:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NMP Suwandewi
+    - 14.4:
+        non_striker: NMP Suwandewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.5:
+        non_striker: NMP Suwandewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.6:
+        non_striker: NMP Suwandewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.7:
+        non_striker: NMP Suwandewi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.1:
+        non_striker: NMP Suwandewi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 15.2:
+        non_striker: NMP Suwandewi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.3:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NMP Suwandewi
+    - 15.4:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NMP Suwandewi
+    - 15.5:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NMP Suwandewi
+    - 15.6:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NMP Suwandewi
+    - 15.7:
+        non_striker: NMP Suwandewi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.8:
+        non_striker: NPAN Sakarini
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 16.1:
+        non_striker: NMP Suwandewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 16.2:
+        non_striker: NMP Suwandewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 16.3:
+        non_striker: NMP Suwandewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 16.4:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 16.5:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 16.6:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NMP Suwandewi
+    - 17.1:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 17.2:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 17.3:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 17.4:
+        non_striker: NPAN Sakarini
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NMP Suwandewi
+    - 17.5:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 17.6:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 17.7:
+        non_striker: NMP Suwandewi
+        bowler: Seemana KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 18.1:
+        non_striker: NMP Suwandewi
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 18.2:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 18.3:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+    - 18.4:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+        wicket:
+          player_out: NMP Suwandewi
+          fielders:
+          - Samjhana Khadka
+          kind: caught
+    - 18.5:
+        non_striker: NPAN Sakarini
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 18.6:
+        non_striker: NKF Rada Rani
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 19.1:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 19.2:
+        non_striker: NKF Rada Rani
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 19.3:
+        non_striker: NPAN Sakarini
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 19.4:
+        non_striker: NKF Rada Rani
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 19.5:
+        non_striker: NKF Rada Rani
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 19.6:
+        non_striker: NKF Rada Rani
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 19.7:
+        non_striker: NKF Rada Rani
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Puja Mahato
+        batsman: Samjhana Khadka
+    - 0.2:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 0.3:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 0.4:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato
+    - 0.5:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 0.6:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 0.7:
+        non_striker: Samjhana Khadka
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 1.1:
+        non_striker: Puja Mahato
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+    - 1.2:
+        non_striker: Puja Mahato
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 1.3:
+        non_striker: Samjhana Khadka
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 1.4:
+        non_striker: Puja Mahato
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+        wicket:
+          player_out: Samjhana Khadka
+          kind: lbw
+    - 1.5:
+        non_striker: Puja Mahato
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 1.6:
+        non_striker: Puja Mahato
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pakhrin
+    - 2.1:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 2.2:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 2.3:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 2.4:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato
+    - 2.5:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+        wicket:
+          player_out: Puja Mahato
+          kind: bowled
+    - 2.6:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+    - 3.1:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 3.2:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pakhrin
+    - 3.3:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 3.4:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 3.5:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pakhrin
+    - 3.6:
+        non_striker: R Poddar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 4.1:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poddar
+        wicket:
+          player_out: R Poddar
+          kind: lbw
+    - 4.2:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 4.3:
+        non_striker: I Barma
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 4.4:
+        non_striker: I Barma
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 4.5:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 4.6:
+        non_striker: S Pakhrin
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 5.1:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 5.2:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pakhrin
+    - 5.3:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pakhrin
+    - 5.4:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 5.5:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 5.6:
+        non_striker: I Barma
+        bowler: RD Pangestuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 6.1:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 6.2:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 6.3:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 6.4:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Barma
+    - 6.5:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 6.6:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 7.1:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 7.2:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 7.3:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 7.4:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 7.5:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 7.6:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 8.1:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 8.2:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 8.3:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 8.4:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 8.5:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 8.6:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 9.1:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 9.2:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 9.3:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 9.4:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 9.5:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 9.6:
+        non_striker: S Pakhrin
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 10.1:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 10.2:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pakhrin
+    - 10.3:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 10.4:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 10.5:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 10.6:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 10.7:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.1:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 11.2:
+        non_striker: S Pakhrin
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.3:
+        non_striker: S Pakhrin
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.4:
+        non_striker: S Pakhrin
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 11.5:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 11.6:
+        non_striker: S Pakhrin
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 12.1:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 12.2:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 12.3:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+    - 12.4:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pakhrin
+    - 12.5:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Barma
+    - 12.6:
+        non_striker: S Pakhrin
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 12.7:
+        non_striker: I Barma
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pakhrin
+        wicket:
+          player_out: S Pakhrin
+          fielders:
+          - KS Kasse
+          kind: caught
+    - 13.1:
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kunwar
+        batsman: I Barma
+    - 13.2:
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kunwar
+        batsman: I Barma
+    - 13.3:
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kunwar
+        batsman: I Barma
+    - 13.4:
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Kunwar
+        batsman: I Barma
+    - 13.5:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 13.6:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 14.1:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 14.2:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 14.3:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 14.4:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kunwar
+    - 14.5:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 14.6:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 15.1:
+        non_striker: K Kunwar
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 15.2:
+        non_striker: K Kunwar
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 15.3:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kunwar
+    - 15.4:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 15.5:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 15.6:
+        non_striker: K Kunwar
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 16.1:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 16.2:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 16.3:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 16.4:
+        non_striker: K Kunwar
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 16.5:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 16.6:
+        non_striker: I Barma
+        bowler: NKF Rada Rani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 17.1:
+        non_striker: I Barma
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 17.2:
+        non_striker: K Kunwar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Barma
+    - 17.3:
+        non_striker: K Kunwar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 17.4:
+        non_striker: K Kunwar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 17.5:
+        non_striker: K Kunwar
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Barma
+    - 17.6:
+        non_striker: I Barma
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 18.1:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+        wicket:
+          player_out: K Kunwar
+          fielders:
+          - NLKWR Dewi
+          kind: caught
+    - 18.2:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+        wicket:
+          player_out: RC Belbashi
+          fielders:
+          - DAL Paramitha
+          kind: caught
+    - 18.3:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 18.4:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar
+    - 18.5:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar
+    - 18.6:
+        non_striker: I Barma
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 19.1:
+        non_striker: I Barma
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SR Magar
+    - 19.2:
+        non_striker: SR Magar
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 19.3:
+        non_striker: I Barma
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar

@@ -1,0 +1,1010 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2420
+  outcome:
+    winner: Rwanda
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Rosine Irera
+  players:
+    Cameroon:
+    - MLN Sissako
+    - JAN Ngono
+    - BMA Mbida
+    - ME Bessala
+    - CSN Mbelel
+    - EGS Kana
+    - B Waluma
+    - E Guehoada
+    - O Ranedoumoun
+    - MFD Douma
+    - NB Diom
+    Rwanda:
+    - MD Bimenyimana
+    - G Ingabire
+    - G Ishimwe
+    - Geovanis Uwase
+    - H Ishimwe
+    - S Uwera
+    - A Ikuzwe
+    - B Murekatete
+    - C Uwase
+    - Rosine Irera
+    - Sylvia Usabyimana
+  registry:
+    people:
+      A Ikuzwe: 6762a445
+      B Murekatete: 2d4317da
+      B Waluma: fb56dda6
+      BMA Mbida: e3c23cef
+      C Uwase: 808bb510
+      CSN Mbelel: 1669ba8a
+      E Guehoada: 8c03f3b8
+      EGS Kana: 8a91d0f1
+      G Ingabire: 2c00691c
+      G Ishimwe: b5ae57ee
+      Geovanis Uwase: '088f22fd'
+      H Ishimwe: ffa296f7
+      J Chibhabha: 4c5c47a4
+      JAN Ngono: 0bc162c4
+      Lauren Agenbag: 40849abd
+      MD Bimenyimana: c1a0cebe
+      ME Bessala: a8301fdc
+      MFD Douma: 88bcd8da
+      MLN Sissako: 52a0e81d
+      NB Diom: f7b100e8
+      O Ranedoumoun: 71ee8c8d
+      Patric Makumbi: e4c69c16
+      Rosine Irera: b84718fd
+      S Uwera: 1ef174b8
+      Sylvia Usabyimana: 7a7e2be6
+      VR Angara: 5b7b706f
+  teams:
+  - Cameroon
+  - Rwanda
+  toss:
+    winner: Cameroon
+    decision: bat
+  umpires:
+  - Lauren Agenbag
+  - VR Angara
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Cameroon
+    deliveries:
+    - 0.1:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.2:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.3:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.4:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 0.5:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 0.6:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+        wicket:
+          player_out: JAN Ngono
+          fielders:
+          - S Uwera
+          kind: caught
+    - 1.1:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.2:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.3:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.4:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.5:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.6:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.7:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.8:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 1.9:
+        non_striker: BMA Mbida
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 2.1:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.2:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.3:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.4:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.5:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.6:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 3.1:
+        non_striker: BMA Mbida
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 3.2:
+        non_striker: BMA Mbida
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 3.3:
+        non_striker: BMA Mbida
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 3.4:
+        non_striker: MLN Sissako
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 3.5:
+        non_striker: MLN Sissako
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 3.6:
+        non_striker: MLN Sissako
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 3.7:
+        non_striker: MLN Sissako
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 4.1:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 4.2:
+        non_striker: BMA Mbida
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 4.3:
+        non_striker: BMA Mbida
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 4.4:
+        non_striker: BMA Mbida
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 4.5:
+        non_striker: BMA Mbida
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 4.6:
+        non_striker: MLN Sissako
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+        wicket:
+          player_out: BMA Mbida
+          fielders:
+          - MD Bimenyimana
+          kind: caught
+    - 5.1:
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ME Bessala
+        batsman: MLN Sissako
+    - 5.2:
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ME Bessala
+        batsman: MLN Sissako
+    - 5.3:
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ME Bessala
+        batsman: MLN Sissako
+    - 5.4:
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ME Bessala
+        batsman: MLN Sissako
+    - 5.5:
+        non_striker: MLN Sissako
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 5.6:
+        non_striker: MLN Sissako
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 6.1:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.2:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.3:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.4:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.5:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.6:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 7.1:
+        non_striker: ME Bessala
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 7.2:
+        non_striker: ME Bessala
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+        wicket:
+          player_out: MLN Sissako
+          kind: bowled
+    - 7.3:
+        non_striker: ME Bessala
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.4:
+        non_striker: ME Bessala
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 7.5:
+        non_striker: CSN Mbelel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 7.6:
+        non_striker: CSN Mbelel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 8.1:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 8.2:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 8.3:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 8.4:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+        wicket:
+          player_out: CSN Mbelel
+          kind: bowled
+    - 8.5:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 8.6:
+        non_striker: ME Bessala
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+        wicket:
+          player_out: EGS Kana
+          kind: bowled
+    - 9.1:
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Waluma
+        batsman: ME Bessala
+    - 9.2:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+        wicket:
+          player_out: ME Bessala
+          fielders:
+          - MD Bimenyimana
+          kind: caught
+    - 9.3:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 9.4:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 9.5:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Guehoada
+    - 9.6:
+        non_striker: E Guehoada
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 10.1:
+        non_striker: B Waluma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 10.2:
+        non_striker: B Waluma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 10.3:
+        non_striker: E Guehoada
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 10.4:
+        non_striker: E Guehoada
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 10.5:
+        non_striker: E Guehoada
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: E Guehoada
+          fielders:
+          - A Ikuzwe
+          kind: run out
+    - 10.6:
+        non_striker: B Waluma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Ranedoumoun
+        wicket:
+          player_out: O Ranedoumoun
+          kind: bowled
+    - 11.1:
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MFD Douma
+        batsman: B Waluma
+    - 11.2:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 11.3:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 11.4:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 11.5:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 11.6:
+        non_striker: B Waluma
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 12.1:
+        non_striker: MFD Douma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 12.2:
+        non_striker: MFD Douma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: MFD Douma
+          fielders:
+          - MD Bimenyimana
+          kind: run out
+    - 12.3:
+        non_striker: B Waluma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Diom
+    - 12.4:
+        non_striker: B Waluma
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Diom
+    - 12.5:
+        non_striker: NB Diom
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 12.6:
+        non_striker: NB Diom
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 13.1:
+        non_striker: B Waluma
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Diom
+        wicket:
+          player_out: NB Diom
+          kind: bowled
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ingabire
+        batsman: MD Bimenyimana
+    - 0.2:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Ingabire
+        batsman: MD Bimenyimana
+    - 0.3:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 0.4:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 0.5:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ingabire
+    - 0.6:
+        non_striker: G Ingabire
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.1:
+        non_striker: MD Bimenyimana
+        bowler: MFD Douma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: G Ingabire
+    - 1.2:
+        non_striker: MD Bimenyimana
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 1.3:
+        non_striker: MD Bimenyimana
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ingabire
+    - 1.4:
+        non_striker: MD Bimenyimana
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 1.5:
+        non_striker: MD Bimenyimana
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ingabire
+    - 1.6:
+        non_striker: G Ingabire
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 2.1:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 2.2:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ingabire
+    - 2.3:
+        non_striker: G Ingabire
+        bowler: O Ranedoumoun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 2.4:
+        non_striker: G Ingabire
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 2.5:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 2.6:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 2.7:
+        non_striker: MD Bimenyimana
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ingabire
+    - 3.1:
+        non_striker: G Ingabire
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 3.2:
+        non_striker: MD Bimenyimana
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 3.3:
+        non_striker: MD Bimenyimana
+        bowler: E Guehoada
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Ingabire
+    - 3.4:
+        non_striker: G Ingabire
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 3.5:
+        non_striker: MD Bimenyimana
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 3.6:
+        non_striker: MD Bimenyimana
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ingabire

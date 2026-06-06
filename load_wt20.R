@@ -72,3 +72,19 @@ if (nrow(violations) == 0) {
   cat("\nSanity check FAILED: innings exceeding 120 legal deliveries:\n")
   print(violations)
 }
+
+#We want to add two functions; one to split game by game, one to split over by over
+#Static data (same throughout the game)
+# match_id, Date, Venue, City, match_type, Gender, Team_1, Team_2, Toss_winner, Toss_decision
+# Winner, Win_by_runs, Win_by_wickets, Player_of_match
+
+#test dataframe delete later
+test_df <- data.frame(
+  match_id  <- c("1","1","1","2","2","2","3","3","3"),
+
+)
+
+game_split <- function(data) {
+  games <- split(data, data$match_id)
+  return (games)
+}

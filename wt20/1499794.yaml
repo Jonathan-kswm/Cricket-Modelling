@@ -1,0 +1,2222 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2501
+  outcome:
+    winner: Vanuatu
+    by:
+      runs: 89
+  overs: 20
+  player_of_match:
+  - V Mansale
+  players:
+    Vanuatu:
+    - R Andrew
+    - V Langiatu
+    - S Solman
+    - N Navaika
+    - S Stephen
+    - A Chilia
+    - V Mansale
+    - R Ova
+    - V Vira
+    - M Tarimiala
+    - G Chilia
+    Fiji:
+    - S Lomani
+    - S Sigaiwasa
+    - S Vuni
+    - T Saville
+    - MT Waqanisau
+    - S Kijiana
+    - I Waqavakatoga
+    - M Biu
+    - KM Amoe
+    - MSC Erasito
+    - AK Gonerara
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      AK Gonerara: 141ee9a0
+      Adam Birss: 0cabf6f4
+      C Black: 75b42f71
+      G Chilia: daf255ce
+      H Atai: 0460d756
+      I Waqavakatoga: 31d220f5
+      KM Amoe: e21ca3a8
+      M Biu: c386183b
+      M Tarimiala: 0030a57d
+      MSC Erasito: ce02e769
+      MT Waqanisau: dc86b56a
+      N Navaika: b0023708
+      R Andrew: 66c1accf
+      R Ova: 88bba252
+      S Kijiana: ed1f0ef2
+      S Lomani: b85ac5bb
+      S Sigaiwasa: b1414505
+      S Solman: 24ed1f75
+      S Stephen: b48304b5
+      S Vuni: 951e08f0
+      T Saville: 2ef9bdcb
+      TL Anderson: f52ddf8d
+      V Langiatu: fdd18ca0
+      V Mansale: 7163637f
+      V Vira: '94271647'
+  teams:
+  - Vanuatu
+  - Fiji
+  toss:
+    winner: Vanuatu
+    decision: bat
+  umpires:
+  - Adam Birss
+  - C Black
+  venue: Albert Park 1, Suva
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.2:
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.3:
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.4:
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.5:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 0.6:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 0.7:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 0.8:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 1.1:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 1.2:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 1.3:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 1.4:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 1.5:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.6:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.7:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 2.1:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.2:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 2.3:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 2.4:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.5:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.6:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 2.7:
+        non_striker: V Langiatu
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 2.8:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 3.1:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.2:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.3:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 3.4:
+        non_striker: V Langiatu
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 3.5:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 3.6:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 3.7:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 3.8:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 3.9:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 4.1:
+        non_striker: V Langiatu
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 4.2:
+        non_striker: V Langiatu
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.3:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 4.4:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 4.5:
+        non_striker: R Andrew
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 4.6:
+        non_striker: V Langiatu
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 5.1:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 5.2:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 5.3:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 5.4:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 5.5:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Langiatu
+    - 5.6:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 5.7:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.1:
+        non_striker: V Langiatu
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.2:
+        non_striker: R Andrew
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 6.3:
+        non_striker: R Andrew
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 6.4:
+        non_striker: R Andrew
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: V Langiatu
+    - 6.5:
+        non_striker: V Langiatu
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.6:
+        non_striker: R Andrew
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 6.7:
+        non_striker: R Andrew
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 6.8:
+        non_striker: V Langiatu
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.1:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 7.2:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 7.3:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.4:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.5:
+        non_striker: R Andrew
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 7.6:
+        non_striker: V Langiatu
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.1:
+        non_striker: V Langiatu
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.2:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 8.3:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 8.4:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          fielders:
+          - S Lomani
+          kind: caught
+    - 8.5:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 8.6:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 8.7:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.1:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.2:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.3:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.4:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 9.5:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Solman
+    - 9.6:
+        non_striker: R Andrew
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 9.7:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.1:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.2:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 10.3:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.4:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 10.5:
+        non_striker: R Andrew
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 10.6:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 10.7:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 11.1:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Andrew
+    - 11.2:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 11.3:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 11.4:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 11.5:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+        wicket:
+          player_out: R Andrew
+          fielders:
+          - T Saville
+          kind: caught
+    - 11.6:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.7:
+        non_striker: S Solman
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.1:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 12.2:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.3:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.4:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.5:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 12.6:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Solman
+    - 12.7:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 13.1:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 13.2:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 13.3:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 13.4:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 13.5:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 13.6:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 14.1:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 14.2:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 14.3:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 14.4:
+        non_striker: S Solman
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 14.5:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Solman
+    - 14.6:
+        non_striker: N Navaika
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: S Solman
+    - 15.1:
+        non_striker: N Navaika
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 15.2:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 15.3:
+        non_striker: N Navaika
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 15.4:
+        non_striker: S Solman
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 15.5:
+        non_striker: N Navaika
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 15.6:
+        non_striker: N Navaika
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 16.1:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 16.2:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 16.3:
+        non_striker: N Navaika
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 16.4:
+        non_striker: N Navaika
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 16.5:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 16.6:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 17.1:
+        non_striker: N Navaika
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 17.2:
+        non_striker: S Solman
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 17.3:
+        non_striker: N Navaika
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 17.4:
+        non_striker: N Navaika
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 17.5:
+        non_striker: S Solman
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 17.6:
+        non_striker: S Solman
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: N Navaika
+          fielders:
+          - T Saville
+          kind: caught
+    - 18.1:
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Stephen
+        batsman: S Solman
+    - 18.2:
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Stephen
+        batsman: S Solman
+    - 18.3:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 18.4:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 18.5:
+        non_striker: S Stephen
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 18.6:
+        non_striker: S Solman
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 19.1:
+        non_striker: S Solman
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 19.2:
+        non_striker: S Stephen
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 19.3:
+        non_striker: S Stephen
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Solman
+    - 19.4:
+        non_striker: S Stephen
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Solman
+    - 19.5:
+        non_striker: S Stephen
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 19.6:
+        non_striker: S Stephen
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+- 2nd innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sigaiwasa
+        batsman: S Lomani
+    - 0.2:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sigaiwasa
+        batsman: S Lomani
+    - 0.3:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sigaiwasa
+        batsman: S Lomani
+    - 0.4:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sigaiwasa
+        batsman: S Lomani
+    - 0.5:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sigaiwasa
+        batsman: S Lomani
+    - 0.6:
+        non_striker: S Lomani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 1.1:
+        non_striker: S Sigaiwasa
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.2:
+        non_striker: S Sigaiwasa
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.3:
+        non_striker: S Sigaiwasa
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.4:
+        non_striker: S Sigaiwasa
+        bowler: V Vira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Lomani
+    - 1.5:
+        non_striker: S Lomani
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 1.6:
+        non_striker: S Lomani
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 2.1:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 2.2:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Lomani
+    - 2.3:
+        non_striker: S Lomani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Lomani
+          fielders:
+          - N Navaika
+          - M Tarimiala
+          kind: run out
+    - 2.4:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 2.5:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Vuni
+    - 2.6:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 2.7:
+        non_striker: S Sigaiwasa
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 3.1:
+        non_striker: S Vuni
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.2:
+        non_striker: S Vuni
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.3:
+        non_striker: S Vuni
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.4:
+        non_striker: S Vuni
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.5:
+        non_striker: S Vuni
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Vuni
+          fielders:
+          - R Ova
+          - M Tarimiala
+          kind: run out
+    - 3.6:
+        non_striker: S Sigaiwasa
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 4.1:
+        non_striker: T Saville
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.2:
+        non_striker: T Saville
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 4.3:
+        non_striker: S Sigaiwasa
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 4.4:
+        non_striker: S Sigaiwasa
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 4.5:
+        non_striker: S Sigaiwasa
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 4.6:
+        non_striker: T Saville
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 5.1:
+        non_striker: T Saville
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sigaiwasa
+    - 5.2:
+        non_striker: T Saville
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 5.3:
+        non_striker: T Saville
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 5.4:
+        non_striker: T Saville
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 5.5:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+        wicket:
+          player_out: T Saville
+          kind: bowled
+    - 5.6:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 6.1:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.2:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.3:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.4:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.5:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.6:
+        non_striker: MT Waqanisau
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 7.1:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 7.2:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 7.3:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 7.4:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 7.5:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 7.6:
+        non_striker: S Sigaiwasa
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 8.1:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sigaiwasa
+    - 8.2:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 8.3:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 8.4:
+        non_striker: S Sigaiwasa
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 8.5:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Sigaiwasa
+          kind: bowled
+    - 8.6:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 8.7:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+    - 9.1:
+        non_striker: MT Waqanisau
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+    - 9.2:
+        non_striker: S Kijiana
+        bowler: R Ova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 9.3:
+        non_striker: S Kijiana
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 9.4:
+        non_striker: S Kijiana
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 9.5:
+        non_striker: S Kijiana
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 9.6:
+        non_striker: MT Waqanisau
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+    - 9.7:
+        non_striker: S Kijiana
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 10.1:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Kijiana
+    - 10.2:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+        wicket:
+          player_out: S Kijiana
+          kind: bowled
+    - 10.3:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 10.4:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 10.5:
+        non_striker: MT Waqanisau
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 10.6:
+        non_striker: I Waqavakatoga
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+        wicket:
+          player_out: MT Waqanisau
+          kind: lbw
+    - 10.7:
+        non_striker: I Waqavakatoga
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 11.1:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 11.2:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 11.3:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 11.4:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+        wicket:
+          player_out: I Waqavakatoga
+          kind: bowled
+    - 11.5:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 11.6:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 11.7:
+        non_striker: M Biu
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 12.1:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Biu
+    - 12.2:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 12.3:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+        wicket:
+          player_out: M Biu
+          kind: bowled
+    - 12.4:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 12.5:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 12.6:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSC Erasito
+    - 12.7:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 13.1:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MSC Erasito
+    - 13.2:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 13.3:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 13.4:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MSC Erasito
+    - 13.5:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 13.6:
+        non_striker: KM Amoe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSC Erasito
+    - 13.7:
+        non_striker: MSC Erasito
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 14.1:
+        non_striker: KM Amoe
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSC Erasito
+    - 14.2:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 14.3:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 14.4:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 14.5:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 14.6:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Amoe
+    - 14.7:
+        non_striker: MSC Erasito
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Amoe
+    - 15.1:
+        non_striker: MSC Erasito
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+    - 15.2:
+        non_striker: MSC Erasito
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Amoe
+        wicket:
+          player_out: KM Amoe
+          fielders:
+          - V Mansale
+          kind: caught
+    - 15.3:
+        non_striker: MSC Erasito
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Gonerara
+    - 15.4:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MSC Erasito
+    - 15.5:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 15.6:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 16.1:
+        non_striker: MSC Erasito
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 16.2:
+        non_striker: MSC Erasito
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Gonerara
+    - 16.3:
+        non_striker: MSC Erasito
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Gonerara
+    - 16.4:
+        non_striker: MSC Erasito
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 16.5:
+        non_striker: MSC Erasito
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gonerara
+    - 16.6:
+        non_striker: AK Gonerara
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 16.7:
+        non_striker: AK Gonerara
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 17.1:
+        non_striker: MSC Erasito
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AK Gonerara
+    - 17.2:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MSC Erasito
+    - 17.3:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 17.4:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 17.5:
+        non_striker: AK Gonerara
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+        wicket:
+          player_out: MSC Erasito
+          fielders:
+          - R Andrew
+          - M Tarimiala
+          kind: run out

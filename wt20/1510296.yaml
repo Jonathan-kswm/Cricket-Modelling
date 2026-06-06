@@ -1,0 +1,2154 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2567
+  outcome:
+    winner: Thailand
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - S Chaturongrattana
+  players:
+    Thailand:
+    - C Sutthiruang
+    - N Boochatham
+    - N Koncharoenkai
+    - N Chantam
+    - N Chaiwai
+    - S Khiaoto
+    - S Laomi
+    - P Maya
+    - O Kamchomphu
+    - S Chaturongrattana
+    - T Putthawong
+    Namibia:
+    - SA Wittmann
+    - KA Green
+    - M Mwatile
+    - Yasmeen Khan
+    - W Mwatile
+    - B Manuel
+    - JA Diergaardt
+    - M Gorases
+    - N Benjamin
+    - EU Kejarukua
+    - L Visser
+  registry:
+    people:
+      B Manuel: 06cbeba1
+      C Sutthiruang: f6ddfe08
+      Champa Chakma: 4fc732f7
+      EU Kejarukua: e7068bfd
+      JA Diergaardt: b72a8938
+      KA Green: fa9fdefa
+      L Visser: 1f982cd2
+      M Gorases: d034d60a
+      M Mwatile: 92b9e9af
+      N Benjamin: '58317766'
+      N Boochatham: 58acb320
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Koncharoenkai: 82c78412
+      O Kamchomphu: 519b872a
+      P Maya: 72eada4c
+      S Chaturongrattana: bd36bc39
+      S Khiaoto: 3ac854ca
+      S Laomi: 4b15618c
+      SA Wittmann: 531aef3b
+      SM Bartlett: 7ba18406
+      T Putthawong: 23e3f2d6
+      T Semmens: 3b471aa4
+      W Mwatile: 5728635a
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Thailand
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - Champa Chakma
+  - T Semmens
+  venue: Asian Institute of Technology Ground, Bangkok
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Boochatham
+        batsman: C Sutthiruang
+    - 0.2:
+        non_striker: N Boochatham
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+        wicket:
+          player_out: C Sutthiruang
+          kind: bowled
+    - 0.3:
+        non_striker: N Boochatham
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 0.4:
+        non_striker: N Boochatham
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 0.5:
+        non_striker: N Boochatham
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 0.6:
+        non_striker: N Boochatham
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 1.1:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 1.2:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Boochatham
+    - 1.3:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+        wicket:
+          player_out: N Boochatham
+          kind: bowled
+    - 1.4:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.5:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chantam
+    - 1.6:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.7:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.8:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.1:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.2:
+        non_striker: N Koncharoenkai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 2.3:
+        non_striker: N Koncharoenkai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.4:
+        non_striker: N Koncharoenkai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 2.5:
+        non_striker: N Koncharoenkai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.6:
+        non_striker: N Koncharoenkai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 3.1:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 3.2:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.3:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.4:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.5:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.6:
+        non_striker: N Koncharoenkai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 4.1:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 4.2:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.3:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.4:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.5:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+        wicket:
+          player_out: N Koncharoenkai
+          kind: bowled
+    - 4.6:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.1:
+        non_striker: N Chaiwai
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 5.2:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.3:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.4:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.5:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.6:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.1:
+        non_striker: N Chaiwai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 6.2:
+        non_striker: N Chaiwai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 6.3:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 6.4:
+        non_striker: N Chaiwai
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 6.5:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.6:
+        non_striker: N Chantam
+        bowler: N Benjamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          fielders:
+          - JA Diergaardt
+          - M Gorases
+          kind: run out
+    - 7.1:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Khiaoto
+        batsman: N Chantam
+    - 7.2:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Khiaoto
+        batsman: N Chantam
+    - 7.3:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Khiaoto
+        batsman: N Chantam
+    - 7.4:
+        non_striker: N Chantam
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khiaoto
+    - 7.5:
+        non_striker: S Khiaoto
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 7.6:
+        non_striker: S Khiaoto
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 8.1:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 8.2:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 8.3:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 8.4:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khiaoto
+    - 8.5:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chantam
+    - 8.6:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 8.7:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 9.1:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Khiaoto
+    - 9.2:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Khiaoto
+    - 9.3:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Khiaoto
+    - 9.4:
+        non_striker: S Khiaoto
+        bowler: L Visser
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: N Chantam
+    - 9.5:
+        non_striker: S Khiaoto
+        bowler: L Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 9.6:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Khiaoto
+    - 9.7:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 9.8:
+        non_striker: N Chantam
+        bowler: L Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Khiaoto
+    - 10.1:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 10.2:
+        non_striker: S Khiaoto
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 10.3:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 10.4:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 10.5:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 10.6:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Khiaoto
+    - 11.1:
+        non_striker: S Khiaoto
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 11.2:
+        non_striker: N Chantam
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khiaoto
+    - 11.3:
+        non_striker: S Khiaoto
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 11.4:
+        non_striker: N Chantam
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+    - 11.5:
+        non_striker: N Chantam
+        bowler: JA Diergaardt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Khiaoto
+    - 11.6:
+        non_striker: N Chantam
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khiaoto
+    - 11.7:
+        non_striker: S Khiaoto
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 12.1:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+        wicket:
+          player_out: S Khiaoto
+          kind: bowled
+    - 12.2:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 12.3:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 12.4:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Laomi
+    - 12.5:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 12.6:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 13.1:
+        non_striker: S Laomi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 13.2:
+        non_striker: S Laomi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 13.3:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 13.4:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 13.5:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 13.6:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 14.1:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 14.2:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 14.3:
+        non_striker: N Chantam
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 14.4:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 14.5:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 14.6:
+        non_striker: S Laomi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 15.1:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 15.2:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 15.3:
+        non_striker: S Laomi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 15.4:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 15.5:
+        non_striker: S Laomi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 15.6:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Laomi
+    - 16.1:
+        non_striker: S Laomi
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 16.2:
+        non_striker: S Laomi
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 16.3:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+    - 16.4:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Laomi
+    - 16.5:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Laomi
+    - 16.6:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+        wicket:
+          player_out: S Laomi
+          kind: bowled
+    - 16.7:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 17.1:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 17.2:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 17.3:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 17.4:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 17.5:
+        non_striker: N Chantam
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 17.6:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 18.1:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 18.2:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya
+    - 18.3:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 18.4:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 18.5:
+        non_striker: P Maya
+        bowler: M Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chantam
+    - 18.6:
+        non_striker: P Maya
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 18.7:
+        non_striker: N Chantam
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 19.1:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Chantam
+    - 19.2:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Chantam
+    - 19.3:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 19.4:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 19.5:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 19.6:
+        non_striker: P Maya
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.2:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.3:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.4:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.5:
+        non_striker: KA Green
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+        wicket:
+          player_out: SA Wittmann
+          kind: bowled
+    - 0.6:
+        non_striker: KA Green
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mwatile
+    - 1.1:
+        non_striker: M Mwatile
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 1.2:
+        non_striker: M Mwatile
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 1.3:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwatile
+    - 1.4:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwatile
+    - 1.5:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwatile
+        wicket:
+          player_out: M Mwatile
+          kind: bowled
+    - 1.6:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.1:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 2.2:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 2.3:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 2.4:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 2.5:
+        non_striker: KA Green
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.6:
+        non_striker: KA Green
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.1:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 3.2:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 3.3:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.4:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.5:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 3.6:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 4.1:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 4.2:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 4.3:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 4.4:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 4.5:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Green
+    - 4.6:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 4.7:
+        non_striker: Yasmeen Khan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 5.1:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 5.2:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 5.3:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 5.4:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 5.5:
+        non_striker: Yasmeen Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 5.6:
+        non_striker: KA Green
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 6.1:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.2:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.3:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.4:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 6.5:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.6:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 7.1:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.2:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.3:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 7.4:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.5:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 7.6:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 8.1:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 8.2:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.3:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.4:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 8.5:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 8.6:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 9.1:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.2:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.3:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 9.4:
+        non_striker: Yasmeen Khan
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.5:
+        non_striker: Yasmeen Khan
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.6:
+        non_striker: Yasmeen Khan
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.1:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 10.2:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.3:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 10.4:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 10.5:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 10.6:
+        non_striker: KA Green
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.1:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 11.2:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 11.3:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 11.4:
+        non_striker: KA Green
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.5:
+        non_striker: Yasmeen Khan
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+        wicket:
+          player_out: KA Green
+          kind: bowled
+    - 11.6:
+        non_striker: Yasmeen Khan
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+        wicket:
+          player_out: W Mwatile
+          kind: bowled
+    - 12.1:
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Manuel
+        batsman: Yasmeen Khan
+    - 12.2:
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Manuel
+        batsman: Yasmeen Khan
+    - 12.3:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Manuel
+    - 12.4:
+        non_striker: Yasmeen Khan
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Manuel
+    - 12.5:
+        non_striker: B Manuel
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - N Chaiwai
+          kind: caught
+    - 12.6:
+        non_striker: B Manuel
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 13.1:
+        non_striker: JA Diergaardt
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Manuel
+    - 13.2:
+        non_striker: B Manuel
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+        wicket:
+          player_out: JA Diergaardt
+          fielders:
+          - N Chaiwai
+          kind: caught
+    - 13.3:
+        non_striker: B Manuel
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 13.4:
+        non_striker: B Manuel
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gorases
+    - 13.5:
+        non_striker: B Manuel
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 13.6:
+        non_striker: M Gorases
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Manuel
+    - 14.1:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gorases
+    - 14.2:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 14.3:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Manuel
+    - 14.4:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 14.5:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 14.6:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Manuel
+    - 15.1:
+        non_striker: B Manuel
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 15.2:
+        non_striker: B Manuel
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 15.3:
+        non_striker: B Manuel
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 15.4:
+        non_striker: B Manuel
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 15.5:
+        non_striker: M Gorases
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Manuel
+    - 15.6:
+        non_striker: M Gorases
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Manuel
+    - 16.1:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Manuel
+    - 16.2:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gorases
+    - 16.3:
+        non_striker: B Manuel
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 16.4:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Manuel
+        wicket:
+          player_out: B Manuel
+          fielders:
+          - S Khiaoto
+          kind: stumped
+    - 16.5:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Benjamin
+        wicket:
+          player_out: N Benjamin
+          kind: bowled
+    - 16.6:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EU Kejarukua
+    - 17.1:
+        non_striker: EU Kejarukua
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 17.2:
+        non_striker: EU Kejarukua
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 17.3:
+        non_striker: EU Kejarukua
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 17.4:
+        non_striker: M Gorases
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EU Kejarukua
+    - 17.5:
+        non_striker: M Gorases
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EU Kejarukua
+    - 17.6:
+        non_striker: EU Kejarukua
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 18.1:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EU Kejarukua
+    - 18.2:
+        non_striker: EU Kejarukua
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 18.3:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EU Kejarukua
+    - 18.4:
+        non_striker: EU Kejarukua
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 18.5:
+        non_striker: M Gorases
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EU Kejarukua
+    - 18.6:
+        non_striker: EU Kejarukua
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 19.1:
+        non_striker: EU Kejarukua
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 19.2:
+        non_striker: EU Kejarukua
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 19.3:
+        non_striker: M Gorases
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EU Kejarukua
+    - 19.4:
+        non_striker: M Gorases
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EU Kejarukua
+    - 19.5:
+        non_striker: M Gorases
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EU Kejarukua
+    - 19.6:
+        non_striker: M Gorases
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EU Kejarukua

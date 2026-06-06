@@ -1,0 +1,2197 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Karachi
+  dates:
+  - '2026-05-14'
+  gender: female
+  match_type: T20
+  match_type_number: 2767
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 67
+  overs: 20
+  player_of_match:
+  - Eyman Fatima
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Gull Feroza
+    - Ayesha Zafar
+    - Iram Javed
+    - Eyman Fatima
+    - Natalia Pervaiz
+    - Saira Jabeen
+    - Fatima Sana
+    - Nashra Sandhu
+    - Tuba Hassan
+    - Sadia Iqbal
+    Zimbabwe:
+    - B Biza
+    - NL Mtomba
+    - R Pasipanodya
+    - K Ndlovu
+    - A Zimunu
+    - VM Mutungwindu
+    - M Mavunga
+    - N Sibanda
+    - L Mabhero
+    - K Chigora
+    - P Marange
+  registry:
+    people:
+      A Zimunu: af6c03bc
+      Abdul Muqeet: e1ac7789
+      Ali Naqvi: 3c89fc88
+      Ayesha Zafar: e15f4fa4
+      B Biza: 8a522c6c
+      Eyman Fatima: 4357f6f8
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      Iram Javed: dc596fac
+      K Chigora: 5f311f1a
+      K Ndlovu: 8d25271a
+      L Mabhero: 37f9eb59
+      M Mavunga: bb411d1e
+      Muneeba Ali: 86fdf668
+      N Perera: 129709f9
+      N Sibanda: edf62a25
+      NL Mtomba: 857b57ac
+      Nashra Sandhu: c981d3c2
+      Nasir Hussain: 5b2fe85b
+      Natalia Pervaiz: fa8a3eb0
+      P Marange: a4f1fdd4
+      R Pasipanodya: 17ccd296
+      Sadia Iqbal: 53bb50f0
+      Saira Jabeen: e4ff6a62
+      Saleema Imtiaz: d17d21d5
+      Tuba Hassan: 0d56e9a5
+      VM Mutungwindu: 0e130fcb
+  teams:
+  - Pakistan
+  - Zimbabwe
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Nasir Hussain
+  - N Perera
+  venue: National Stadium, Karachi
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Gull Feroza
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Muneeba Ali
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 0.3:
+        non_striker: Gull Feroza
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Gull Feroza
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Gull Feroza
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 1.5:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 2.1:
+        non_striker: Gull Feroza
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Gull Feroza
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Gull Feroza
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 2.5:
+        non_striker: Gull Feroza
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 3.1:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 3.3:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.4:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.6:
+        non_striker: Gull Feroza
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 4.2:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 4.3:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          kind: bowled
+    - 4.4:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+    - 4.5:
+        non_striker: Ayesha Zafar
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.6:
+        non_striker: Muneeba Ali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 5.1:
+        non_striker: Ayesha Zafar
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.2:
+        non_striker: Ayesha Zafar
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.3:
+        non_striker: Ayesha Zafar
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.4:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+    - 5.5:
+        non_striker: Ayesha Zafar
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.6:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 5.7:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+    - 6.1:
+        non_striker: Muneeba Ali
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          fielders:
+          - K Ndlovu
+          - VM Mutungwindu
+          kind: run out
+    - 6.2:
+        non_striker: Muneeba Ali
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iram Javed
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iram Javed
+    - 6.4:
+        non_striker: Iram Javed
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 6.5:
+        non_striker: Iram Javed
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+    - 7.1:
+        non_striker: Iram Javed
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 7.2:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+    - 7.3:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+    - 7.4:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+        wicket:
+          player_out: Iram Javed
+          fielders:
+          - M Mavunga
+          kind: caught
+    - 7.5:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 7.6:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 8.1:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 8.3:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 8.4:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 8.5:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 8.6:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 9.1:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 9.4:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 9.5:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 9.6:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Eyman Fatima
+    - 10.1:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 10.5:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Eyman Fatima
+    - 10.6:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 11.1:
+        non_striker: Eyman Fatima
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 11.2:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Eyman Fatima
+    - 11.3:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Eyman Fatima
+    - 11.4:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 11.5:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 11.6:
+        non_striker: Eyman Fatima
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 11.7:
+        non_striker: Eyman Fatima
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 11.8:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Eyman Fatima
+    - 11.9:
+        non_striker: Muneeba Ali
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 12.1:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 12.3:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 12.5:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 12.6:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.1:
+        non_striker: Muneeba Ali
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 13.2:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - B Biza
+          kind: caught
+    - 13.3:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 13.4:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 13.5:
+        non_striker: Natalia Pervaiz
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 13.6:
+        non_striker: Eyman Fatima
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 14.1:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 14.2:
+        non_striker: Eyman Fatima
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 14.3:
+        non_striker: Eyman Fatima
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 14.4:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 14.5:
+        non_striker: Eyman Fatima
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 14.6:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Eyman Fatima
+    - 15.1:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 15.2:
+        non_striker: Natalia Pervaiz
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 15.3:
+        non_striker: Natalia Pervaiz
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 15.4:
+        non_striker: Natalia Pervaiz
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 15.5:
+        non_striker: Eyman Fatima
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 15.6:
+        non_striker: Natalia Pervaiz
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 16.1:
+        non_striker: Natalia Pervaiz
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 16.2:
+        non_striker: Natalia Pervaiz
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 16.3:
+        non_striker: Natalia Pervaiz
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 16.4:
+        non_striker: Natalia Pervaiz
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Eyman Fatima
+    - 16.5:
+        non_striker: Natalia Pervaiz
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Eyman Fatima
+    - 16.6:
+        non_striker: Eyman Fatima
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 16.7:
+        non_striker: Eyman Fatima
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 17.1:
+        non_striker: Eyman Fatima
+        bowler: A Zimunu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 17.2:
+        non_striker: Eyman Fatima
+        bowler: A Zimunu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 17.3:
+        non_striker: Eyman Fatima
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 17.4:
+        non_striker: Natalia Pervaiz
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 17.5:
+        non_striker: Natalia Pervaiz
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 17.6:
+        non_striker: Eyman Fatima
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 17.7:
+        non_striker: Natalia Pervaiz
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 17.8:
+        non_striker: Natalia Pervaiz
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+    - 18.1:
+        non_striker: Eyman Fatima
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 18.2:
+        non_striker: Eyman Fatima
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 18.3:
+        non_striker: Natalia Pervaiz
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 18.4:
+        non_striker: Eyman Fatima
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 18.5:
+        non_striker: Eyman Fatima
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 18.6:
+        non_striker: Eyman Fatima
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 19.1:
+        non_striker: Eyman Fatima
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 19.2:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Eyman Fatima
+    - 19.3:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 19.4:
+        non_striker: Eyman Fatima
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 19.5:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Eyman Fatima
+    - 19.6:
+        non_striker: Natalia Pervaiz
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eyman Fatima
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 0.2:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Biza
+    - 0.3:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 0.4:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 0.5:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 0.6:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.1:
+        non_striker: B Biza
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 1.2:
+        non_striker: B Biza
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 1.3:
+        non_striker: B Biza
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Mtomba
+    - 1.4:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Biza
+    - 1.5:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 1.6:
+        non_striker: B Biza
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 1.7:
+        non_striker: B Biza
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 2.1:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Biza
+    - 2.2:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+        wicket:
+          player_out: B Biza
+          fielders:
+          - Ayesha Zafar
+          kind: caught
+    - 2.3:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 2.4:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pasipanodya
+    - 2.5:
+        non_striker: R Pasipanodya
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 2.6:
+        non_striker: R Pasipanodya
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 3.1:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 3.2:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 3.3:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 3.4:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+        wicket:
+          player_out: R Pasipanodya
+          fielders:
+          - Iram Javed
+          kind: caught
+    - 3.5:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 3.6:
+        non_striker: NL Mtomba
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 4.1:
+        non_striker: K Ndlovu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Mtomba
+    - 4.2:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 4.3:
+        non_striker: NL Mtomba
+        bowler: Fatima Sana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Ndlovu
+    - 4.4:
+        non_striker: K Ndlovu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 4.5:
+        non_striker: K Ndlovu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 4.6:
+        non_striker: K Ndlovu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NL Mtomba
+    - 4.7:
+        non_striker: K Ndlovu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 5.1:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          kind: bowled
+    - 5.2:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Zimunu
+    - 5.3:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Zimunu
+    - 5.4:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Zimunu
+    - 5.5:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Zimunu
+    - 5.6:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+    - 5.7:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zimunu
+    - 6.1:
+        non_striker: NL Mtomba
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+    - 6.2:
+        non_striker: NL Mtomba
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Zimunu
+    - 6.3:
+        non_striker: NL Mtomba
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+    - 6.4:
+        non_striker: NL Mtomba
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zimunu
+    - 6.5:
+        non_striker: A Zimunu
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 6.6:
+        non_striker: A Zimunu
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 6.7:
+        non_striker: A Zimunu
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NL Mtomba
+    - 7.1:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+    - 7.2:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+        wicket:
+          player_out: A Zimunu
+          fielders:
+          - Natalia Pervaiz
+          kind: caught
+    - 7.3:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Mutungwindu
+    - 7.4:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Mutungwindu
+    - 7.5:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Mutungwindu
+        wicket:
+          player_out: VM Mutungwindu
+          fielders:
+          - Tuba Hassan
+          - Muneeba Ali
+          kind: run out
+    - 7.6:
+        non_striker: NL Mtomba
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mavunga
+    - 8.1:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+    - 8.2:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Mtomba
+        wicket:
+          player_out: NL Mtomba
+          kind: bowled
+    - 8.3:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 8.4:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 8.5:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 8.6:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mavunga
+    - 9.1:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 9.2:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 9.3:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Sibanda
+    - 9.4:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 9.5:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 9.6:
+        non_striker: M Mavunga
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 10.1:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mavunga
+    - 10.2:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mavunga
+    - 10.3:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mavunga
+    - 10.4:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 10.5:
+        non_striker: M Mavunga
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 10.6:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mavunga
+    - 11.1:
+        non_striker: M Mavunga
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 11.2:
+        non_striker: M Mavunga
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 11.3:
+        non_striker: M Mavunga
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 11.4:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mavunga
+        wicket:
+          player_out: M Mavunga
+          kind: bowled
+    - 11.5:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Mabhero
+    - 11.6:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 12.1:
+        non_striker: L Mabhero
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 12.2:
+        non_striker: L Mabhero
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 12.3:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 12.4:
+        non_striker: L Mabhero
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 12.5:
+        non_striker: L Mabhero
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 12.6:
+        non_striker: N Sibanda
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 13.1:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 13.2:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 13.3:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 13.4:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 13.5:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 13.6:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 14.1:
+        non_striker: L Mabhero
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 14.2:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 14.3:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mabhero
+    - 14.4:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 14.5:
+        non_striker: L Mabhero
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 14.6:
+        non_striker: L Mabhero
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 15.1:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 15.2:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Sibanda
+    - 15.3:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 15.4:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 15.5:
+        non_striker: L Mabhero
+        bowler: Ayesha Zafar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Sibanda
+    - 15.6:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 15.7:
+        non_striker: N Sibanda
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 16.1:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 16.2:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mabhero
+    - 16.3:
+        non_striker: L Mabhero
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 16.4:
+        non_striker: L Mabhero
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 16.5:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 16.6:
+        non_striker: N Sibanda
+        bowler: Natalia Pervaiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+        wicket:
+          player_out: L Mabhero
+          kind: bowled
+    - 17.1:
+        non_striker: K Chigora
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Sibanda
+    - 17.2:
+        non_striker: K Chigora
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 17.3:
+        non_striker: K Chigora
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 17.4:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Chigora
+    - 17.5:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 17.6:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 18.1:
+        non_striker: K Chigora
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 18.2:
+        non_striker: N Sibanda
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 18.3:
+        non_striker: N Sibanda
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 18.4:
+        non_striker: N Sibanda
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Chigora
+    - 18.5:
+        non_striker: K Chigora
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Sibanda
+    - 18.6:
+        non_striker: K Chigora
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 18.7:
+        non_striker: K Chigora
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 19.1:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 19.2:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Chigora
+    - 19.3:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Chigora
+    - 19.4:
+        non_striker: K Chigora
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 19.5:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Chigora
+    - 19.6:
+        non_striker: N Sibanda
+        bowler: Saira Jabeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora

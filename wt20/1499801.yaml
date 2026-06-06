@@ -1,0 +1,2295 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-15'
+  gender: female
+  match_type: T20
+  match_type_number: 2512
+  outcome:
+    winner: Philippines
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - KK Donovan
+  players:
+    Cook Islands:
+    - T Maika
+    - GES Sullivan
+    - ZP Ikiua
+    - S Vaia
+    - ET Williams
+    - K Mataora
+    - S Samuels
+    - RV Auora
+    - Lily Lamb
+    - R Bowers-Fleming
+    - T Elikana
+    Philippines:
+    - ABY Smith
+    - AR Valdez
+    - JKD Andreano
+    - Karri Gullem Keen
+    - KK Donovan
+    - AS Miranda
+    - Kyte Gullem Keen
+    - Angela Busa
+    - JY Masaya
+    - JR Medianesta
+    - R Castillo
+  registry:
+    people:
+      ABY Smith: fcb4448f
+      AR Valdez: 3c3f34b0
+      AS Miranda: 283e47fa
+      Angela Busa: cbef5af4
+      ET Williams: '90410756'
+      GES Sullivan: 165b9097
+      H Atai: 0460d756
+      JKD Andreano: 757baa30
+      JR Medianesta: 538cb58a
+      JY Masaya: 44368e16
+      K Mataora: 281cc1e8
+      KK Donovan: ef2a7af4
+      Karri Gullem Keen: bb7b014a
+      Kim Cotton: 67a7c2ee
+      Kyte Gullem Keen: f3f654c2
+      Lily Lamb: 69fc75bb
+      M Kenni: 1feb0d3c
+      R Bowers-Fleming: 0eb829be
+      R Castillo: 716ba9ef
+      RV Auora: 672cee0a
+      S Samuels: d852095e
+      S Vaia: '78103121'
+      T Elikana: 2bea8bda
+      T Maika: 9782087e
+      TL Anderson: f52ddf8d
+      ZP Ikiua: 3bd86723
+  teams:
+  - Cook Islands
+  - Philippines
+  toss:
+    winner: Cook Islands
+    decision: bat
+  umpires:
+  - H Atai
+  - Kim Cotton
+  venue: Albert Park 2, Suva
+innings:
+- 1st innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GES Sullivan
+        batsman: T Maika
+    - 0.2:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 0.3:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 0.4:
+        non_striker: GES Sullivan
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 0.5:
+        non_striker: GES Sullivan
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 0.6:
+        non_striker: GES Sullivan
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 1.1:
+        non_striker: GES Sullivan
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Maika
+    - 1.2:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 1.3:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+        wicket:
+          player_out: GES Sullivan
+          kind: bowled
+    - 1.4:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 1.5:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 1.6:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZP Ikiua
+    - 2.1:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 2.2:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 2.3:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 2.4:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 2.5:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZP Ikiua
+    - 2.6:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZP Ikiua
+    - 3.1:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Maika
+    - 3.2:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 3.3:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: T Maika
+    - 3.4:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 3.5:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 3.6:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 3.7:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 4.1:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZP Ikiua
+    - 4.2:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 4.3:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZP Ikiua
+    - 4.4:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 4.5:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZP Ikiua
+    - 4.6:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 4.7:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 5.1:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 5.2:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 5.3:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 5.4:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 5.5:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 5.6:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 6.1:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 6.2:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 6.3:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 6.4:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 6.5:
+        non_striker: T Maika
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZP Ikiua
+    - 6.6:
+        non_striker: ZP Ikiua
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Maika
+    - 7.1:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 7.2:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+    - 7.3:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZP Ikiua
+    - 7.4:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Maika
+    - 7.5:
+        non_striker: ZP Ikiua
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 7.6:
+        non_striker: T Maika
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZP Ikiua
+        wicket:
+          player_out: ZP Ikiua
+          kind: bowled
+    - 8.1:
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Vaia
+        batsman: T Maika
+    - 8.2:
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Vaia
+        batsman: T Maika
+    - 8.3:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 8.4:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vaia
+    - 8.5:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 8.6:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 9.1:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 9.2:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 9.3:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 9.4:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 9.5:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vaia
+    - 9.6:
+        non_striker: T Maika
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 10.1:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 10.2:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 10.3:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Maika
+    - 10.4:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vaia
+    - 10.5:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 10.6:
+        non_striker: T Maika
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vaia
+    - 11.1:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 11.2:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+        wicket:
+          player_out: T Maika
+          kind: bowled
+    - 11.3:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ET Williams
+    - 11.4:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ET Williams
+    - 11.5:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 11.6:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 12.1:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 12.2:
+        non_striker: ET Williams
+        bowler: ABY Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Vaia
+    - 12.3:
+        non_striker: ET Williams
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 12.4:
+        non_striker: S Vaia
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 12.5:
+        non_striker: ET Williams
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vaia
+    - 12.6:
+        non_striker: ET Williams
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 12.7:
+        non_striker: ET Williams
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vaia
+    - 13.1:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ET Williams
+    - 13.2:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ET Williams
+    - 13.3:
+        non_striker: S Vaia
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 13.4:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Vaia
+    - 13.5:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vaia
+    - 13.6:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 13.7:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+        wicket:
+          player_out: S Vaia
+          kind: lbw
+    - 14.1:
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Mataora
+        batsman: ET Williams
+    - 14.2:
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Mataora
+        batsman: ET Williams
+    - 14.3:
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Mataora
+        batsman: ET Williams
+    - 14.4:
+        bowler: AR Valdez
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: K Mataora
+        batsman: ET Williams
+    - 14.5:
+        non_striker: ET Williams
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 14.6:
+        non_striker: ET Williams
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 14.7:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 14.8:
+        non_striker: ET Williams
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mataora
+    - 14.9:
+        non_striker: ET Williams
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mataora
+    - 15.1:
+        non_striker: K Mataora
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ET Williams
+    - 15.2:
+        non_striker: K Mataora
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ET Williams
+    - 15.3:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mataora
+    - 15.4:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 15.5:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 15.6:
+        non_striker: ET Williams
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 15.7:
+        non_striker: K Mataora
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ET Williams
+        wicket:
+          player_out: ET Williams
+          kind: bowled
+    - 15.8:
+        non_striker: K Mataora
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 16.1:
+        non_striker: S Samuels
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 16.2:
+        non_striker: S Samuels
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 16.3:
+        non_striker: S Samuels
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+    - 16.4:
+        non_striker: S Samuels
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 16.5:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 16.6:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samuels
+    - 17.1:
+        non_striker: S Samuels
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 17.2:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 17.3:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 17.4:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Samuels
+    - 17.5:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samuels
+    - 17.6:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 17.7:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 18.1:
+        non_striker: S Samuels
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 18.2:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 18.3:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+    - 18.4:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samuels
+        wicket:
+          player_out: S Samuels
+          kind: bowled
+    - 18.5:
+        non_striker: K Mataora
+        bowler: AR Valdez
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RV Auora
+    - 18.6:
+        non_striker: RV Auora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mataora
+    - 18.7:
+        non_striker: RV Auora
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mataora
+    - 19.1:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Auora
+    - 19.2:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Auora
+    - 19.3:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Auora
+    - 19.4:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Auora
+    - 19.5:
+        non_striker: K Mataora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Auora
+    - 19.6:
+        non_striker: RV Auora
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mataora
+- 2nd innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Valdez
+        batsman: ABY Smith
+    - 0.2:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+        wicket:
+          player_out: ABY Smith
+          fielders:
+          - K Mataora
+          kind: caught
+    - 0.3:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 0.4:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+        wicket:
+          player_out: JKD Andreano
+          kind: bowled
+    - 0.5:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 0.6:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 1.1:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Valdez
+    - 1.2:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 1.3:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AR Valdez
+    - 1.4:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Valdez
+    - 1.5:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 1.6:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Valdez
+    - 1.7:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 1.8:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 2.1:
+        non_striker: Karri Gullem Keen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 2.2:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 2.3:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 2.4:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 2.5:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 2.6:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karri Gullem Keen
+    - 3.1:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 3.2:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 3.3:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 3.4:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 3.5:
+        non_striker: AR Valdez
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 3.6:
+        non_striker: AR Valdez
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 4.1:
+        non_striker: Karri Gullem Keen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 4.2:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 4.3:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 4.4:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Karri Gullem Keen
+    - 4.5:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 4.6:
+        non_striker: AR Valdez
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 5.1:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 5.2:
+        non_striker: AR Valdez
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 5.3:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 5.4:
+        non_striker: Karri Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 5.5:
+        non_striker: AR Valdez
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 5.6:
+        non_striker: AR Valdez
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 6.1:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 6.2:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Valdez
+    - 6.3:
+        non_striker: AR Valdez
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 6.4:
+        non_striker: AR Valdez
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 6.5:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+        wicket:
+          player_out: AR Valdez
+          fielders:
+          - ZP Ikiua
+          kind: caught
+    - 6.6:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Donovan
+    - 6.7:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: KK Donovan
+    - 6.8:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Donovan
+    - 6.9:
+        non_striker: Karri Gullem Keen
+        bowler: R Bowers-Fleming
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Donovan
+    - 7.1:
+        non_striker: KK Donovan
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 7.2:
+        non_striker: Karri Gullem Keen
+        bowler: RV Auora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Donovan
+    - 7.3:
+        non_striker: Karri Gullem Keen
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 7.4:
+        non_striker: KK Donovan
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 7.5:
+        non_striker: Karri Gullem Keen
+        bowler: RV Auora
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KK Donovan
+    - 7.6:
+        non_striker: KK Donovan
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 7.7:
+        non_striker: KK Donovan
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 7.8:
+        non_striker: Karri Gullem Keen
+        bowler: RV Auora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 8.1:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 8.2:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Donovan
+    - 8.3:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Donovan
+    - 8.4:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 8.5:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 8.6:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karri Gullem Keen
+    - 9.1:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 9.2:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 9.3:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 9.4:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 9.5:
+        non_striker: KK Donovan
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 9.6:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 10.1:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 10.2:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 10.3:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 10.4:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 10.5:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Donovan
+    - 10.6:
+        non_striker: Karri Gullem Keen
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 11.1:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 11.2:
+        non_striker: KK Donovan
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karri Gullem Keen
+    - 11.3:
+        non_striker: KK Donovan
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Karri Gullem Keen
+    - 11.4:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Donovan
+    - 11.5:
+        non_striker: Karri Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 11.6:
+        non_striker: KK Donovan
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 12.1:
+        non_striker: Karri Gullem Keen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 12.2:
+        non_striker: Karri Gullem Keen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 12.3:
+        non_striker: Karri Gullem Keen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 12.4:
+        non_striker: KK Donovan
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 12.5:
+        non_striker: KK Donovan
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 12.6:
+        non_striker: KK Donovan
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+        wicket:
+          player_out: Karri Gullem Keen
+          fielders:
+          - S Samuels
+          kind: caught
+    - 13.1:
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AS Miranda
+        batsman: KK Donovan
+    - 13.2:
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AS Miranda
+        batsman: KK Donovan
+    - 13.3:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 13.4:
+        non_striker: KK Donovan
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 13.5:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 13.6:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+        wicket:
+          player_out: KK Donovan
+          fielders:
+          - GES Sullivan
+          kind: caught
+    - 14.1:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.2:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.3:
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.4:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.5:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.6:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: AS Miranda
+    - 14.7:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 15.1:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 15.2:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 15.3:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 15.4:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 15.5:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyte Gullem Keen
+    - 15.6:
+        non_striker: AS Miranda
+        bowler: ZP Ikiua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 16.1:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 16.2:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyte Gullem Keen
+    - 16.3:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Kyte Gullem Keen
+    - 16.4:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 16.5:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 16.6:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 16.7:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 16.8:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 16.9:
+        non_striker: AS Miranda
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 17.1:
+        non_striker: Kyte Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AS Miranda
+    - 17.2:
+        non_striker: AS Miranda
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyte Gullem Keen
+    - 17.3:
+        non_striker: AS Miranda
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 17.4:
+        non_striker: Kyte Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 17.5:
+        non_striker: Kyte Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 17.6:
+        non_striker: AS Miranda
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 17.7:
+        non_striker: Kyte Gullem Keen
+        bowler: ET Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+        wicket:
+          player_out: AS Miranda
+          kind: caught and bowled
+    - 18.1:
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Angela Busa
+        batsman: Kyte Gullem Keen
+    - 18.2:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Angela Busa
+        batsman: Kyte Gullem Keen
+    - 18.3:
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Angela Busa
+        batsman: Kyte Gullem Keen
+    - 18.4:
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Angela Busa
+        batsman: Kyte Gullem Keen
+    - 18.5:
+        bowler: Lily Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Angela Busa
+        batsman: Kyte Gullem Keen
+    - 18.6:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 18.7:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Angela Busa
+    - 18.8:
+        non_striker: Kyte Gullem Keen
+        bowler: Lily Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Angela Busa
+    - 19.1:
+        non_striker: Kyte Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Angela Busa
+    - 19.2:
+        non_striker: Kyte Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 19.3:
+        non_striker: Kyte Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 19.4:
+        non_striker: Kyte Gullem Keen
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Angela Busa

@@ -1,0 +1,1495 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Guacima
+  dates:
+  - '2026-04-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2742
+  outcome:
+    winner: Costa Rica
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - YP Molina
+  players:
+    Chile:
+    - Camila Valdes
+    - IIA Vildosola
+    - YB Rodriguez
+    - Sofia Mardones
+    - Florencia Martinez
+    - MBT Montero
+    - Maria Salazar
+    - Franchesca Moya
+    - JA Miranda
+    - Sofia Araya
+    - NCC Perez
+    Costa Rica:
+    - DG Perez
+    - MPA Miranda
+    - EFB Estrada
+    - JC Molina
+    - AB Martinez
+    - SB Martinez
+    - YP Molina
+    - WM Delgado
+    - ADP Diaz
+    - SRE Lara
+    - APS Sanchez
+  registry:
+    people:
+      AB Martinez: 07c15419
+      ADP Diaz: 1fc086bc
+      APS Sanchez: e2b2c927
+      Camila Valdes: dfe8ddeb
+      DG Perez: 4aff35ac
+      EFB Estrada: 4b490566
+      Florencia Martinez: 0626d312
+      Franchesca Moya: dd30467d
+      IIA Vildosola: 4081b382
+      JA Miranda: 8c8a3ac6
+      JC Molina: dff2ffa0
+      MBT Montero: 7f3f5e0b
+      MPA Miranda: 9f015fdd
+      Maria Salazar: 0e4abf0c
+      NCC Perez: 4da3f550
+      SB Martinez: a972ca63
+      SRE Lara: 2f644e7f
+      Sofia Araya: e4d4c4e0
+      Sofia Mardones: f4e6469b
+      TU Montero: d03845b7
+      WM Delgado: 236e88ea
+      YB Rodriguez: 779f6c19
+      YP Molina: dca2e79a
+  teams:
+  - Chile
+  - Costa Rica
+  toss:
+    winner: Costa Rica
+    decision: field
+  venue: Los Reyes Polo Club
+innings:
+- 1st innings:
+    team: Chile
+    deliveries:
+    - 0.1:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.2:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.3:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.4:
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.5:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.6:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.7:
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: IIA Vildosola
+        batsman: Camila Valdes
+    - 0.8:
+        non_striker: IIA Vildosola
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 1.1:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IIA Vildosola
+        wicket:
+          player_out: IIA Vildosola
+          kind: bowled
+    - 1.2:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: YB Rodriguez
+    - 1.3:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: YB Rodriguez
+    - 1.4:
+        non_striker: YB Rodriguez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 1.5:
+        non_striker: YB Rodriguez
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Camila Valdes
+    - 1.6:
+        non_striker: YB Rodriguez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 1.7:
+        non_striker: YB Rodriguez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 1.8:
+        non_striker: YB Rodriguez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 2.1:
+        non_striker: Camila Valdes
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YB Rodriguez
+    - 2.2:
+        non_striker: Camila Valdes
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YB Rodriguez
+    - 2.3:
+        non_striker: Camila Valdes
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YB Rodriguez
+    - 2.4:
+        non_striker: Camila Valdes
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YB Rodriguez
+    - 2.5:
+        non_striker: Camila Valdes
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YB Rodriguez
+    - 2.6:
+        non_striker: YB Rodriguez
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 3.1:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YB Rodriguez
+        wicket:
+          player_out: YB Rodriguez
+          kind: bowled
+    - 3.2:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Mardones
+    - 3.3:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Mardones
+    - 3.4:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Mardones
+    - 3.5:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Mardones
+    - 3.6:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Mardones
+    - 3.7:
+        non_striker: Camila Valdes
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Mardones
+        wicket:
+          player_out: Sofia Mardones
+          kind: bowled
+    - 4.1:
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Florencia Martinez
+        batsman: Camila Valdes
+    - 4.2:
+        non_striker: Camila Valdes
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 4.3:
+        non_striker: Camila Valdes
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 4.4:
+        non_striker: Camila Valdes
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 4.5:
+        non_striker: Camila Valdes
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 4.6:
+        non_striker: Camila Valdes
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 5.1:
+        non_striker: Florencia Martinez
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+    - 5.2:
+        non_striker: Florencia Martinez
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Camila Valdes
+        wicket:
+          player_out: Camila Valdes
+          fielders:
+          - JC Molina
+          - AB Martinez
+          kind: run out
+    - 5.3:
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MBT Montero
+        batsman: Florencia Martinez
+    - 5.4:
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MBT Montero
+        batsman: Florencia Martinez
+    - 5.5:
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MBT Montero
+        batsman: Florencia Martinez
+    - 5.6:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+    - 6.1:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 6.2:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 6.3:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MBT Montero
+    - 6.4:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 6.5:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 6.6:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 6.7:
+        non_striker: Florencia Martinez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 7.1:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Florencia Martinez
+        wicket:
+          player_out: Florencia Martinez
+          kind: caught and bowled
+    - 7.2:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Salazar
+    - 7.3:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Salazar
+        wicket:
+          player_out: Maria Salazar
+          kind: bowled
+    - 7.4:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Franchesca Moya
+    - 7.5:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 7.6:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 7.7:
+        non_striker: MBT Montero
+        bowler: JC Molina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Franchesca Moya
+    - 8.1:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 8.2:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MBT Montero
+    - 8.3:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MBT Montero
+    - 8.4:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 8.5:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 8.6:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 8.7:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MBT Montero
+    - 8.8:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 8.9:
+        non_striker: Franchesca Moya
+        bowler: ADP Diaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+    - 9.1:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Franchesca Moya
+    - 9.2:
+        non_striker: Franchesca Moya
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBT Montero
+    - 9.3:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Franchesca Moya
+    - 9.4:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 9.5:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Franchesca Moya
+    - 9.6:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Franchesca Moya
+    - 9.7:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 9.8:
+        non_striker: MBT Montero
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Franchesca Moya
+    - 9.9:
+        non_striker: Franchesca Moya
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MBT Montero
+    - 9.10:
+        non_striker: Franchesca Moya
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MBT Montero
+    - 9.11:
+        non_striker: Franchesca Moya
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBT Montero
+        wicket:
+          player_out: MBT Montero
+          fielders:
+          - TU Montero (sub)
+          - WM Delgado
+          kind: run out
+    - 10.1:
+        non_striker: Franchesca Moya
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Miranda
+    - 10.2:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 10.3:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+    - 10.4:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Franchesca Moya
+        wicket:
+          player_out: Franchesca Moya
+          kind: bowled
+    - 10.5:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 10.6:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 11.1:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Miranda
+    - 11.2:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Miranda
+    - 11.3:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Miranda
+    - 11.4:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Miranda
+    - 11.5:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Miranda
+    - 11.6:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Miranda
+    - 11.7:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Miranda
+    - 11.8:
+        non_striker: JA Miranda
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Araya
+    - 11.9:
+        non_striker: JA Miranda
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 11.10:
+        non_striker: JA Miranda
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 12.1:
+        non_striker: Sofia Araya
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Miranda
+    - 12.2:
+        non_striker: Sofia Araya
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JA Miranda
+    - 12.3:
+        non_striker: Sofia Araya
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Miranda
+    - 12.4:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 12.5:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Araya
+    - 12.6:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Araya
+    - 12.7:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 12.8:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 12.9:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Araya
+    - 12.10:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sofia Araya
+    - 12.11:
+        non_striker: JA Miranda
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sofia Araya
+    - 13.1:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Miranda
+    - 13.2:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: JA Miranda
+    - 13.3:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Miranda
+        wicket:
+          player_out: JA Miranda
+          kind: lbw
+    - 13.4:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NCC Perez
+    - 13.5:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NCC Perez
+    - 13.6:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NCC Perez
+    - 13.7:
+        non_striker: Sofia Araya
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NCC Perez
+        wicket:
+          player_out: NCC Perez
+          kind: bowled
+- 2nd innings:
+    team: Costa Rica
+    deliveries:
+    - 0.1:
+        bowler: JA Miranda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: MPA Miranda
+        batsman: DG Perez
+    - 0.2:
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPA Miranda
+        batsman: DG Perez
+    - 0.3:
+        bowler: JA Miranda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MPA Miranda
+        batsman: DG Perez
+    - 0.4:
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPA Miranda
+        batsman: DG Perez
+    - 0.5:
+        non_striker: MPA Miranda
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+        wicket:
+          player_out: DG Perez
+          kind: bowled
+    - 0.6:
+        non_striker: MPA Miranda
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 0.7:
+        non_striker: MPA Miranda
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 0.8:
+        non_striker: MPA Miranda
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 1.1:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 1.2:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPA Miranda
+    - 1.3:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 1.4:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 1.5:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 1.6:
+        non_striker: MPA Miranda
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 1.7:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 2.1:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 2.2:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.3:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 2.4:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 2.5:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 2.6:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 2.7:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.8:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 2.9:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 2.10:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 3.1:
+        non_striker: MPA Miranda
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 3.2:
+        non_striker: MPA Miranda
+        bowler: Florencia Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 3.3:
+        non_striker: MPA Miranda
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 3.4:
+        non_striker: EFB Estrada
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPA Miranda
+    - 3.5:
+        non_striker: EFB Estrada
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 3.6:
+        non_striker: EFB Estrada
+        bowler: Florencia Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MPA Miranda
+    - 3.7:
+        non_striker: EFB Estrada
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 3.8:
+        non_striker: EFB Estrada
+        bowler: Florencia Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 4.1:
+        non_striker: EFB Estrada
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 4.2:
+        non_striker: EFB Estrada
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 4.3:
+        non_striker: EFB Estrada
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 4.4:
+        non_striker: EFB Estrada
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPA Miranda
+    - 4.5:
+        non_striker: EFB Estrada
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 4.6:
+        non_striker: MPA Miranda
+        bowler: JA Miranda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 5.1:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPA Miranda
+    - 5.2:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 5.3:
+        non_striker: MPA Miranda
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 5.4:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 5.5:
+        non_striker: MPA Miranda
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 5.6:
+        non_striker: MPA Miranda
+        bowler: Camila Valdes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 5.7:
+        non_striker: MPA Miranda
+        bowler: Camila Valdes
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 5.8:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MPA Miranda
+    - 5.9:
+        non_striker: EFB Estrada
+        bowler: Camila Valdes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPA Miranda
+    - 6.1:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MPA Miranda
+    - 6.2:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 6.3:
+        non_striker: MPA Miranda
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 6.4:
+        non_striker: EFB Estrada
+        bowler: Sofia Mardones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPA Miranda

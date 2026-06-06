@@ -1,0 +1,2210 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2559
+  outcome:
+    winner: Scotland
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - DEM Carter
+  players:
+    Scotland:
+    - DEM Carter
+    - A Lister
+    - EL Watson
+    - SJ Bryce
+    - M McColl
+    - PA Chatterji
+    - R Slater
+    - C Abel
+    - AH Maqsood
+    - O Bell
+    - MA Parker
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - R Musamali
+    - S Nampiina
+    - P Alako
+    - K Awino
+    - M Ariokot
+    - C Aweko
+    - K Amuge
+    - S Akiteng
+  registry:
+    people:
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      C Abel: d92d3563
+      C Aweko: 01c1b96c
+      DEM Carter: c3394c16
+      Dolly Rani: 2821c99e
+      E Iloku: f1fa1c6b
+      EL Watson: 45dd7433
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      M Abbott: 3e5f0c04
+      M Ariokot: c328bc6c
+      M McColl: d5fa2ab3
+      MA Parker: 74d21854
+      O Bell: 385eac52
+      P Alako: fcf37e14
+      PA Chatterji: 8e7be59c
+      R Musamali: 017cadb2
+      R Slater: 8a452195
+      S Akiteng: cf92d76b
+      S Nampiina: 91d9aa26
+      SJ Bryce: 2ca65aee
+      Saleema Imtiaz: d17d21d5
+      T Semmens: 3b471aa4
+  teams:
+  - Scotland
+  - Uganda
+  toss:
+    winner: Scotland
+    decision: bat
+  umpires:
+  - Dolly Rani
+  - Saleema Imtiaz
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.3:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.4:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.5:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.6:
+        non_striker: A Lister
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 1.1:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          kind: bowled
+    - 1.2:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 1.3:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.4:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.5:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 1.6:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.1:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 2.2:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 2.3:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 2.5:
+        non_striker: EL Watson
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.1:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.2:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.3:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.4:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 3.5:
+        non_striker: EL Watson
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.6:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 4.1:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.2:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.3:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 4.4:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 4.5:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.6:
+        non_striker: EL Watson
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.1:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 5.2:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EL Watson
+    - 5.3:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 5.4:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 5.5:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Watson
+    - 5.6:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Watson
+    - 5.7:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+        wicket:
+          player_out: EL Watson
+          fielders:
+          - I Nakisuuyi
+          kind: caught
+    - 6.1:
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Bryce
+        batsman: DEM Carter
+    - 6.2:
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: SJ Bryce
+        batsman: DEM Carter
+    - 6.3:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 6.6:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.7:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.8:
+        non_striker: DEM Carter
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.9:
+        non_striker: SJ Bryce
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.1:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.2:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.3:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.5:
+        non_striker: SJ Bryce
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DEM Carter
+    - 8.3:
+        non_striker: SJ Bryce
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - S Akiteng
+          kind: caught
+    - 8.6:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 9.1:
+        non_striker: M McColl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.2:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 9.3:
+        non_striker: M McColl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.4:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 9.6:
+        non_striker: M McColl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.1:
+        non_striker: M McColl
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.2:
+        non_striker: M McColl
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 10.3:
+        non_striker: M McColl
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.4:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 10.5:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 10.6:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 11.1:
+        non_striker: M McColl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 11.2:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M McColl
+    - 11.3:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 11.4:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 11.5:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 11.6:
+        non_striker: DEM Carter
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 11.7:
+        non_striker: M McColl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 12.1:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 12.2:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 12.3:
+        non_striker: M McColl
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 12.4:
+        non_striker: M McColl
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 12.5:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 12.6:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 13.1:
+        non_striker: M McColl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 13.2:
+        non_striker: M McColl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 13.3:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 13.4:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 13.5:
+        non_striker: M McColl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 13.6:
+        non_striker: M McColl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 14.1:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 14.2:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 14.3:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 14.4:
+        non_striker: DEM Carter
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 14.5:
+        non_striker: M McColl
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 14.6:
+        non_striker: M McColl
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 15.1:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          fielders:
+          - K Awino
+          kind: stumped
+    - 15.2:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.3:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.4:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          kind: lbw
+    - 15.5:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 15.6:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+        wicket:
+          player_out: R Slater
+          fielders:
+          - K Awino
+          - S Akiteng
+          kind: run out
+    - 16.1:
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Abel
+        batsman: DEM Carter
+    - 16.2:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+    - 16.3:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+    - 16.4:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Abel
+        wicket:
+          player_out: C Abel
+          fielders:
+          - K Awino
+          - M Ariokot
+          kind: run out
+    - 16.5:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+    - 16.6:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+        wicket:
+          player_out: AH Maqsood
+          kind: bowled
+    - 17.1:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Bell
+        batsman: DEM Carter
+    - 17.2:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bell
+    - 17.3:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bell
+    - 17.4:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bell
+    - 17.5:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bell
+    - 17.6:
+        non_striker: DEM Carter
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Bell
+        wicket:
+          player_out: O Bell
+          fielders:
+          - J Mbabazi
+          - M Ariokot
+          kind: run out
+    - 18.1:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Parker
+    - 18.2:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Parker
+    - 18.3:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Parker
+    - 18.4:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Parker
+    - 18.5:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Parker
+    - 18.6:
+        non_striker: MA Parker
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 18.7:
+        non_striker: DEM Carter
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Parker
+    - 19.1:
+        non_striker: MA Parker
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 19.2:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Parker
+    - 19.3:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Parker
+    - 19.4:
+        non_striker: MA Parker
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 19.5:
+        non_striker: DEM Carter
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Parker
+    - 19.6:
+        non_striker: MA Parker
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        non_striker: E Iloku
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          kind: lbw
+    - 0.3:
+        non_striker: E Iloku
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 0.4:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.5:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.6:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.1:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.2:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.3:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.4:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.5:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.6:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.1:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.2:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.3:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.4:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.5:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Iloku
+    - 2.6:
+        non_striker: I Nakisuuyi
+        bowler: MA Parker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.1:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 3.2:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 3.3:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: I Nakisuuyi
+    - 3.4:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 3.5:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.6:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.1:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 4.2:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Iloku
+    - 4.3:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.4:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 4.5:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.6:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 5.1:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 5.2:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.3:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 5.4:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 5.5:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 5.6:
+        non_striker: I Nakisuuyi
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 5.7:
+        non_striker: E Iloku
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.1:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 6.2:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 6.3:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 6.4:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.5:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Nakisuuyi
+    - 6.6:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 6.7:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 6.8:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 7.1:
+        non_striker: E Iloku
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 7.2:
+        non_striker: E Iloku
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.3:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 7.4:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 7.5:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 7.6:
+        non_striker: E Iloku
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.1:
+        non_striker: I Nakisuuyi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 8.2:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 8.3:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.4:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 8.5:
+        non_striker: I Nakisuuyi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 8.6:
+        non_striker: E Iloku
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 9.1:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 9.2:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 9.3:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 9.4:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 9.5:
+        non_striker: E Iloku
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 9.6:
+        non_striker: I Nakisuuyi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 10.1:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 10.2:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 10.3:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 10.4:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 10.5:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 10.6:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 10.7:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 10.8:
+        non_striker: E Iloku
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.1:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 11.2:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          fielders:
+          - EL Watson
+          kind: caught
+    - 11.3:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 11.4:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 11.5:
+        non_striker: I Nakisuuyi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 11.6:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.7:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 12.1:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.2:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 12.3:
+        non_striker: R Musamali
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 12.4:
+        non_striker: R Musamali
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 12.5:
+        non_striker: R Musamali
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 12.6:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.7:
+        non_striker: I Nakisuuyi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.1:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 13.2:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 13.3:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 13.4:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 13.5:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 13.6:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 14.1:
+        non_striker: R Musamali
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 14.2:
+        non_striker: R Musamali
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: S Nampiina
+          kind: lbw
+    - 14.3:
+        non_striker: R Musamali
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 14.4:
+        non_striker: P Alako
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 14.5:
+        non_striker: P Alako
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 14.6:
+        non_striker: P Alako
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 15.1:
+        non_striker: P Alako
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 15.2:
+        non_striker: P Alako
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 15.3:
+        non_striker: P Alako
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 15.4:
+        non_striker: P Alako
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 15.5:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 15.6:
+        non_striker: R Musamali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.1:
+        non_striker: P Alako
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 16.2:
+        non_striker: R Musamali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.3:
+        non_striker: R Musamali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.4:
+        non_striker: R Musamali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 16.5:
+        non_striker: P Alako
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 16.6:
+        non_striker: P Alako
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 17.1:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.2:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 17.3:
+        non_striker: P Alako
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 17.4:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 17.5:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.6:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 18.1:
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Awino
+        batsman: R Musamali
+    - 18.2:
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Awino
+        batsman: R Musamali
+    - 18.3:
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Awino
+        batsman: R Musamali
+    - 18.4:
+        non_striker: R Musamali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 18.5:
+        non_striker: K Awino
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 18.6:
+        non_striker: R Musamali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 19.1:
+        non_striker: K Awino
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 19.2:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          kind: lbw
+    - 19.3:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ariokot
+    - 19.4:
+        non_striker: M Ariokot
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 19.5:
+        non_striker: R Musamali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ariokot
+    - 19.6:
+        non_striker: M Ariokot
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali

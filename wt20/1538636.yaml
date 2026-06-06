@@ -1,0 +1,1721 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-05-29'
+  gender: female
+  match_type: T20
+  match_type_number: 2785
+  outcome:
+    winner: Oman
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - J Gunasekar
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - Abeera Waris
+    - HMD Rasangika
+    - Sweeta Corda
+    - Sana Butt
+    - Saee Parkhi
+    - Sara Vivek
+    - Reema Naseer
+    - RL D'Souza
+    - Nipuni Nadeera
+    - Dilum Fernando
+    Oman:
+    - J Gunasekar
+    - N Joshi
+    - Fiza
+    - Sameera Khan
+    - PE Mendonca
+    - A Dcosta
+    - CM Saldanha
+    - Alifiya Sayed
+    - Afida Afthab
+    - Javed Hina
+    - SA Sathiya
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      Abeera Waris: '01396dc6'
+      Afida Afthab: 9446598e
+      Alifiya Sayed: '81423620'
+      CM Saldanha: aee1bc06
+      Dilum Fernando: f6ba97c6
+      Fiza: c7c60bc5
+      HMD Rasangika: d6f9dfd6
+      J Gunasekar: e50c13a5
+      Javed Hina: a487762e
+      N Joshi: cfece11f
+      Nipuni Nadeera: 9e193ebd
+      PE Mendonca: 70bab30b
+      RL D'Souza: 2d0b7057
+      Reema Naseer: 6b999fbe
+      SA Sathiya: 1ba007d8
+      Saee Parkhi: b60682f2
+      Sameera Khan: 237baa2c
+      Sana Butt: 0f49b970
+      Sara Vivek: 8ff4ef0e
+      Sweeta Corda: 3ab9a451
+      TI Gajanayake: d577d45a
+  teams:
+  - Bahrain
+  - Oman
+  toss:
+    winner: Bahrain
+    decision: bat
+  venue: Selangor Turf Club, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeera Waris
+        batsman: TI Gajanayake
+    - 0.2:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abeera Waris
+        batsman: TI Gajanayake
+    - 0.3:
+        non_striker: TI Gajanayake
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 0.4:
+        non_striker: TI Gajanayake
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeera Waris
+    - 0.5:
+        non_striker: TI Gajanayake
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 0.6:
+        non_striker: TI Gajanayake
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abeera Waris
+    - 0.7:
+        non_striker: TI Gajanayake
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+        wicket:
+          player_out: Abeera Waris
+          kind: bowled
+    - 1.1:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.2:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.3:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          kind: bowled
+    - 1.4:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 1.5:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sweeta Corda
+    - 1.6:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 1.7:
+        non_striker: Sweeta Corda
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.1:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 2.2:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 2.3:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 2.4:
+        non_striker: Sweeta Corda
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.5:
+        non_striker: Sweeta Corda
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 2.6:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 2.7:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 3.1:
+        non_striker: Sweeta Corda
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 3.2:
+        non_striker: Sweeta Corda
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 3.3:
+        non_striker: Sweeta Corda
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.4:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+        wicket:
+          player_out: Sweeta Corda
+          fielders:
+          - Sameera Khan
+          kind: caught
+    - 3.5:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 3.6:
+        non_striker: HMD Rasangika
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 4.1:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 4.2:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.3:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.4:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.5:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.6:
+        non_striker: Sana Butt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 4.7:
+        non_striker: HMD Rasangika
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 5.1:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.2:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 5.3:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.4:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.5:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.6:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.1:
+        non_striker: Sana Butt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 6.2:
+        non_striker: Sana Butt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.3:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 6.4:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 6.5:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 6.6:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 7.1:
+        non_striker: Sana Butt
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 7.2:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 7.3:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 7.4:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+        wicket:
+          player_out: Sana Butt
+          kind: bowled
+    - 7.5:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 7.6:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 8.1:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 8.2:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 8.3:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 8.4:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 8.5:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 8.6:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 9.1:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 9.2:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 9.3:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 9.4:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 9.5:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 9.6:
+        non_striker: Saee Parkhi
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 10.1:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 10.2:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 10.3:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 10.4:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 10.5:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 10.6:
+        non_striker: Saee Parkhi
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 11.1:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 11.2:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+        wicket:
+          player_out: Saee Parkhi
+          fielders:
+          - Afida Afthab
+          kind: caught
+    - 11.3:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 11.4:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 11.5:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 11.6:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.1:
+        non_striker: Sara Vivek
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 12.2:
+        non_striker: Sara Vivek
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HMD Rasangika
+    - 12.3:
+        non_striker: Sara Vivek
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 12.4:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sara Vivek
+    - 12.5:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.6:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.7:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.8:
+        non_striker: HMD Rasangika
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+        wicket:
+          player_out: Sara Vivek
+          fielders:
+          - J Gunasekar
+          kind: caught
+    - 13.1:
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: HMD Rasangika
+    - 13.2:
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: HMD Rasangika
+    - 13.3:
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Reema Naseer
+        batsman: HMD Rasangika
+    - 13.4:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 13.5:
+        non_striker: Reema Naseer
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 13.6:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 14.1:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 14.2:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 14.3:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.4:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 14.5:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 14.6:
+        non_striker: Reema Naseer
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 15.1:
+        non_striker: Reema Naseer
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 15.2:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 15.3:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 15.4:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 15.5:
+        non_striker: HMD Rasangika
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 15.6:
+        non_striker: Reema Naseer
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: Reema Naseer
+          fielders:
+          - CM Saldanha
+          - Afida Afthab
+          kind: run out
+    - 16.1:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 16.2:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL D'Souza
+    - 16.3:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 16.4:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 16.5:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 16.6:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 17.1:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 17.2:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 17.3:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 17.4:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 17.5:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 17.6:
+        non_striker: RL D'Souza
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 18.1:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 18.2:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL D'Souza
+    - 18.3:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 18.4:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL D'Souza
+    - 18.5:
+        non_striker: RL D'Souza
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 18.6:
+        non_striker: HMD Rasangika
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+        wicket:
+          player_out: RL D'Souza
+          kind: bowled
+    - 19.1:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nipuni Nadeera
+        batsman: HMD Rasangika
+    - 19.2:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nipuni Nadeera
+        batsman: HMD Rasangika
+    - 19.3:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nipuni Nadeera
+    - 19.4:
+        non_striker: Nipuni Nadeera
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 19.5:
+        non_striker: Nipuni Nadeera
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 19.6:
+        non_striker: HMD Rasangika
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nipuni Nadeera
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.2:
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.3:
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.4:
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.5:
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.6:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 0.7:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Joshi
+    - 0.8:
+        non_striker: N Joshi
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 0.9:
+        non_striker: N Joshi
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Gunasekar
+    - 0.10:
+        non_striker: N Joshi
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.1:
+        non_striker: N Joshi
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Gunasekar
+    - 1.2:
+        non_striker: N Joshi
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.3:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Joshi
+    - 1.4:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.5:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.6:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Joshi
+    - 1.7:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+        wicket:
+          player_out: N Joshi
+          fielders:
+          - HMD Rasangika
+          kind: caught
+    - 2.1:
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.2:
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.3:
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.4:
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.5:
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.6:
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.7:
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fiza
+        batsman: J Gunasekar
+    - 2.8:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.1:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 3.2:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 3.3:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.4:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.5:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 3.6:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 4.1:
+        non_striker: Fiza
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 4.2:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 4.3:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 4.4:
+        non_striker: Fiza
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 4.5:
+        non_striker: Fiza
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 4.6:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 4.7:
+        non_striker: Fiza
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 5.1:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 5.2:
+        non_striker: Fiza
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 5.3:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 5.4:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 5.5:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 5.6:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 5.7:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 6.1:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 6.2:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 6.3:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 6.4:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 6.5:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 6.6:
+        non_striker: J Gunasekar
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 6.7:
+        non_striker: Fiza
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 7.1:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fiza
+    - 7.2:
+        non_striker: Fiza
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 7.3:
+        non_striker: Fiza
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 7.4:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 7.5:
+        non_striker: Fiza
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 7.6:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 7.7:
+        non_striker: J Gunasekar
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 8.1:
+        non_striker: Fiza
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 8.2:
+        non_striker: Fiza
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 8.3:
+        non_striker: Fiza
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 8.4:
+        non_striker: Fiza
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 8.5:
+        non_striker: Fiza
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 8.6:
+        non_striker: J Gunasekar
+        bowler: Dilum Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 8.7:
+        non_striker: J Gunasekar
+        bowler: Dilum Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 9.1:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Gunasekar
+    - 9.2:
+        non_striker: J Gunasekar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 9.3:
+        non_striker: Fiza
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar

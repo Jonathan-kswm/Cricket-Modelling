@@ -1,0 +1,936 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: St George's
+  dates:
+  - '2026-02-28'
+  gender: female
+  match_type: T20
+  match_type_number: 2679
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    West Indies:
+    - HK Matthews
+    - Q Joseph
+    - JKC Claxton
+    - SR Taylor
+    - DJS Dottin
+    - CA Henry
+    - SA Campbelle
+    - J Glasgow
+    - AA Alleyne
+    - ASS Fletcher
+    - K Ramharack
+    Sri Lanka:
+    - AC Jayangani
+    - GWHM Perera
+    - RMVD Gunaratne
+    - H Madavi
+    - NND de Silva
+    - R Sewwandi
+    - M Madara
+    - I Ranaweera
+    - BMSM Kumari
+    - I Dulani
+    - WK Dilhari
+  registry:
+    people:
+      AA Alleyne: 4b0e3049
+      AC Jayangani: ac56b5a7
+      ASS Fletcher: 42d9dd09
+      BMSM Kumari: b55fb828
+      C La Borde: 32157f67
+      CA Henry: '75820733'
+      DJS Dottin: 53bee17f
+      Denavon Hayles: 5cbeeb02
+      GWHM Perera: 53068b45
+      H Madavi: 85021bcd
+      HK Matthews: d32cf49a
+      I Dulani: a2c23f31
+      I Ranaweera: a61850e6
+      J Glasgow: a2632c7c
+      JKC Claxton: e22f8ec1
+      JM Williams: b61d9d70
+      K Ramharack: 321c980e
+      M Abbott: 3e5f0c04
+      M Madara: ecbcfef6
+      NND de Silva: f0b4294e
+      Q Joseph: d6164dc0
+      R Sewwandi: c88d3ef1
+      RMVD Gunaratne: 9e866b59
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      VG Rathi: 144e5b16
+      WK Dilhari: c34a15e6
+  teams:
+  - West Indies
+  - Sri Lanka
+  toss:
+    winner: West Indies
+    decision: bat
+  umpires:
+  - M Abbott
+  - VG Rathi
+  venue: National Cricket Stadium, St George's, Grenada
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: Q Joseph
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 0.7:
+        non_striker: HK Matthews
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 1.1:
+        non_striker: Q Joseph
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q Joseph
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Joseph
+    - 1.6:
+        non_striker: Q Joseph
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+        wicket:
+          player_out: Q Joseph
+          fielders:
+          - GWHM Perera
+          kind: caught
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKC Claxton
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JKC Claxton
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKC Claxton
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKC Claxton
+    - 3.1:
+        non_striker: JKC Claxton
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: JKC Claxton
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: bowled
+    - 3.3:
+        non_striker: JKC Claxton
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.4:
+        non_striker: JKC Claxton
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 3.5:
+        non_striker: SR Taylor
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKC Claxton
+    - 3.6:
+        non_striker: SR Taylor
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JKC Claxton
+    - 4.1:
+        non_striker: JKC Claxton
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+        wicket:
+          player_out: JKC Claxton
+          fielders:
+          - GWHM Perera
+          - WK Dilhari
+          kind: run out
+    - 4.2:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - I Dulani
+          kind: caught
+    - 4.3:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 4.4:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 4.5:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 4.6:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.1:
+        non_striker: SR Taylor
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 5.2:
+        non_striker: SR Taylor
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 5.3:
+        non_striker: CA Henry
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.4:
+        non_striker: CA Henry
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 5.5:
+        non_striker: SR Taylor
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 5.6:
+        non_striker: CA Henry
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - RMVD Gunaratne
+          kind: caught
+    - 6.1:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 6.2:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+        wicket:
+          player_out: CA Henry
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 6.3:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Glasgow
+    - 6.4:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Glasgow
+    - 6.5:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Glasgow
+    - 6.6:
+        non_striker: SA Campbelle
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Glasgow
+        wicket:
+          player_out: J Glasgow
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 7.1:
+        non_striker: AA Alleyne
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 7.2:
+        non_striker: SA Campbelle
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 7.3:
+        non_striker: SA Campbelle
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 7.4:
+        non_striker: SA Campbelle
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 7.5:
+        non_striker: SA Campbelle
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 7.6:
+        non_striker: AA Alleyne
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 8.1:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 8.2:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 8.3:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Alleyne
+    - 8.4:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 8.5:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 8.6:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 9.1:
+        non_striker: AA Alleyne
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.2:
+        non_striker: AA Alleyne
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 9.3:
+        non_striker: SA Campbelle
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 9.4:
+        non_striker: SA Campbelle
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 9.5:
+        non_striker: SA Campbelle
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 9.6:
+        non_striker: AA Alleyne
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 10.1:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.2:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.3:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.4:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.5:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.6:
+        non_striker: AA Alleyne
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 11.1:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 11.2:
+        non_striker: SA Campbelle
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 11.3:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 11.4:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 11.5:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+        wicket:
+          player_out: ASS Fletcher
+          kind: bowled
+    - 11.6:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ramharack
+    - 12.1:
+        non_striker: AA Alleyne
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 12.2:
+        non_striker: AA Alleyne
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ramharack
+    - 12.3:
+        non_striker: K Ramharack
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 12.4:
+        non_striker: K Ramharack
+        bowler: M Madara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Alleyne
+    - 12.5:
+        non_striker: K Ramharack
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 12.6:
+        non_striker: K Ramharack
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 12.7:
+        non_striker: K Ramharack
+        bowler: M Madara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 13.1:
+        non_striker: K Ramharack
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 13.2:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 13.3:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+        wicket:
+          player_out: K Ramharack
+          kind: bowled
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 0.2:
+        non_striker: GWHM Perera
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.3:
+        non_striker: GWHM Perera
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 0.5:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.1:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: GWHM Perera
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 2.4:
+        non_striker: GWHM Perera
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: GWHM Perera
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani

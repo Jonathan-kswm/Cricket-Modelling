@@ -1,0 +1,2457 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2025-07-19'
+  gender: female
+  match_type: T20
+  match_type_number: 2402
+  outcome:
+    winner: Finland
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - S Sheridan
+  players:
+    Estonia:
+    - G Madanayake
+    - A Vessik
+    - C Lokuge
+    - Viktoria Frey
+    - E Ellermaa
+    - M Valner
+    - B Wani
+    - Ragne Hallik
+    - L Sormus
+    - Asma Shifa
+    - H Kerge
+    Finland:
+    - S Sheridan
+    - R Khullar
+    - D Unhale
+    - T Mulepati
+    - L Martin
+    - H Nguyen
+    - M Stolt
+    - A Khullar
+    - P Bhandari
+    - M Saastamoinen
+    - H Dassanayake
+  registry:
+    people:
+      A Khullar: 9efc1ea4
+      A Vessik: d30d4a0c
+      Asma Shifa: 39ca91e4
+      B Wani: a651cd4d
+      C Lokuge: f805e474
+      D Unhale: efea55e5
+      E Ellermaa: 37c085d2
+      G Madanayake: cc72f8df
+      H Dassanayake: f6037e49
+      H Kerge: 76207d36
+      H Nguyen: 8047ca8c
+      L Martin: 1c19e5eb
+      L Sormus: 3486a171
+      M Saastamoinen: 5b1a4ff7
+      M Stolt: e7cae029
+      M Valner: b5472435
+      P Bhandari: ddd411e0
+      R Khullar: 76a5e857
+      Ragne Hallik: 1ac4b030
+      S Sheridan: 2d093c80
+      SB Ravindra: 394ba7a8
+      T Koralage: f81e1875
+      T Mulepati: cb83a7df
+      VR Seeshadri: 2dcfdef1
+      Viktoria Frey: fed9a316
+  teams:
+  - Estonia
+  - Finland
+  toss:
+    winner: Finland
+    decision: field
+  umpires:
+  - SB Ravindra
+  - VR Seeshadri
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: R Khullar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.2:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 0.3:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 0.4:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 0.5:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 0.6:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 0.7:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 0.8:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 1.1:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 1.2:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 1.3:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 1.4:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Madanayake
+    - 1.5:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 1.6:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 1.7:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 1.8:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 1.9:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 1.10:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 1.11:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vessik
+    - 2.1:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 2.2:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Madanayake
+    - 2.3:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 2.4:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Madanayake
+    - 2.5:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 2.6:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 2.7:
+        non_striker: G Madanayake
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 2.8:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 2.9:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 2.10:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 2.11:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 2.12:
+        non_striker: A Vessik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Madanayake
+    - 3.1:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 3.2:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 3.3:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 3.4:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Madanayake
+    - 3.5:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 3.6:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 3.7:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vessik
+    - 4.1:
+        non_striker: A Vessik
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 4.2:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 4.3:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 4.4:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 4.5:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 4.6:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 4.7:
+        non_striker: G Madanayake
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 4.8:
+        non_striker: A Vessik
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 5.1:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 5.2:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 5.3:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 5.4:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+        wicket:
+          player_out: A Vessik
+          fielders:
+          - S Sheridan
+          - L Martin
+          kind: run out
+    - 5.5:
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Lokuge
+        batsman: G Madanayake
+    - 5.6:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+        wicket:
+          player_out: G Madanayake
+          fielders:
+          - S Sheridan
+          kind: caught
+    - 6.1:
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Viktoria Frey
+        batsman: C Lokuge
+    - 6.2:
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Viktoria Frey
+        batsman: C Lokuge
+    - 6.3:
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Viktoria Frey
+        batsman: C Lokuge
+    - 6.4:
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Viktoria Frey
+        batsman: C Lokuge
+    - 6.5:
+        non_striker: C Lokuge
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 6.6:
+        non_striker: C Lokuge
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 6.7:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.8:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Lokuge
+    - 6.9:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.10:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.11:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 6.12:
+        non_striker: Viktoria Frey
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 7.1:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 7.2:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 7.3:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 7.4:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Viktoria Frey
+    - 7.5:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 7.6:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 8.1:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 8.2:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 8.3:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 8.4:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 8.5:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 8.6:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 8.7:
+        non_striker: C Lokuge
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 8.8:
+        non_striker: C Lokuge
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Viktoria Frey
+    - 8.9:
+        non_striker: C Lokuge
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 9.1:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 9.2:
+        non_striker: C Lokuge
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 9.3:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 9.4:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 9.5:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 9.6:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 9.7:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+        wicket:
+          player_out: C Lokuge
+          fielders:
+          - S Sheridan
+          kind: caught
+    - 9.8:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 9.9:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 9.10:
+        non_striker: Viktoria Frey
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 10.1:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 10.2:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+        wicket:
+          player_out: E Ellermaa
+          fielders:
+          - H Nguyen
+          kind: stumped
+    - 10.3:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 10.4:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 10.5:
+        non_striker: Viktoria Frey
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+        wicket:
+          player_out: Viktoria Frey
+          fielders:
+          - S Sheridan
+          - T Mulepati
+          kind: run out
+    - 10.6:
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: M Valner
+        wicket:
+          player_out: M Valner
+          fielders:
+          - S Sheridan
+          - T Mulepati
+          kind: run out
+    - 10.7:
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ragne Hallik
+        batsman: B Wani
+    - 10.8:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 11.1:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 11.2:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 11.3:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 11.4:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 11.5:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Wani
+    - 11.6:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 12.1:
+        non_striker: B Wani
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 12.2:
+        non_striker: B Wani
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 12.3:
+        non_striker: B Wani
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 12.4:
+        non_striker: B Wani
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 12.5:
+        non_striker: Ragne Hallik
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 12.6:
+        non_striker: Ragne Hallik
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 12.7:
+        non_striker: Ragne Hallik
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 13.1:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 13.2:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 13.3:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 13.4:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 13.5:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 13.6:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 13.7:
+        non_striker: B Wani
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 14.1:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Wani
+    - 14.2:
+        non_striker: B Wani
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 14.3:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+        wicket:
+          player_out: B Wani
+          kind: bowled
+    - 14.4:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 14.5:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 14.6:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 15.1:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 15.2:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 15.3:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 15.4:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 15.5:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 15.6:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 16.1:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 16.2:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 16.3:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 16.4:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 16.5:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 16.6:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 16.7:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 16.8:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ragne Hallik
+    - 16.9:
+        non_striker: Ragne Hallik
+        bowler: A Khullar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Sormus
+    - 16.10:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 16.11:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 16.12:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 16.13:
+        non_striker: L Sormus
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 17.1:
+        non_striker: Ragne Hallik
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sormus
+    - 17.2:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 17.3:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 17.4:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 17.5:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 17.6:
+        non_striker: L Sormus
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 18.1:
+        non_striker: Ragne Hallik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sormus
+    - 18.2:
+        non_striker: L Sormus
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 18.3:
+        non_striker: L Sormus
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 18.4:
+        non_striker: Ragne Hallik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Sormus
+    - 18.5:
+        non_striker: Ragne Hallik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+        wicket:
+          player_out: L Sormus
+          fielders:
+          - L Martin
+          kind: caught
+    - 18.6:
+        non_striker: Ragne Hallik
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+    - 18.7:
+        non_striker: Ragne Hallik
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Asma Shifa
+    - 19.1:
+        non_striker: Ragne Hallik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asma Shifa
+    - 19.2:
+        non_striker: Ragne Hallik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+    - 19.3:
+        non_striker: Ragne Hallik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+        wicket:
+          player_out: Ragne Hallik
+          fielders:
+          - T Mulepati
+          - L Martin
+          kind: run out
+    - 19.4:
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: H Kerge
+        batsman: Asma Shifa
+    - 19.5:
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Kerge
+        batsman: Asma Shifa
+        wicket:
+          player_out: Asma Shifa
+          fielders:
+          - L Martin
+          - H Nguyen
+          kind: run out
+- 2nd innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: R Khullar
+        batsman: S Sheridan
+    - 0.2:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: R Khullar
+    - 0.3:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Khullar
+    - 0.4:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 0.5:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Khullar
+    - 0.6:
+        non_striker: R Khullar
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 0.7:
+        non_striker: R Khullar
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sheridan
+    - 0.8:
+        non_striker: R Khullar
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 1.1:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.2:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.3:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Khullar
+    - 1.4:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.5:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.6:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 1.7:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Khullar
+    - 1.8:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Khullar
+    - 2.1:
+        non_striker: R Khullar
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 2.2:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: R Khullar
+    - 2.3:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 2.4:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Khullar
+    - 2.5:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.6:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Khullar
+    - 2.7:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.8:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Khullar
+    - 2.9:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 3.1:
+        non_striker: R Khullar
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 3.2:
+        non_striker: R Khullar
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sheridan
+    - 3.3:
+        non_striker: R Khullar
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 3.4:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Khullar
+    - 3.5:
+        non_striker: S Sheridan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 3.6:
+        non_striker: R Khullar
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 4.1:
+        non_striker: S Sheridan
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 4.2:
+        non_striker: S Sheridan
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 4.3:
+        non_striker: S Sheridan
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Khullar
+    - 4.4:
+        non_striker: S Sheridan
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 4.5:
+        non_striker: S Sheridan
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 4.6:
+        non_striker: R Khullar
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sheridan
+    - 4.7:
+        non_striker: R Khullar
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 5.1:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 5.2:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Khullar
+    - 5.3:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 5.4:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 5.5:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Khullar
+    - 5.6:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 5.7:
+        non_striker: R Khullar
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 5.8:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 5.9:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+        wicket:
+          player_out: R Khullar
+          fielders:
+          - H Kerge
+          kind: caught
+    - 6.1:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Unhale
+        batsman: S Sheridan
+    - 6.2:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Unhale
+        batsman: S Sheridan
+    - 6.3:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Unhale
+        batsman: S Sheridan
+    - 6.4:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Unhale
+        batsman: S Sheridan
+    - 6.5:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Unhale
+        batsman: S Sheridan
+    - 6.6:
+        non_striker: D Unhale
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 7.1:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 7.2:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 7.3:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 7.4:
+        non_striker: D Unhale
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Sheridan
+    - 7.5:
+        non_striker: S Sheridan
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 7.6:
+        non_striker: D Unhale
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sheridan
+    - 7.7:
+        non_striker: D Unhale
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 8.1:
+        non_striker: S Sheridan
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 8.2:
+        non_striker: S Sheridan
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 8.3:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sheridan
+    - 8.4:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sheridan
+    - 8.5:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+        wicket:
+          player_out: S Sheridan
+          fielders:
+          - B Wani
+          kind: caught
+    - 8.6:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.7:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.8:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.9:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.10:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 9.1:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.2:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 9.3:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 9.4:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 9.5:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.6:
+        non_striker: T Mulepati
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 9.7:
+        non_striker: D Unhale
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.1:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 10.2:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.3:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 10.4:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 10.5:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 10.6:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 11.1:
+        non_striker: T Mulepati
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.2:
+        non_striker: T Mulepati
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.3:
+        non_striker: T Mulepati
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 11.4:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+        wicket:
+          player_out: T Mulepati
+          fielders:
+          - B Wani
+          kind: run out
+    - 11.5:
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Martin
+        batsman: D Unhale
+    - 11.6:
+        non_striker: L Martin
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 12.1:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Martin
+    - 12.2:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 12.3:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 12.4:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 12.5:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Martin
+    - 12.6:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 13.1:
+        non_striker: L Martin
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 13.2:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 13.3:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 13.4:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Martin
+    - 13.5:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Martin
+    - 13.6:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 13.7:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 13.8:
+        non_striker: D Unhale
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Martin
+    - 14.1:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Martin
+    - 14.2:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 14.3:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Martin
+    - 14.4:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 14.5:
+        non_striker: L Martin
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 14.6:
+        non_striker: D Unhale
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 15.1:
+        non_striker: L Martin
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 15.2:
+        non_striker: L Martin
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale

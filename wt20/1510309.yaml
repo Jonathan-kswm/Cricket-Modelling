@@ -1,0 +1,1939 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2582
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - R Rijke
+  players:
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - R Musamali
+    - S Nampiina
+    - P Alako
+    - M Ariokot
+    - K Awino
+    - C Aweko
+    - K Amuge
+    - S Akiteng
+    Netherlands:
+    - IJR Zwilling
+    - P Molkenboer
+    - B de Leede
+    - SL Kalis
+    - R Rijke
+    - F Overdijk
+    - S Khurana
+    - MM Dekeling
+    - C de Lange
+    - I van der Woning
+    - S Siegers
+  registry:
+    people:
+      B de Leede: b3020075
+      C Aweko: 01c1b96c
+      C de Lange: c6a019f5
+      Champa Chakma: 4fc732f7
+      E Iloku: f1fa1c6b
+      F Overdijk: 022745d5
+      I Nakisuuyi: 2f145a4f
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      J Mbabazi: aaa6e84c
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      LDVV Silva: 6e226c31
+      M Ariokot: c328bc6c
+      MM Dekeling: 983a0c34
+      P Alako: fcf37e14
+      P Molkenboer: fa9db243
+      R Musamali: 017cadb2
+      R Rijke: 42e4b276
+      Rokeya Sultana: 20abf9b9
+      S Akiteng: cf92d76b
+      S Khurana: 9a9a056d
+      S Nampiina: 91d9aa26
+      S Siegers: 9a58f2c8
+      SL Kalis: 2b150c6b
+      SM Bartlett: 7ba18406
+  teams:
+  - Uganda
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - LDVV Silva
+  - Rokeya Sultana
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.3:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 0.4:
+        non_striker: E Iloku
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 0.5:
+        non_striker: E Iloku
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 0.6:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 1.1:
+        non_striker: J Mbabazi
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.2:
+        non_striker: J Mbabazi
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 1.3:
+        non_striker: E Iloku
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 1.4:
+        non_striker: J Mbabazi
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.5:
+        non_striker: J Mbabazi
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          fielders:
+          - B de Leede
+          kind: caught
+    - 1.6:
+        non_striker: J Mbabazi
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.1:
+        non_striker: I Nakisuuyi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.2:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 2.3:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.4:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.5:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.6:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: I Nakisuuyi
+    - 2.7:
+        non_striker: I Nakisuuyi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.1:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.2:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.3:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.4:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.5:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.6:
+        non_striker: J Mbabazi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 4.1:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 4.2:
+        non_striker: I Nakisuuyi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 4.3:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.4:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.5:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.6:
+        non_striker: J Mbabazi
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 5.1:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 5.2:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.3:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 5.4:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.5:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.6:
+        non_striker: I Nakisuuyi
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          kind: bowled
+    - 6.1:
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Musamali
+        batsman: I Nakisuuyi
+    - 6.2:
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Musamali
+        batsman: I Nakisuuyi
+    - 6.3:
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Musamali
+        batsman: I Nakisuuyi
+    - 6.4:
+        non_striker: I Nakisuuyi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 6.5:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 6.6:
+        non_striker: I Nakisuuyi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 7.1:
+        non_striker: I Nakisuuyi
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 7.2:
+        non_striker: I Nakisuuyi
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 7.3:
+        non_striker: I Nakisuuyi
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 7.4:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 7.5:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 7.6:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 8.1:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 8.2:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.3:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 8.4:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 8.5:
+        non_striker: I Nakisuuyi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 8.6:
+        non_striker: R Musamali
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - IJR Zwilling
+          kind: caught
+    - 9.1:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Nampiina
+        batsman: R Musamali
+    - 9.2:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Nampiina
+        batsman: R Musamali
+    - 9.3:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Nampiina
+        batsman: R Musamali
+    - 9.4:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 9.5:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 9.6:
+        non_striker: R Musamali
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 10.1:
+        non_striker: R Musamali
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 10.2:
+        non_striker: R Musamali
+        bowler: I van der Woning
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Nampiina
+    - 10.3:
+        non_striker: R Musamali
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 10.4:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 10.5:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: bowled
+    - 10.6:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 11.1:
+        non_striker: P Alako
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 11.2:
+        non_striker: P Alako
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 11.3:
+        non_striker: P Alako
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 11.4:
+        non_striker: P Alako
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 11.5:
+        non_striker: S Nampiina
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 11.6:
+        non_striker: S Nampiina
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 11.7:
+        non_striker: S Nampiina
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 12.1:
+        non_striker: S Nampiina
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 12.2:
+        non_striker: S Nampiina
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 12.3:
+        non_striker: S Nampiina
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 12.4:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 12.5:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 12.6:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 13.1:
+        non_striker: S Nampiina
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Alako
+    - 13.2:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 13.3:
+        non_striker: S Nampiina
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.4:
+        non_striker: S Nampiina
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 13.5:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 13.6:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 13.7:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 14.1:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Alako
+    - 14.2:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 14.3:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Nampiina
+    - 14.4:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 14.5:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 14.6:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 14.7:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 15.1:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 15.2:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 15.3:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 15.4:
+        non_striker: S Nampiina
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 15.5:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 15.6:
+        non_striker: P Alako
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 15.7:
+        non_striker: S Nampiina
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 16.1:
+        non_striker: S Nampiina
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.2:
+        non_striker: S Nampiina
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 16.3:
+        non_striker: S Nampiina
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.4:
+        non_striker: S Nampiina
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 16.5:
+        non_striker: P Alako
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 16.6:
+        non_striker: P Alako
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 17.1:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.2:
+        non_striker: S Nampiina
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 17.3:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 17.4:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 17.5:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 17.6:
+        non_striker: P Alako
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 18.1:
+        non_striker: S Nampiina
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 18.2:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 18.3:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 18.4:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 18.5:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 18.6:
+        non_striker: P Alako
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: S Nampiina
+          fielders:
+          - P Molkenboer
+          kind: caught
+    - 19.1:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Ariokot
+        batsman: P Alako
+    - 19.2:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Ariokot
+        batsman: P Alako
+    - 19.3:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: M Ariokot
+        batsman: P Alako
+    - 19.4:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Ariokot
+        batsman: P Alako
+    - 19.5:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ariokot
+        batsman: P Alako
+    - 19.6:
+        non_striker: M Ariokot
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          fielders:
+          - B de Leede
+          - I van der Woning
+          kind: run out
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Molkenboer
+        batsman: IJR Zwilling
+    - 0.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Molkenboer
+        batsman: IJR Zwilling
+    - 0.3:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Molkenboer
+        batsman: IJR Zwilling
+    - 0.4:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Molkenboer
+        batsman: IJR Zwilling
+    - 0.5:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Molkenboer
+        batsman: IJR Zwilling
+    - 0.6:
+        non_striker: P Molkenboer
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          kind: bowled
+    - 1.1:
+        bowler: C Aweko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.2:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.3:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.4:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.5:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.6:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B de Leede
+        batsman: P Molkenboer
+    - 1.7:
+        non_striker: B de Leede
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - J Mbabazi
+          kind: caught
+    - 2.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SL Kalis
+        batsman: B de Leede
+    - 2.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SL Kalis
+        batsman: B de Leede
+    - 2.3:
+        non_striker: B de Leede
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.4:
+        non_striker: B de Leede
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.5:
+        non_striker: B de Leede
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.6:
+        non_striker: B de Leede
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.1:
+        non_striker: B de Leede
+        bowler: C Aweko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 3.2:
+        non_striker: B de Leede
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.3:
+        non_striker: SL Kalis
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.4:
+        non_striker: SL Kalis
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 3.5:
+        non_striker: SL Kalis
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.6:
+        non_striker: SL Kalis
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 3.7:
+        non_striker: SL Kalis
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 4.1:
+        non_striker: B de Leede
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.2:
+        non_striker: B de Leede
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.3:
+        non_striker: B de Leede
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 4.4:
+        non_striker: B de Leede
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.5:
+        non_striker: SL Kalis
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 4.6:
+        non_striker: SL Kalis
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 4.7:
+        non_striker: SL Kalis
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.1:
+        non_striker: B de Leede
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.2:
+        non_striker: B de Leede
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.3:
+        non_striker: B de Leede
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.4:
+        non_striker: B de Leede
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.5:
+        non_striker: B de Leede
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.1:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 6.2:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.3:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.4:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.5:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.6:
+        non_striker: B de Leede
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.1:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - K Amuge
+          kind: caught
+    - 7.2:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 7.4:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 7.5:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.6:
+        non_striker: R Rijke
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.1:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 8.2:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.3:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.4:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 8.5:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.6:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 8.7:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 9.1:
+        non_striker: R Rijke
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.2:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 9.3:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.4:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.5:
+        non_striker: R Rijke
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.6:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.1:
+        non_striker: SL Kalis
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.2:
+        non_striker: R Rijke
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 10.3:
+        non_striker: SL Kalis
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 10.4:
+        non_striker: SL Kalis
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 10.5:
+        non_striker: SL Kalis
+        bowler: J Mbabazi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: R Rijke
+    - 10.6:
+        non_striker: SL Kalis
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.1:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 11.2:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 11.3:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 11.4:
+        non_striker: SL Kalis
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.5:
+        non_striker: R Rijke
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 11.6:
+        non_striker: R Rijke
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: R Rijke
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.2:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.3:
+        non_striker: R Rijke
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 12.4:
+        non_striker: R Rijke
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 12.5:
+        non_striker: R Rijke
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.6:
+        non_striker: SL Kalis
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.1:
+        non_striker: SL Kalis
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 13.2:
+        non_striker: SL Kalis
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 13.3:
+        non_striker: SL Kalis
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Rijke
+    - 13.4:
+        non_striker: R Rijke
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 13.5:
+        non_striker: R Rijke
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - I Nakisuuyi
+          kind: caught
+    - 13.6:
+        non_striker: R Rijke
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Overdijk
+    - 13.7:
+        non_striker: F Overdijk
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.1:
+        non_striker: R Rijke
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 14.2:
+        non_striker: R Rijke
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 14.3:
+        non_striker: F Overdijk
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 14.4:
+        non_striker: F Overdijk
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Rijke
+    - 14.5:
+        non_striker: F Overdijk
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 14.6:
+        non_striker: R Rijke
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Overdijk
+    - 14.7:
+        non_striker: F Overdijk
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke

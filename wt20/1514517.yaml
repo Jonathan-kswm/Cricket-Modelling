@@ -1,0 +1,2245 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2025-12-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2596
+  outcome:
+    winner: United Arab Emirates
+    by:
+      runs: 136
+  overs: 20
+  player_of_match:
+  - Rinitha Rajith
+  players:
+    United Arab Emirates:
+    - ER Oza
+    - Theertha Satish
+    - Keziah Miriam Sabin
+    - Rinitha Rajith
+    - MD Botha
+    - S Dharnidharka
+    - UCKA Dona
+    - I Nandakumar
+    - KC Thompson
+    - S Gokhale
+    - Vaishnave Mahesh
+    Qatar:
+    - S Krisheta
+    - Shahreeennawab
+    - SK Rana
+    - Aysha
+    - G Candiru
+    - CE Jacob
+    - MT Jacob
+    - Taful Elkhair
+    - Lihara Ayeysekara
+    - Roheed Akhtar
+    - Amina Kashif
+  registry:
+    people:
+      Amina Kashif: db077ead
+      Aysha: 37ceee4e
+      CE Jacob: '51426347'
+      ER Oza: fdc6b34d
+      G Candiru: fc2150f4
+      I Nandakumar: 9f87d0f0
+      KC Thompson: e381ae69
+      Keziah Miriam Sabin: b5b21b1d
+      Lihara Ayeysekara: 532c3f73
+      M Bhanushali: a7318ece
+      MD Botha: c2c7e58a
+      MT Jacob: f1750a74
+      R Mohan: ddd995e5
+      Rahat Ali: 458161f4
+      Ridwan Parkar: f7356421
+      Rinitha Rajith: 36ba7f0b
+      Roheed Akhtar: c24a759a
+      S Dharnidharka: f8b50da3
+      S Gokhale: '62653085'
+      S Krisheta: 41bb77bc
+      SK Rana: 47884f8e
+      Shahreeennawab: faa8843f
+      Taful Elkhair: 28086b4b
+      Theertha Satish: ee3dcb3f
+      UCKA Dona: caa99fcb
+      Vaishnave Mahesh: 31c56f40
+  teams:
+  - United Arab Emirates
+  - Qatar
+  toss:
+    winner: United Arab Emirates
+    decision: bat
+  umpires:
+  - M Bhanushali
+  - Ridwan Parkar
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+innings:
+- 1st innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.2:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+        wicket:
+          player_out: Theertha Satish
+          fielders:
+          - CE Jacob
+          kind: caught
+    - 0.3:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Keziah Miriam Sabin
+    - 0.4:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Keziah Miriam Sabin
+    - 0.5:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Keziah Miriam Sabin
+    - 0.6:
+        non_striker: Keziah Miriam Sabin
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 0.7:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Keziah Miriam Sabin
+    - 0.8:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Keziah Miriam Sabin
+    - 1.1:
+        non_striker: Keziah Miriam Sabin
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 1.2:
+        non_striker: Keziah Miriam Sabin
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 1.3:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Keziah Miriam Sabin
+    - 1.4:
+        non_striker: Keziah Miriam Sabin
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 1.5:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Keziah Miriam Sabin
+        wicket:
+          player_out: Keziah Miriam Sabin
+          kind: bowled
+    - 1.6:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 2.1:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 2.2:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 2.3:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 2.4:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 2.5:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 2.6:
+        non_striker: Rinitha Rajith
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 2.7:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 2.8:
+        non_striker: ER Oza
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 3.1:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 3.2:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 3.3:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 3.4:
+        non_striker: ER Oza
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 3.5:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 3.6:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+        wicket:
+          player_out: ER Oza
+          fielders:
+          - Roheed Akhtar
+          kind: caught
+    - 3.7:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 4.1:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 4.2:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rinitha Rajith
+    - 4.3:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 4.4:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 4.5:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 4.6:
+        non_striker: Rinitha Rajith
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Botha
+    - 4.7:
+        non_striker: Rinitha Rajith
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 4.8:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 4.9:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 4.10:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 4.11:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 4.12:
+        non_striker: MD Botha
+        bowler: Taful Elkhair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 5.1:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 5.2:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 5.3:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 5.4:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Botha
+    - 5.5:
+        non_striker: Rinitha Rajith
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 5.6:
+        non_striker: MD Botha
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rinitha Rajith
+    - 6.1:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 6.2:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 6.3:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Botha
+    - 6.4:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 6.5:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 6.6:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 7.1:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 7.2:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 7.3:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 7.4:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 7.5:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 7.6:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 8.1:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 8.2:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 8.3:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 8.4:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Botha
+    - 8.5:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 8.6:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 9.1:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 9.2:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 9.3:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 9.4:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 9.5:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 9.6:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 10.1:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 10.2:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 10.3:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 10.4:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 10.5:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 10.6:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 11.1:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 11.2:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 11.3:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 11.4:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Botha
+    - 11.5:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+    - 11.6:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 11.7:
+        non_striker: MD Botha
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 12.1:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 12.2:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 12.3:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 12.4:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 12.5:
+        non_striker: MD Botha
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 12.6:
+        non_striker: Rinitha Rajith
+        bowler: Roheed Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 13.1:
+        non_striker: Rinitha Rajith
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 13.2:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rinitha Rajith
+    - 13.3:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rinitha Rajith
+    - 13.4:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 13.5:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 13.6:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 14.1:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 14.2:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 14.3:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Botha
+    - 14.4:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 14.5:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 14.6:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 15.1:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 15.2:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 15.3:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 15.4:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rinitha Rajith
+    - 15.5:
+        non_striker: MD Botha
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 15.6:
+        non_striker: Rinitha Rajith
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 15.7:
+        non_striker: Rinitha Rajith
+        bowler: Lihara Ayeysekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Botha
+    - 16.1:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 16.2:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rinitha Rajith
+    - 16.3:
+        non_striker: MD Botha
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 16.4:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Botha
+        wicket:
+          player_out: MD Botha
+          kind: bowled
+    - 16.5:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dharnidharka
+    - 16.6:
+        non_striker: S Dharnidharka
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 17.1:
+        non_striker: S Dharnidharka
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rinitha Rajith
+    - 17.2:
+        non_striker: S Dharnidharka
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 17.3:
+        non_striker: Rinitha Rajith
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dharnidharka
+    - 17.4:
+        non_striker: S Dharnidharka
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 17.5:
+        non_striker: S Dharnidharka
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 17.6:
+        non_striker: S Dharnidharka
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rinitha Rajith
+    - 18.1:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dharnidharka
+    - 18.2:
+        non_striker: S Dharnidharka
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+    - 18.3:
+        non_striker: S Dharnidharka
+        bowler: Aysha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rinitha Rajith
+    - 18.4:
+        non_striker: S Dharnidharka
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 18.5:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dharnidharka
+    - 18.6:
+        non_striker: S Dharnidharka
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rinitha Rajith
+    - 18.7:
+        non_striker: Rinitha Rajith
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dharnidharka
+    - 19.1:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rinitha Rajith
+        wicket:
+          player_out: Rinitha Rajith
+          kind: bowled
+    - 19.2:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: UCKA Dona
+    - 19.3:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UCKA Dona
+    - 19.4:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UCKA Dona
+    - 19.5:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UCKA Dona
+    - 19.6:
+        non_striker: S Dharnidharka
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UCKA Dona
+    - 19.7:
+        non_striker: UCKA Dona
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dharnidharka
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.2:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.3:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.4:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.5:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.6:
+        bowler: S Dharnidharka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Shahreeennawab
+        batsman: S Krisheta
+    - 0.7:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 1.1:
+        non_striker: Shahreeennawab
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 1.2:
+        non_striker: Shahreeennawab
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 1.3:
+        non_striker: Shahreeennawab
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 1.4:
+        non_striker: S Krisheta
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahreeennawab
+    - 1.5:
+        non_striker: Shahreeennawab
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Krisheta
+    - 1.6:
+        non_striker: Shahreeennawab
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 2.1:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 2.2:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahreeennawab
+    - 2.3:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 2.4:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 2.5:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahreeennawab
+    - 2.6:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahreeennawab
+    - 2.7:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+        wicket:
+          player_out: Shahreeennawab
+          fielders:
+          - Theertha Satish
+          kind: caught
+    - 2.8:
+        non_striker: S Krisheta
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 3.1:
+        non_striker: SK Rana
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+        wicket:
+          player_out: S Krisheta
+          kind: lbw
+    - 3.2:
+        non_striker: SK Rana
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 3.3:
+        non_striker: SK Rana
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 3.4:
+        non_striker: Aysha
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 3.5:
+        non_striker: Aysha
+        bowler: I Nandakumar
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SK Rana
+    - 3.6:
+        non_striker: Aysha
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 4.1:
+        non_striker: SK Rana
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 4.2:
+        non_striker: SK Rana
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 4.3:
+        non_striker: Aysha
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+        wicket:
+          player_out: SK Rana
+          fielders:
+          - S Gokhale
+          kind: run out
+    - 4.4:
+        non_striker: Aysha
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Candiru
+    - 4.5:
+        non_striker: Aysha
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+        wicket:
+          player_out: G Candiru
+          kind: lbw
+    - 4.6:
+        non_striker: Aysha
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Jacob
+    - 4.7:
+        non_striker: Aysha
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Jacob
+    - 5.1:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aysha
+    - 5.2:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 5.3:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 5.4:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 5.5:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 5.6:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+        wicket:
+          player_out: Aysha
+          kind: bowled
+    - 5.7:
+        non_striker: CE Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 6.1:
+        non_striker: MT Jacob
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Jacob
+        wicket:
+          player_out: CE Jacob
+          kind: bowled
+    - 6.2:
+        non_striker: MT Jacob
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Taful Elkhair
+    - 6.3:
+        non_striker: Taful Elkhair
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 6.4:
+        non_striker: Taful Elkhair
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 6.5:
+        non_striker: Taful Elkhair
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 6.6:
+        non_striker: Taful Elkhair
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 7.1:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taful Elkhair
+    - 7.2:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taful Elkhair
+    - 7.3:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taful Elkhair
+        wicket:
+          player_out: Taful Elkhair
+          kind: bowled
+    - 7.4:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 7.5:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 7.6:
+        non_striker: MT Jacob
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 8.1:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Jacob
+    - 8.2:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 8.3:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 8.4:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 8.5:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 8.6:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 8.7:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 9.1:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 9.2:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 9.3:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lihara Ayeysekara
+    - 9.4:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 9.5:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lihara Ayeysekara
+    - 9.6:
+        non_striker: Lihara Ayeysekara
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Jacob
+    - 9.7:
+        non_striker: MT Jacob
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 10.1:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Jacob
+    - 10.2:
+        non_striker: MT Jacob
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 10.3:
+        non_striker: MT Jacob
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 10.4:
+        non_striker: MT Jacob
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lihara Ayeysekara
+    - 10.5:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 10.6:
+        non_striker: Lihara Ayeysekara
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 11.1:
+        non_striker: MT Jacob
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 11.2:
+        non_striker: MT Jacob
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 11.3:
+        non_striker: MT Jacob
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 11.4:
+        non_striker: MT Jacob
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lihara Ayeysekara
+    - 11.5:
+        non_striker: Lihara Ayeysekara
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 11.6:
+        non_striker: Lihara Ayeysekara
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 12.1:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 12.2:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 12.3:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 12.4:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+    - 12.5:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lihara Ayeysekara
+        wicket:
+          player_out: Lihara Ayeysekara
+          fielders:
+          - S Gokhale
+          kind: caught
+    - 12.6:
+        non_striker: MT Jacob
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 13.1:
+        non_striker: Roheed Akhtar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 13.2:
+        non_striker: Roheed Akhtar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Jacob
+    - 13.3:
+        non_striker: MT Jacob
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 13.4:
+        non_striker: MT Jacob
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roheed Akhtar
+    - 13.5:
+        non_striker: Roheed Akhtar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Jacob
+    - 13.6:
+        non_striker: MT Jacob
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 14.1:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Jacob
+    - 14.2:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 14.3:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+    - 14.4:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Jacob
+        wicket:
+          player_out: MT Jacob
+          kind: caught and bowled
+    - 14.5:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 14.6:
+        non_striker: Roheed Akhtar
+        bowler: S Gokhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 15.1:
+        non_striker: Amina Kashif
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 15.2:
+        non_striker: Amina Kashif
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 15.3:
+        non_striker: Amina Kashif
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 15.4:
+        non_striker: Amina Kashif
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roheed Akhtar
+    - 15.5:
+        non_striker: Roheed Akhtar
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 15.6:
+        non_striker: Roheed Akhtar
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 16.1:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 16.2:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 16.3:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 16.4:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Roheed Akhtar
+    - 16.5:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Roheed Akhtar
+    - 16.6:
+        non_striker: Amina Kashif
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roheed Akhtar
+    - 16.7:
+        non_striker: Roheed Akhtar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 16.8:
+        non_striker: Roheed Akhtar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amina Kashif
+    - 17.1:
+        non_striker: Roheed Akhtar
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 17.2:
+        non_striker: Roheed Akhtar
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 17.3:
+        non_striker: Roheed Akhtar
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 17.4:
+        non_striker: Roheed Akhtar
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 17.5:
+        non_striker: Roheed Akhtar
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amina Kashif
+    - 17.6:
+        non_striker: Amina Kashif
+        bowler: KC Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roheed Akhtar
+    - 18.1:
+        non_striker: Roheed Akhtar
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 18.2:
+        non_striker: Roheed Akhtar
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 18.3:
+        non_striker: Roheed Akhtar
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+    - 18.4:
+        non_striker: Roheed Akhtar
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amina Kashif
+        wicket:
+          player_out: Amina Kashif
+          kind: bowled

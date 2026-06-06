@@ -1,0 +1,2253 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelephu
+  dates:
+  - '2026-01-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2644
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - Ruchitha Venkatesh
+  players:
+    Hong Kong:
+    - NT Miles
+    - M Hill
+    - Y Daswani
+    - KY Chan
+    - M Bibi
+    - YS To
+    - WK Lai
+    - M Wai Siu
+    - Iqra Sahar
+    - Chan Sau Har
+    - Ruchitha Venkatesh
+    Bhutan:
+    - N Choden
+    - K Dema
+    - S Paldon
+    - T Zangmo
+    - A Gurung
+    - S Choden
+    - Sonam
+    - R Choden
+    - Chado Om
+    - Tshering Choden
+    - Sangay Yangzom
+  registry:
+    people:
+      A Gurung: 10854c82
+      AK Rai: 1d70834a
+      Chado Om: f53fa89c
+      Chan Sau Har: 3c567308
+      Iqra Sahar: aaccb8ca
+      K Dema: 0b211a32
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Wai Siu: 74eecff4
+      N Choden: a904600a
+      NT Miles: d27d0835
+      ON Pradhan: d41a08d6
+      R Choden: c0266a6e
+      Ruchitha Venkatesh: 106135f5
+      S Choden: e1e0775d
+      S Paldon: 47c3d294
+      Sangay Yangzom: ee295039
+      Sonam: '09cbca15'
+      Subas Lama: 0a0c48dc
+      T Zangmo: b1f21c0f
+      Tshering Choden: 3f38caff
+      U Dorji: 12bba2d4
+      WK Lai: 6ab99b17
+      Y Daswani: 2038a273
+      YS To: 73db1940
+  teams:
+  - Hong Kong
+  - Bhutan
+  toss:
+    winner: Bhutan
+    decision: field
+  umpires:
+  - AK Rai
+  - U Dorji
+  venue: Gelephu International Cricket Ground
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.2:
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.3:
+        non_striker: NT Miles
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.4:
+        non_striker: NT Miles
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.5:
+        non_striker: NT Miles
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.6:
+        non_striker: NT Miles
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Hill
+    - 0.7:
+        non_striker: NT Miles
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.1:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.2:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          kind: bowled
+    - 1.3:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 1.4:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 1.5:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 1.6:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 2.1:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 2.2:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 2.3:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 2.4:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 2.5:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 2.6:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 3.1:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.2:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.3:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 3.4:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 3.5:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 3.6:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 4.1:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 4.2:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 4.3:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 4.4:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 4.5:
+        non_striker: M Hill
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 4.6:
+        non_striker: Y Daswani
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 5.1:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 5.2:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 5.3:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 5.4:
+        non_striker: M Hill
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 5.5:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 5.6:
+        non_striker: Y Daswani
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 6.1:
+        non_striker: M Hill
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 6.2:
+        non_striker: M Hill
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 6.3:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 6.4:
+        non_striker: M Hill
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 6.5:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 6.6:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 7.1:
+        non_striker: M Hill
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 7.2:
+        non_striker: Y Daswani
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 7.3:
+        non_striker: Y Daswani
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 7.4:
+        non_striker: Y Daswani
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          kind: lbw
+    - 7.5:
+        non_striker: Y Daswani
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 7.6:
+        non_striker: Y Daswani
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 8.1:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 8.2:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 8.3:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 8.4:
+        non_striker: Y Daswani
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 8.5:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 8.6:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 8.7:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+        wicket:
+          player_out: Y Daswani
+          fielders:
+          - T Zangmo
+          kind: run out
+    - 9.1:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 9.2:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 9.3:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 9.4:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 9.5:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 9.6:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 9.7:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 10.1:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.2:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.3:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.4:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 10.5:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 10.6:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.1:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 11.2:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.3:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Bibi
+    - 11.4:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 11.5:
+        non_striker: KY Chan
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 11.6:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 12.1:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 12.2:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 12.3:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 12.4:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 12.5:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 12.6:
+        non_striker: KY Chan
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 12.7:
+        non_striker: M Bibi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - N Choden
+          - S Choden
+          kind: run out
+    - 13.1:
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YS To
+        batsman: M Bibi
+    - 13.2:
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: YS To
+        batsman: M Bibi
+    - 13.3:
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YS To
+        batsman: M Bibi
+    - 13.4:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+    - 13.5:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+    - 13.6:
+        non_striker: M Bibi
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS To
+    - 14.1:
+        non_striker: M Bibi
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS To
+    - 14.2:
+        non_striker: M Bibi
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS To
+    - 14.3:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 14.4:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 14.5:
+        non_striker: M Bibi
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS To
+    - 14.6:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 15.1:
+        non_striker: YS To
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 15.2:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+    - 15.3:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+    - 15.4:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS To
+    - 15.5:
+        non_striker: YS To
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 15.6:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS To
+    - 16.1:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 16.2:
+        non_striker: M Bibi
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS To
+    - 16.3:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 16.4:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 16.5:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 16.6:
+        non_striker: YS To
+        bowler: Sangay Yangzom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bibi
+    - 17.1:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+    - 17.2:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS To
+        wicket:
+          player_out: YS To
+          kind: bowled
+    - 17.3:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 17.4:
+        non_striker: WK Lai
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 17.5:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Lai
+    - 17.6:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 17.7:
+        non_striker: M Bibi
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+        wicket:
+          player_out: WK Lai
+          kind: bowled
+    - 18.1:
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Wai Siu
+        batsman: M Bibi
+    - 18.2:
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Wai Siu
+        batsman: M Bibi
+    - 18.3:
+        non_striker: M Bibi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+        wicket:
+          player_out: M Wai Siu
+          kind: bowled
+    - 18.4:
+        non_striker: M Bibi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqra Sahar
+    - 18.5:
+        non_striker: Iqra Sahar
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 18.6:
+        non_striker: M Bibi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqra Sahar
+        wicket:
+          player_out: Iqra Sahar
+          kind: bowled
+    - 19.1:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Chan Sau Har
+        batsman: M Bibi
+    - 19.2:
+        non_striker: Chan Sau Har
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+        wicket:
+          player_out: M Bibi
+          kind: bowled
+    - 19.3:
+        non_striker: Chan Sau Har
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ruchitha Venkatesh
+    - 19.4:
+        non_striker: Chan Sau Har
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ruchitha Venkatesh
+    - 19.5:
+        non_striker: Ruchitha Venkatesh
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chan Sau Har
+    - 19.6:
+        non_striker: Chan Sau Har
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ruchitha Venkatesh
+- 2nd innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.2:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.3:
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.4:
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.5:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.6:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 0.7:
+        non_striker: K Dema
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 0.8:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.1:
+        non_striker: K Dema
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 1.2:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.3:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.4:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.5:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.6:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 2.1:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 2.2:
+        non_striker: K Dema
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 2.3:
+        non_striker: K Dema
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 2.4:
+        non_striker: K Dema
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 2.5:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 2.6:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 2.7:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+        wicket:
+          player_out: K Dema
+          kind: lbw
+    - 3.1:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Paldon
+        batsman: N Choden
+    - 3.2:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Paldon
+        batsman: N Choden
+    - 3.3:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Paldon
+        batsman: N Choden
+    - 3.4:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 3.5:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 3.6:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 4.1:
+        non_striker: S Paldon
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 4.2:
+        non_striker: S Paldon
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 4.3:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 4.4:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 4.5:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 4.6:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Paldon
+    - 4.7:
+        non_striker: N Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 5.1:
+        non_striker: N Choden
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 5.2:
+        non_striker: N Choden
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 5.3:
+        non_striker: S Paldon
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.4:
+        non_striker: S Paldon
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.5:
+        non_striker: S Paldon
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 5.6:
+        non_striker: N Choden
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 6.1:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 6.2:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 6.3:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 6.4:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 6.5:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+        wicket:
+          player_out: S Paldon
+          fielders:
+          - Y Daswani
+          - Chan Sau Har
+          kind: run out
+    - 6.6:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 7.1:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 7.2:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.3:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Choden
+    - 7.4:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.5:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 7.6:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 8.1:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 8.2:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 8.3:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 8.4:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 8.5:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 8.6:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Choden
+    - 8.7:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 9.1:
+        non_striker: N Choden
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 9.2:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 9.3:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 9.4:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 9.5:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Choden
+    - 9.6:
+        non_striker: T Zangmo
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 10.1:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 10.2:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Choden
+    - 10.3:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 10.4:
+        non_striker: T Zangmo
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 10.5:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+        wicket:
+          player_out: T Zangmo
+          kind: bowled
+    - 10.6:
+        non_striker: N Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 11.1:
+        non_striker: A Gurung
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 11.2:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 11.3:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 11.4:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+        wicket:
+          player_out: A Gurung
+          fielders:
+          - YS To
+          kind: caught
+    - 11.5:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 11.6:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 11.7:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 12.1:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 12.2:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 12.3:
+        non_striker: N Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 12.4:
+        non_striker: N Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 12.5:
+        non_striker: N Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Choden
+    - 12.6:
+        non_striker: N Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 13.1:
+        non_striker: S Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 13.2:
+        non_striker: N Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 13.3:
+        non_striker: S Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 13.4:
+        non_striker: S Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 13.5:
+        non_striker: S Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 13.6:
+        non_striker: S Choden
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 14.1:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 14.2:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+        wicket:
+          player_out: N Choden
+          kind: lbw
+    - 14.3:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 14.4:
+        non_striker: Sonam
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 14.5:
+        non_striker: Sonam
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 14.6:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.1:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 15.2:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 15.3:
+        non_striker: S Choden
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sonam
+    - 15.4:
+        non_striker: S Choden
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 15.5:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Choden
+    - 15.6:
+        non_striker: S Choden
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sonam
+    - 15.7:
+        non_striker: S Choden
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sonam
+    - 15.8:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Choden
+    - 15.9:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Choden
+    - 15.10:
+        non_striker: Sonam
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 16.1:
+        non_striker: Sonam
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 16.2:
+        non_striker: Sonam
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 16.3:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sonam
+    - 16.4:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sonam
+    - 16.5:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 16.6:
+        non_striker: Sonam
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.1:
+        non_striker: Sonam
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 17.2:
+        non_striker: Sonam
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 17.3:
+        non_striker: Sonam
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 17.4:
+        non_striker: Sonam
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.5:
+        non_striker: S Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 17.6:
+        non_striker: S Choden
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 18.1:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+        wicket:
+          player_out: Sonam
+          fielders:
+          - Y Daswani
+          - M Wai Siu
+          kind: run out
+    - 18.2:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Choden
+    - 18.3:
+        non_striker: R Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 18.4:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+        wicket:
+          player_out: R Choden
+          kind: bowled
+    - 18.5:
+        non_striker: S Choden
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 18.6:
+        non_striker: Chado Om
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 19.1:
+        non_striker: S Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chado Om
+    - 19.2:
+        non_striker: S Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chado Om
+    - 19.3:
+        non_striker: S Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+        wicket:
+          player_out: Chado Om
+          kind: bowled
+    - 19.4:
+        non_striker: S Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tshering Choden
+        wicket:
+          player_out: Tshering Choden
+          fielders:
+          - M Wai Siu
+          kind: run out
+    - 19.5:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sangay Yangzom
+        batsman: S Choden
+    - 19.6:
+        non_striker: S Choden
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sangay Yangzom
+    - 19.7:
+        non_striker: Sangay Yangzom
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden

@@ -1,0 +1,1857 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2025-09-03'
+  gender: female
+  match_type: T20
+  match_type_number: 2475
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - J Nkomo
+  players:
+    Nigeria:
+    - L Piety
+    - MK Amusa
+    - V Igbinedion
+    - S Sunday
+    - OP Eguakun
+    - S Etim
+    - O Omonkhobio
+    - P Agboya
+    - C Chukwuonye
+    - L Udeh
+    - U Peace
+    Zimbabwe:
+    - M Mupachikwa
+    - K Ndlovu
+    - J Nkomo
+    - N Sibanda
+    - CS Mugeri-Tiripano
+    - L Tshuma
+    - N Gwanzura
+    - F Chipare
+    - CT Dhururu
+    - L Mabhero
+    - B Biza
+  registry:
+    people:
+      B Biza: 8a522c6c
+      C Chukwuonye: bb0aac11
+      CS Mugeri-Tiripano: 99c86133
+      CT Dhururu: 8d7fba79
+      D Odhiambo: '45994517'
+      E Lassen: a476d6d0
+      F Chipare: c0dc015b
+      IO Oyieko: de4828fa
+      J Nkomo: 36dfa62e
+      K Ndlovu: 8d25271a
+      L Mabhero: 37f9eb59
+      L Piety: 46a29dd0
+      L Tshuma: f281dd00
+      L Udeh: 8451562a
+      M Mupachikwa: 6657b319
+      MK Amusa: 1eaf0ce1
+      N Gwanzura: 9c2e3040
+      N Sibanda: edf62a25
+      O Omonkhobio: 4f3080c3
+      OP Eguakun: 728b71eb
+      P Agboya: 532ddb12
+      S Etim: aa197946
+      S Sunday: 594a0dec
+      SA Fritz: d15e60c8
+      U Peace: 3798b336
+      V Igbinedion: 9525b9e5
+  teams:
+  - Nigeria
+  - Zimbabwe
+  toss:
+    winner: Nigeria
+    decision: bat
+  umpires:
+  - E Lassen
+  - IO Oyieko
+  venue: High Performance Oval, Windhoek
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MK Amusa
+        batsman: L Piety
+    - 0.2:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MK Amusa
+        batsman: L Piety
+    - 0.3:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MK Amusa
+        batsman: L Piety
+    - 0.4:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MK Amusa
+        batsman: L Piety
+    - 0.5:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MK Amusa
+        batsman: L Piety
+    - 0.6:
+        non_striker: MK Amusa
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Piety
+    - 1.1:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Amusa
+    - 1.2:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Amusa
+    - 1.3:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Amusa
+    - 1.4:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Amusa
+    - 1.5:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Amusa
+        wicket:
+          player_out: MK Amusa
+          fielders:
+          - M Mupachikwa
+          kind: caught
+    - 1.6:
+        non_striker: L Piety
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 2.1:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Piety
+    - 2.2:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Piety
+    - 2.3:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Piety
+    - 2.4:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Piety
+    - 2.5:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Piety
+        wicket:
+          player_out: L Piety
+          kind: bowled
+    - 2.6:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sunday
+    - 2.7:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 2.8:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sunday
+    - 3.1:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+        wicket:
+          player_out: S Sunday
+          kind: bowled
+    - 3.2:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 3.3:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 3.4:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OP Eguakun
+    - 3.5:
+        non_striker: OP Eguakun
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 3.6:
+        non_striker: OP Eguakun
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Igbinedion
+    - 4.1:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 4.2:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 4.3:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 4.4:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 4.5:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 4.6:
+        non_striker: V Igbinedion
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OP Eguakun
+    - 5.1:
+        non_striker: OP Eguakun
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 5.2:
+        non_striker: OP Eguakun
+        bowler: J Nkomo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: V Igbinedion
+    - 5.3:
+        non_striker: OP Eguakun
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Igbinedion
+    - 5.4:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 5.5:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 5.6:
+        non_striker: V Igbinedion
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 6.1:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 6.2:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 6.3:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Igbinedion
+    - 6.4:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 6.5:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 6.6:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 7.1:
+        non_striker: V Igbinedion
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 7.2:
+        non_striker: V Igbinedion
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OP Eguakun
+    - 7.3:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 7.4:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 7.5:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Igbinedion
+    - 7.6:
+        non_striker: V Igbinedion
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 8.1:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+    - 8.2:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Igbinedion
+        wicket:
+          player_out: V Igbinedion
+          fielders:
+          - N Sibanda
+          kind: caught
+    - 8.3:
+        non_striker: OP Eguakun
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Etim
+    - 8.4:
+        non_striker: S Etim
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 8.5:
+        non_striker: S Etim
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 8.6:
+        non_striker: S Etim
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 9.1:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 9.2:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 9.3:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 9.4:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Etim
+    - 9.5:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 9.6:
+        non_striker: OP Eguakun
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Etim
+    - 10.1:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 10.2:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OP Eguakun
+    - 10.3:
+        non_striker: OP Eguakun
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 10.4:
+        non_striker: OP Eguakun
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Etim
+    - 10.5:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 10.6:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 11.1:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 11.2:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Etim
+    - 11.3:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 11.4:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Etim
+    - 11.5:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 11.6:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Etim
+    - 12.1:
+        non_striker: OP Eguakun
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 12.2:
+        non_striker: OP Eguakun
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 12.3:
+        non_striker: OP Eguakun
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Etim
+    - 12.4:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 12.5:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OP Eguakun
+    - 12.6:
+        non_striker: S Etim
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 13.1:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Etim
+    - 13.2:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Etim
+    - 13.3:
+        non_striker: S Etim
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+    - 13.4:
+        non_striker: S Etim
+        bowler: N Gwanzura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OP Eguakun
+    - 13.5:
+        non_striker: S Etim
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OP Eguakun
+    - 13.6:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+    - 13.7:
+        non_striker: OP Eguakun
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Etim
+        wicket:
+          player_out: S Etim
+          fielders:
+          - CS Mugeri-Tiripano
+          kind: caught
+    - 14.1:
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: O Omonkhobio
+        batsman: OP Eguakun
+    - 14.2:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Eguakun
+        wicket:
+          player_out: OP Eguakun
+          kind: lbw
+    - 14.3:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 14.4:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 14.5:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agboya
+    - 14.6:
+        non_striker: P Agboya
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Omonkhobio
+    - 15.1:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 15.2:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 15.3:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 15.4:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 15.5:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Agboya
+    - 15.6:
+        non_striker: O Omonkhobio
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agboya
+    - 16.1:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agboya
+    - 16.2:
+        non_striker: P Agboya
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Omonkhobio
+    - 16.3:
+        non_striker: P Agboya
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Omonkhobio
+    - 16.4:
+        non_striker: P Agboya
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Omonkhobio
+    - 16.5:
+        non_striker: P Agboya
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Omonkhobio
+    - 16.6:
+        non_striker: O Omonkhobio
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Agboya
+    - 17.1:
+        non_striker: P Agboya
+        bowler: F Chipare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Omonkhobio
+    - 17.2:
+        non_striker: P Agboya
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Omonkhobio
+    - 17.3:
+        non_striker: P Agboya
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Omonkhobio
+    - 17.4:
+        non_striker: P Agboya
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Omonkhobio
+    - 17.5:
+        non_striker: O Omonkhobio
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 17.6:
+        non_striker: O Omonkhobio
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agboya
+    - 17.7:
+        non_striker: P Agboya
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Omonkhobio
+    - 18.1:
+        non_striker: O Omonkhobio
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 18.2:
+        non_striker: O Omonkhobio
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+    - 18.3:
+        non_striker: O Omonkhobio
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agboya
+        wicket:
+          player_out: P Agboya
+          kind: lbw
+    - 18.4:
+        non_striker: O Omonkhobio
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chukwuonye
+        wicket:
+          player_out: C Chukwuonye
+          kind: bowled
+    - 18.5:
+        non_striker: O Omonkhobio
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Udeh
+    - 18.6:
+        non_striker: L Udeh
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Omonkhobio
+        wicket:
+          player_out: O Omonkhobio
+          kind: bowled
+    - 19.1:
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: U Peace
+        batsman: L Udeh
+    - 19.2:
+        non_striker: L Udeh
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Peace
+    - 19.3:
+        non_striker: U Peace
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Udeh
+    - 19.4:
+        non_striker: L Udeh
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Peace
+    - 19.5:
+        non_striker: U Peace
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Udeh
+        wicket:
+          player_out: U Peace
+          fielders:
+          - K Ndlovu
+          - F Chipare
+          kind: run out
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: M Mupachikwa
+    - 0.2:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: M Mupachikwa
+    - 0.3:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: M Mupachikwa
+    - 0.4:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: K Ndlovu
+        batsman: M Mupachikwa
+    - 0.5:
+        non_striker: M Mupachikwa
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 0.6:
+        non_striker: M Mupachikwa
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 1.1:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 1.2:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.3:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.4:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 1.5:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.6:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 2.1:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.2:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.3:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.4:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.5:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 2.6:
+        non_striker: K Ndlovu
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.1:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 3.2:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 3.3:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 3.4:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 3.5:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.6:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.2:
+        non_striker: K Ndlovu
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 4.3:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.4:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.5:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.6:
+        non_striker: K Ndlovu
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 5.1:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 5.2:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 5.3:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 5.4:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 5.5:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.6:
+        non_striker: K Ndlovu
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.1:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 6.2:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 6.3:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 6.4:
+        non_striker: K Ndlovu
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.5:
+        non_striker: M Mupachikwa
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 6.6:
+        non_striker: K Ndlovu
+        bowler: P Agboya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 7.1:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.2:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 7.3:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.4:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.5:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.6:
+        non_striker: M Mupachikwa
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 8.1:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.2:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 8.3:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 8.4:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 8.5:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ndlovu
+    - 8.6:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 8.7:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 9.1:
+        non_striker: M Mupachikwa
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 9.2:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.3:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.4:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.5:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.6:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 10.1:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.2:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 10.3:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 10.4:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.5:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 10.6:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 11.1:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 11.2:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 11.3:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.4:
+        non_striker: K Ndlovu
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 11.5:
+        non_striker: M Mupachikwa
+        bowler: U Peace
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 11.6:
+        non_striker: M Mupachikwa
+        bowler: U Peace
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ndlovu
+    - 11.7:
+        non_striker: M Mupachikwa
+        bowler: U Peace
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: K Ndlovu
+    - 12.1:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 12.2:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 12.3:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 12.4:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 12.5:
+        non_striker: K Ndlovu
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 12.6:
+        non_striker: M Mupachikwa
+        bowler: MK Amusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 13.1:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 13.2:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ndlovu
+    - 13.3:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 13.4:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 13.5:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 13.6:
+        non_striker: K Ndlovu
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 13.7:
+        non_striker: M Mupachikwa
+        bowler: L Piety
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 14.1:
+        non_striker: M Mupachikwa
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 14.2:
+        non_striker: M Mupachikwa
+        bowler: L Udeh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: K Ndlovu
+    - 14.3:
+        non_striker: M Mupachikwa
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu

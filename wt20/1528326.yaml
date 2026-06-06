@@ -1,0 +1,2118 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-08'
+  gender: female
+  match_type: T20
+  match_type_number: 2710
+  outcome:
+    winner: Brazil
+    by:
+      runs: 174
+  overs: 20
+  player_of_match:
+  - L Cardoso
+  players:
+    Brazil:
+    - LV Boas
+    - L Cardoso
+    - L Agatha
+    - EC Muller
+    - AC Sabino
+    - MR Machado
+    - M Artur
+    - L Moises
+    - MB dos Santos
+    - NC Monteiro
+    - M Ribeiro
+    Zambia:
+    - F Chenda
+    - M Nguni
+    - V Mwansa
+    - N Chabula
+    - M Kachingo
+    - R Chanda
+    - M Chabula
+    - E Mulenga
+    - T Banda
+    - E Malama
+    - P Munsanda
+  registry:
+    people:
+      A Kayuni: 4df5ba93
+      AC Sabino: dd45b04b
+      E Malama: cd440d77
+      E Mulenga: 10ae734d
+      EC Muller: e1461e39
+      F Chenda: c3d8b72f
+      Imran Zakir: 0071171d
+      J Chibhabha: 4c5c47a4
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      L Msemburi: ef6037f8
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Chabula: 7952fe28
+      M Kachingo: 287dab75
+      M Nguni: b40bbd02
+      M Ribeiro: 38424a4d
+      MB dos Santos: 8ba8dd7a
+      MR Machado: 4a4f94fa
+      N Chabula: c6fee9f1
+      NC Monteiro: 752af5a4
+      P Munsanda: a648fdcd
+      R Chanda: 43fe74b1
+      T Banda: cd3a34f9
+      V Mwansa: b0032f26
+      Vivek Kohli: 676c3a3c
+  teams:
+  - Brazil
+  - Zambia
+  toss:
+    winner: Brazil
+    decision: bat
+  umpires:
+  - L Msemburi
+  - Vivek Kohli
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 0.2:
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 0.3:
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 0.4:
+        non_striker: LV Boas
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 0.5:
+        non_striker: LV Boas
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 0.6:
+        non_striker: LV Boas
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Cardoso
+    - 0.7:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 1.1:
+        non_striker: LV Boas
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.2:
+        non_striker: LV Boas
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 1.3:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.4:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          kind: bowled
+    - 1.5:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.6:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.1:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 2.2:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 2.3:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.4:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.5:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 2.6:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 2.7:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 3.1:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 3.2:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 3.3:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.4:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Cardoso
+    - 3.5:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 3.6:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 3.7:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.8:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.1:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.2:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.3:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 4.4:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 4.5:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 4.6:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 4.7:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.8:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.1:
+        non_striker: L Agatha
+        bowler: E Mulenga
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Cardoso
+    - 5.2:
+        non_striker: L Cardoso
+        bowler: E Mulenga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 5.3:
+        non_striker: L Cardoso
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 5.4:
+        non_striker: L Cardoso
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 5.5:
+        non_striker: L Agatha
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 5.6:
+        non_striker: L Cardoso
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 5.7:
+        non_striker: L Cardoso
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 5.8:
+        non_striker: L Agatha
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 6.1:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 6.2:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 6.3:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 6.4:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 6.5:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.6:
+        non_striker: L Agatha
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 6.7:
+        non_striker: L Agatha
+        bowler: F Chenda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 6.8:
+        non_striker: L Agatha
+        bowler: F Chenda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 6.9:
+        non_striker: L Agatha
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 6.10:
+        non_striker: L Agatha
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 6.11:
+        non_striker: L Cardoso
+        bowler: F Chenda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 7.1:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 7.2:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 7.3:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 7.4:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 7.5:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 7.6:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Cardoso
+    - 7.7:
+        non_striker: L Cardoso
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 8.1:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.2:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 8.3:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 8.4:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 8.5:
+        non_striker: L Agatha
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.6:
+        non_striker: L Cardoso
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 9.1:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 9.2:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 9.3:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 9.4:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 9.5:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 9.6:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 9.7:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 10.1:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 10.2:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 10.3:
+        non_striker: L Agatha
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 10.4:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 10.5:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 10.6:
+        non_striker: L Cardoso
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 11.1:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 11.2:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 11.3:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Agatha
+    - 11.4:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 11.5:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 11.6:
+        non_striker: L Cardoso
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 12.1:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 12.2:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          fielders:
+          - F Chenda
+          kind: caught
+    - 12.3:
+        non_striker: L Agatha
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 12.4:
+        non_striker: EC Muller
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 12.5:
+        non_striker: EC Muller
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 12.6:
+        non_striker: EC Muller
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 13.1:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 13.2:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 13.3:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 13.4:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 13.5:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 13.6:
+        non_striker: L Agatha
+        bowler: M Kachingo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: EC Muller
+    - 13.7:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 13.8:
+        non_striker: EC Muller
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 14.1:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - P Munsanda
+          kind: run out
+    - 14.2:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 14.3:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EC Muller
+    - 14.4:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EC Muller
+    - 14.5:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 14.6:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AC Sabino
+    - 14.7:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Muller
+    - 14.8:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 14.9:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 15.1:
+        non_striker: AC Sabino
+        bowler: E Mulenga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EC Muller
+    - 15.2:
+        non_striker: AC Sabino
+        bowler: E Mulenga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EC Muller
+    - 15.3:
+        non_striker: AC Sabino
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 15.4:
+        non_striker: EC Muller
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 15.5:
+        non_striker: AC Sabino
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 15.6:
+        non_striker: EC Muller
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 15.7:
+        non_striker: EC Muller
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 15.8:
+        non_striker: AC Sabino
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 16.1:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 16.2:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 16.3:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.4:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 16.5:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.6:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 17.1:
+        non_striker: EC Muller
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Sabino
+    - 17.2:
+        non_striker: AC Sabino
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Muller
+    - 17.3:
+        non_striker: AC Sabino
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 17.4:
+        non_striker: EC Muller
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 17.5:
+        non_striker: EC Muller
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Sabino
+    - 17.6:
+        non_striker: EC Muller
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AC Sabino
+    - 18.1:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.2:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 18.3:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 18.4:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.5:
+        non_striker: EC Muller
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 18.6:
+        non_striker: AC Sabino
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Muller
+    - 19.1:
+        non_striker: EC Muller
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 19.2:
+        non_striker: AC Sabino
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+        wicket:
+          player_out: AC Sabino
+          fielders:
+          - V Mwansa
+          kind: run out
+    - 19.3:
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Machado
+        batsman: EC Muller
+        wicket:
+          player_out: EC Muller
+          fielders:
+          - A Kayuni (sub)
+          kind: run out
+    - 19.4:
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MR Machado
+        batsman: M Artur
+    - 19.5:
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Machado
+        batsman: M Artur
+    - 19.6:
+        non_striker: M Artur
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+- 2nd innings:
+    team: Zambia
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Nguni
+        batsman: F Chenda
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Nguni
+        batsman: F Chenda
+    - 0.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Nguni
+        batsman: F Chenda
+    - 0.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Nguni
+        batsman: F Chenda
+    - 0.5:
+        non_striker: F Chenda
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+        wicket:
+          player_out: M Nguni
+          kind: bowled
+    - 0.6:
+        non_striker: F Chenda
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 0.7:
+        non_striker: F Chenda
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mwansa
+    - 1.1:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+        wicket:
+          player_out: V Mwansa
+          kind: bowled
+    - 1.2:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.3:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.4:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.5:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.6:
+        non_striker: F Chenda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 2.1:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Chenda
+    - 2.2:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Chenda
+    - 2.3:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Chenda
+    - 2.4:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Chenda
+        wicket:
+          player_out: F Chenda
+          kind: bowled
+    - 2.5:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 2.6:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+        wicket:
+          player_out: M Kachingo
+          kind: lbw
+    - 2.7:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.1:
+        non_striker: R Chanda
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Chabula
+    - 3.2:
+        non_striker: N Chabula
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.3:
+        non_striker: N Chabula
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.4:
+        non_striker: N Chabula
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.5:
+        non_striker: N Chabula
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.6:
+        non_striker: N Chabula
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+        wicket:
+          player_out: R Chanda
+          fielders:
+          - AC Sabino
+          kind: caught
+    - 4.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.5:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.6:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.7:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.8:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Chabula
+        batsman: N Chabula
+    - 4.9:
+        non_striker: M Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 5.1:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 5.2:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 5.3:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 5.4:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 5.5:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 5.6:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 6.1:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.2:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.3:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.4:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.5:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.6:
+        non_striker: M Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 7.1:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.2:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.3:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.4:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.5:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.6:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 8.1:
+        non_striker: M Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.2:
+        non_striker: M Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chabula
+    - 8.3:
+        non_striker: N Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 8.4:
+        non_striker: N Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 8.5:
+        non_striker: N Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+        wicket:
+          player_out: M Chabula
+          kind: bowled
+    - 8.6:
+        non_striker: N Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mulenga
+    - 9.1:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.2:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.3:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.4:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.5:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.6:
+        non_striker: E Mulenga
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 10.1:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mulenga
+    - 10.2:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mulenga
+        wicket:
+          player_out: E Mulenga
+          kind: bowled
+    - 10.3:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banda
+    - 10.4:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 10.5:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 10.6:
+        non_striker: N Chabula
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 11.1:
+        non_striker: T Banda
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 11.2:
+        non_striker: T Banda
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 11.3:
+        non_striker: T Banda
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 11.4:
+        non_striker: T Banda
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 11.5:
+        non_striker: T Banda
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chabula
+    - 11.6:
+        non_striker: N Chabula
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 12.1:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 12.2:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 12.3:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chabula
+    - 12.4:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 12.5:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 12.6:
+        non_striker: T Banda
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 13.1:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 13.2:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 13.3:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 13.4:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 13.5:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+    - 13.6:
+        non_striker: N Chabula
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banda
+    - 14.1:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banda
+        wicket:
+          player_out: T Banda
+          kind: lbw
+    - 14.2:
+        non_striker: N Chabula
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malama
+    - 14.3:
+        non_striker: E Malama
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 14.4:
+        non_striker: E Malama
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chabula
+    - 14.5:
+        non_striker: E Malama
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 14.6:
+        non_striker: E Malama
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+        wicket:
+          player_out: N Chabula
+          kind: lbw
+    - 15.1:
+        non_striker: P Munsanda
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+        wicket:
+          player_out: E Malama
+          kind: lbw

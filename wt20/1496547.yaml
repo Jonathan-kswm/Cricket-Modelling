@@ -1,0 +1,1858 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brighton
+  dates:
+  - '2026-05-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2775
+  outcome:
+    winner: England
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - DR Gibson
+  players:
+    New Zealand:
+    - SW Bates
+    - IC Gaze
+    - AC Kerr
+    - SFM Devine
+    - BM Halliday
+    - ML Green
+    - IG Sharp
+    - JM Kerr
+    - NH Patel
+    - RA Mair
+    - BG Illing
+    England:
+    - SIR Dunkley
+    - A Capsey
+    - ME Bouchier
+    - HC Knight
+    - FG Kemp
+    - DR Gibson
+    - AE Jones
+    - CE Dean
+    - S Ecclestone
+    - IECM Wong
+    - LCN Smith
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AC Kerr: 7673c908
+      AE Jones: b05e45e4
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      CE Dean: c6625a26
+      DA Cosker: aac9f784
+      DR Gibson: d2763568
+      FG Kemp: abc9f8a4
+      G Brown: 4b781bd0
+      HC Knight: 4ba0289e
+      IC Gaze: 60c250bf
+      IECM Wong: e5b17517
+      IG Sharp: 4de0779a
+      JM Kerr: 9af58032
+      JM Williams: b61d9d70
+      LCN Smith: 340202b0
+      ME Bouchier: c2554b59
+      ML Green: 865eae1f
+      NH Patel: d945db3e
+      RA Mair: d5eb8b84
+      Rob White: 59b91222
+      S Ecclestone: cdb82f1c
+      S Redfern: 5b038989
+      SFM Devine: de69af96
+      SIR Dunkley: 3a9e9cb2
+      SW Bates: 89bbc67a
+  teams:
+  - New Zealand
+  - England
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - JM Williams
+  - S Redfern
+  venue: County Ground, Hove
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.1:
+        non_striker: IC Gaze
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.2:
+        non_striker: IC Gaze
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.3:
+        non_striker: SW Bates
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IC Gaze
+    - 1.4:
+        non_striker: SW Bates
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 1.5:
+        non_striker: IC Gaze
+        bowler: IECM Wong
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SW Bates
+    - 1.6:
+        non_striker: IC Gaze
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.7:
+        non_striker: SW Bates
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 2.1:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 2.2:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.3:
+        non_striker: IC Gaze
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 2.4:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 2.5:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 3.1:
+        non_striker: IC Gaze
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Kerr
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IC Gaze
+    - 4.1:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.2:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.4:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: IC Gaze
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          kind: bowled
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.1:
+        non_striker: SFM Devine
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.2:
+        non_striker: SFM Devine
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - ME Bouchier
+          kind: caught
+    - 6.3:
+        non_striker: SFM Devine
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 6.4:
+        non_striker: SFM Devine
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 6.5:
+        non_striker: BM Halliday
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.6:
+        non_striker: BM Halliday
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - S Ecclestone
+          kind: caught
+    - 7.1:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 7.2:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 7.3:
+        non_striker: BM Halliday
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.4:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 7.5:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 7.6:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          kind: lbw
+    - 8.1:
+        non_striker: IG Sharp
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.2:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 8.3:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 8.4:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          kind: bowled
+    - 8.5:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 8.6:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 9.1:
+        non_striker: JM Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.2:
+        non_striker: ML Green
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 9.3:
+        non_striker: JM Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.4:
+        non_striker: ML Green
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 9.5:
+        non_striker: ML Green
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 9.6:
+        non_striker: JM Kerr
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.1:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 10.2:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 10.3:
+        non_striker: JM Kerr
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.4:
+        non_striker: JM Kerr
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.5:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 10.6:
+        non_striker: ML Green
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 11.1:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 11.3:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.4:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.5:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.6:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 12.1:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.2:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.3:
+        non_striker: ML Green
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 12.4:
+        non_striker: ML Green
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 12.5:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.6:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 13.1:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 13.2:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 13.3:
+        non_striker: JM Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.4:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 13.5:
+        non_striker: JM Kerr
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.6:
+        non_striker: ML Green
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 14.1:
+        non_striker: ML Green
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 14.2:
+        non_striker: ML Green
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 14.3:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - ME Bouchier
+          kind: caught
+    - 14.4:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 14.5:
+        non_striker: JM Kerr
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 14.6:
+        non_striker: NH Patel
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 15.1:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 15.2:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 15.3:
+        non_striker: NH Patel
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 15.4:
+        non_striker: NH Patel
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.5:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          kind: lbw
+    - 15.6:
+        non_striker: JM Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+    - 16.1:
+        non_striker: RA Mair
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 16.2:
+        non_striker: RA Mair
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 16.3:
+        non_striker: JM Kerr
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 16.4:
+        non_striker: RA Mair
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 16.5:
+        non_striker: RA Mair
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 16.6:
+        non_striker: JM Kerr
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Mair
+    - 16.7:
+        non_striker: JM Kerr
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+    - 17.1:
+        non_striker: RA Mair
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          kind: bowled
+    - 17.2:
+        non_striker: RA Mair
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Illing
+    - 17.3:
+        non_striker: BG Illing
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+    - 17.4:
+        non_striker: BG Illing
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 17.5:
+        non_striker: RA Mair
+        bowler: IECM Wong
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BG Illing
+    - 17.6:
+        non_striker: RA Mair
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+    - 18.1:
+        non_striker: BG Illing
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 18.2:
+        non_striker: RA Mair
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Illing
+    - 18.3:
+        non_striker: BG Illing
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 18.4:
+        non_striker: RA Mair
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+    - 18.5:
+        non_striker: RA Mair
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BG Illing
+    - 18.6:
+        non_striker: RA Mair
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+    - 18.7:
+        non_striker: RA Mair
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Illing
+    - 19.1:
+        non_striker: RA Mair
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+        wicket:
+          player_out: BG Illing
+          fielders:
+          - AE Jones
+          kind: caught
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: A Capsey
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: SIR Dunkley
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 0.3:
+        non_striker: A Capsey
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.4:
+        non_striker: A Capsey
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: SIR Dunkley
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Capsey
+    - 0.6:
+        non_striker: A Capsey
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.7:
+        non_striker: A Capsey
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 1.2:
+        non_striker: A Capsey
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 1.3:
+        non_striker: A Capsey
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: SIR Dunkley
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.5:
+        non_striker: SIR Dunkley
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Capsey
+    - 1.6:
+        non_striker: A Capsey
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.7:
+        non_striker: SIR Dunkley
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 2.1:
+        non_striker: SIR Dunkley
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          kind: lbw
+    - 2.2:
+        non_striker: SIR Dunkley
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 2.3:
+        non_striker: SIR Dunkley
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 2.4:
+        non_striker: SIR Dunkley
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 2.5:
+        non_striker: ME Bouchier
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 2.6:
+        non_striker: ME Bouchier
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 3.2:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 3.3:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 3.4:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.5:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.6:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SIR Dunkley
+    - 3.7:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 4.1:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.2:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.3:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.4:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 4.5:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 4.6:
+        non_striker: SIR Dunkley
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 5.1:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.2:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.3:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 5.4:
+        non_striker: SIR Dunkley
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 5.5:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          fielders:
+          - RA Mair
+          kind: caught
+    - 5.6:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.1:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 6.2:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 6.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 6.4:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 6.5:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 6.6:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 7.1:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.2:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.3:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.4:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.5:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.6:
+        non_striker: HC Knight
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 8.1:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.2:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 8.4:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 8.5:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.6:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 8.7:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 8.8:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 9.1:
+        non_striker: HC Knight
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 9.2:
+        non_striker: HC Knight
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 9.3:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 9.4:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 9.5:
+        non_striker: ME Bouchier
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.6:
+        non_striker: HC Knight
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 9.7:
+        non_striker: HC Knight
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.1:
+        non_striker: HC Knight
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 10.2:
+        non_striker: HC Knight
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 10.3:
+        non_striker: HC Knight
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.4:
+        non_striker: ME Bouchier
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.5:
+        non_striker: ME Bouchier
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.6:
+        non_striker: ME Bouchier
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.1:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.2:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.3:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 11.4:
+        non_striker: ME Bouchier
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.5:
+        non_striker: HC Knight
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 11.6:
+        non_striker: HC Knight
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 11.7:
+        non_striker: HC Knight
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.1:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 12.2:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - NH Patel
+          kind: caught
+    - 12.3:
+        non_striker: ME Bouchier
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FG Kemp
+    - 12.4:
+        non_striker: FG Kemp
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 12.5:
+        non_striker: FG Kemp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.6:
+        non_striker: FG Kemp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.7:
+        non_striker: FG Kemp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 13.1:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FG Kemp
+    - 13.2:
+        non_striker: FG Kemp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 13.3:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FG Kemp
+    - 13.4:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FG Kemp
+    - 13.5:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+    - 13.6:
+        non_striker: ME Bouchier
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FG Kemp

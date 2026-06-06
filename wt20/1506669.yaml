@@ -1,0 +1,1193 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dar-es-Salaam
+  dates:
+  - '2025-11-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2546
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Canada:
+    - A Perera
+    - I Goordial-John
+    - Kainat Qazi
+    - Amarpal Kaur
+    - V Mahajan
+    - Habeeba Bader
+    - TA Lavia
+    - Rabbjyot Rajput
+    - Zeel Patel
+    - T Thorpe
+    - Srishti Raha
+    Tanzania:
+    - S Mtae
+    - FO Kibasu
+    - S Kizito
+    - NJ Pius
+    - MH Ushanga
+    - SF Jerome
+    - Nasra Mohamedi
+    - SH Mohamedi
+    - JG Kimaro
+    - PZ Kamunya
+    - NN Saidi
+  registry:
+    people:
+      A Perera: 788afc32
+      Amarpal Kaur: 3051fcc6
+      FO Kibasu: 1c726c76
+      Habeeba Bader: 18d53879
+      I Goordial-John: 6e2ec862
+      JG Kimaro: 3f0be08f
+      Kainat Qazi: 1ccd4054
+      MH Ushanga: '0286eabe'
+      NJ Pius: f4270fc7
+      NN Saidi: 16610c7b
+      Nasra Mohamedi: 754c719b
+      PZ Kamunya: 6e60bbe2
+      Rabbjyot Rajput: 8b1f5f91
+      S Kizito: d91a936b
+      S Mtae: bb641155
+      SF Jerome: e393c6c1
+      SH Mohamedi: 10ab6a37
+      Srishti Raha: b325acfa
+      T Thorpe: 9e547805
+      TA Lavia: 361b378b
+      V Mahajan: 8c42d7d8
+      Zeel Patel: c6635f86
+  teams:
+  - Canada
+  - Tanzania
+  toss:
+    winner: Tanzania
+    decision: field
+  venue: University of Dar-es-Salaam Ground
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+        wicket:
+          player_out: A Perera
+          fielders:
+          - NJ Pius
+          kind: caught
+    - 0.2:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 0.3:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Goordial-John
+    - 0.4:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Goordial-John
+    - 0.5:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Goordial-John
+    - 0.6:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 0.7:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Goordial-John
+    - 0.8:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 0.9:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 1.1:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 1.2:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Kainat Qazi
+    - 1.3:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.4:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.5:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 1.6:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 2.1:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.2:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.3:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.4:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.5:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Goordial-John
+    - 2.6:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.7:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 3.1:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.2:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.3:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.4:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 3.5:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 3.6:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Goordial-John
+    - 3.7:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Goordial-John
+    - 4.1:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 4.2:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kainat Qazi
+    - 4.3:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 4.4:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 4.5:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 4.6:
+        non_striker: I Goordial-John
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 4.7:
+        non_striker: Kainat Qazi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 5.1:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 5.2:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 5.3:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 5.4:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 5.5:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 5.6:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kainat Qazi
+    - 6.1:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 6.2:
+        non_striker: I Goordial-John
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 6.3:
+        non_striker: I Goordial-John
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 6.4:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 6.5:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 6.6:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 7.1:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 7.2:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 7.3:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 7.4:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 7.5:
+        non_striker: I Goordial-John
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 7.6:
+        non_striker: Kainat Qazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 8.1:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 8.2:
+        non_striker: I Goordial-John
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 8.3:
+        non_striker: I Goordial-John
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 8.4:
+        non_striker: I Goordial-John
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 8.5:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+        wicket:
+          player_out: I Goordial-John
+          kind: bowled
+    - 8.6:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 9.1:
+        non_striker: Kainat Qazi
+        bowler: S Kizito
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amarpal Kaur
+    - 9.2:
+        non_striker: Kainat Qazi
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 9.3:
+        non_striker: Kainat Qazi
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 9.4:
+        non_striker: Kainat Qazi
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 9.5:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 9.6:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kainat Qazi
+    - 9.7:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kainat Qazi
+    - 10.1:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 10.2:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 10.3:
+        non_striker: Kainat Qazi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 10.4:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 10.5:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+        wicket:
+          player_out: Kainat Qazi
+          fielders:
+          - PZ Kamunya
+          kind: caught
+    - 10.6:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 11.1:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 11.2:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 11.3:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Mahajan
+    - 11.4:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 11.5:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 11.6:
+        non_striker: Amarpal Kaur
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 12.1:
+        non_striker: V Mahajan
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 12.2:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 12.3:
+        non_striker: V Mahajan
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 12.4:
+        non_striker: V Mahajan
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 12.5:
+        non_striker: Amarpal Kaur
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 12.6:
+        non_striker: V Mahajan
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+        wicket:
+          player_out: Amarpal Kaur
+          kind: caught and bowled
+    - 13.1:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habeeba Bader
+        batsman: V Mahajan
+    - 13.2:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habeeba Bader
+        batsman: V Mahajan
+    - 13.3:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Habeeba Bader
+        batsman: V Mahajan
+    - 13.4:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 13.5:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Habeeba Bader
+    - 13.6:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 13.7:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 14.1:
+        non_striker: Habeeba Bader
+        bowler: JG Kimaro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mahajan
+    - 14.2:
+        non_striker: Habeeba Bader
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 14.3:
+        non_striker: Habeeba Bader
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 14.4:
+        non_striker: Habeeba Bader
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+        wicket:
+          player_out: Habeeba Bader
+          fielders:
+          - NJ Pius
+          - SH Mohamedi
+          kind: run out
+    - 14.5:
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Mahajan
+        batsman: TA Lavia
+    - 14.6:
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Mahajan
+        batsman: TA Lavia
+    - 14.7:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 15.1:
+        non_striker: TA Lavia
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 15.2:
+        non_striker: TA Lavia
+        bowler: S Kizito
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mahajan
+    - 15.3:
+        non_striker: TA Lavia
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 15.4:
+        non_striker: TA Lavia
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 15.5:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 15.6:
+        non_striker: V Mahajan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lavia
+    - 15.7:
+        non_striker: TA Lavia
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 16.1:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+        wicket:
+          player_out: TA Lavia
+          kind: bowled
+    - 16.2:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 16.3:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rabbjyot Rajput
+    - 16.4:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 16.5:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 16.6:
+        non_striker: Rabbjyot Rajput
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 16.7:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 17.1:
+        non_striker: V Mahajan
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 17.2:
+        non_striker: V Mahajan
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 17.3:
+        non_striker: V Mahajan
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 17.4:
+        non_striker: Rabbjyot Rajput
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 17.5:
+        non_striker: V Mahajan
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 17.6:
+        non_striker: Rabbjyot Rajput
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 18.1:
+        non_striker: Rabbjyot Rajput
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 18.2:
+        non_striker: Rabbjyot Rajput
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 18.3:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Rabbjyot Rajput
+    - 18.4:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rabbjyot Rajput
+    - 18.5:
+        non_striker: Rabbjyot Rajput
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 18.6:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 18.7:
+        non_striker: V Mahajan
+        bowler: JG Kimaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 19.1:
+        non_striker: Rabbjyot Rajput
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+        wicket:
+          player_out: V Mahajan
+          fielders:
+          - NN Saidi
+          - SH Mohamedi
+          kind: run out
+    - 19.2:
+        non_striker: Rabbjyot Rajput
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zeel Patel
+    - 19.3:
+        non_striker: Zeel Patel
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 19.4:
+        non_striker: Zeel Patel
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rabbjyot Rajput
+    - 19.5:
+        non_striker: Zeel Patel
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 19.6:
+        non_striker: Zeel Patel
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput

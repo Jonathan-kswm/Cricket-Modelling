@@ -1,0 +1,922 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-07-05'
+  gender: female
+  match_type: T20
+  match_type_number: 2388
+  outcome:
+    winner: Indonesia
+    by:
+      runs: 18
+    method: D/L
+  overs: 20
+  player_of_match:
+  - NLKWR Dewi
+  players:
+    Indonesia:
+    - M Corazon
+    - RD Pangestuti
+    - NLKWR Dewi
+    - D Wulandari
+    - NPAN Sakarini
+    - Noorainah
+    - SAN Maypriani
+    - NK Ariani
+    - KS Kasse
+    - NW Sariani
+    - DAL Paramitha
+    Singapore:
+    - Shafina Mahesh
+    - RR Seth
+    - GK Diviya
+    - Ada Bhasin
+    - CH Abeyratne
+    - LAR Bommareddy
+    - PSR Gurusinghe
+    - NL Jacinta Si Ping
+    - H Dhavina
+    - Ananya Sarma
+    - E Ungerman
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      Ada Bhasin: b1c113d7
+      Ananya Sarma: 0bb03efc
+      CH Abeyratne: ef423744
+      D Wulandari: 8c0d904e
+      DAL Paramitha: 84f831c3
+      E Rajvengadesh: 9b50c645
+      E Ungerman: 3959c505
+      GK Diviya: 992979fa
+      H Dhavina: cd12f384
+      KS Kasse: 007a3773
+      LAR Bommareddy: 3da8cd3a
+      M Corazon: 0baa36e0
+      Mahalakshmi: 3204216e
+      NK Ariani: 382377a4
+      NL Jacinta Si Ping: 68c9a36f
+      NLKWR Dewi: d04fc4a4
+      NPAN Sakarini: 72b5decf
+      NW Sariani: e910d955
+      Noorainah: '26166475'
+      PSR Gurusinghe: 591a7004
+      RD Pangestuti: 63fc4b92
+      RR Seth: 7ccc0a38
+      SAN Maypriani: ad135bde
+      Shafina Mahesh: 0c40b02d
+      T Sathyendra Kumar: f56197be
+  teams:
+  - Indonesia
+  - Singapore
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - E Rajvengadesh
+  - T Sathyendra Kumar
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RD Pangestuti
+        batsman: M Corazon
+    - 0.2:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RD Pangestuti
+        batsman: M Corazon
+    - 0.3:
+        non_striker: M Corazon
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RD Pangestuti
+    - 0.4:
+        non_striker: RD Pangestuti
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 0.5:
+        non_striker: RD Pangestuti
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 0.6:
+        non_striker: RD Pangestuti
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 1.1:
+        non_striker: M Corazon
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Pangestuti
+    - 1.2:
+        non_striker: M Corazon
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Pangestuti
+    - 1.3:
+        non_striker: M Corazon
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Pangestuti
+    - 1.4:
+        non_striker: RD Pangestuti
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.5:
+        non_striker: RD Pangestuti
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 1.6:
+        non_striker: M Corazon
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Pangestuti
+        wicket:
+          player_out: RD Pangestuti
+          kind: bowled
+    - 1.7:
+        non_striker: M Corazon
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 2.1:
+        non_striker: NLKWR Dewi
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.2:
+        non_striker: NLKWR Dewi
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 2.3:
+        non_striker: NLKWR Dewi
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+        wicket:
+          player_out: M Corazon
+          kind: bowled
+    - 2.4:
+        non_striker: NLKWR Dewi
+        bowler: Ada Bhasin
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Wulandari
+    - 2.5:
+        non_striker: NLKWR Dewi
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 2.6:
+        non_striker: D Wulandari
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 2.7:
+        non_striker: D Wulandari
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 3.1:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wulandari
+    - 3.2:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 3.3:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 3.4:
+        non_striker: D Wulandari
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 3.5:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wulandari
+    - 3.6:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 3.7:
+        non_striker: NLKWR Dewi
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 3.8:
+        non_striker: D Wulandari
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 4.1:
+        non_striker: NLKWR Dewi
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Wulandari
+    - 4.2:
+        non_striker: D Wulandari
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLKWR Dewi
+    - 4.3:
+        non_striker: D Wulandari
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NLKWR Dewi
+    - 4.4:
+        non_striker: NLKWR Dewi
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wulandari
+    - 4.5:
+        non_striker: NLKWR Dewi
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 4.6:
+        non_striker: NLKWR Dewi
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wulandari
+    - 5.1:
+        non_striker: D Wulandari
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.2:
+        non_striker: D Wulandari
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NLKWR Dewi
+    - 5.3:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 5.4:
+        non_striker: D Wulandari
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 5.5:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wulandari
+    - 5.6:
+        non_striker: D Wulandari
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 6.1:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 6.2:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 6.3:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NLKWR Dewi
+    - 6.4:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wulandari
+    - 6.5:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 6.6:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 7.1:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wulandari
+    - 7.2:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wulandari
+    - 7.3:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 7.4:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 7.5:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 7.6:
+        non_striker: D Wulandari
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 8.1:
+        non_striker: D Wulandari
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 8.2:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 8.3:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 8.4:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 8.5:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+        wicket:
+          player_out: D Wulandari
+          fielders:
+          - NL Jacinta Si Ping
+          kind: stumped
+    - 8.6:
+        non_striker: NLKWR Dewi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 9.1:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 9.2:
+        non_striker: NPAN Sakarini
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 9.3:
+        non_striker: NPAN Sakarini
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NLKWR Dewi
+    - 9.4:
+        non_striker: NPAN Sakarini
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 9.5:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 9.6:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 9.7:
+        non_striker: NLKWR Dewi
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+        wicket:
+          player_out: NPAN Sakarini
+          kind: bowled
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          kind: bowled
+    - 0.2:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 0.3:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 0.4:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 0.5:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 0.6:
+        non_striker: RR Seth
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 1.1:
+        non_striker: GK Diviya
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 1.2:
+        non_striker: GK Diviya
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 1.3:
+        non_striker: RR Seth
+        bowler: NLKWR Dewi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GK Diviya
+    - 1.4:
+        non_striker: RR Seth
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 1.5:
+        non_striker: GK Diviya
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: RR Seth
+          kind: bowled
+    - 1.6:
+        non_striker: GK Diviya
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+        wicket:
+          player_out: Ada Bhasin
+          kind: bowled
+    - 2.1:
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CH Abeyratne
+        batsman: GK Diviya
+    - 2.2:
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CH Abeyratne
+        batsman: GK Diviya
+    - 2.3:
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CH Abeyratne
+        batsman: GK Diviya
+    - 2.4:
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CH Abeyratne
+        batsman: GK Diviya
+    - 2.5:
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CH Abeyratne
+        batsman: GK Diviya
+    - 2.6:
+        non_striker: GK Diviya
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 3.1:
+        non_striker: CH Abeyratne
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.2:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Abeyratne
+    - 3.3:
+        non_striker: CH Abeyratne
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.4:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Abeyratne
+    - 3.5:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 3.6:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Abeyratne
+    - 3.7:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 3.8:
+        non_striker: GK Diviya
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Abeyratne
+    - 4.1:
+        non_striker: GK Diviya
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 4.2:
+        non_striker: GK Diviya
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 4.3:
+        non_striker: GK Diviya
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Abeyratne
+    - 4.4:
+        non_striker: CH Abeyratne
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 4.5:
+        non_striker: GK Diviya
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Abeyratne
+    - 4.6:
+        non_striker: CH Abeyratne
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          fielders:
+          - NPAN Sakarini
+          - NW Sariani
+          kind: run out

@@ -1,0 +1,2572 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Tallinn
+  dates:
+  - '2025-09-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2489
+  outcome:
+    winner: Estonia
+    by:
+      runs: 115
+  overs: 20
+  player_of_match:
+  - C Lokuge
+  players:
+    Estonia:
+    - G Madanayake
+    - A Vessik
+    - Ragne Hallik
+    - C Lokuge
+    - Viktoria Frey
+    - E Ellermaa
+    - Asma Shifa
+    - L Sormus
+    - S Pattenden
+    - M Valner
+    - H Kerge
+    Czech Republic:
+    - K Tesarikova
+    - J Souckova
+    - T Kolcunova
+    - E Kuncova
+    - J Kominkova
+    - K Kisova
+    - E Konasova
+    - O Hamrikova
+    - M Trejbalova
+    - K Hruskova
+    - S Kolcunova
+  registry:
+    people:
+      A Vessik: d30d4a0c
+      Asma Shifa: 39ca91e4
+      C Lokuge: f805e474
+      E Ellermaa: 37c085d2
+      E Konasova: d5867f82
+      E Kuncova: 7f2f40fa
+      G Madanayake: cc72f8df
+      H Kerge: 76207d36
+      J Kominkova: d5595998
+      J Souckova: 9a9c0e81
+      K Hruskova: c212e935
+      K Kisova: 9ca27eab
+      K Tesarikova: 42a7d394
+      L Sormus: 3486a171
+      M Trejbalova: e0ab0072
+      M Valner: b5472435
+      O Hamrikova: caceb014
+      Ragne Hallik: 1ac4b030
+      S Kolcunova: 7eba546e
+      S Pattenden: b7880d1d
+      T Kolcunova: 50102dea
+      Viktoria Frey: fed9a316
+  teams:
+  - Estonia
+  - Czech Republic
+  toss:
+    winner: Estonia
+    decision: bat
+  venue: Estonian National Cricket and Rugby Field
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.2:
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.3:
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.4:
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.5:
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.6:
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Vessik
+        batsman: G Madanayake
+    - 0.7:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vessik
+    - 0.8:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 1.1:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 1.2:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 1.3:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: A Vessik
+    - 1.4:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 1.5:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 1.6:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 1.7:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 1.8:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 1.9:
+        non_striker: A Vessik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 1.10:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 2.1:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+        wicket:
+          player_out: A Vessik
+          fielders:
+          - K Tesarikova
+          kind: caught
+    - 2.2:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 2.3:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 2.4:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 2.5:
+        non_striker: G Madanayake
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 2.6:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 2.7:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 3.1:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 3.2:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 3.3:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 3.4:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 3.5:
+        non_striker: G Madanayake
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ragne Hallik
+    - 3.6:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 3.7:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 3.8:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 3.9:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Madanayake
+    - 4.1:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 4.2:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 4.3:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 4.4:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 4.5:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 4.6:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 4.7:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 5.1:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 5.2:
+        non_striker: G Madanayake
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 5.3:
+        non_striker: G Madanayake
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ragne Hallik
+    - 5.4:
+        non_striker: G Madanayake
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 5.5:
+        non_striker: G Madanayake
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 5.6:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 5.7:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 5.8:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 5.9:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 5.10:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Madanayake
+    - 5.11:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 5.12:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 5.13:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 6.1:
+        non_striker: G Madanayake
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 6.2:
+        non_striker: G Madanayake
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ragne Hallik
+    - 6.3:
+        non_striker: G Madanayake
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 6.4:
+        non_striker: Ragne Hallik
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 6.5:
+        non_striker: Ragne Hallik
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 6.6:
+        non_striker: G Madanayake
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 6.7:
+        non_striker: G Madanayake
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 6.8:
+        non_striker: Ragne Hallik
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 6.9:
+        non_striker: Ragne Hallik
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 7.1:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 7.2:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.3:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: G Madanayake
+    - 7.4:
+        non_striker: G Madanayake
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 7.5:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 7.6:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.7:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 7.8:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.9:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 7.10:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: G Madanayake
+    - 7.11:
+        non_striker: G Madanayake
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 7.12:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.13:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.14:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 7.15:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.16:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.17:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 7.18:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Madanayake
+    - 7.19:
+        non_striker: Ragne Hallik
+        bowler: J Souckova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 8.1:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.2:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.3:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.4:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.5:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.6:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.7:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.8:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 8.9:
+        non_striker: G Madanayake
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 9.1:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 9.2:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 9.3:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 9.4:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 9.5:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 9.6:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 9.7:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 9.8:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Madanayake
+    - 9.9:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: G Madanayake
+    - 9.10:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 9.11:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.12:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 9.13:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 9.14:
+        non_striker: G Madanayake
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 9.15:
+        non_striker: Ragne Hallik
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Madanayake
+    - 10.1:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+    - 10.2:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Madanayake
+        wicket:
+          player_out: G Madanayake
+          kind: lbw
+    - 10.3:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 10.4:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 10.5:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 10.6:
+        non_striker: C Lokuge
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 10.7:
+        non_striker: C Lokuge
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 11.1:
+        non_striker: C Lokuge
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 11.2:
+        non_striker: C Lokuge
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 11.3:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 11.4:
+        non_striker: C Lokuge
+        bowler: E Konasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 11.5:
+        non_striker: C Lokuge
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 11.6:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Lokuge
+    - 11.7:
+        non_striker: Ragne Hallik
+        bowler: E Konasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 12.1:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 12.2:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 12.3:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 12.4:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 12.5:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 12.6:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 12.7:
+        non_striker: C Lokuge
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 12.8:
+        non_striker: Ragne Hallik
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 13.1:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 13.2:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 13.3:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+        wicket:
+          player_out: C Lokuge
+          fielders:
+          - J Souckova
+          - M Trejbalova
+          kind: run out
+    - 13.4:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 13.5:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 13.6:
+        non_striker: Viktoria Frey
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 13.7:
+        non_striker: Ragne Hallik
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 14.1:
+        non_striker: Viktoria Frey
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 14.2:
+        non_striker: Viktoria Frey
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 14.3:
+        non_striker: Viktoria Frey
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 14.4:
+        non_striker: Viktoria Frey
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 14.5:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 14.6:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 14.7:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 14.8:
+        non_striker: Ragne Hallik
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 14.9:
+        non_striker: Viktoria Frey
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 15.1:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 15.2:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 15.3:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 15.4:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 15.5:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 15.6:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Viktoria Frey
+    - 15.7:
+        non_striker: Ragne Hallik
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 15.8:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 15.9:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 15.10:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 15.11:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 15.12:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+        wicket:
+          player_out: Ragne Hallik
+          fielders:
+          - T Kolcunova
+          kind: caught
+    - 16.1:
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Ellermaa
+        batsman: Viktoria Frey
+    - 16.2:
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Ellermaa
+        batsman: Viktoria Frey
+    - 16.3:
+        non_striker: Viktoria Frey
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 16.4:
+        non_striker: Viktoria Frey
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 16.5:
+        non_striker: Viktoria Frey
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 16.6:
+        non_striker: Viktoria Frey
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 16.7:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 16.8:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 17.1:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 17.2:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 17.3:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Viktoria Frey
+    - 17.4:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 17.5:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 17.6:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 17.7:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 17.8:
+        non_striker: E Ellermaa
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 17.9:
+        non_striker: Viktoria Frey
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 18.1:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 18.2:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Viktoria Frey
+    - 18.3:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 18.4:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+        wicket:
+          player_out: Viktoria Frey
+          fielders:
+          - K Tesarikova
+          kind: caught
+    - 18.5:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+    - 18.6:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Asma Shifa
+    - 18.7:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+    - 18.8:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asma Shifa
+    - 18.9:
+        non_striker: E Ellermaa
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asma Shifa
+    - 19.1:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 19.2:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.3:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 19.4:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.5:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.6:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 19.7:
+        non_striker: E Ellermaa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asma Shifa
+    - 19.8:
+        non_striker: Asma Shifa
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+- 2nd innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        non_striker: J Souckova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+        wicket:
+          player_out: K Tesarikova
+          fielders:
+          - S Pattenden
+          kind: caught
+    - 0.2:
+        non_striker: J Souckova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 0.3:
+        non_striker: J Souckova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 0.4:
+        non_striker: J Souckova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kolcunova
+    - 0.5:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 0.6:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Souckova
+    - 0.7:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+        wicket:
+          player_out: J Souckova
+          kind: bowled
+    - 1.1:
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Kuncova
+        batsman: T Kolcunova
+    - 1.2:
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Kuncova
+        batsman: T Kolcunova
+    - 1.3:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kuncova
+        batsman: T Kolcunova
+    - 1.4:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kuncova
+        batsman: T Kolcunova
+    - 1.5:
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: E Kuncova
+        batsman: T Kolcunova
+    - 1.6:
+        non_striker: T Kolcunova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 1.7:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kolcunova
+    - 1.8:
+        non_striker: T Kolcunova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 1.9:
+        non_striker: T Kolcunova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 2.1:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kolcunova
+    - 2.2:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kolcunova
+    - 2.3:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kuncova
+    - 2.4:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 2.5:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 2.6:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kolcunova
+    - 3.1:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 3.2:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 3.3:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 3.4:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kolcunova
+    - 3.5:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kolcunova
+    - 3.6:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 3.7:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 3.8:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 4.1:
+        non_striker: T Kolcunova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 4.2:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 4.3:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kolcunova
+    - 4.4:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 4.5:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+        wicket:
+          player_out: T Kolcunova
+          kind: bowled
+    - 4.6:
+        non_striker: E Kuncova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 5.1:
+        non_striker: J Kominkova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 5.2:
+        non_striker: J Kominkova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 5.3:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 5.4:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 5.5:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 5.6:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 5.7:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 5.8:
+        non_striker: E Kuncova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 6.1:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+        wicket:
+          player_out: E Kuncova
+          kind: bowled
+    - 6.2:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 6.3:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kisova
+    - 6.4:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 6.5:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 6.6:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 6.7:
+        non_striker: J Kominkova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 7.1:
+        non_striker: K Kisova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 7.2:
+        non_striker: K Kisova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 7.3:
+        non_striker: K Kisova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Kominkova
+    - 7.4:
+        non_striker: J Kominkova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 7.5:
+        non_striker: J Kominkova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 7.6:
+        non_striker: J Kominkova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 8.1:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 8.2:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 8.3:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+        wicket:
+          player_out: J Kominkova
+          fielders:
+          - M Valner
+          kind: caught
+    - 8.4:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 8.5:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+        wicket:
+          player_out: E Konasova
+          kind: caught and bowled
+    - 8.6:
+        non_striker: K Kisova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 8.7:
+        non_striker: O Hamrikova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kisova
+    - 8.8:
+        non_striker: O Hamrikova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 8.9:
+        non_striker: O Hamrikova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kisova
+    - 8.10:
+        non_striker: O Hamrikova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+        wicket:
+          player_out: K Kisova
+          kind: caught and bowled
+    - 9.1:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Trejbalova
+        batsman: O Hamrikova
+    - 9.2:
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Trejbalova
+        batsman: O Hamrikova
+    - 9.3:
+        non_striker: M Trejbalova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+        wicket:
+          player_out: O Hamrikova
+          fielders:
+          - C Lokuge
+          kind: caught
+    - 9.4:
+        non_striker: M Trejbalova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hruskova
+        wicket:
+          player_out: K Hruskova
+          kind: bowled
+    - 9.5:
+        non_striker: M Trejbalova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 9.6:
+        non_striker: M Trejbalova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 10.1:
+        non_striker: S Kolcunova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 10.2:
+        non_striker: S Kolcunova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trejbalova
+    - 10.3:
+        non_striker: S Kolcunova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 10.4:
+        non_striker: S Kolcunova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Trejbalova
+    - 10.5:
+        non_striker: M Trejbalova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 10.6:
+        non_striker: M Trejbalova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Kolcunova
+    - 10.7:
+        non_striker: M Trejbalova
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcunova
+    - 10.8:
+        non_striker: M Trejbalova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 10.9:
+        non_striker: M Trejbalova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 11.1:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 11.2:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trejbalova
+    - 11.3:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 11.4:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 11.5:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Trejbalova
+    - 11.6:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 11.7:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 11.8:
+        non_striker: S Kolcunova
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Trejbalova
+    - 12.1:
+        non_striker: M Trejbalova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+        wicket:
+          player_out: M Trejbalova
+          fielders:
+          - E Ellermaa
+          kind: run out

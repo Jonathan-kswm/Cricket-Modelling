@@ -1,0 +1,1649 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2412
+  outcome:
+    winner: Botswana
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - G Matome
+  players:
+    Mozambique:
+    - O Mondlane
+    - AL Mundundo
+    - C Magaia
+    - I Chuma
+    - P Cuinica
+    - WNA Bucuane
+    - IE Mulhovo
+    - L Chipanga
+    - A Salomao
+    - O Matsolo
+    - YM Murrure
+    Botswana:
+    - O Kgeresi
+    - L Mophakedi
+    - G Matome
+    - W Moutswi
+    - P Mapotsane
+    - T Shadrack
+    - A Mokgotlhe
+    - O Keitsemang
+    - M Phiase
+    - K Inakale
+    - G Setshwane
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Mokgotlhe: 781f1a40
+      A Salomao: 04e145f4
+      AL Mundundo: c1edced9
+      C Magaia: bb4d1237
+      D Odhiambo: '45994517'
+      G Matome: a6898f7a
+      G Setshwane: 3dbbe483
+      I Chuma: b1021056
+      IE Mulhovo: ab750f1f
+      J Chibhabha: 4c5c47a4
+      K Inakale: eea862f6
+      L Chipanga: 70722cc7
+      L Mophakedi: c8cdbb92
+      Lauren Agenbag: 40849abd
+      M Phiase: 537cc79f
+      O Keitsemang: 5145239b
+      O Kgeresi: cba01c28
+      O Matsolo: 3c4a62c4
+      O Mondlane: 7f97139f
+      P Cuinica: efca38df
+      P Mapotsane: 9ea555a4
+      T Shadrack: 6d972d02
+      W Moutswi: e8c42000
+      WNA Bucuane: eea3be2e
+      YM Murrure: 308ac7cb
+  teams:
+  - Mozambique
+  - Botswana
+  toss:
+    winner: Mozambique
+    decision: bat
+  umpires:
+  - D Odhiambo
+  - Lauren Agenbag
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mundundo
+        batsman: O Mondlane
+    - 0.2:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AL Mundundo
+        batsman: O Mondlane
+    - 0.3:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mundundo
+        batsman: O Mondlane
+    - 0.4:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+        wicket:
+          player_out: O Mondlane
+          kind: lbw
+    - 0.5:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Magaia
+    - 0.6:
+        non_striker: C Magaia
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.1:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 1.2:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 1.3:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.4:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.5:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.6:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.1:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 2.2:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 2.3:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 2.4:
+        non_striker: AL Mundundo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 2.5:
+        non_striker: C Magaia
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.6:
+        non_striker: C Magaia
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 3.1:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 3.2:
+        non_striker: C Magaia
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 3.3:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 3.4:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 3.5:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Magaia
+    - 3.6:
+        non_striker: AL Mundundo
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 4.1:
+        non_striker: C Magaia
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 4.2:
+        non_striker: C Magaia
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 4.3:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+        wicket:
+          player_out: C Magaia
+          kind: bowled
+    - 4.4:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 4.5:
+        non_striker: I Chuma
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 4.6:
+        non_striker: I Chuma
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.1:
+        non_striker: AL Mundundo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 5.2:
+        non_striker: AL Mundundo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 5.3:
+        non_striker: AL Mundundo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 5.4:
+        non_striker: I Chuma
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.5:
+        non_striker: I Chuma
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.6:
+        non_striker: I Chuma
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.1:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 6.2:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 6.3:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+        wicket:
+          player_out: I Chuma
+          kind: bowled
+    - 6.4:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 6.5:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 6.6:
+        non_striker: AL Mundundo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 6.7:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.8:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+        wicket:
+          player_out: AL Mundundo
+          kind: bowled
+    - 7.1:
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WNA Bucuane
+        batsman: P Cuinica
+    - 7.2:
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WNA Bucuane
+        batsman: P Cuinica
+    - 7.3:
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WNA Bucuane
+        batsman: P Cuinica
+    - 7.4:
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WNA Bucuane
+        batsman: P Cuinica
+    - 7.5:
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WNA Bucuane
+        batsman: P Cuinica
+    - 7.6:
+        non_striker: WNA Bucuane
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 8.1:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 8.2:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 8.3:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 8.4:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 8.5:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+        wicket:
+          player_out: WNA Bucuane
+          fielders:
+          - K Inakale
+          kind: caught
+    - 8.6:
+        non_striker: P Cuinica
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 9.1:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.2:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.3:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.4:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.5:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.6:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 9.7:
+        non_striker: IE Mulhovo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.1:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 10.2:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 10.3:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 10.4:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 10.5:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 10.6:
+        non_striker: IE Mulhovo
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.7:
+        non_striker: P Cuinica
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 11.1:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.2:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.3:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.4:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.5:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.6:
+        non_striker: IE Mulhovo
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 12.1:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+        wicket:
+          player_out: IE Mulhovo
+          kind: bowled
+    - 12.2:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+    - 12.3:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Chipanga
+    - 12.4:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+    - 12.5:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+    - 12.6:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+        wicket:
+          player_out: L Chipanga
+          fielders:
+          - T Shadrack
+          kind: caught
+    - 13.1:
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Salomao
+        batsman: P Cuinica
+    - 13.2:
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Salomao
+        batsman: P Cuinica
+    - 13.3:
+        non_striker: P Cuinica
+        bowler: K Inakale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Salomao
+    - 13.4:
+        non_striker: P Cuinica
+        bowler: K Inakale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Salomao
+    - 13.5:
+        non_striker: A Salomao
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 13.6:
+        non_striker: A Salomao
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 13.7:
+        non_striker: A Salomao
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 14.1:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Salomao
+    - 14.2:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+    - 14.3:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+        wicket:
+          player_out: A Salomao
+          kind: bowled
+    - 14.4:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Matsolo
+    - 14.5:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 14.6:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 14.7:
+        non_striker: P Cuinica
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 14.8:
+        non_striker: O Matsolo
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+        wicket:
+          player_out: P Cuinica
+          kind: bowled
+    - 15.1:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YM Murrure
+        batsman: O Matsolo
+    - 15.2:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YM Murrure
+        batsman: O Matsolo
+    - 15.3:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YM Murrure
+        batsman: O Matsolo
+    - 15.4:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YM Murrure
+        batsman: O Matsolo
+    - 15.5:
+        non_striker: O Matsolo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 15.6:
+        non_striker: O Matsolo
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 16.1:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 16.2:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 16.3:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 16.4:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 16.5:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 16.6:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Matsolo
+    - 16.7:
+        non_striker: YM Murrure
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 17.1:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 17.2:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 17.3:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 17.4:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 17.5:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 17.6:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YM Murrure
+    - 17.7:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YM Murrure
+    - 17.8:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YM Murrure
+    - 17.9:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YM Murrure
+    - 17.10:
+        non_striker: O Matsolo
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Murrure
+    - 18.1:
+        non_striker: YM Murrure
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 18.2:
+        non_striker: YM Murrure
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 18.3:
+        non_striker: YM Murrure
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 18.4:
+        non_striker: O Matsolo
+        bowler: G Setshwane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: YM Murrure
+    - 18.5:
+        non_striker: YM Murrure
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 18.6:
+        non_striker: YM Murrure
+        bowler: G Setshwane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 19.1:
+        non_striker: O Matsolo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YM Murrure
+    - 19.2:
+        non_striker: YM Murrure
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 19.3:
+        non_striker: YM Murrure
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 19.4:
+        non_striker: YM Murrure
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Matsolo
+    - 19.5:
+        non_striker: YM Murrure
+        bowler: W Moutswi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Matsolo
+    - 19.6:
+        non_striker: YM Murrure
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 19.7:
+        non_striker: O Matsolo
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YM Murrure
+- 2nd innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.2:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.3:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.4:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.5:
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.6:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.7:
+        non_striker: L Mophakedi
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 1.1:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: L Mophakedi
+          kind: lbw
+    - 1.2:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 1.3:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 1.4:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 1.5:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 1.6:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 1.7:
+        non_striker: O Kgeresi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 2.1:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 2.2:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: O Kgeresi
+    - 2.3:
+        non_striker: O Kgeresi
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 4
+          batsman: 3
+        extras:
+          noballs: 1
+        batsman: G Matome
+    - 2.4:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+        wicket:
+          player_out: O Kgeresi
+          fielders:
+          - WNA Bucuane
+          kind: run out
+    - 2.5:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Moutswi
+        batsman: G Matome
+    - 2.6:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Moutswi
+        batsman: G Matome
+    - 2.7:
+        non_striker: W Moutswi
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 3.1:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 3.2:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: W Moutswi
+    - 3.3:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 3.4:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 3.5:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 3.6:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Moutswi
+    - 3.7:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.1:
+        non_striker: W Moutswi
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 4.2:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.3:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 4.4:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: W Moutswi
+    - 4.5:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.6:
+        non_striker: G Matome
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 4.7:
+        non_striker: W Moutswi
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.1:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 5.2:
+        non_striker: G Matome
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 5.3:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.4:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.5:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 5.6:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 5.7:
+        non_striker: W Moutswi
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 6.1:
+        non_striker: W Moutswi
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 6.2:
+        non_striker: W Moutswi
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 6.3:
+        non_striker: W Moutswi
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Matome
+    - 6.4:
+        non_striker: G Matome
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: W Moutswi
+    - 6.5:
+        non_striker: W Moutswi
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 6.6:
+        non_striker: W Moutswi
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 7.1:
+        non_striker: G Matome
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 7.2:
+        non_striker: W Moutswi
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 7.3:
+        non_striker: G Matome
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi

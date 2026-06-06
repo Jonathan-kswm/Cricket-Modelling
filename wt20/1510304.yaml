@@ -1,0 +1,2173 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2575
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - C Abel
+  players:
+    Papua New Guinea:
+    - K Oala
+    - N Vare
+    - H Doriga
+    - B Tau
+    - HJ Thomas
+    - P Siaka
+    - E Pokana
+    - I Toua
+    - HL Tau
+    - GP Tom
+    - M Tom
+    Scotland:
+    - DEM Carter
+    - A Lister
+    - EL Watson
+    - SJ Bryce
+    - M McColl
+    - R Slater
+    - PA Chatterji
+    - AH Maqsood
+    - C Abel
+    - O Bell
+    - K Fraser
+  registry:
+    people:
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      B Tau: 3a6cbb8e
+      C Abel: d92d3563
+      DEM Carter: c3394c16
+      E Pokana: 95d9f74c
+      EL Watson: 45dd7433
+      GP Tom: 88bcd09d
+      H Doriga: 5aa874da
+      HJ Thomas: a3034d3d
+      HL Tau: ace63b7f
+      I Toua: 83cde44d
+      K Fraser: a0a65375
+      K Oala: df70c3f2
+      LDVV Silva: 6e226c31
+      M Abbott: 3e5f0c04
+      M McColl: d5fa2ab3
+      M Tom: cebc1351
+      N Vare: 20ace887
+      O Bell: 385eac52
+      P Siaka: 595433d2
+      PA Chatterji: 8e7be59c
+      R Slater: 8a452195
+      Rokeya Sultana: 20abf9b9
+      SJ Bryce: 2ca65aee
+      SM Bartlett: 7ba18406
+  teams:
+  - Papua New Guinea
+  - Scotland
+  toss:
+    winner: Papua New Guinea
+    decision: bat
+  umpires:
+  - M Abbott
+  - Rokeya Sultana
+  venue: Asian Institute of Technology Ground, Bangkok
+innings:
+- 1st innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Vare
+        batsman: K Oala
+    - 0.2:
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Vare
+        batsman: K Oala
+    - 0.3:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+        wicket:
+          player_out: K Oala
+          fielders:
+          - M McColl
+          kind: caught
+    - 0.4:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 0.5:
+        non_striker: H Doriga
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 0.6:
+        non_striker: H Doriga
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 1.1:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.2:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 1.3:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.4:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 1.5:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Doriga
+    - 1.6:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.1:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 2.2:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 2.3:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 2.4:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 2.5:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 2.6:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 2.7:
+        non_striker: N Vare
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 3.1:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 3.2:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 3.3:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 3.4:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 3.5:
+        non_striker: H Doriga
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.6:
+        non_striker: H Doriga
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 3.7:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 4.1:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 4.2:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 4.3:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 4.4:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 4.5:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 4.6:
+        non_striker: N Vare
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Doriga
+    - 5.1:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 5.2:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 5.3:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.4:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.5:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.6:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 5.7:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          kind: bowled
+    - 6.1:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: H Doriga
+    - 6.2:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Tau
+        batsman: H Doriga
+    - 6.3:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: H Doriga
+    - 6.4:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: H Doriga
+    - 6.5:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: H Doriga
+    - 6.6:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 7.1:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Doriga
+    - 7.2:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 7.3:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 7.4:
+        non_striker: H Doriga
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 7.5:
+        non_striker: H Doriga
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.6:
+        non_striker: H Doriga
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.7:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 7.8:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 7.9:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 7.10:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Doriga
+    - 8.1:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.2:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.3:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.4:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Doriga
+    - 8.5:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 8.6:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 9.1:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 9.2:
+        non_striker: H Doriga
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.3:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 9.4:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 9.5:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 9.6:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 10.1:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 10.2:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 10.3:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Doriga
+    - 10.4:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 10.5:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 10.6:
+        non_striker: B Tau
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 10.7:
+        non_striker: H Doriga
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 11.1:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 11.2:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 11.3:
+        non_striker: H Doriga
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 11.4:
+        non_striker: H Doriga
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 11.5:
+        non_striker: H Doriga
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 11.6:
+        non_striker: H Doriga
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 11.7:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 12.1:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 12.2:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 12.3:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 12.4:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 12.5:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 12.6:
+        non_striker: H Doriga
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 13.1:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.2:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: B Tau
+    - 13.3:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.4:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 13.5:
+        non_striker: B Tau
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 13.6:
+        non_striker: B Tau
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 13.7:
+        non_striker: H Doriga
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 14.1:
+        non_striker: B Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 14.2:
+        non_striker: H Doriga
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 14.3:
+        non_striker: H Doriga
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 14.4:
+        non_striker: H Doriga
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 14.5:
+        non_striker: B Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 14.6:
+        non_striker: B Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+        wicket:
+          player_out: H Doriga
+          kind: bowled
+    - 15.1:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          fielders:
+          - AH Maqsood
+          kind: caught
+    - 15.2:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 15.3:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 15.4:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: bowled
+    - 15.5:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Pokana
+    - 15.6:
+        non_striker: HJ Thomas
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Pokana
+        wicket:
+          player_out: E Pokana
+          kind: bowled
+    - 16.1:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Toua
+        batsman: HJ Thomas
+    - 16.2:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Toua
+        batsman: HJ Thomas
+    - 16.3:
+        non_striker: HJ Thomas
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: I Toua
+    - 16.4:
+        non_striker: I Toua
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 16.5:
+        non_striker: I Toua
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 16.6:
+        non_striker: HJ Thomas
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 17.1:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 17.2:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 17.3:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          kind: bowled
+    - 17.4:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 17.5:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Tau
+    - 17.6:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 17.7:
+        non_striker: I Toua
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.1:
+        non_striker: I Toua
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.2:
+        non_striker: HL Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 18.3:
+        non_striker: I Toua
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.4:
+        non_striker: HL Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 18.5:
+        non_striker: I Toua
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.6:
+        non_striker: HL Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          fielders:
+          - SJ Bryce
+          - M McColl
+          kind: run out
+    - 19.1:
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GP Tom
+        batsman: HL Tau
+    - 19.2:
+        non_striker: HL Tau
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 19.3:
+        non_striker: HL Tau
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 19.4:
+        non_striker: GP Tom
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 19.5:
+        non_striker: HL Tau
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Tom
+    - 19.6:
+        non_striker: HL Tau
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.2:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Lister
+        batsman: DEM Carter
+    - 0.3:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 0.4:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 0.5:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - E Pokana
+          kind: caught
+    - 0.6:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 1.1:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.2:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.3:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.4:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.5:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.6:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.1:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 2.2:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Watson
+    - 2.3:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 2.5:
+        non_striker: EL Watson
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: EL Watson
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 3.1:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.2:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.3:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.4:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.5:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 3.6:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 4.1:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 4.2:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 4.3:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.4:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 4.5:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 4.6:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Watson
+    - 5.1:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.3:
+        non_striker: EL Watson
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 5.4:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 5.5:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Watson
+    - 5.6:
+        non_striker: DEM Carter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 6.1:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.2:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 6.3:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.4:
+        non_striker: EL Watson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.5:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Watson
+    - 6.6:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Watson
+    - 7.1:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.2:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.3:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.4:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 7.5:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 8.1:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 8.2:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.3:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 8.5:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EL Watson
+    - 8.6:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.1:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 9.2:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 9.3:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 9.4:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 9.6:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.1:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 10.2:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.3:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 10.4:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 10.5:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.6:
+        non_striker: EL Watson
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 11.1:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 11.2:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 11.3:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 11.4:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 11.5:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+        wicket:
+          player_out: EL Watson
+          fielders:
+          - HJ Thomas
+          kind: caught
+    - 11.6:
+        non_striker: DEM Carter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 12.1:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 12.2:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 12.3:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 12.5:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 12.6:
+        non_striker: DEM Carter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 13.1:
+        non_striker: SJ Bryce
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 13.2:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 13.3:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 13.4:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 13.5:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.1:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 14.2:
+        non_striker: DEM Carter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.3:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - H Doriga
+          kind: run out
+    - 14.4:
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M McColl
+        batsman: SJ Bryce
+    - 14.5:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 14.6:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 15.1:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 15.2:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 15.3:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 15.4:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 15.5:
+        non_striker: SJ Bryce
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M McColl
+    - 15.6:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 16.1:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 16.2:
+        non_striker: M McColl
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 16.3:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 16.4:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 16.5:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M McColl
+    - 16.6:
+        non_striker: SJ Bryce
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 17.1:
+        non_striker: M McColl
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 17.2:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 17.3:
+        non_striker: SJ Bryce
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 17.4:
+        non_striker: M McColl
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 17.5:
+        non_striker: M McColl
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 17.6:
+        non_striker: M McColl
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 18.1:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 18.2:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 18.3:
+        non_striker: M McColl
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 18.4:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 18.5:
+        non_striker: M McColl
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 18.6:
+        non_striker: SJ Bryce
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 19.1:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 19.2:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+        wicket:
+          player_out: M McColl
+          fielders:
+          - H Doriga
+          kind: run out
+    - 19.3:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Slater
+        batsman: SJ Bryce
+    - 19.4:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Slater
+        batsman: SJ Bryce
+    - 19.5:
+        non_striker: SJ Bryce
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Slater

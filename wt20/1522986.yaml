@@ -1,0 +1,2217 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Doha
+  dates:
+  - '2026-02-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2668
+  outcome:
+    winner: Oman
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - S Krisheta
+  players:
+    Oman:
+    - J Gunasekar
+    - N Joshi
+    - Fiza
+    - PE Mendonca
+    - Javed Hina
+    - TB Pawde
+    - Sameera Khan
+    - CM Saldanha
+    - SA Sathiya
+    - A Dcosta
+    - Afida Afthab
+    Qatar:
+    - Rizpha Bano
+    - G Candiru
+    - S Krisheta
+    - Shahreeennawab
+    - Aysha
+    - CE Jacob
+    - Taful Elkhair
+    - Khadija Imtiaz
+    - Pavithra Selvam
+    - MT Jacob
+    - Amina Kashif
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      Abul Mafakhir Adnan: 10d91ad1
+      Afida Afthab: 9446598e
+      Amina Kashif: db077ead
+      Aysha: 37ceee4e
+      CE Jacob: '51426347'
+      CM Saldanha: aee1bc06
+      Fiza: c7c60bc5
+      G Candiru: fc2150f4
+      J Gunasekar: e50c13a5
+      Javed Hina: a487762e
+      Khadija Imtiaz: 1438d928
+      MT Jacob: f1750a74
+      N Joshi: cfece11f
+      PE Mendonca: 70bab30b
+      Pavithra Selvam: aba43b0a
+      Rilas Abubacker: aa7e972c
+      Rizpha Bano: c7832845
+      S Gajanan: 9dd75af9
+      S Krisheta: 41bb77bc
+      SA Sathiya: 1ba007d8
+      Sameera Khan: 237baa2c
+      Shahreeennawab: faa8843f
+      Shivani Mishra: 2982a0c7
+      TB Pawde: 42d5be2e
+      Taful Elkhair: 28086b4b
+  teams:
+  - Oman
+  - Qatar
+  toss:
+    winner: Oman
+    decision: bat
+  umpires:
+  - Rilas Abubacker
+  - S Gajanan
+  venue: West End Park International Cricket Stadium, Doha
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.2:
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.3:
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.4:
+        bowler: MT Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.5:
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.6:
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.7:
+        non_striker: J Gunasekar
+        bowler: MT Jacob
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Joshi
+    - 0.8:
+        non_striker: N Joshi
+        bowler: MT Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 1.1:
+        non_striker: J Gunasekar
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Joshi
+    - 1.2:
+        non_striker: N Joshi
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 1.3:
+        non_striker: N Joshi
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.4:
+        non_striker: J Gunasekar
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Joshi
+    - 1.5:
+        non_striker: J Gunasekar
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Joshi
+    - 1.6:
+        non_striker: N Joshi
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 1.7:
+        non_striker: N Joshi
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.8:
+        non_striker: J Gunasekar
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Joshi
+    - 1.9:
+        non_striker: N Joshi
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 2.1:
+        non_striker: N Joshi
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 2.2:
+        non_striker: N Joshi
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 2.3:
+        non_striker: N Joshi
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 2.4:
+        non_striker: J Gunasekar
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Joshi
+    - 2.5:
+        non_striker: J Gunasekar
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Joshi
+    - 2.6:
+        non_striker: N Joshi
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.1:
+        non_striker: N Joshi
+        bowler: Shahreeennawab
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: J Gunasekar
+    - 3.2:
+        non_striker: N Joshi
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.3:
+        non_striker: J Gunasekar
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+        wicket:
+          player_out: N Joshi
+          fielders:
+          - Rizpha Bano
+          kind: caught
+    - 3.4:
+        non_striker: J Gunasekar
+        bowler: Shahreeennawab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 3.5:
+        non_striker: J Gunasekar
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 3.6:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 3.7:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 3.8:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 4.1:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 4.2:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 4.3:
+        non_striker: Fiza
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 4.4:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 4.5:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 4.6:
+        non_striker: Fiza
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 5.1:
+        non_striker: J Gunasekar
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 5.2:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 5.3:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 5.4:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 5.5:
+        non_striker: J Gunasekar
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 5.6:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 5.7:
+        non_striker: Fiza
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 6.1:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 6.2:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 6.3:
+        non_striker: Fiza
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 6.4:
+        non_striker: Fiza
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 6.5:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 6.6:
+        non_striker: Fiza
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 7.1:
+        non_striker: Fiza
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 7.2:
+        non_striker: Fiza
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 7.3:
+        non_striker: Fiza
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 7.4:
+        non_striker: Fiza
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 7.5:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 7.6:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 8.1:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 8.2:
+        non_striker: Fiza
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 8.3:
+        non_striker: Fiza
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 8.4:
+        non_striker: Fiza
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 8.5:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 8.6:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 9.1:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 9.2:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+        wicket:
+          player_out: Fiza
+          fielders:
+          - Aysha
+          kind: caught
+    - 9.3:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 9.4:
+        non_striker: PE Mendonca
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 9.5:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PE Mendonca
+    - 9.6:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 10.1:
+        non_striker: PE Mendonca
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 10.2:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 10.3:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 10.4:
+        non_striker: PE Mendonca
+        bowler: S Krisheta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 10.5:
+        non_striker: PE Mendonca
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 10.6:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 10.7:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 10.8:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+        wicket:
+          player_out: PE Mendonca
+          fielders:
+          - Khadija Imtiaz
+          kind: caught
+    - 11.1:
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javed Hina
+        batsman: J Gunasekar
+    - 11.2:
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Javed Hina
+        batsman: J Gunasekar
+    - 11.3:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 11.4:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 11.5:
+        non_striker: Javed Hina
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 11.6:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javed Hina
+    - 11.7:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 11.8:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 12.1:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 12.2:
+        non_striker: Javed Hina
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 12.3:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+        wicket:
+          player_out: Javed Hina
+          kind: caught and bowled
+    - 12.4:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+        wicket:
+          player_out: TB Pawde
+          kind: bowled
+    - 12.5:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameera Khan
+    - 12.6:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 12.7:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 13.1:
+        non_striker: Sameera Khan
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 13.2:
+        non_striker: Sameera Khan
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 13.3:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 13.4:
+        non_striker: Sameera Khan
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 13.5:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 13.6:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 14.1:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 14.2:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 14.3:
+        non_striker: Sameera Khan
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 14.4:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameera Khan
+    - 14.5:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 14.6:
+        non_striker: J Gunasekar
+        bowler: S Krisheta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 15.1:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 15.2:
+        non_striker: Sameera Khan
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 15.3:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 15.4:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 15.5:
+        non_striker: Sameera Khan
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 15.6:
+        non_striker: J Gunasekar
+        bowler: G Candiru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 16.1:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameera Khan
+    - 16.2:
+        non_striker: J Gunasekar
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 16.3:
+        non_striker: Sameera Khan
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 16.4:
+        non_striker: Sameera Khan
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+        wicket:
+          player_out: J Gunasekar
+          kind: bowled
+    - 16.5:
+        non_striker: Sameera Khan
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 16.6:
+        non_striker: CM Saldanha
+        bowler: Khadija Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameera Khan
+    - 17.1:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 17.2:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 17.3:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+    - 17.4:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 17.5:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 17.6:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 18.1:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sameera Khan
+    - 18.2:
+        non_striker: Sameera Khan
+        bowler: Amina Kashif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Saldanha
+    - 18.3:
+        non_striker: Sameera Khan
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 18.4:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+    - 18.5:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameera Khan
+    - 18.6:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameera Khan
+    - 18.7:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 18.8:
+        non_striker: CM Saldanha
+        bowler: Amina Kashif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+    - 19.1:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 19.2:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 19.3:
+        non_striker: Sameera Khan
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 19.4:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 19.5:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+    - 19.6:
+        non_striker: CM Saldanha
+        bowler: Shahreeennawab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Candiru
+        batsman: Rizpha Bano
+    - 0.2:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Candiru
+        batsman: Rizpha Bano
+    - 0.3:
+        non_striker: Rizpha Bano
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 0.4:
+        non_striker: Rizpha Bano
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Candiru
+    - 0.5:
+        non_striker: Rizpha Bano
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 0.6:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 1.1:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 1.2:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 1.3:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 1.4:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 1.5:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 1.6:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 2.1:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 2.2:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizpha Bano
+    - 2.3:
+        non_striker: Rizpha Bano
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 2.4:
+        non_striker: Rizpha Bano
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 2.5:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 2.6:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 3.1:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 3.2:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 3.3:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizpha Bano
+    - 3.4:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 3.5:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 3.6:
+        non_striker: Rizpha Bano
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 4.1:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+    - 4.2:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizpha Bano
+        wicket:
+          player_out: Rizpha Bano
+          fielders:
+          - TB Pawde
+          kind: caught
+    - 4.3:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 4.4:
+        non_striker: G Candiru
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 4.5:
+        non_striker: S Krisheta
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 4.6:
+        non_striker: S Krisheta
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 5.1:
+        non_striker: S Krisheta
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 5.2:
+        non_striker: S Krisheta
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 5.3:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 5.4:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 5.5:
+        non_striker: S Krisheta
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 5.6:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 6.1:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 6.2:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 6.3:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 6.4:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 6.5:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 6.6:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 7.1:
+        non_striker: S Krisheta
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 7.2:
+        non_striker: S Krisheta
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 7.3:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 7.4:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 7.5:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 7.6:
+        non_striker: G Candiru
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 8.1:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 8.2:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 8.3:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 8.4:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 8.5:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 8.6:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 9.1:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 9.2:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 9.3:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 9.4:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+    - 9.5:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Candiru
+    - 9.6:
+        non_striker: G Candiru
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 10.1:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 10.2:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 10.3:
+        non_striker: G Candiru
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 10.4:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Candiru
+    - 10.5:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Candiru
+        wicket:
+          player_out: G Candiru
+          fielders:
+          - CM Saldanha
+          kind: stumped
+    - 10.6:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 11.1:
+        non_striker: Shahreeennawab
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 11.2:
+        non_striker: Shahreeennawab
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Krisheta
+    - 11.3:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahreeennawab
+    - 11.4:
+        non_striker: Shahreeennawab
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Krisheta
+    - 11.5:
+        non_striker: Shahreeennawab
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 11.6:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahreeennawab
+    - 11.7:
+        non_striker: Shahreeennawab
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 12.1:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahreeennawab
+    - 12.2:
+        non_striker: Shahreeennawab
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 12.3:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 12.4:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+    - 12.5:
+        non_striker: S Krisheta
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahreeennawab
+    - 12.6:
+        non_striker: Shahreeennawab
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 13.1:
+        non_striker: Shahreeennawab
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 13.2:
+        non_striker: S Krisheta
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shahreeennawab
+    - 13.3:
+        non_striker: Shahreeennawab
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 13.4:
+        non_striker: Shahreeennawab
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 13.5:
+        non_striker: S Krisheta
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahreeennawab
+        wicket:
+          player_out: Shahreeennawab
+          kind: lbw
+    - 13.6:
+        non_striker: S Krisheta
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 14.1:
+        non_striker: Aysha
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 14.2:
+        non_striker: S Krisheta
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aysha
+    - 14.3:
+        non_striker: S Krisheta
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 14.4:
+        non_striker: Aysha
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 14.5:
+        non_striker: S Krisheta
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 14.6:
+        non_striker: Aysha
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 15.1:
+        non_striker: Aysha
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 15.2:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 15.3:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 15.4:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 15.5:
+        non_striker: Aysha
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Krisheta
+    - 15.6:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 16.1:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 16.2:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Krisheta
+    - 16.3:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 16.4:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+    - 16.5:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 16.6:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 17.1:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 17.2:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 17.3:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aysha
+    - 17.4:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 17.5:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aysha
+    - 17.6:
+        non_striker: S Krisheta
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 18.1:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aysha
+    - 18.2:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Aysha
+    - 18.3:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 18.4:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 18.5:
+        non_striker: S Krisheta
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 18.6:
+        non_striker: Aysha
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 19.1:
+        non_striker: S Krisheta
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+        wicket:
+          player_out: Aysha
+          kind: bowled
+    - 19.2:
+        non_striker: S Krisheta
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Jacob
+    - 19.3:
+        non_striker: CE Jacob
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 19.4:
+        non_striker: CE Jacob
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 19.5:
+        non_striker: CE Jacob
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Krisheta
+    - 19.6:
+        non_striker: CE Jacob
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Krisheta
+        wicket:
+          player_out: S Krisheta
+          fielders:
+          - PE Mendonca
+          kind: run out

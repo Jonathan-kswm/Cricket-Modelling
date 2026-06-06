@@ -16,3 +16,17 @@ cts_data <- data.frame(wt20$date, wt20$win_by_runs, wt20$target, wt20$current_ru
 
 pairs(cts_data)
 ```
+
+- We can see some <!-- R Notebook saved outputs: do not edit
+  RNOTEBOOK_RMD_STATE_BEGIN
+  eyJ2ZXJzaW9uIjoyLCJjb2RlQ2VsbFN0YXRlcyI6W3siZmluZ2VycHJpbnQiOiJ7XCJsYW5ndWFnZVwiOlwiclwiLFwiY29kZVwi
+  Olwic3VtbWFyeSh3dDIwKVxcclwiLFwib3B0aW9uc1wiOntcImxhYmVsXCI6XCJTdW1tYXJ5IG9mIG91ciBEYXRhIHNldFwifX0i
+  LCJyZXN1bHQiOnsidHlwZSI6InJlc3VsdCIsImNodW5rX2lkIjoibmItMiIsInNvdXJjZV9jb2RlIjoic3VtbWFyeSh3dDIwKVxy
+  XG4iLCJjb25zb2xlX3NlZ21lbnRzIjpbXSwiY29uc29sZSI6IiIsInN0ZG91dCI6IiIsInN0ZGVyciI6IiIsInBsb3RzIjpbXSwi
+  cGxvdHNfaHRtbCI6W10sImRhdGFmcmFtZXMiOltdLCJvdXRwdXRfb3JkZXIiOltdLCJlcnJvciI6IndyaXRlIEVQSVBFIn19LHsi
+  ZmluZ2VycHJpbnQiOiJ7XCJsYW5ndWFnZVwiOlwiclwiLFwiY29kZVwiOlwiY3RzX2RhdGEgPC0gZGF0YS5mcmFtZSh3dDIwJGRh
+  dGUsIHd0MjAkd2luX2J5X3J1bnMsIHd0MjAkdGFyZ2V0LCB3dDIwJGN1cnJlbnRfcnVuX3JhdGUsIHd0MjAkcmVxdWlyZWRfcnVu
+  X3JhdGUpXFxyXFxuXFxyXFxucGFpcnMoY3RzX2RhdGEpXFxyXCIsXCJvcHRpb25zXCI6e319IiwicmVzdWx0IjpudWxsfV0sImNv
+  ZGVDZWxsUmVzdWx0cyI6W119
+  RNOTEBOOK_RMD_STATE_END
+  -->

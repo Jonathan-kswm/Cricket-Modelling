@@ -1,0 +1,1469 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Rotterdam
+  dates:
+  - '2025-08-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2440
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - L Delany
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - S Kolcharam
+    - CM Gough
+    - A Kanukuntla
+    - Rameesha Shahid
+    - N Kingsley
+    - V Stolle
+    - A Kohli
+    - I Edwards
+    - Ashwini Balaji
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - A Canning
+    - C Murray
+    - AN Kelly
+    - J Maguire
+    - LA McBride
+    - L Delany
+    - L Paul
+    - O Prendergast
+    - R Stokell
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      AN Kelly: 397369e0
+      Aidan Seaver: 862c0b16
+      Ashwini Balaji: 81283f75
+      C Murray: 5a50471c
+      CM Gough: f1328a90
+      GH Lewis: 1b9d1579
+      GH Pienaar: 3516e46b
+      I Edwards: '42095275'
+      J Jensen: fc80e7a2
+      J Maguire: 1b1c23bb
+      K Vijayaraghavan: '048da365'
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      LA McBride: 9bd0d19d
+      N Kingsley: 31036a1d
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      Rameesha Shahid: b810425e
+      Rizwan Akram: b5346f1e
+      S Kolcharam: 761c929e
+      V Stolle: 0dc4ac6c
+      W Hornero-Garcia: 7d5fef52
+  teams:
+  - Germany
+  - Ireland
+  toss:
+    winner: Germany
+    decision: bat
+  umpires:
+  - J Jensen
+  - Rizwan Akram
+  venue: Hazelaarweg, Rotterdam
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.2:
+        non_striker: W Hornero-Garcia
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 0.3:
+        non_striker: W Hornero-Garcia
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 0.4:
+        non_striker: W Hornero-Garcia
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Vijayaraghavan
+    - 0.5:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          kind: lbw
+    - 0.6:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 0.7:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 1.1:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 1.2:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 1.3:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 1.4:
+        non_striker: S Kolcharam
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.5:
+        non_striker: S Kolcharam
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.6:
+        non_striker: S Kolcharam
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 1.7:
+        non_striker: S Kolcharam
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 2.1:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 2.2:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 2.3:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 2.4:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 2.5:
+        non_striker: K Vijayaraghavan
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 2.6:
+        non_striker: S Kolcharam
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.1:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 3.2:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          kind: bowled
+    - 3.3:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 3.4:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.5:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 3.6:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.7:
+        non_striker: K Vijayaraghavan
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 3.8:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.1:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 4.2:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.3:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.4:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.5:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 4.6:
+        non_striker: K Vijayaraghavan
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.7:
+        non_striker: CM Gough
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 5.1:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.2:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.3:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.4:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.5:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          kind: bowled
+    - 5.6:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 6.1:
+        non_striker: A Kanukuntla
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 6.2:
+        non_striker: A Kanukuntla
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.3:
+        non_striker: CM Gough
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 6.4:
+        non_striker: CM Gough
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 6.5:
+        non_striker: CM Gough
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 6.6:
+        non_striker: A Kanukuntla
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.1:
+        non_striker: CM Gough
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 7.2:
+        non_striker: A Kanukuntla
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.3:
+        non_striker: A Kanukuntla
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.4:
+        non_striker: A Kanukuntla
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.5:
+        non_striker: A Kanukuntla
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.6:
+        non_striker: A Kanukuntla
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 8.1:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 8.2:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 8.3:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 8.4:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 8.5:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 8.6:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 9.1:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 9.2:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.3:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 9.4:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 9.5:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 9.6:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 10.1:
+        non_striker: A Kanukuntla
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 10.2:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 10.3:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 10.4:
+        non_striker: A Kanukuntla
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 10.5:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 10.6:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 11.1:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 11.2:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 11.3:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 11.4:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: CM Gough
+    - 11.5:
+        non_striker: A Kanukuntla
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 11.6:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+        wicket:
+          player_out: A Kanukuntla
+          kind: lbw
+    - 11.7:
+        non_striker: CM Gough
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 12.1:
+        non_striker: Rameesha Shahid
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.2:
+        non_striker: Rameesha Shahid
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 12.3:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameesha Shahid
+    - 12.4:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 12.5:
+        non_striker: Rameesha Shahid
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 12.6:
+        non_striker: CM Gough
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 13.1:
+        non_striker: Rameesha Shahid
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 13.2:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 13.3:
+        non_striker: Rameesha Shahid
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 13.4:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+        wicket:
+          player_out: Rameesha Shahid
+          kind: lbw
+    - 13.5:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 13.6:
+        non_striker: N Kingsley
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 14.1:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 14.2:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+        wicket:
+          player_out: N Kingsley
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 14.3:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Stolle
+    - 14.4:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Stolle
+        wicket:
+          player_out: V Stolle
+          kind: bowled
+    - 14.5:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 14.6:
+        non_striker: A Kohli
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 15.1:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 15.2:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 15.3:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+        wicket:
+          player_out: A Kohli
+          fielders:
+          - A Hunter
+          - C Murray
+          kind: run out
+    - 15.4:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 15.5:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 15.6:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 15.7:
+        non_striker: CM Gough
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Edwards
+    - 16.1:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 16.2:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 16.3:
+        non_striker: CM Gough
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Edwards
+    - 16.4:
+        non_striker: I Edwards
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 16.5:
+        non_striker: I Edwards
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 16.6:
+        non_striker: I Edwards
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 17.1:
+        non_striker: I Edwards
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 17.2:
+        non_striker: I Edwards
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 17.3:
+        non_striker: I Edwards
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 17.4:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 17.5:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 17.6:
+        non_striker: CM Gough
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 18.1:
+        non_striker: I Edwards
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+        wicket:
+          player_out: CM Gough
+          fielders:
+          - J Maguire
+          kind: caught
+    - 18.2:
+        non_striker: I Edwards
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+        wicket:
+          player_out: Ashwini Balaji
+          kind: bowled
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: GH Lewis
+        batsman: A Hunter
+    - 0.2:
+        non_striker: A Hunter
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: A Hunter
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 0.5:
+        non_striker: A Hunter
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 1.1:
+        non_striker: A Hunter
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 1.3:
+        non_striker: A Hunter
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: A Hunter
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.5:
+        non_striker: A Hunter
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: A Hunter
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 2.7:
+        non_striker: GH Lewis
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.2:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.4:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 3.5:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.2:
+        non_striker: A Hunter
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.5:
+        non_striker: A Hunter
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: A Hunter
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 4.7:
+        non_striker: A Hunter
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 4.8:
+        non_striker: A Hunter
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 5.4:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.5:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: A Hunter
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: A Hunter
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: A Hunter
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: A Hunter
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: GH Lewis
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 7.1:
+        non_striker: A Hunter
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.2:
+        non_striker: A Hunter
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter

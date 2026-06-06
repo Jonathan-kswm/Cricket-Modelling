@@ -1,0 +1,2137 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Copenhagen
+  dates:
+  - '2025-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2455
+  outcome:
+    winner: Denmark
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - D Unhale
+  players:
+    Finland:
+    - D Unhale
+    - T Mulepati
+    - S Sheridan
+    - H Nguyen
+    - R Khullar
+    - Malyun Hassan
+    - M Stolt
+    - M Saastamoinen
+    - M Kojo
+    - A Khullar
+    - P Bhandari
+    Denmark:
+    - TS Erichsen
+    - ML Karlsen
+    - K Pandya
+    - L Ostergaard
+    - A Ostergaard
+    - S Ostergaard
+    - L Leisner
+    - K Brock-Nielsen
+    - NP Dalgaard
+    - C Ostergaard
+    - D Golechha
+  registry:
+    people:
+      A Khullar: 9efc1ea4
+      A Ostergaard: 36ffe914
+      Bilal Munir: c35c63b9
+      C Ostergaard: e212b0fd
+      D Golechha: c2c12f2a
+      D Unhale: efea55e5
+      H Nguyen: 8047ca8c
+      K Brock-Nielsen: c14ba87c
+      K Pandya: 75b4acc8
+      L Leisner: ed614ded
+      L Ostergaard: 3a5160d9
+      M Kojo: 7a652afa
+      M Saastamoinen: 5b1a4ff7
+      M Stolt: e7cae029
+      ML Karlsen: 4302af3d
+      Malyun Hassan: 22cbe7fb
+      Munib Haq: 5ac45f13
+      NP Dalgaard: '40283617'
+      P Bhandari: ddd411e0
+      R Khullar: 76a5e857
+      S Ostergaard: a19e799b
+      S Sheridan: 2d093c80
+      T Mulepati: cb83a7df
+      TS Erichsen: 9894e7b9
+  teams:
+  - Finland
+  - Denmark
+  toss:
+    winner: Finland
+    decision: bat
+  umpires:
+  - Bilal Munir
+  - Munib Haq
+  venue: Albertslund Cricket Club
+innings:
+- 1st innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.2:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.3:
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.4:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.5:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.6:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.7:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 0.8:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 1.1:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 1.2:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.3:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.4:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 1.5:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.6:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 1.7:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.8:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.9:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.1:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 2.2:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 2.3:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 2.4:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 2.5:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 2.6:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 3.1:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.2:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.3:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.4:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: D Unhale
+    - 3.5:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.6:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.7:
+        non_striker: T Mulepati
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 4.1:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 4.2:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 4.3:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 4.4:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 4.5:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 4.6:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 4.7:
+        non_striker: D Unhale
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.1:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 5.2:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.3:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.4:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.5:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.6:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.1:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 6.2:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 6.3:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 6.4:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 6.5:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 6.6:
+        non_striker: T Mulepati
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 7.1:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.2:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.3:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.4:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.5:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 7.6:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.1:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 8.2:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 8.3:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 8.4:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 8.5:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.6:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.7:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.8:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.9:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 9.1:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.2:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.3:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.4:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 9.5:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 9.6:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 10.1:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.2:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.3:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.4:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 10.5:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 10.6:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 11.1:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 11.2:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 11.3:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 11.4:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 11.5:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.6:
+        non_striker: T Mulepati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 11.7:
+        non_striker: D Unhale
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.1:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: D Unhale
+    - 12.2:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 12.3:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 12.4:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 12.5:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.6:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.7:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 13.1:
+        non_striker: D Unhale
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 13.2:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 13.3:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 13.4:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 13.5:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 13.6:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 14.1:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 14.2:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 14.3:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 14.4:
+        non_striker: T Mulepati
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 14.5:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 14.6:
+        non_striker: D Unhale
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 15.1:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Unhale
+    - 15.2:
+        non_striker: D Unhale
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 15.3:
+        non_striker: D Unhale
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 15.4:
+        non_striker: D Unhale
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 15.5:
+        non_striker: D Unhale
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 15.6:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+        wicket:
+          player_out: D Unhale
+          kind: bowled
+    - 15.7:
+        non_striker: T Mulepati
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 16.1:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 16.2:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 16.3:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 16.4:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+        wicket:
+          player_out: T Mulepati
+          kind: bowled
+    - 16.5:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Nguyen
+    - 16.6:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Nguyen
+    - 16.7:
+        non_striker: H Nguyen
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 16.8:
+        non_striker: S Sheridan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 17.1:
+        non_striker: H Nguyen
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 17.2:
+        non_striker: S Sheridan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 17.3:
+        non_striker: S Sheridan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 17.4:
+        non_striker: S Sheridan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 17.5:
+        non_striker: S Sheridan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Nguyen
+    - 17.6:
+        non_striker: H Nguyen
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+        wicket:
+          player_out: S Sheridan
+          kind: bowled
+    - 18.1:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Khullar
+        batsman: H Nguyen
+    - 18.2:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Khullar
+        batsman: H Nguyen
+    - 18.3:
+        non_striker: H Nguyen
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 18.4:
+        non_striker: R Khullar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Nguyen
+    - 18.5:
+        non_striker: H Nguyen
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+        wicket:
+          player_out: R Khullar
+          kind: bowled
+    - 18.6:
+        non_striker: H Nguyen
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 19.1:
+        non_striker: Malyun Hassan
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Nguyen
+    - 19.2:
+        non_striker: H Nguyen
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 19.3:
+        non_striker: H Nguyen
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 19.4:
+        non_striker: Malyun Hassan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 19.5:
+        non_striker: Malyun Hassan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Nguyen
+    - 19.6:
+        non_striker: Malyun Hassan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.2:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.3:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.4:
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.5:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.6:
+        non_striker: TS Erichsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 0.7:
+        non_striker: TS Erichsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Karlsen
+    - 0.8:
+        non_striker: ML Karlsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 1.1:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 1.2:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.3:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 1.4:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 1.5:
+        non_striker: TS Erichsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Karlsen
+    - 1.6:
+        non_striker: TS Erichsen
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 1.7:
+        non_striker: TS Erichsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 1.8:
+        non_striker: TS Erichsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 1.9:
+        non_striker: TS Erichsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 2.1:
+        non_striker: TS Erichsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 2.2:
+        non_striker: TS Erichsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 2.3:
+        non_striker: TS Erichsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 2.4:
+        non_striker: ML Karlsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 2.5:
+        non_striker: ML Karlsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+        wicket:
+          player_out: TS Erichsen
+          fielders:
+          - T Mulepati
+          kind: caught
+    - 2.6:
+        non_striker: ML Karlsen
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 3.1:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 3.2:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 3.3:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 3.4:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 3.5:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 3.6:
+        non_striker: ML Karlsen
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 4.1:
+        non_striker: K Pandya
+        bowler: Malyun Hassan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: ML Karlsen
+    - 4.2:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 4.3:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 4.4:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 4.5:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 4.6:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 4.7:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 4.8:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 5.1:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 5.2:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Karlsen
+    - 5.3:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 5.4:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 5.5:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 5.6:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Karlsen
+    - 5.7:
+        non_striker: K Pandya
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 6.1:
+        non_striker: K Pandya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 6.2:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 6.3:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 6.4:
+        non_striker: K Pandya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 6.5:
+        non_striker: K Pandya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 6.6:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Pandya
+    - 6.7:
+        non_striker: ML Karlsen
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 7.1:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 7.2:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 7.3:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 7.4:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 7.5:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 7.6:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 7.7:
+        non_striker: K Pandya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 8.1:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 8.2:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 8.3:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 8.4:
+        non_striker: K Pandya
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 8.5:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 8.6:
+        non_striker: K Pandya
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 8.7:
+        non_striker: K Pandya
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 9.1:
+        non_striker: K Pandya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 9.2:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 9.3:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 9.4:
+        non_striker: K Pandya
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Karlsen
+    - 9.5:
+        non_striker: ML Karlsen
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 9.6:
+        non_striker: K Pandya
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 9.7:
+        non_striker: K Pandya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 10.1:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 10.2:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 10.3:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+        wicket:
+          player_out: K Pandya
+          fielders:
+          - P Bhandari
+          kind: caught
+    - 10.4:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 10.5:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Ostergaard
+    - 10.6:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 10.7:
+        non_striker: L Ostergaard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 10.8:
+        non_striker: ML Karlsen
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Ostergaard
+    - 11.1:
+        non_striker: ML Karlsen
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 11.2:
+        non_striker: ML Karlsen
+        bowler: M Saastamoinen
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Ostergaard
+    - 11.3:
+        non_striker: L Ostergaard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 11.4:
+        non_striker: L Ostergaard
+        bowler: M Saastamoinen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 11.5:
+        non_striker: L Ostergaard
+        bowler: M Saastamoinen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 3
+          noballs: 1
+        batsman: ML Karlsen
+    - 11.6:
+        non_striker: ML Karlsen
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 11.7:
+        non_striker: ML Karlsen
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 11.8:
+        non_striker: L Ostergaard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 11.9:
+        non_striker: L Ostergaard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 12.1:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ostergaard
+    - 12.2:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 12.3:
+        non_striker: L Ostergaard
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 12.4:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 12.5:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ostergaard
+    - 12.6:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 12.7:
+        non_striker: ML Karlsen
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 13.1:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 13.2:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+        wicket:
+          player_out: ML Karlsen
+          kind: bowled
+    - 13.3:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.4:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 13.5:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.6:
+        non_striker: L Ostergaard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.1:
+        non_striker: A Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 14.2:
+        non_striker: A Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 14.3:
+        non_striker: A Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 14.4:
+        non_striker: L Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 14.5:
+        non_striker: L Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.6:
+        non_striker: L Ostergaard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard

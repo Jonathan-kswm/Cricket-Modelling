@@ -1,0 +1,1769 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-09'
+  gender: female
+  match_type: T20
+  match_type_number: 2714
+  outcome:
+    winner: Brazil
+    by:
+      runs: 189
+  overs: 20
+  player_of_match:
+  - L Cardoso
+  players:
+    Brazil:
+    - AC Sabino
+    - L Agatha
+    - MLG Silva
+    - L Cardoso
+    - RMAM Avery
+    - MR Machado
+    - M Artur
+    - CS Nascimento
+    - EC Muller
+    - NC Monteiro
+    - M Ribeiro
+    Lesotho:
+    - KM Molapo
+    - B Tlali
+    - K Mabitle
+    - MM Mabathoana
+    - T Khabo
+    - MA Nyabela
+    - TJ Mahe
+    - N Thekiso
+    - R Limema
+    - L Polaki
+    - B Phelenyane
+  registry:
+    people:
+      AC Sabino: dd45b04b
+      B Mosoaboli: c92f74da
+      B Phelenyane: c982ad6f
+      B Tlali: a42cdf67
+      CS Nascimento: df997334
+      EC Muller: e1461e39
+      G Mere: 03b5814e
+      J Chibhabha: 4c5c47a4
+      J Mukandi: b7954ae3
+      K Mabitle: 690ae430
+      KM Molapo: dc5934a6
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Mating: ea2a8710
+      L Msemburi: ef6037f8
+      L Polaki: 10ca0ed4
+      M Artur: 400b36cd
+      M Ribeiro: 38424a4d
+      MA Nyabela: 261fddca
+      MLG Silva: 3b62a6b4
+      MM Mabathoana: fb432bd3
+      MR Machado: 4a4f94fa
+      N Thekiso: b835874f
+      NC Monteiro: 752af5a4
+      R Limema: 95fdfe7e
+      RMAM Avery: 4cf645c9
+      T Khabo: 7be9cb29
+      TJ Mahe: 3c5b2e9e
+  teams:
+  - Brazil
+  - Lesotho
+  toss:
+    winner: Brazil
+    decision: bat
+  umpires:
+  - G Mere
+  - L Msemburi
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: AC Sabino
+    - 0.2:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.3:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.4:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 0.5:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 0.6:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 0.7:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AC Sabino
+    - 1.1:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 1.2:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 1.3:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 1.4:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AC Sabino
+    - 1.5:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 1.6:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 1.7:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 1.8:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 1.9:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 2.1:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 2.2:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.3:
+        non_striker: AC Sabino
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.4:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 2.5:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 2.6:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 2.7:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 2.8:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 2.9:
+        non_striker: L Agatha
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+        wicket:
+          player_out: AC Sabino
+          kind: bowled
+    - 3.1:
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MLG Silva
+        batsman: L Agatha
+    - 3.2:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 3.3:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 3.4:
+        non_striker: MLG Silva
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 3.5:
+        non_striker: MLG Silva
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 3.6:
+        non_striker: MLG Silva
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.7:
+        non_striker: MLG Silva
+        bowler: L Polaki
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Agatha
+    - 3.8:
+        non_striker: L Agatha
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 4.1:
+        non_striker: L Agatha
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          fielders:
+          - B Mosoaboli (sub)
+          - KM Molapo
+          kind: run out
+    - 4.2:
+        non_striker: L Agatha
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 4.3:
+        non_striker: L Agatha
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          fielders:
+          - T Khabo
+          kind: caught
+    - 4.4:
+        non_striker: L Agatha
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 4.5:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 4.6:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 4.7:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 4.8:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.1:
+        non_striker: L Agatha
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 5.2:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 5.3:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.4:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 5.5:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 5.6:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.1:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 6.2:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 6.3:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Agatha
+    - 6.4:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 6.5:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.6:
+        non_striker: L Agatha
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 6.7:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 7.1:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 7.2:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 7.3:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - N Thekiso
+          kind: run out
+    - 7.4:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MR Machado
+        batsman: RMAM Avery
+    - 7.5:
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MR Machado
+        batsman: RMAM Avery
+    - 7.6:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MR Machado
+        batsman: RMAM Avery
+    - 7.7:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Machado
+        batsman: RMAM Avery
+    - 7.8:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 8.1:
+        non_striker: MR Machado
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 8.2:
+        non_striker: MR Machado
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 8.3:
+        non_striker: MR Machado
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 8.4:
+        non_striker: MR Machado
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.5:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 8.6:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 9.1:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.2:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MR Machado
+    - 9.3:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 9.4:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 9.5:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.6:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 9.7:
+        non_striker: RMAM Avery
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 10.1:
+        non_striker: MR Machado
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.2:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Machado
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 10.4:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Machado
+    - 10.5:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 10.6:
+        non_striker: RMAM Avery
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 11.1:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RMAM Avery
+    - 11.2:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 11.3:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 11.4:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 11.5:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 11.6:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.7:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 11.8:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 11.9:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.10:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 12.1:
+        non_striker: RMAM Avery
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 12.2:
+        non_striker: MR Machado
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 12.3:
+        non_striker: MR Machado
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 12.4:
+        non_striker: RMAM Avery
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 12.5:
+        non_striker: RMAM Avery
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 12.6:
+        non_striker: MR Machado
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.1:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.2:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: MR Machado
+    - 13.3:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 13.4:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.5:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 13.6:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 13.7:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 14.1:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 14.2:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 14.3:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 14.4:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Machado
+    - 14.5:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 14.6:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 14.7:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 14.8:
+        non_striker: RMAM Avery
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 14.9:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 14.10:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.11:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.1:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.2:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 15.3:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.4:
+        non_striker: RMAM Avery
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 15.5:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 15.6:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 16.1:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 16.2:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 16.3:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          kind: lbw
+    - 16.4:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+        wicket:
+          player_out: M Artur
+          kind: bowled
+    - 16.5:
+        non_striker: MR Machado
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 16.6:
+        non_striker: CS Nascimento
+        bowler: L Polaki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 17.1:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: CS Nascimento
+    - 17.2:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 17.3:
+        non_striker: CS Nascimento
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 17.4:
+        non_striker: CS Nascimento
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 17.5:
+        non_striker: CS Nascimento
+        bowler: MM Mabathoana
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MR Machado
+    - 17.6:
+        non_striker: CS Nascimento
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+        wicket:
+          player_out: CS Nascimento
+          fielders:
+          - L Mating (sub)
+          kind: run out
+    - 17.7:
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EC Muller
+        batsman: MR Machado
+    - 17.8:
+        non_striker: MR Machado
+        bowler: MM Mabathoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 18.1:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 18.2:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 18.3:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 18.4:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Machado
+    - 18.5:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 18.6:
+        non_striker: EC Muller
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Machado
+    - 19.1:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+        wicket:
+          player_out: EC Muller
+          fielders:
+          - KM Molapo
+          kind: stumped
+    - 19.2:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 19.3:
+        non_striker: NC Monteiro
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 19.4:
+        non_striker: NC Monteiro
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Machado
+    - 19.5:
+        non_striker: NC Monteiro
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 19.6:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NC Monteiro
+    - 19.7:
+        non_striker: MR Machado
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NC Monteiro
+- 2nd innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tlali
+        batsman: KM Molapo
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Tlali
+        batsman: KM Molapo
+    - 0.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tlali
+        batsman: KM Molapo
+    - 0.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tlali
+        batsman: KM Molapo
+    - 0.5:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tlali
+        batsman: KM Molapo
+    - 0.6:
+        non_striker: KM Molapo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 0.7:
+        non_striker: KM Molapo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 1.1:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.2:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.3:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.4:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+        wicket:
+          player_out: KM Molapo
+          kind: bowled
+    - 1.5:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mabitle
+        wicket:
+          player_out: K Mabitle
+          kind: lbw
+    - 1.6:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+        wicket:
+          player_out: MM Mabathoana
+          kind: lbw
+    - 2.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.5:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.6:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.7:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Khabo
+        batsman: B Tlali
+    - 2.8:
+        non_striker: T Khabo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 3.1:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+        wicket:
+          player_out: T Khabo
+          kind: lbw
+    - 3.2:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+        wicket:
+          player_out: MA Nyabela
+          kind: bowled
+    - 3.3:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Mahe
+    - 3.4:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Mahe
+        wicket:
+          player_out: TJ Mahe
+          kind: bowled
+    - 3.5:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 3.6:
+        non_striker: B Tlali
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+        wicket:
+          player_out: N Thekiso
+          kind: bowled
+    - 4.1:
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Limema
+        batsman: B Tlali
+    - 4.2:
+        non_striker: B Tlali
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 4.3:
+        non_striker: B Tlali
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 4.4:
+        non_striker: B Tlali
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 4.5:
+        non_striker: B Tlali
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 4.6:
+        non_striker: B Tlali
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 5.1:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 5.2:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 5.3:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 5.4:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 5.5:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 5.6:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+        wicket:
+          player_out: B Tlali
+          kind: lbw
+    - 5.7:
+        non_striker: R Limema
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Polaki
+    - 5.8:
+        non_striker: L Polaki
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+        wicket:
+          player_out: R Limema
+          fielders:
+          - MR Machado
+          kind: caught
+    - 5.9:
+        non_striker: L Polaki
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 6.1:
+        non_striker: B Phelenyane
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Polaki
+    - 6.2:
+        non_striker: B Phelenyane
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Polaki
+        wicket:
+          player_out: L Polaki
+          fielders:
+          - MR Machado
+          kind: stumped

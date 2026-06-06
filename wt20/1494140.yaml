@@ -1,0 +1,2194 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2426
+  outcome:
+    winner: Botswana
+    by:
+      runs: 65
+  overs: 20
+  player_of_match:
+  - A Mokgotlhe
+  players:
+    Botswana:
+    - O Kgeresi
+    - L Mophakedi
+    - G Matome
+    - W Moutswi
+    - A Mokgotlhe
+    - P Mapotsane
+    - T Shadrack
+    - K Inakale
+    - O Keitsemang
+    - M Phiase
+    - TB Godisamang
+    Malawi:
+    - S Kananji
+    - T Luka
+    - A Lumbe
+    - F Malefula
+    - L Bigula
+    - KM Chingaipe
+    - C Bwanali
+    - E Richard
+    - S Chinawa
+    - E Kabwere
+    - L Malino
+  registry:
+    people:
+      A Lumbe: 7e421645
+      A Mokgotlhe: 781f1a40
+      C Bwanali: b26a30f9
+      D Odhiambo: '45994517'
+      E Kabwere: b6358ee8
+      E Richard: 8d76816e
+      F Malefula: 6a405883
+      G Matome: a6898f7a
+      J Chibhabha: 4c5c47a4
+      K Inakale: eea862f6
+      K Klaaste: 6cc1d918
+      KM Chingaipe: db32d60a
+      L Bigula: 9b2e971a
+      L Malino: 7a81836e
+      L Mophakedi: c8cdbb92
+      M Phiase: 537cc79f
+      O Keitsemang: 5145239b
+      O Kgeresi: cba01c28
+      P Mapotsane: 9ea555a4
+      R D'Mello: f3c22863
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      T Luka: 44e008a5
+      T Shadrack: 6d972d02
+      TB Godisamang: ed188d83
+      W Moutswi: e8c42000
+  teams:
+  - Botswana
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - D Odhiambo
+  - R D'Mello
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.2:
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.3:
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.4:
+        bowler: E Kabwere
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.5:
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Mophakedi
+        batsman: O Kgeresi
+    - 0.6:
+        non_striker: O Kgeresi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 0.7:
+        non_striker: O Kgeresi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Mophakedi
+        wicket:
+          player_out: O Kgeresi
+          fielders:
+          - A Lumbe
+          - L Bigula
+          kind: run out
+    - 1.1:
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Matome
+        batsman: L Mophakedi
+    - 1.2:
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Matome
+        batsman: L Mophakedi
+    - 1.3:
+        non_striker: L Mophakedi
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 1.4:
+        non_striker: L Mophakedi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 1.5:
+        non_striker: L Mophakedi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 1.6:
+        non_striker: G Matome
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Mophakedi
+    - 1.7:
+        non_striker: G Matome
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Mophakedi
+    - 1.8:
+        non_striker: L Mophakedi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+        wicket:
+          player_out: G Matome
+          fielders:
+          - A Lumbe
+          kind: caught
+    - 2.1:
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Moutswi
+        batsman: L Mophakedi
+    - 2.2:
+        non_striker: L Mophakedi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 2.3:
+        non_striker: L Mophakedi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 2.4:
+        non_striker: L Mophakedi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+        wicket:
+          player_out: L Mophakedi
+          fielders:
+          - A Lumbe
+          - L Malino
+          kind: run out
+    - 2.5:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 2.6:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 3.1:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 3.2:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 3.3:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 3.4:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 3.5:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Moutswi
+    - 3.6:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 3.7:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 4.1:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.2:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.3:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.4:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 4.5:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: W Moutswi
+    - 4.6:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 5.1:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 5.2:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 5.3:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 5.4:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mokgotlhe
+    - 5.5:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 5.6:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mokgotlhe
+    - 5.7:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mokgotlhe
+    - 5.8:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 5.9:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 6.1:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 6.2:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 6.3:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 6.4:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 6.5:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 6.6:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 7.1:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 7.2:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 7.3:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 7.4:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 7.5:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 7.6:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 8.1:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 8.2:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 8.3:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 8.4:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 8.5:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 8.6:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 9.1:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 9.2:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 9.3:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 9.4:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 9.5:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Mokgotlhe
+    - 9.6:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Moutswi
+    - 9.7:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 9.8:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 10.1:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 10.2:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 10.3:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 10.4:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 10.5:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Moutswi
+    - 10.6:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Moutswi
+    - 11.1:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Mokgotlhe
+    - 11.2:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 11.3:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 11.4:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 11.5:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 11.6:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 11.7:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Mokgotlhe
+    - 11.8:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 12.1:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 12.2:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 12.3:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 12.4:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 12.5:
+        non_striker: A Mokgotlhe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 12.6:
+        non_striker: W Moutswi
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 13.1:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 13.2:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Moutswi
+    - 13.3:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 13.4:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 13.5:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 13.6:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 13.7:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 14.1:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 14.2:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mokgotlhe
+    - 14.3:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 14.4:
+        non_striker: A Mokgotlhe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 14.5:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 14.6:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 14.7:
+        non_striker: W Moutswi
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 15.1:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 15.2:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 15.3:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 15.4:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 15.5:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 15.6:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 16.1:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 16.2:
+        non_striker: A Mokgotlhe
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 16.3:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 16.4:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 16.5:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 16.6:
+        non_striker: W Moutswi
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 17.1:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+    - 17.2:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 17.3:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 17.4:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 17.5:
+        non_striker: A Mokgotlhe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 17.6:
+        non_striker: W Moutswi
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 18.1:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Moutswi
+    - 18.2:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 18.3:
+        non_striker: W Moutswi
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 18.4:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Moutswi
+        wicket:
+          player_out: W Moutswi
+          fielders:
+          - E Richard
+          kind: caught
+    - 18.5:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 18.6:
+        non_striker: A Mokgotlhe
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 19.1:
+        non_striker: P Mapotsane
+        bowler: S Kananji
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Mokgotlhe
+    - 19.2:
+        non_striker: P Mapotsane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 19.3:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mapotsane
+    - 19.4:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mapotsane
+        wicket:
+          player_out: P Mapotsane
+          fielders:
+          - A Lumbe
+          - E Kabwere
+          kind: run out
+    - 19.5:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: T Shadrack
+    - 19.6:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Shadrack
+    - 19.7:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Shadrack
+    - 19.8:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 19.9:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Shadrack
+    - 19.10:
+        non_striker: A Mokgotlhe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+        wicket:
+          player_out: T Shadrack
+          fielders:
+          - S Kananji
+          - A Lumbe
+          kind: run out
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Luka
+        batsman: S Kananji
+    - 0.2:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Luka
+        batsman: S Kananji
+    - 0.3:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Luka
+        batsman: S Kananji
+    - 0.4:
+        bowler: T Shadrack
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: T Luka
+        batsman: S Kananji
+    - 0.5:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Luka
+        batsman: S Kananji
+    - 0.6:
+        non_striker: S Kananji
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 1.1:
+        non_striker: T Luka
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 1.2:
+        non_striker: T Luka
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 1.3:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Luka
+    - 1.4:
+        non_striker: T Luka
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 1.5:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 1.6:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Luka
+    - 1.7:
+        non_striker: T Luka
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.1:
+        non_striker: S Kananji
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Luka
+    - 2.2:
+        non_striker: S Kananji
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.3:
+        non_striker: S Kananji
+        bowler: T Shadrack
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 1
+          byes: 1
+        batsman: T Luka
+    - 2.4:
+        non_striker: T Luka
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.5:
+        non_striker: T Luka
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.6:
+        non_striker: T Luka
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.7:
+        non_striker: T Luka
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 3.1:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 3.2:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Luka
+    - 3.3:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 3.4:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Luka
+    - 3.5:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 3.6:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+        wicket:
+          player_out: T Luka
+          fielders:
+          - A Mokgotlhe
+          kind: caught
+    - 3.7:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+    - 3.8:
+        non_striker: S Kananji
+        bowler: W Moutswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 4.1:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 4.2:
+        non_striker: A Lumbe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 4.3:
+        non_striker: A Lumbe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 4.4:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 4.5:
+        non_striker: A Lumbe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 4.6:
+        non_striker: A Lumbe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 5.1:
+        non_striker: S Kananji
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 5.2:
+        non_striker: A Lumbe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 5.3:
+        non_striker: A Lumbe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 5.4:
+        non_striker: A Lumbe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 5.5:
+        non_striker: A Lumbe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 5.6:
+        non_striker: A Lumbe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 6.1:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 6.2:
+        non_striker: A Lumbe
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 6.3:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+        wicket:
+          player_out: A Lumbe
+          fielders:
+          - L Mophakedi
+          kind: caught
+    - 6.4:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+        wicket:
+          player_out: F Malefula
+          fielders:
+          - P Mapotsane
+          kind: caught
+    - 6.5:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bigula
+    - 6.6:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 6.7:
+        non_striker: S Kananji
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 7.1:
+        non_striker: L Bigula
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 7.2:
+        non_striker: S Kananji
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 7.3:
+        non_striker: L Bigula
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+        wicket:
+          player_out: S Kananji
+          kind: bowled
+    - 7.4:
+        non_striker: L Bigula
+        bowler: K Inakale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Chingaipe
+    - 7.5:
+        non_striker: L Bigula
+        bowler: K Inakale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KM Chingaipe
+    - 7.6:
+        non_striker: KM Chingaipe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+        wicket:
+          player_out: L Bigula
+          fielders:
+          - A Mokgotlhe
+          kind: caught
+    - 7.7:
+        non_striker: KM Chingaipe
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bwanali
+    - 8.1:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 8.2:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 8.3:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 8.4:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 8.5:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 8.6:
+        non_striker: C Bwanali
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Chingaipe
+    - 9.1:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 9.2:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 9.3:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 9.4:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 9.5:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Chingaipe
+    - 9.6:
+        non_striker: C Bwanali
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Chingaipe
+    - 9.7:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 10.1:
+        non_striker: C Bwanali
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 10.2:
+        non_striker: C Bwanali
+        bowler: A Mokgotlhe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KM Chingaipe
+    - 10.3:
+        non_striker: KM Chingaipe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 10.4:
+        non_striker: KM Chingaipe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 10.5:
+        non_striker: KM Chingaipe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 10.6:
+        non_striker: KM Chingaipe
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bwanali
+    - 10.7:
+        non_striker: C Bwanali
+        bowler: A Mokgotlhe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Chingaipe
+    - 10.8:
+        non_striker: C Bwanali
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Chingaipe
+    - 11.1:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+        wicket:
+          player_out: C Bwanali
+          fielders:
+          - L Mophakedi
+          kind: caught
+    - 11.2:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 11.3:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 11.4:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 11.5:
+        non_striker: KM Chingaipe
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Richard
+    - 11.6:
+        non_striker: E Richard
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+        wicket:
+          player_out: KM Chingaipe
+          fielders:
+          - G Matome
+          kind: caught
+    - 12.1:
+        bowler: M Phiase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.2:
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.3:
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.4:
+        bowler: M Phiase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.5:
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.6:
+        bowler: M Phiase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.7:
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.8:
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: E Richard
+    - 12.9:
+        non_striker: S Chinawa
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 13.1:
+        non_striker: E Richard
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 13.2:
+        non_striker: S Chinawa
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Richard
+    - 13.3:
+        non_striker: E Richard
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa
+    - 13.4:
+        non_striker: E Richard
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 13.5:
+        non_striker: S Chinawa
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 13.6:
+        non_striker: S Chinawa
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 14.1:
+        non_striker: E Richard
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 14.2:
+        non_striker: E Richard
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 14.3:
+        non_striker: E Richard
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+        wicket:
+          player_out: S Chinawa
+          kind: bowled
+    - 14.4:
+        non_striker: E Richard
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kabwere
+    - 14.5:
+        non_striker: E Kabwere
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 14.6:
+        non_striker: E Kabwere
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 14.7:
+        non_striker: E Kabwere
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 15.1:
+        non_striker: E Richard
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kabwere
+    - 15.2:
+        non_striker: E Kabwere
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Richard
+        wicket:
+          player_out: E Kabwere
+          fielders:
+          - G Matome
+          - W Moutswi
+          kind: run out
+    - 15.3:
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Malino
+        batsman: E Richard
+    - 15.4:
+        non_striker: L Malino
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+        wicket:
+          player_out: E Richard
+          kind: bowled

@@ -1,0 +1,2386 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2496
+  outcome:
+    winner: Indonesia
+    by:
+      runs: 42
+  overs: 20
+  player_of_match:
+  - NPAN Sakarini
+  players:
+    Indonesia:
+    - M Corazon
+    - D Wulandari
+    - Emily Sirs
+    - NPAN Sakarini
+    - NLKWR Dewi
+    - NKF Rada Rani
+    - NK Ariani
+    - DAL Paramitha
+    - NMP Suwandewi
+    - NW Sariani
+    - SAN Maypriani
+    Fiji:
+    - S Lomani
+    - S Vuni
+    - S Kijiana
+    - T Saville
+    - I Waqavakatoga
+    - MT Waqanisau
+    - M Biu
+    - S Sigaiwasa
+    - AK Gonerara
+    - KV Vakuruivalu
+    - A Levaci
+  registry:
+    people:
+      A Levaci: 6ff1d14f
+      AK Gonerara: 141ee9a0
+      Adam Birss: 0cabf6f4
+      C Black: 75b42f71
+      D Wulandari: 8c0d904e
+      DAL Paramitha: 84f831c3
+      Emily Sirs: aa88b08b
+      H Atai: 0460d756
+      I Waqavakatoga: 31d220f5
+      KV Vakuruivalu: 98db3666
+      M Biu: c386183b
+      M Corazon: 0baa36e0
+      MT Waqanisau: dc86b56a
+      NK Ariani: 382377a4
+      NKF Rada Rani: 39f4084c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      NW Sariani: e910d955
+      S Kijiana: ed1f0ef2
+      S Lomani: b85ac5bb
+      S Sigaiwasa: b1414505
+      S Vuni: 951e08f0
+      SAN Maypriani: ad135bde
+      T Saville: 2ef9bdcb
+      TL Anderson: f52ddf8d
+  teams:
+  - Indonesia
+  - Fiji
+  toss:
+    winner: Fiji
+    decision: field
+  umpires:
+  - Adam Birss
+  - C Black
+  venue: Albert Park 2, Suva
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Wulandari
+        batsman: M Corazon
+    - 0.2:
+        non_striker: M Corazon
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 0.3:
+        non_striker: D Wulandari
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 0.4:
+        non_striker: D Wulandari
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 0.5:
+        non_striker: M Corazon
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 0.6:
+        non_striker: M Corazon
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 1.1:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 1.2:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 1.3:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wulandari
+    - 1.4:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+        wicket:
+          player_out: D Wulandari
+          fielders:
+          - S Vuni
+          kind: caught
+    - 1.5:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emily Sirs
+        wicket:
+          player_out: Emily Sirs
+          fielders:
+          - S Vuni
+          kind: caught
+    - 1.6:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.1:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.2:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.3:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.4:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 2.5:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 2.6:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 3.1:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 3.2:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 3.3:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 3.4:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 3.5:
+        non_striker: M Corazon
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 3.6:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Corazon
+    - 3.7:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 4.1:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 4.2:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 4.3:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.4:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 4.5:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.6:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 4.7:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 4.8:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 4.9:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 4.10:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 5.1:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.2:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.3:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.4:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 5.5:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 5.6:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 6.1:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 6.2:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 6.3:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 6.4:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 6.5:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 6.6:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 6.7:
+        non_striker: M Corazon
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.1:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 7.2:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 7.3:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.4:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 7.5:
+        non_striker: M Corazon
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 7.6:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 8.1:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 8.2:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 8.3:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: NPAN Sakarini
+    - 8.4:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 8.5:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 8.6:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 8.7:
+        non_striker: M Corazon
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NPAN Sakarini
+    - 8.8:
+        non_striker: NPAN Sakarini
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Corazon
+    - 8.9:
+        non_striker: NPAN Sakarini
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 8.10:
+        non_striker: NPAN Sakarini
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Corazon
+    - 9.1:
+        non_striker: M Corazon
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 9.2:
+        non_striker: M Corazon
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 9.3:
+        non_striker: NPAN Sakarini
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 9.4:
+        non_striker: NPAN Sakarini
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 9.5:
+        non_striker: NPAN Sakarini
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 9.6:
+        non_striker: M Corazon
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 9.7:
+        non_striker: NPAN Sakarini
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 10.1:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 10.2:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 10.3:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 10.4:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: NPAN Sakarini
+    - 10.5:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 10.6:
+        non_striker: NPAN Sakarini
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 10.7:
+        non_striker: M Corazon
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 11.1:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Corazon
+    - 11.2:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+        wicket:
+          player_out: M Corazon
+          kind: lbw
+    - 11.3:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLKWR Dewi
+    - 11.4:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 11.5:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 11.6:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 11.7:
+        non_striker: NLKWR Dewi
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 12.1:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLKWR Dewi
+    - 12.2:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 12.3:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 12.4:
+        non_striker: NLKWR Dewi
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 12.5:
+        non_striker: NPAN Sakarini
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 12.6:
+        non_striker: NLKWR Dewi
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.1:
+        non_striker: NLKWR Dewi
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.2:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 13.3:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 13.4:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 13.5:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+        wicket:
+          player_out: NLKWR Dewi
+          fielders:
+          - S Sigaiwasa
+          kind: caught
+    - 13.6:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NKF Rada Rani
+    - 13.7:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NKF Rada Rani
+    - 13.8:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 13.9:
+        non_striker: NPAN Sakarini
+        bowler: S Kijiana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 14.1:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.2:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.3:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.4:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 14.5:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 14.6:
+        non_striker: NKF Rada Rani
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.1:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.2:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 15.3:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 15.4:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NKF Rada Rani
+    - 15.5:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NKF Rada Rani
+    - 15.6:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 16.1:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 16.2:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 16.3:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 16.4:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NKF Rada Rani
+    - 16.5:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 16.6:
+        non_striker: NPAN Sakarini
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 16.7:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 17.1:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 17.2:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 17.3:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 17.4:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 17.5:
+        non_striker: NPAN Sakarini
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 17.6:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+        wicket:
+          player_out: NPAN Sakarini
+          fielders:
+          - S Sigaiwasa
+          kind: caught
+    - 17.7:
+        non_striker: NKF Rada Rani
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 18.1:
+        non_striker: NK Ariani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NKF Rada Rani
+    - 18.2:
+        non_striker: NK Ariani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 18.3:
+        non_striker: NK Ariani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 18.4:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 18.5:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 18.6:
+        non_striker: NKF Rada Rani
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 19.1:
+        non_striker: NK Ariani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 19.2:
+        non_striker: NK Ariani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NKF Rada Rani
+    - 19.3:
+        non_striker: NK Ariani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 19.4:
+        non_striker: NKF Rada Rani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Ariani
+    - 19.5:
+        non_striker: NKF Rada Rani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NK Ariani
+    - 19.6:
+        non_striker: NKF Rada Rani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Ariani
+    - 19.7:
+        non_striker: NKF Rada Rani
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+        wicket:
+          player_out: NK Ariani
+          fielders:
+          - S Vuni
+          kind: stumped
+- 2nd innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Vuni
+        batsman: S Lomani
+    - 0.2:
+        non_striker: S Lomani
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vuni
+    - 0.3:
+        non_striker: S Vuni
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 0.4:
+        non_striker: S Vuni
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lomani
+    - 0.5:
+        non_striker: S Lomani
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+        wicket:
+          player_out: S Vuni
+          kind: lbw
+    - 0.6:
+        non_striker: S Lomani
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kijiana
+    - 0.7:
+        non_striker: S Lomani
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 1.1:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.2:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lomani
+    - 1.3:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.4:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.5:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 1.6:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lomani
+    - 1.7:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lomani
+    - 1.8:
+        non_striker: S Kijiana
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+    - 2.1:
+        non_striker: S Lomani
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+        wicket:
+          player_out: S Lomani
+          fielders:
+          - NKF Rada Rani
+          - DAL Paramitha
+          kind: run out
+    - 2.2:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Saville
+        batsman: S Kijiana
+    - 2.3:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+        wicket:
+          player_out: S Kijiana
+          kind: caught and bowled
+    - 2.4:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 2.5:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 2.6:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 3.1:
+        non_striker: I Waqavakatoga
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 3.2:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 3.3:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 3.4:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 3.5:
+        non_striker: I Waqavakatoga
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 3.6:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.1:
+        non_striker: I Waqavakatoga
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 4.2:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.3:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Waqavakatoga
+    - 4.4:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.5:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.6:
+        non_striker: T Saville
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Waqavakatoga
+    - 5.1:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.2:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.3:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.4:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+        wicket:
+          player_out: I Waqavakatoga
+          kind: bowled
+    - 5.5:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 5.6:
+        non_striker: T Saville
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 6.1:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 6.2:
+        non_striker: T Saville
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 6.3:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 6.4:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 6.5:
+        non_striker: T Saville
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 6.6:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 7.1:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 7.2:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Saville
+    - 7.3:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 7.4:
+        non_striker: T Saville
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 7.5:
+        non_striker: T Saville
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 7.6:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 7.7:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 8.1:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Saville
+    - 8.2:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Saville
+    - 8.3:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Saville
+    - 8.4:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Saville
+    - 8.5:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 8.6:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 9.1:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 9.2:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 9.3:
+        non_striker: T Saville
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 9.4:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 9.5:
+        non_striker: T Saville
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 9.6:
+        non_striker: T Saville
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 10.1:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Saville
+    - 10.2:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 10.3:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+        wicket:
+          player_out: T Saville
+          kind: lbw
+    - 10.4:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 10.5:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Biu
+    - 10.6:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 11.1:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 11.2:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 11.3:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 11.4:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 11.5:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 11.6:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 11.7:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Biu
+    - 12.1:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 12.2:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Biu
+    - 12.3:
+        non_striker: M Biu
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.4:
+        non_striker: M Biu
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.5:
+        non_striker: M Biu
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.6:
+        non_striker: M Biu
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 13.1:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Biu
+    - 13.2:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 13.3:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Biu
+    - 13.4:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 13.5:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 13.6:
+        non_striker: MT Waqanisau
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Biu
+    - 13.7:
+        non_striker: M Biu
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 14.1:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 14.2:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+        wicket:
+          player_out: M Biu
+          kind: bowled
+    - 14.3:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 14.4:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sigaiwasa
+    - 14.5:
+        non_striker: MT Waqanisau
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 14.6:
+        non_striker: S Sigaiwasa
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 14.7:
+        non_striker: S Sigaiwasa
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 15.1:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Sigaiwasa
+          kind: bowled
+    - 15.2:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 15.3:
+        non_striker: MT Waqanisau
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gonerara
+    - 15.4:
+        non_striker: AK Gonerara
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 15.5:
+        non_striker: AK Gonerara
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Waqanisau
+    - 15.6:
+        non_striker: AK Gonerara
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 15.7:
+        non_striker: AK Gonerara
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Waqanisau
+    - 16.1:
+        non_striker: MT Waqanisau
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 16.2:
+        non_striker: MT Waqanisau
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gonerara
+    - 16.3:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 16.4:
+        non_striker: MT Waqanisau
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 16.5:
+        non_striker: MT Waqanisau
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gonerara
+    - 16.6:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 16.7:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 16.8:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MT Waqanisau
+    - 16.9:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 16.10:
+        non_striker: AK Gonerara
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 17.1:
+        non_striker: MT Waqanisau
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 17.2:
+        non_striker: MT Waqanisau
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 17.3:
+        non_striker: MT Waqanisau
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 17.4:
+        non_striker: MT Waqanisau
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+        wicket:
+          player_out: AK Gonerara
+          fielders:
+          - NK Ariani
+          kind: run out
+    - 17.5:
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KV Vakuruivalu
+        batsman: MT Waqanisau
+    - 17.6:
+        non_striker: KV Vakuruivalu
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 18.1:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KV Vakuruivalu
+    - 18.2:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KV Vakuruivalu
+    - 18.3:
+        non_striker: KV Vakuruivalu
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 18.4:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KV Vakuruivalu
+    - 18.5:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KV Vakuruivalu
+    - 18.6:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Vakuruivalu
+    - 18.7:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Vakuruivalu
+    - 18.8:
+        non_striker: MT Waqanisau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Vakuruivalu
+        wicket:
+          player_out: KV Vakuruivalu
+          fielders:
+          - M Corazon
+          kind: caught
+    - 19.1:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Levaci
+        batsman: MT Waqanisau
+    - 19.2:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Levaci
+        batsman: MT Waqanisau
+    - 19.3:
+        non_striker: A Levaci
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+        wicket:
+          player_out: A Levaci
+          fielders:
+          - M Corazon
+          - NLKWR Dewi
+          kind: run out

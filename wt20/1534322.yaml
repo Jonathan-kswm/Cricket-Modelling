@@ -1,0 +1,2227 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mong Kok
+  dates:
+  - '2026-05-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2756
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - Mas Elysa
+  players:
+    Hong Kong:
+    - NT Miles
+    - Shanzeen Shahzad
+    - Y Daswani
+    - KY Chan
+    - MBA Lamplough
+    - M Bibi
+    - Chan Sau Har
+    - M Wai Siu
+    - Joyleen Kaur
+    - SYD Chan
+    - Iqra Sahar
+    Malaysia:
+    - Nazatul Hidayah Husna
+    - WA Duraisingam
+    - Mas Elysa
+    - Nur Qalysha
+    - Mahirah Izzati Ismail
+    - SM Dhanusri
+    - Nur Dania Syuhada
+    - Aisya Eleesa
+    - Nur Arianna Natsya
+    - Aina Najwa
+    - Nurin Imanina
+  registry:
+    people:
+      Aina Najwa: 31453abb
+      Aisya Eleesa: 2cd18a73
+      Chan Sau Har: 3c567308
+      G Sankaranarayanan: a4a348f9
+      H Tukrul: a2880cb1
+      Iqra Sahar: aaccb8ca
+      John Prakash: b5f3d429
+      Joyleen Kaur: 8ea44a61
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Wai Siu: 74eecff4
+      MBA Lamplough: 997fffbe
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      NT Miles: d27d0835
+      Nazatul Hidayah Husna: e9c394c4
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Nur Qalysha: 3704ffe1
+      Nurin Imanina: 91fafb93
+      R Montgomery: ba71c15f
+      SM Dhanusri: 4e4d2c20
+      SYD Chan: 4839b023
+      Shanzeen Shahzad: ce291858
+      WA Duraisingam: 7467fe01
+      Y Daswani: 2038a273
+  teams:
+  - Hong Kong
+  - Malaysia
+  toss:
+    winner: Hong Kong
+    decision: bat
+  umpires:
+  - H Tukrul
+  - John Prakash
+  venue: Mission Road Ground, Mong Kok, Hong Kong
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shanzeen Shahzad
+        batsman: NT Miles
+    - 0.2:
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shanzeen Shahzad
+        batsman: NT Miles
+    - 0.3:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 0.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Aisya Eleesa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NT Miles
+    - 0.5:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 0.6:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 1.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 1.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.4:
+        non_striker: NT Miles
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.6:
+        non_striker: NT Miles
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.7:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 2.1:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.2:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 2.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.4:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.5:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.6:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.3:
+        non_striker: NT Miles
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 3.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 3.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 3.7:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.3:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.4:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 4.5:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.6:
+        non_striker: NT Miles
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 5.1:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 5.2:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 5.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 5.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 5.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.7:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 5.8:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 5.9:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.1:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.3:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.5:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 6.6:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 7.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 7.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.3:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          kind: lbw
+    - 7.4:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.5:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.6:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 8.1:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.2:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 8.3:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.4:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.5:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Daswani
+    - 8.6:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 8.7:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.1:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.2:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.3:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 9.4:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.5:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.6:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 10.1:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 10.2:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 10.3:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.4:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.5:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 10.6:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.1:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.2:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Daswani
+    - 11.3:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.4:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Y Daswani
+    - 11.5:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.6:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.7:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 12.1:
+        non_striker: Y Daswani
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.2:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Y Daswani
+    - 12.3:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 12.4:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Y Daswani
+    - 12.5:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 12.6:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 12.7:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 12.8:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 13.1:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Daswani
+    - 13.2:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.3:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 13.4:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.5:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.6:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 14.1:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 14.2:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 14.3:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 14.4:
+        non_striker: Y Daswani
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 14.5:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 14.6:
+        non_striker: NT Miles
+        bowler: Nurin Imanina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 15.1:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 15.2:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.3:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 15.4:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 15.5:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.6:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 16.1:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 16.2:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - Aisya Eleesa
+          kind: caught
+    - 16.3:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 16.4:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 16.5:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 16.6:
+        non_striker: KY Chan
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+        wicket:
+          player_out: Y Daswani
+          fielders:
+          - WA Duraisingam
+          kind: caught
+    - 17.1:
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MBA Lamplough
+        batsman: KY Chan
+    - 17.2:
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MBA Lamplough
+        batsman: KY Chan
+    - 17.3:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+        wicket:
+          player_out: MBA Lamplough
+          fielders:
+          - Nur Arianna Natsya
+          kind: caught
+    - 17.4:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bibi
+    - 17.5:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 17.6:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 18.1:
+        non_striker: M Bibi
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 18.2:
+        non_striker: M Bibi
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 18.3:
+        non_striker: KY Chan
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 18.4:
+        non_striker: KY Chan
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 18.5:
+        non_striker: KY Chan
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 18.6:
+        non_striker: M Bibi
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KY Chan
+    - 19.1:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 19.2:
+        non_striker: M Bibi
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 19.3:
+        non_striker: M Bibi
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 19.4:
+        non_striker: M Bibi
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 19.5:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bibi
+    - 19.6:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 19.7:
+        non_striker: KY Chan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Nazatul Hidayah Husna
+    - 0.2:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Nazatul Hidayah Husna
+    - 0.3:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Nazatul Hidayah Husna
+    - 0.4:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Nazatul Hidayah Husna
+    - 0.5:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Nazatul Hidayah Husna
+    - 0.6:
+        non_striker: WA Duraisingam
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 1.1:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          fielders:
+          - Iqra Sahar
+          kind: caught
+    - 1.2:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.3:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.4:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 1.5:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.6:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.7:
+        non_striker: Nazatul Hidayah Husna
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.1:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazatul Hidayah Husna
+    - 2.2:
+        non_striker: Nazatul Hidayah Husna
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.3:
+        non_striker: Nazatul Hidayah Husna
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.4:
+        non_striker: Nazatul Hidayah Husna
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: Nazatul Hidayah Husna
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.6:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazatul Hidayah Husna
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.2:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.3:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.4:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazatul Hidayah Husna
+    - 3.5:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazatul Hidayah Husna
+    - 3.6:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.7:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 4.1:
+        non_striker: Nazatul Hidayah Husna
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 4.2:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 4.3:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 4.4:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 4.5:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazatul Hidayah Husna
+    - 4.6:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+        wicket:
+          player_out: Nazatul Hidayah Husna
+          fielders:
+          - M Bibi
+          kind: caught
+    - 5.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nur Qalysha
+        batsman: Mas Elysa
+    - 5.2:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Qalysha
+    - 5.3:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Qalysha
+    - 5.4:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Qalysha
+        wicket:
+          player_out: Nur Qalysha
+          fielders:
+          - M Bibi
+          kind: caught
+    - 5.5:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 5.6:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mahirah Izzati Ismail
+    - 6.1:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+        wicket:
+          player_out: Mahirah Izzati Ismail
+          fielders:
+          - MBA Lamplough
+          kind: caught
+    - 6.2:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Dhanusri
+    - 6.4:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 6.5:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 6.6:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Dhanusri
+    - 7.1:
+        non_striker: SM Dhanusri
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.2:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 7.3:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 7.4:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 7.5:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 7.6:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 8.1:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.2:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 8.3:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 8.4:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.5:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.6:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.7:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 9.1:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 9.2:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Dhanusri
+    - 9.3:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 9.4:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 9.5:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Dhanusri
+    - 9.6:
+        non_striker: SM Dhanusri
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.1:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.2:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.3:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 10.4:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.5:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 10.6:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mas Elysa
+    - 10.7:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 11.1:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.2:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.3:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 11.4:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.5:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.6:
+        non_striker: SM Dhanusri
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 12.1:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 12.2:
+        non_striker: SM Dhanusri
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.3:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 12.4:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+        wicket:
+          player_out: SM Dhanusri
+          kind: bowled
+    - 12.5:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 12.6:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nur Dania Syuhada
+    - 13.1:
+        non_striker: Nur Dania Syuhada
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 13.2:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.3:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.4:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.5:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.6:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 14.1:
+        non_striker: Mas Elysa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 14.2:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 14.3:
+        non_striker: Mas Elysa
+        bowler: Chan Sau Har
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nur Dania Syuhada
+    - 14.4:
+        non_striker: Mas Elysa
+        bowler: Chan Sau Har
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Nur Dania Syuhada
+    - 14.5:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 14.6:
+        non_striker: Mas Elysa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 14.7:
+        non_striker: Mas Elysa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 14.8:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 15.1:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nur Dania Syuhada
+    - 15.2:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 15.3:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 15.4:
+        non_striker: Nur Dania Syuhada
+        bowler: Joyleen Kaur
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mas Elysa
+    - 15.5:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 15.6:
+        non_striker: Mas Elysa
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 15.7:
+        non_striker: Nur Dania Syuhada
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 16.1:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 16.2:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 16.3:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 16.4:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 16.5:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 16.6:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 17.1:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.2:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.3:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 17.4:
+        non_striker: Nur Dania Syuhada
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 17.5:
+        non_striker: Nur Dania Syuhada
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 17.6:
+        non_striker: Nur Dania Syuhada
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 18.1:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 18.2:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 18.3:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nur Dania Syuhada
+    - 18.4:
+        non_striker: Mas Elysa
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 18.5:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 18.6:
+        non_striker: Nur Dania Syuhada
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mas Elysa
+    - 19.1:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 19.2:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 19.3:
+        non_striker: Nur Dania Syuhada
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 19.4:
+        non_striker: Nur Dania Syuhada
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 19.5:
+        non_striker: Nur Dania Syuhada
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 19.6:
+        non_striker: Mas Elysa
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada

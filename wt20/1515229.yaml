@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kathmandu
+  dates:
+  - '2026-01-28'
+  gender: female
+  match_type: T20
+  match_type_number: 2652
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 39
+  overs: 20
+  player_of_match:
+  - S Mostary
+  players:
+    Bangladesh:
+    - Dilara Akter
+    - Juairiya Ferdous
+    - Sharmin Akhter
+    - S Mostary
+    - Shorna Akter
+    - Nigar Sultana
+    - Rabeya Khan
+    - Ritu Moni
+    - Fahima Khatun
+    - Nahida Akter
+    - Marufa Akter
+    Thailand:
+    - S Khiaoto
+    - N Chantam
+    - N Koncharoenkai
+    - N Chaiwai
+    - C Sutthiruang
+    - S Laomi
+    - P Maya
+    - O Kamchomphu
+    - S Chaturongrattana
+    - Chayanisa Phengpaen
+    - T Putthawong
+  registry:
+    people:
+      C Sutthiruang: f6ddfe08
+      Chayanisa Phengpaen: ab45cae8
+      Dilara Akter: f2670a3d
+      Fahima Khatun: 558cdd64
+      H Pack: fed53c91
+      Jonathan Kennedy: f7ad4494
+      Juairiya Ferdous: e6f05a84
+      Marufa Akter: a50797a4
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Koncharoenkai: 82c78412
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      O Kamchomphu: 519b872a
+      P Maya: 72eada4c
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Chaturongrattana: bd36bc39
+      S Khiaoto: 3ac854ca
+      S Laomi: 4b15618c
+      S Mostary: 94de63bf
+      Saleema Imtiaz: d17d21d5
+      Sharmin Akhter: 84fdd3cf
+      Shivani Mishra: 2982a0c7
+      Shorna Akter: 89895ae1
+      T Putthawong: 23e3f2d6
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Bangladesh
+  - Thailand
+  toss:
+    winner: Thailand
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - Saleema Imtiaz
+  venue: Mulpani Cricket Ground
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+        wicket:
+          player_out: Dilara Akter
+          fielders:
+          - N Chantam
+          kind: caught
+    - 0.2:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.3:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 0.4:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.5:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 0.6:
+        non_striker: Sharmin Akhter
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 1.1:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 1.2:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 1.3:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 1.4:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 1.5:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 1.6:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          kind: lbw
+    - 1.7:
+        non_striker: Juairiya Ferdous
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 2.1:
+        non_striker: S Mostary
+        bowler: P Maya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Juairiya Ferdous
+    - 2.2:
+        non_striker: S Mostary
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 2.3:
+        non_striker: S Mostary
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 2.4:
+        non_striker: S Mostary
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 2.5:
+        non_striker: S Mostary
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 2.6:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 2.7:
+        non_striker: Juairiya Ferdous
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 3.1:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 3.2:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Juairiya Ferdous
+    - 3.3:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 3.4:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 3.5:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 3.6:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 4.1:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 4.2:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 4.3:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 4.4:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 4.5:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 4.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 5.1:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 5.2:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 5.3:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.4:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.5:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.6:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.1:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Juairiya Ferdous
+    - 6.2:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 6.3:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 6.4:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 6.5:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 7.1:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 7.2:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 7.3:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 7.4:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 7.5:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Juairiya Ferdous
+    - 7.6:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Juairiya Ferdous
+    - 8.1:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 8.2:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 8.3:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 8.4:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 8.5:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Juairiya Ferdous
+    - 8.6:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 9.1:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 9.2:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 9.3:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 9.4:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 9.5:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 9.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 10.1:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 10.2:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 10.3:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 10.4:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 10.5:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Juairiya Ferdous
+    - 10.6:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 11.1:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 11.2:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 11.3:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 11.4:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mostary
+    - 11.5:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 11.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 12.1:
+        non_striker: Juairiya Ferdous
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 12.2:
+        non_striker: S Mostary
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 12.3:
+        non_striker: Juairiya Ferdous
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mostary
+    - 12.4:
+        non_striker: Juairiya Ferdous
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 12.5:
+        non_striker: Juairiya Ferdous
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 12.6:
+        non_striker: Juairiya Ferdous
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 13.1:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 13.2:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 13.3:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Juairiya Ferdous
+    - 13.4:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 13.5:
+        non_striker: S Mostary
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 13.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 14.1:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 14.2:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Juairiya Ferdous
+    - 14.3:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 14.4:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Juairiya Ferdous
+    - 14.5:
+        non_striker: S Mostary
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 14.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 15.1:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 15.2:
+        non_striker: Juairiya Ferdous
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 15.3:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+        wicket:
+          player_out: Juairiya Ferdous
+          fielders:
+          - P Maya
+          kind: caught
+    - 15.4:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 15.5:
+        non_striker: Shorna Akter
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 15.6:
+        non_striker: S Mostary
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 16.1:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 16.2:
+        non_striker: Shorna Akter
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 16.3:
+        non_striker: S Mostary
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 16.4:
+        non_striker: Shorna Akter
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 16.5:
+        non_striker: Shorna Akter
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+        wicket:
+          player_out: S Mostary
+          kind: bowled
+    - 16.6:
+        non_striker: Shorna Akter
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.1:
+        non_striker: Shorna Akter
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.2:
+        non_striker: Nigar Sultana
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          fielders:
+          - N Chaiwai
+          kind: caught
+    - 17.3:
+        non_striker: Nigar Sultana
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 17.4:
+        non_striker: Rabeya Khan
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.5:
+        non_striker: Nigar Sultana
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 17.6:
+        non_striker: Rabeya Khan
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 18.1:
+        non_striker: Nigar Sultana
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rabeya Khan
+    - 18.2:
+        non_striker: Nigar Sultana
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 18.3:
+        non_striker: Nigar Sultana
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 18.4:
+        non_striker: Rabeya Khan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.5:
+        non_striker: Nigar Sultana
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          fielders:
+          - N Chaiwai
+          - T Putthawong
+          kind: run out
+    - 18.6:
+        non_striker: Ritu Moni
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: bowled
+    - 19.1:
+        bowler: P Maya
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Fahima Khatun
+        batsman: Ritu Moni
+    - 19.2:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Fahima Khatun
+        batsman: Ritu Moni
+    - 19.3:
+        bowler: P Maya
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: Fahima Khatun
+        batsman: Ritu Moni
+    - 19.4:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fahima Khatun
+        batsman: Ritu Moni
+    - 19.5:
+        non_striker: Ritu Moni
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 19.6:
+        non_striker: Fahima Khatun
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 19.7:
+        non_striker: Fahima Khatun
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 19.8:
+        non_striker: Fahima Khatun
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          fielders:
+          - N Koncharoenkai
+          - P Maya
+          kind: run out
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khiaoto
+        wicket:
+          player_out: S Khiaoto
+          kind: lbw
+    - 0.2:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Koncharoenkai
+    - 0.3:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 0.4:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 0.5:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 0.6:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 0.7:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 1.1:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.2:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 1.3:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.4:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.5:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.6:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 2.1:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.2:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.3:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 2.4:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.5:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.6:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.1:
+        non_striker: N Chantam
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 3.2:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 3.3:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 3.4:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.5:
+        non_striker: N Koncharoenkai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 3.6:
+        non_striker: N Chantam
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.1:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 4.2:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 4.3:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 4.4:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 4.5:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 4.6:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 5.1:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.2:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Koncharoenkai
+    - 5.3:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 5.4:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.5:
+        non_striker: N Chantam
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 5.6:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 5.7:
+        non_striker: N Koncharoenkai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 6.1:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 6.2:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 6.3:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 6.4:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 6.5:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 6.6:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 7.1:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 7.2:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 7.3:
+        non_striker: N Chantam
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 7.4:
+        non_striker: N Chantam
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 7.5:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 7.6:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 8.1:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 8.2:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 8.3:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 8.4:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 8.5:
+        non_striker: N Chantam
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 8.6:
+        non_striker: N Koncharoenkai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 9.1:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 9.2:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 9.3:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 9.4:
+        non_striker: N Chantam
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 9.5:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 9.6:
+        non_striker: N Koncharoenkai
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 10.1:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 10.2:
+        non_striker: N Chantam
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 10.3:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 10.4:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          fielders:
+          - Dilara Akter
+          kind: caught
+    - 10.5:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 10.6:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 11.1:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.2:
+        non_striker: N Koncharoenkai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 11.3:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.4:
+        non_striker: N Koncharoenkai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 11.5:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.6:
+        non_striker: N Koncharoenkai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 12.1:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 12.2:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 12.3:
+        non_striker: N Chaiwai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 12.4:
+        non_striker: N Koncharoenkai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 12.5:
+        non_striker: N Chaiwai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 12.6:
+        non_striker: N Chaiwai
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Koncharoenkai
+    - 13.1:
+        non_striker: N Koncharoenkai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 13.2:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+        wicket:
+          player_out: N Koncharoenkai
+          kind: caught and bowled
+    - 13.3:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+    - 13.4:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sutthiruang
+    - 13.5:
+        non_striker: C Sutthiruang
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 13.6:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+    - 14.1:
+        non_striker: C Sutthiruang
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 14.2:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+        wicket:
+          player_out: C Sutthiruang
+          kind: bowled
+    - 14.3:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 14.4:
+        non_striker: S Laomi
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 14.5:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Laomi
+    - 14.6:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 15.1:
+        non_striker: N Chaiwai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Laomi
+    - 15.2:
+        non_striker: N Chaiwai
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Laomi
+    - 15.3:
+        non_striker: S Laomi
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 15.4:
+        non_striker: S Laomi
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 15.5:
+        non_striker: S Laomi
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 15.6:
+        non_striker: S Laomi
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 16.1:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Laomi
+        wicket:
+          player_out: S Laomi
+          fielders:
+          - Rabeya Khan
+          kind: caught
+    - 16.2:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 16.3:
+        non_striker: N Chaiwai
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 16.4:
+        non_striker: P Maya
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 16.5:
+        non_striker: P Maya
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chaiwai
+    - 16.6:
+        non_striker: P Maya
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 17.1:
+        non_striker: P Maya
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 17.2:
+        non_striker: P Maya
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 17.3:
+        non_striker: P Maya
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 17.4:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 17.5:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 17.6:
+        non_striker: P Maya
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 18.1:
+        non_striker: P Maya
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 18.2:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+        wicket:
+          player_out: P Maya
+          fielders:
+          - Juairiya Ferdous
+          kind: caught
+    - 18.3:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Kamchomphu
+    - 18.4:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kamchomphu
+        wicket:
+          player_out: O Kamchomphu
+          kind: bowled
+    - 18.5:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chaturongrattana
+    - 18.6:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chaturongrattana
+    - 18.7:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chaturongrattana
+    - 18.8:
+        non_striker: N Chaiwai
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chaturongrattana
+    - 19.1:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chaturongrattana
+    - 19.2:
+        non_striker: S Chaturongrattana
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 19.3:
+        non_striker: N Chaiwai
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chaturongrattana
+    - 19.4:
+        non_striker: S Chaturongrattana
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chaiwai
+    - 19.5:
+        non_striker: S Chaturongrattana
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 19.6:
+        non_striker: S Chaturongrattana
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          fielders:
+          - Dilara Akter
+          kind: stumped

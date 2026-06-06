@@ -1,0 +1,2522 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Corfu
+  dates:
+  - '2026-05-09'
+  gender: female
+  match_type: T20
+  match_type_number: 2759
+  outcome:
+    winner: Greece
+    by:
+      runs: 3
+  overs: 20
+  players:
+    Greece:
+    - A Savvani
+    - E Kallous
+    - A Makri
+    - M Syrioti
+    - A Argyropoulou
+    - S Georgota
+    - RKK Appuhangige
+    - M Vervitsioti
+    - M Polimeri
+    - A Kourkoulou
+    - T Parisi-mesimeri
+    Denmark:
+    - S Hojholt
+    - A Ostergaard
+    - Farhat Afroz
+    - L Ostergaard
+    - S Ostergaard
+    - K Pandya
+    - NP Dalgaard
+    - C Ostergaard
+    - AB Slebsager
+    - D Golechha
+    - ML Karlsen
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Kourkoulou: 637f6ae5
+      A Makri: 98affc04
+      A Ostergaard: 36ffe914
+      A Savvani: 5d006a1a
+      AB Slebsager: 4ae7048b
+      C Ostergaard: e212b0fd
+      D Golechha: c2c12f2a
+      E Kallous: '0680ff7f'
+      Farhat Afroz: f65e75df
+      K Pandya: 75b4acc8
+      L Ostergaard: 3a5160d9
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      ML Karlsen: 4302af3d
+      NP Dalgaard: '40283617'
+      RKK Appuhangige: cd76788c
+      S Georgota: d07b6842
+      S Hojholt: 1a14aefd
+      S Ostergaard: a19e799b
+      T Parisi-mesimeri: c002a904
+  teams:
+  - Greece
+  - Denmark
+  toss:
+    winner: Greece
+    decision: bat
+  venue: Marina Ground, Corfu
+innings:
+- 1st innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Kallous
+        batsman: A Savvani
+    - 0.2:
+        non_striker: A Savvani
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Kallous
+    - 0.3:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 0.4:
+        non_striker: A Savvani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 0.5:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+        wicket:
+          player_out: A Savvani
+          kind: lbw
+    - 0.6:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 0.7:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 0.8:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 1.1:
+        non_striker: E Kallous
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.2:
+        non_striker: E Kallous
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 1.3:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 1.4:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 1.5:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 1.6:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 2.1:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.2:
+        non_striker: E Kallous
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 2.3:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 2.4:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+        wicket:
+          player_out: E Kallous
+          kind: bowled
+    - 2.5:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.6:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.7:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.8:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Syrioti
+    - 2.9:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 3.1:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.2:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.3:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.4:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 3.5:
+        non_striker: M Syrioti
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 3.6:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 4.1:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 4.2:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 4.3:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 4.4:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 4.5:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 4.6:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 4.7:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 5.1:
+        non_striker: M Syrioti
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 5.2:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 5.3:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 5.4:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syrioti
+    - 5.5:
+        non_striker: A Makri
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 5.6:
+        non_striker: M Syrioti
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 6.1:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 6.2:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 6.3:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 6.4:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Makri
+    - 6.5:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 6.6:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 6.7:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 6.8:
+        non_striker: A Makri
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Syrioti
+    - 6.9:
+        non_striker: M Syrioti
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.1:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 7.2:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 7.3:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 7.4:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 7.5:
+        non_striker: M Syrioti
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 7.6:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 7.7:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 7.8:
+        non_striker: A Makri
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Syrioti
+    - 7.9:
+        non_striker: M Syrioti
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 7.10:
+        non_striker: M Syrioti
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 8.1:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 8.2:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 8.3:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 8.4:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 8.5:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 8.6:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Syrioti
+    - 9.1:
+        non_striker: M Syrioti
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 9.2:
+        non_striker: M Syrioti
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 9.3:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 9.4:
+        non_striker: M Syrioti
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 9.5:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syrioti
+    - 9.6:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 10.1:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 10.2:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 10.3:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 10.4:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 10.5:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 10.6:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Syrioti
+    - 11.1:
+        non_striker: M Syrioti
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 11.2:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 11.3:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 11.4:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 11.5:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syrioti
+    - 11.6:
+        non_striker: A Makri
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 12.1:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 12.2:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 12.3:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 12.4:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 12.5:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 12.6:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 12.7:
+        non_striker: M Syrioti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 13.1:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 13.2:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+        wicket:
+          player_out: M Syrioti
+          kind: bowled
+    - 13.3:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 13.4:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 13.5:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 13.6:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 13.7:
+        non_striker: A Makri
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 13.8:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 14.1:
+        non_striker: A Argyropoulou
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 14.2:
+        non_striker: A Argyropoulou
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 14.3:
+        non_striker: A Argyropoulou
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 14.4:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 14.5:
+        non_striker: A Makri
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 14.6:
+        non_striker: A Argyropoulou
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 14.7:
+        non_striker: A Argyropoulou
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 15.1:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+        wicket:
+          player_out: A Makri
+          kind: lbw
+    - 15.2:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 15.3:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 15.4:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 15.5:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 15.6:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 15.7:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 16.1:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 16.2:
+        non_striker: A Argyropoulou
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 16.3:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Argyropoulou
+    - 16.4:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 16.5:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Argyropoulou
+    - 16.6:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Argyropoulou
+    - 16.7:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 17.1:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 17.2:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 17.3:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 17.4:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 17.5:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Georgota
+    - 17.6:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Georgota
+    - 17.7:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 17.8:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 17.9:
+        non_striker: A Argyropoulou
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Georgota
+    - 17.10:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Argyropoulou
+    - 17.11:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Argyropoulou
+    - 17.12:
+        non_striker: S Georgota
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 18.1:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 18.2:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: A Argyropoulou
+          fielders:
+          - D Golechha
+          kind: caught
+    - 18.3:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RKK Appuhangige
+    - 18.4:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RKK Appuhangige
+    - 18.5:
+        non_striker: S Georgota
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RKK Appuhangige
+    - 18.6:
+        non_striker: RKK Appuhangige
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 18.7:
+        non_striker: RKK Appuhangige
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 19.1:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RKK Appuhangige
+        wicket:
+          player_out: RKK Appuhangige
+          kind: caught and bowled
+    - 19.2:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 19.3:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 19.4:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 19.5:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vervitsioti
+    - 19.6:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vervitsioti
+    - 19.7:
+        non_striker: S Georgota
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Ostergaard
+        batsman: S Hojholt
+    - 0.2:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ostergaard
+        batsman: S Hojholt
+    - 0.3:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Ostergaard
+        batsman: S Hojholt
+    - 0.4:
+        non_striker: S Hojholt
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 0.5:
+        non_striker: S Hojholt
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 0.6:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 1.1:
+        non_striker: S Hojholt
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 1.2:
+        non_striker: S Hojholt
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 1.3:
+        non_striker: A Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 1.4:
+        non_striker: A Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 1.5:
+        non_striker: S Hojholt
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 1.6:
+        non_striker: S Hojholt
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 2.1:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Hojholt
+    - 2.2:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 2.3:
+        non_striker: S Hojholt
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 2.4:
+        non_striker: S Hojholt
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 2.5:
+        non_striker: S Hojholt
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+        wicket:
+          player_out: S Hojholt
+          fielders:
+          - M Vervitsioti
+          kind: run out
+    - 2.6:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhat Afroz
+    - 2.7:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Farhat Afroz
+    - 2.8:
+        non_striker: Farhat Afroz
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 3.1:
+        non_striker: A Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Farhat Afroz
+    - 3.2:
+        non_striker: A Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Farhat Afroz
+    - 3.3:
+        non_striker: Farhat Afroz
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 3.4:
+        non_striker: Farhat Afroz
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 3.5:
+        non_striker: Farhat Afroz
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 3.6:
+        non_striker: Farhat Afroz
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+        wicket:
+          player_out: Farhat Afroz
+          fielders:
+          - A Makri
+          kind: run out
+    - 3.7:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Ostergaard
+        batsman: A Ostergaard
+    - 3.8:
+        non_striker: A Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 4.1:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 4.2:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 4.3:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 4.4:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 4.5:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 4.6:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 4.7:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 5.1:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 5.2:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.3:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+    - 5.4:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 5.5:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 5.6:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 5.7:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.8:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 6.1:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 6.2:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+    - 6.3:
+        non_striker: A Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 6.4:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 6.5:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 6.6:
+        non_striker: L Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 6.7:
+        non_striker: A Ostergaard
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 7.1:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Ostergaard
+    - 7.2:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 7.3:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 7.4:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 7.5:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 7.6:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 7.7:
+        non_striker: A Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 7.8:
+        non_striker: L Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 8.1:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 8.2:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 8.3:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 8.4:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 8.5:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 8.6:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 8.7:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 8.8:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 9.1:
+        non_striker: L Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 9.2:
+        non_striker: L Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 9.3:
+        non_striker: L Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 9.4:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 9.5:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 9.6:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 10.1:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 10.2:
+        non_striker: L Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 10.3:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 10.4:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+        wicket:
+          player_out: L Ostergaard
+          fielders:
+          - M Vervitsioti
+          kind: caught
+    - 10.5:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ostergaard
+    - 10.6:
+        non_striker: S Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 11.1:
+        non_striker: S Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Ostergaard
+    - 11.2:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ostergaard
+    - 11.3:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ostergaard
+        wicket:
+          player_out: S Ostergaard
+          fielders:
+          - A Savvani
+          kind: caught
+    - 11.4:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 11.5:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 11.6:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 11.7:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 12.1:
+        non_striker: K Pandya
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 12.2:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 12.3:
+        non_striker: K Pandya
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 12.4:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 12.5:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 12.6:
+        non_striker: K Pandya
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+    - 12.7:
+        non_striker: K Pandya
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 12.8:
+        non_striker: A Ostergaard
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 13.1:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 13.2:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 13.3:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 13.4:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.5:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.6:
+        non_striker: K Pandya
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+    - 13.7:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 13.8:
+        non_striker: A Ostergaard
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 14.1:
+        non_striker: A Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 14.2:
+        non_striker: K Pandya
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+        wicket:
+          player_out: A Ostergaard
+          fielders:
+          - M Syrioti
+          kind: caught
+    - 14.3:
+        non_striker: K Pandya
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 14.4:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 14.5:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 14.6:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pandya
+    - 15.1:
+        non_striker: K Pandya
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 15.2:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 15.3:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 15.4:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 15.5:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 15.6:
+        non_striker: K Pandya
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 15.7:
+        non_striker: K Pandya
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 16.1:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+        wicket:
+          player_out: K Pandya
+          fielders:
+          - A Argyropoulou
+          kind: stumped
+    - 16.2:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Ostergaard
+    - 16.3:
+        non_striker: C Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Dalgaard
+    - 16.4:
+        non_striker: C Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Dalgaard
+    - 16.5:
+        non_striker: C Ostergaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 16.6:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard
+    - 16.7:
+        non_striker: NP Dalgaard
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard
+    - 17.1:
+        non_striker: C Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 17.2:
+        non_striker: NP Dalgaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard
+    - 17.3:
+        non_striker: NP Dalgaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Ostergaard
+    - 17.4:
+        non_striker: C Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 17.5:
+        non_striker: C Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NP Dalgaard
+    - 17.6:
+        non_striker: NP Dalgaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Ostergaard
+    - 18.1:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Ostergaard
+    - 18.2:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Ostergaard
+    - 18.3:
+        non_striker: C Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 18.4:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard
+    - 18.5:
+        non_striker: NP Dalgaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Ostergaard
+    - 18.6:
+        non_striker: C Ostergaard
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          kind: bowled
+    - 19.1:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AB Slebsager
+        batsman: C Ostergaard
+    - 19.2:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AB Slebsager
+        batsman: C Ostergaard
+    - 19.3:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AB Slebsager
+        batsman: C Ostergaard
+    - 19.4:
+        non_striker: C Ostergaard
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 19.5:
+        non_striker: AB Slebsager
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard
+    - 19.6:
+        non_striker: AB Slebsager
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Ostergaard

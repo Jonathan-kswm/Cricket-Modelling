@@ -1,0 +1,2325 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ishoj
+  dates:
+  - '2025-08-31'
+  gender: female
+  match_type: T20
+  match_type_number: 2460
+  outcome:
+    winner: Germany
+    by:
+      runs: 74
+  overs: 20
+  player_of_match:
+  - JE Ronalds
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - S Kolcharam
+    - JE Ronalds
+    - Rameesha Shahid
+    - N Kingsley
+    - A Kohli
+    - V Stolle
+    - Ashwini Balaji
+    - A Kanukuntla
+    - I Edwards
+    Sweden:
+    - A Vaidya
+    - E Bogdanova
+    - Kanchan Rana
+    - E Thelander
+    - Jayasooriya
+    - Zara Mohammad
+    - RG Somashekhar
+    - H Chamto
+    - Malyun Yusuf
+    - D Chamto
+    - K Kanwar
+  registry:
+    people:
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      A Vaidya: b7d8c07d
+      Ashwini Balaji: 81283f75
+      D Chamto: 4de33485
+      E Bogdanova: c7859708
+      E Thelander: 45cb4feb
+      H Chamto: 5e181be6
+      I Edwards: '42095275'
+      JE Ronalds: d4f98302
+      Jayasooriya: '39183970'
+      K Kanwar: 5879b714
+      K Vijayaraghavan: '048da365'
+      Kanchan Rana: d5d87f3f
+      Malyun Yusuf: 436527cd
+      Munib Haq: 5ac45f13
+      N Kingsley: 31036a1d
+      RG Somashekhar: 881cb071
+      Rameesha Shahid: b810425e
+      S Kolcharam: 761c929e
+      V Stolle: 0dc4ac6c
+      W Hornero-Garcia: 7d5fef52
+      Zara Mohammad: c9ca2bd7
+      Zeb Pirzada: 716e41af
+  teams:
+  - Germany
+  - Sweden
+  toss:
+    winner: Germany
+    decision: bat
+  umpires:
+  - Munib Haq
+  - Zeb Pirzada
+  venue: Ishoj Cricket Club, Vejledalen
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.2:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.3:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.4:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 0.5:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 0.6:
+        non_striker: K Vijayaraghavan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 1.2:
+        non_striker: K Vijayaraghavan
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: W Hornero-Garcia
+    - 1.3:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 1.4:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Vijayaraghavan
+    - 1.5:
+        non_striker: K Vijayaraghavan
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 1.6:
+        non_striker: K Vijayaraghavan
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: K Vijayaraghavan
+          fielders:
+          - Kanchan Rana
+          - E Thelander
+          kind: run out
+    - 1.7:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcharam
+    - 1.8:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 1.9:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 1.10:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kolcharam
+    - 2.1:
+        non_striker: S Kolcharam
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 2.2:
+        non_striker: S Kolcharam
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Hornero-Garcia
+    - 2.3:
+        non_striker: S Kolcharam
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 2.4:
+        non_striker: S Kolcharam
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 2.5:
+        non_striker: S Kolcharam
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 2.6:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcharam
+    - 2.7:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kolcharam
+    - 3.1:
+        non_striker: S Kolcharam
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 3.2:
+        non_striker: S Kolcharam
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Hornero-Garcia
+    - 3.3:
+        non_striker: S Kolcharam
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.4:
+        non_striker: S Kolcharam
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 3.5:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcharam
+    - 3.6:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Kolcharam
+    - 3.7:
+        non_striker: S Kolcharam
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 4.1:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcharam
+    - 4.2:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 4.3:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          fielders:
+          - RG Somashekhar
+          kind: caught
+    - 4.4:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 4.5:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 4.6:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 4.7:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 5.1:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Hornero-Garcia
+    - 5.2:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 5.3:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 5.4:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 5.5:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 5.6:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 5.7:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Ronalds
+    - 6.1:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 6.2:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 6.3:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 6.4:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 6.5:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 6.6:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 7.1:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 7.2:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 7.3:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 7.4:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 7.5:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Hornero-Garcia
+    - 7.6:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.1:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 8.2:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 8.3:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.4:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.5:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 8.6:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 9.1:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 9.2:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 9.3:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 9.4:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 9.5:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 9.6:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 10.1:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 10.2:
+        non_striker: W Hornero-Garcia
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 10.3:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 10.4:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 10.5:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 10.6:
+        non_striker: JE Ronalds
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 11.1:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 11.2:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 11.3:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 11.4:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 11.5:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 11.6:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 12.1:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 12.2:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 12.3:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 12.4:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 12.5:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 12.6:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 12.7:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JE Ronalds
+    - 12.8:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 13.1:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 13.2:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 13.3:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Ronalds
+    - 13.4:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 13.5:
+        non_striker: JE Ronalds
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 13.6:
+        non_striker: W Hornero-Garcia
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 14.1:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 14.2:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 14.3:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 14.4:
+        non_striker: W Hornero-Garcia
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 14.5:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 14.6:
+        non_striker: JE Ronalds
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 15.1:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Ronalds
+    - 15.2:
+        non_striker: JE Ronalds
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 15.3:
+        non_striker: JE Ronalds
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 15.4:
+        non_striker: JE Ronalds
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: W Hornero-Garcia
+    - 15.5:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 15.6:
+        non_striker: JE Ronalds
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 15.7:
+        non_striker: W Hornero-Garcia
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 15.8:
+        non_striker: JE Ronalds
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Hornero-Garcia
+    - 16.1:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.2:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 16.3:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 16.4:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.5:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: JE Ronalds
+    - 16.6:
+        non_striker: JE Ronalds
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 16.7:
+        non_striker: JE Ronalds
+        bowler: Zara Mohammad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: W Hornero-Garcia
+    - 16.8:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 17.1:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 17.2:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: JE Ronalds
+          kind: bowled
+    - 17.3:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rameesha Shahid
+    - 17.4:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameesha Shahid
+    - 17.5:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rameesha Shahid
+    - 17.6:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rameesha Shahid
+    - 17.7:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 17.8:
+        non_striker: W Hornero-Garcia
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 17.9:
+        non_striker: Rameesha Shahid
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 17.10:
+        non_striker: Rameesha Shahid
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 17.11:
+        non_striker: Rameesha Shahid
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 18.1:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 18.2:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rameesha Shahid
+    - 18.3:
+        non_striker: Rameesha Shahid
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 18.4:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+        wicket:
+          player_out: Rameesha Shahid
+          fielders:
+          - RG Somashekhar
+          kind: caught
+    - 18.5:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 18.6:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 18.7:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 18.8:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 18.9:
+        non_striker: W Hornero-Garcia
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Kingsley
+    - 19.1:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 19.2:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 19.3:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 19.4:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 19.5:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 19.6:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 19.7:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 19.8:
+        non_striker: W Hornero-Garcia
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.2:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.3:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.4:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.5:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.6:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Bogdanova
+        batsman: A Vaidya
+    - 0.7:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 1.1:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Bogdanova
+    - 1.2:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Bogdanova
+    - 1.3:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bogdanova
+    - 1.4:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 1.5:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 1.6:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vaidya
+    - 1.7:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Vaidya
+    - 1.8:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.1:
+        non_striker: A Vaidya
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bogdanova
+    - 2.2:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.3:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 2.4:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.5:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.6:
+        non_striker: E Bogdanova
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 3.1:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bogdanova
+    - 3.2:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 3.3:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 3.4:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bogdanova
+    - 3.5:
+        non_striker: A Vaidya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bogdanova
+    - 3.6:
+        non_striker: E Bogdanova
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 4.1:
+        non_striker: E Bogdanova
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 4.2:
+        non_striker: E Bogdanova
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Vaidya
+    - 4.3:
+        non_striker: E Bogdanova
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 4.4:
+        non_striker: E Bogdanova
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 4.5:
+        non_striker: E Bogdanova
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 4.6:
+        non_striker: A Vaidya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bogdanova
+    - 5.1:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bogdanova
+    - 5.2:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bogdanova
+    - 5.3:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bogdanova
+    - 5.4:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Bogdanova
+    - 5.5:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bogdanova
+        wicket:
+          player_out: E Bogdanova
+          fielders:
+          - S Kolcharam
+          kind: caught
+    - 5.6:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 6.1:
+        non_striker: Kanchan Rana
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Vaidya
+    - 6.2:
+        non_striker: Kanchan Rana
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 6.3:
+        non_striker: Kanchan Rana
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vaidya
+    - 6.4:
+        non_striker: Kanchan Rana
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 6.5:
+        non_striker: Kanchan Rana
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 6.6:
+        non_striker: A Vaidya
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 6.7:
+        non_striker: A Vaidya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 6.8:
+        non_striker: A Vaidya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 7.1:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 7.2:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 7.3:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 7.4:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 7.5:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 7.6:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 7.7:
+        non_striker: A Vaidya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 8.1:
+        non_striker: A Vaidya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 8.2:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vaidya
+    - 8.3:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 8.4:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 8.5:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vaidya
+    - 8.6:
+        non_striker: A Vaidya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 9.1:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+        wicket:
+          player_out: A Vaidya
+          fielders:
+          - K Vijayaraghavan
+          kind: caught
+    - 9.2:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.3:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.4:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.5:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.6:
+        non_striker: Kanchan Rana
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Thelander
+    - 10.1:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 10.2:
+        non_striker: E Thelander
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 10.3:
+        non_striker: E Thelander
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 10.4:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 10.5:
+        non_striker: E Thelander
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 10.6:
+        non_striker: Kanchan Rana
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+        wicket:
+          player_out: E Thelander
+          kind: bowled
+    - 11.1:
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jayasooriya
+        batsman: Kanchan Rana
+    - 11.2:
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jayasooriya
+        batsman: Kanchan Rana
+    - 11.3:
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Jayasooriya
+        batsman: Kanchan Rana
+    - 11.4:
+        non_striker: Jayasooriya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+        wicket:
+          player_out: Kanchan Rana
+          fielders:
+          - V Stolle
+          kind: caught
+    - 11.5:
+        non_striker: Jayasooriya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zara Mohammad
+    - 11.6:
+        non_striker: Jayasooriya
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zara Mohammad
+    - 11.7:
+        non_striker: Jayasooriya
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zara Mohammad
+    - 12.1:
+        non_striker: Zara Mohammad
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 12.2:
+        non_striker: Zara Mohammad
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jayasooriya
+    - 12.3:
+        non_striker: Zara Mohammad
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 12.4:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zara Mohammad
+    - 12.5:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zara Mohammad
+    - 12.6:
+        non_striker: Zara Mohammad
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 12.7:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zara Mohammad
+    - 13.1:
+        non_striker: Zara Mohammad
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 13.2:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zara Mohammad
+    - 13.3:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zara Mohammad
+        wicket:
+          player_out: Zara Mohammad
+          fielders:
+          - S Kolcharam
+          kind: caught
+    - 13.4:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 13.5:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 13.6:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+        wicket:
+          player_out: RG Somashekhar
+          kind: lbw
+    - 14.1:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Chamto
+        batsman: Jayasooriya
+    - 14.2:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Chamto
+        batsman: Jayasooriya
+    - 14.3:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Chamto
+        batsman: Jayasooriya
+    - 14.4:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 14.5:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+        wicket:
+          player_out: H Chamto
+          kind: bowled
+    - 14.6:
+        non_striker: Jayasooriya
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Malyun Yusuf
+    - 15.1:
+        non_striker: Malyun Yusuf
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 15.2:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Yusuf
+    - 15.3:
+        non_striker: Malyun Yusuf
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jayasooriya
+    - 15.4:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Yusuf
+        wicket:
+          player_out: Malyun Yusuf
+          kind: lbw
+    - 15.5:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Chamto
+    - 15.6:
+        non_striker: Jayasooriya
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Chamto
+    - 16.1:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.2:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.3:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jayasooriya
+    - 16.4:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.5:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.6:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.7:
+        non_striker: D Chamto
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 17.1:
+        non_striker: Jayasooriya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Chamto
+    - 17.2:
+        non_striker: Jayasooriya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Chamto
+    - 17.3:
+        non_striker: Jayasooriya
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Chamto
+    - 17.4:
+        non_striker: D Chamto
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jayasooriya
+    - 17.5:
+        non_striker: D Chamto
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+        wicket:
+          player_out: Jayasooriya
+          fielders:
+          - K Vijayaraghavan
+          kind: caught
+    - 17.6:
+        non_striker: D Chamto
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kanwar
+    - 18.1:
+        non_striker: K Kanwar
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Chamto
+        wicket:
+          player_out: D Chamto
+          kind: lbw

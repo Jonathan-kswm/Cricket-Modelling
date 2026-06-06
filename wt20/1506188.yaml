@@ -1,0 +1,2293 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2538
+  outcome:
+    winner: Romania
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - RL Blake
+  players:
+    Norway:
+    - AS Gorad
+    - Mirab Sajjad
+    - Ayesha Hasan
+    - Bijeyata Kumari
+    - R Immadi
+    - Nayab Razwan
+    - Alina Aslam
+    - Mirab Razwan
+    - Lopamudra
+    - Prachi Kumari
+    - P Agrawal
+    Romania:
+    - M Kearvell
+    - RL Blake
+    - N Kuruppu
+    - I Muntean
+    - J Chirila
+    - M Marin
+    - A Lupascu
+    - C Cirlig
+    - I Palliya
+    - G Ionita
+    - D Tanase
+  registry:
+    people:
+      A Lupascu: 66f819df
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      C Cirlig: 9cfee623
+      D Tanase: 3e377209
+      G Ionita: c5c308b7
+      I Muntean: 9b88f80e
+      I Palliya: a5824c28
+      J Chirila: a801ca06
+      Lopamudra: ff4509d5
+      M Kearvell: d802854a
+      M Marin: 2feef01b
+      Mirab Razwan: 498031f9
+      Mirab Sajjad: 41db4d1f
+      N Kuruppu: bacbc4ee
+      Nayab Razwan: f12e21a0
+      P Agrawal: bb1fcd51
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      RL Blake: e2b58daf
+  teams:
+  - Norway
+  - Romania
+  toss:
+    winner: Norway
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.2:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mirab Sajjad
+    - 0.3:
+        non_striker: Mirab Sajjad
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 0.4:
+        non_striker: Mirab Sajjad
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 0.5:
+        non_striker: Mirab Sajjad
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AS Gorad
+    - 0.6:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Mirab Sajjad
+    - 0.7:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 0.8:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 0.9:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mirab Sajjad
+    - 1.1:
+        non_striker: Mirab Sajjad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: Mirab Sajjad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: AS Gorad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 1.4:
+        non_striker: Mirab Sajjad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.5:
+        non_striker: Mirab Sajjad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 1.6:
+        non_striker: AS Gorad
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 1.7:
+        non_striker: AS Gorad
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+        wicket:
+          player_out: Mirab Sajjad
+          fielders:
+          - M Marin
+          kind: caught
+    - 2.1:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 2.2:
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 2.3:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 2.4:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 2.5:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 2.6:
+        non_striker: Ayesha Hasan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 2.7:
+        non_striker: AS Gorad
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - N Kuruppu
+          kind: run out
+    - 3.1:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.2:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.3:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.4:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.5:
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.6:
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.7:
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.8:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bijeyata Kumari
+        batsman: Ayesha Hasan
+    - 3.9:
+        non_striker: Ayesha Hasan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.1:
+        non_striker: Bijeyata Kumari
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.2:
+        non_striker: Bijeyata Kumari
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 4.3:
+        non_striker: Ayesha Hasan
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bijeyata Kumari
+    - 4.4:
+        non_striker: Ayesha Hasan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.5:
+        non_striker: Ayesha Hasan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.6:
+        non_striker: Ayesha Hasan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 5.1:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.2:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.3:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 5.4:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 5.5:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 5.6:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Bijeyata Kumari
+    - 5.7:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.1:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ayesha Hasan
+    - 6.2:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Bijeyata Kumari
+    - 6.3:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 6.4:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Bijeyata Kumari
+    - 6.7:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 6.8:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 6.9:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 6.10:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.1:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Bijeyata Kumari
+    - 7.2:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.3:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.4:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 7.5:
+        non_striker: Bijeyata Kumari
+        bowler: M Kearvell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ayesha Hasan
+    - 7.6:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 7.7:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 7.8:
+        non_striker: Ayesha Hasan
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bijeyata Kumari
+    - 8.1:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 8.2:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 8.3:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 8.4:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 8.5:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 8.6:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.1:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bijeyata Kumari
+    - 9.2:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 9.3:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 9.4:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 9.5:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 9.6:
+        non_striker: Bijeyata Kumari
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 10.1:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ayesha Hasan
+    - 10.2:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 10.3:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 10.4:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ayesha Hasan
+    - 10.5:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Bijeyata Kumari
+    - 10.6:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 10.7:
+        non_striker: Bijeyata Kumari
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ayesha Hasan
+    - 11.1:
+        non_striker: Bijeyata Kumari
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 11.2:
+        non_striker: Bijeyata Kumari
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 11.3:
+        non_striker: Bijeyata Kumari
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 11.4:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - M Marin
+          kind: stumped
+    - 11.5:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.6:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 11.7:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 12.1:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 12.2:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 12.3:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 12.4:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 12.5:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 12.6:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 12.7:
+        non_striker: R Immadi
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 13.1:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 13.2:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 13.3:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.4:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Immadi
+    - 13.5:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 13.6:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 13.7:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 13.8:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 14.1:
+        non_striker: R Immadi
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 14.2:
+        non_striker: R Immadi
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 14.3:
+        non_striker: R Immadi
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 14.4:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 14.5:
+        non_striker: R Immadi
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 14.6:
+        non_striker: Ayesha Hasan
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 15.1:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 15.2:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 15.3:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Immadi
+    - 15.4:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 15.5:
+        non_striker: Ayesha Hasan
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 15.6:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 15.7:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ayesha Hasan
+    - 15.8:
+        non_striker: R Immadi
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ayesha Hasan
+    - 16.1:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 16.2:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: bowled
+    - 16.3:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 16.4:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 16.5:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 16.6:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 16.7:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 17.1:
+        non_striker: Nayab Razwan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 17.2:
+        non_striker: Nayab Razwan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 17.3:
+        non_striker: Nayab Razwan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 17.4:
+        non_striker: R Immadi
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nayab Razwan
+    - 17.5:
+        non_striker: R Immadi
+        bowler: M Kearvell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nayab Razwan
+    - 17.6:
+        non_striker: Nayab Razwan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 17.7:
+        non_striker: R Immadi
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayab Razwan
+    - 18.1:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 18.2:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 18.3:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 18.4:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 18.5:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 18.6:
+        non_striker: R Immadi
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Nayab Razwan
+    - 18.7:
+        non_striker: Nayab Razwan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 19.1:
+        non_striker: R Immadi
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+        wicket:
+          player_out: R Immadi
+          fielders:
+          - M Kearvell
+          - D Tanase
+          kind: run out
+    - 19.2:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Alina Aslam
+        batsman: Nayab Razwan
+    - 19.3:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Alina Aslam
+        batsman: Nayab Razwan
+    - 19.4:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Alina Aslam
+        batsman: Nayab Razwan
+    - 19.5:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Alina Aslam
+        batsman: Nayab Razwan
+    - 19.6:
+        non_striker: Alina Aslam
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+        wicket:
+          player_out: Nayab Razwan
+          kind: bowled
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.3:
+        non_striker: M Kearvell
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 0.4:
+        non_striker: M Kearvell
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 0.5:
+        non_striker: M Kearvell
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 0.6:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 1.1:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 1.2:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 1.3:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 1.4:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 1.5:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 1.6:
+        non_striker: RL Blake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 1.7:
+        non_striker: RL Blake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 2.1:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 2.2:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 2.3:
+        non_striker: M Kearvell
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 2.4:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 2.5:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kearvell
+    - 2.6:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 3.1:
+        non_striker: RL Blake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 3.2:
+        non_striker: RL Blake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 3.3:
+        non_striker: RL Blake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 3.4:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 3.5:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 3.6:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 3.7:
+        non_striker: M Kearvell
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 4.1:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kearvell
+    - 4.2:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kearvell
+    - 4.3:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 4.4:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 4.5:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 4.6:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 4.7:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 5.1:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 5.2:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 5.3:
+        non_striker: M Kearvell
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 5.4:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 5.5:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 5.6:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: M Kearvell
+    - 5.7:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kearvell
+    - 5.8:
+        non_striker: RL Blake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 6.1:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 6.2:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 6.3:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 6.4:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 6.5:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 6.6:
+        non_striker: M Kearvell
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 7.1:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 7.2:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 7.3:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 7.4:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 7.5:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 7.6:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 8.1:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 8.2:
+        non_striker: M Kearvell
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 8.3:
+        non_striker: M Kearvell
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 8.4:
+        non_striker: M Kearvell
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 8.5:
+        non_striker: M Kearvell
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 8.6:
+        non_striker: M Kearvell
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 9.1:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 9.2:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Kearvell
+    - 9.3:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 9.4:
+        non_striker: M Kearvell
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 9.5:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 9.6:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 9.7:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+        wicket:
+          player_out: M Kearvell
+          kind: retired hurt
+    - 10.1:
+        non_striker: N Kuruppu
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 10.2:
+        non_striker: N Kuruppu
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 10.3:
+        non_striker: RL Blake
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 10.4:
+        non_striker: RL Blake
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 10.5:
+        non_striker: RL Blake
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 10.6:
+        non_striker: N Kuruppu
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RL Blake
+    - 11.1:
+        non_striker: N Kuruppu
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 11.2:
+        non_striker: N Kuruppu
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 11.3:
+        non_striker: N Kuruppu
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 11.4:
+        non_striker: RL Blake
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 11.5:
+        non_striker: N Kuruppu
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 11.6:
+        non_striker: RL Blake
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 11.7:
+        non_striker: RL Blake
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kuruppu
+    - 11.8:
+        non_striker: RL Blake
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 12.1:
+        non_striker: RL Blake
+        bowler: Mirab Sajjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kuruppu
+    - 12.2:
+        non_striker: RL Blake
+        bowler: Mirab Sajjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kuruppu
+    - 12.3:
+        non_striker: RL Blake
+        bowler: Mirab Sajjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 12.4:
+        non_striker: RL Blake
+        bowler: Mirab Sajjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Kuruppu
+    - 12.5:
+        non_striker: N Kuruppu
+        bowler: Mirab Sajjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 12.6:
+        non_striker: N Kuruppu
+        bowler: Mirab Sajjad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 12.7:
+        non_striker: N Kuruppu
+        bowler: Mirab Sajjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 12.8:
+        non_striker: N Kuruppu
+        bowler: Mirab Sajjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 13.1:
+        non_striker: N Kuruppu
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 13.2:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 13.3:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 13.4:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 13.5:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 13.6:
+        non_striker: N Kuruppu
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 14.1:
+        non_striker: N Kuruppu
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 14.2:
+        non_striker: N Kuruppu
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 14.3:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kuruppu
+    - 14.4:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 14.5:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kuruppu
+    - 14.6:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kuruppu
+    - 14.7:
+        non_striker: RL Blake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 15.1:
+        non_striker: N Kuruppu
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 15.2:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+        wicket:
+          player_out: N Kuruppu
+          fielders:
+          - Lopamudra
+          kind: caught
+    - 15.3:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Muntean
+    - 15.4:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Muntean
+        wicket:
+          player_out: I Muntean
+          kind: bowled
+    - 15.5:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Chirila
+    - 15.6:
+        non_striker: RL Blake
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Chirila
+    - 16.1:
+        non_striker: J Chirila
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 16.2:
+        non_striker: J Chirila
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 16.3:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 16.4:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 16.5:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 16.6:
+        non_striker: RL Blake
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 17.1:
+        non_striker: J Chirila
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 17.2:
+        non_striker: J Chirila
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake

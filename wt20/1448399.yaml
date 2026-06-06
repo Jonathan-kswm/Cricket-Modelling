@@ -1,0 +1,2157 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - '2025-07-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2387
+  outcome:
+    winner: England
+    by:
+      runs: 5
+  overs: 20
+  player_of_match:
+  - SIR Dunkley
+  players:
+    England:
+    - SIR Dunkley
+    - DN Wyatt
+    - A Capsey
+    - PJ Scholfield
+    - AE Jones
+    - TT Beaumont
+    - S Ecclestone
+    - IECM Wong
+    - CE Dean
+    - L Filer
+    - LK Bell
+    India:
+    - S Mandhana
+    - Shafali Verma
+    - JI Rodrigues
+    - H Kaur
+    - RM Ghosh
+    - AB Kaur
+    - DB Sharma
+    - RP Yadav
+    - A Reddy
+    - S Rana
+    - N Shree Charani
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A Reddy: eadc8924
+      AB Kaur: 9565fda6
+      AE Jones: b05e45e4
+      AY Harris: 90d95b82
+      CE Dean: c6625a26
+      DB Sharma: 201fef33
+      DN Wyatt: a139c379
+      H Kaur: 53cd8da6
+      H Pack: fed53c91
+      IECM Wong: e5b17517
+      JI Rodrigues: cb08b611
+      JM Williams: b61d9d70
+      James Middlebrook: ddcd1520
+      L Filer: 31adb911
+      LK Bell: 38b4583c
+      N Shree Charani: 583ce32c
+      PJ Scholfield: 588360ee
+      RM Ghosh: 721e0199
+      RP Yadav: 6c3aef71
+      S Ecclestone: cdb82f1c
+      S Mandhana: 5d2eda89
+      S Rana: c4c374d9
+      S Redfern: 5b038989
+      SIR Dunkley: 3a9e9cb2
+      Shafali Verma: d8f59089
+      TT Beaumont: b2664905
+  teams:
+  - England
+  - India
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - JM Williams
+  - S Redfern
+  venue: Kennington Oval, London
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.6:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.7:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 1.8:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 2.1:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 2.2:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 2.4:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 2.5:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 3.2:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 3.4:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.5:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.2:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 4.3:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.4:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SIR Dunkley
+    - 4.5:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 4.6:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.1:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 5.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 5.3:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.4:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.5:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.6:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.1:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.2:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.3:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 6.4:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 6.5:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 6.6:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 7.1:
+        non_striker: SIR Dunkley
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 7.2:
+        non_striker: DN Wyatt
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 7.3:
+        non_striker: DN Wyatt
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 7.4:
+        non_striker: SIR Dunkley
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 7.5:
+        non_striker: SIR Dunkley
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 7.6:
+        non_striker: SIR Dunkley
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 8.1:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 8.2:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 8.3:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 8.4:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 8.5:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 8.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 9.1:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 9.2:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 9.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 9.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 9.5:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 9.6:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 10.1:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 10.2:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 10.3:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 10.4:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 10.5:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 10.6:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 11.1:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 11.2:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 11.3:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 11.4:
+        non_striker: DN Wyatt
+        bowler: N Shree Charani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SIR Dunkley
+    - 11.5:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 11.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 12.1:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 12.2:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 12.3:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 12.4:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 12.5:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 12.6:
+        non_striker: SIR Dunkley
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 13.1:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 13.2:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 13.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 13.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 13.5:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 13.6:
+        non_striker: DN Wyatt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 14.1:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 14.2:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 14.3:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 14.4:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 14.5:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 14.6:
+        non_striker: DN Wyatt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 15.1:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 15.2:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: caught and bowled
+    - 15.3:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.4:
+        non_striker: A Capsey
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 15.5:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.6:
+        non_striker: A Capsey
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 16.1:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - N Shree Charani
+          kind: caught
+    - 16.2:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Scholfield
+    - 16.3:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Scholfield
+    - 16.4:
+        non_striker: DN Wyatt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Scholfield
+    - 16.5:
+        non_striker: PJ Scholfield
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - H Kaur
+          kind: caught
+    - 16.6:
+        non_striker: PJ Scholfield
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          kind: lbw
+    - 17.1:
+        non_striker: TT Beaumont
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Scholfield
+    - 17.2:
+        non_striker: TT Beaumont
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Scholfield
+    - 17.3:
+        non_striker: PJ Scholfield
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 17.4:
+        non_striker: PJ Scholfield
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 17.5:
+        non_striker: PJ Scholfield
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          kind: bowled
+    - 17.6:
+        non_striker: PJ Scholfield
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 18.1:
+        non_striker: PJ Scholfield
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 18.2:
+        non_striker: PJ Scholfield
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ecclestone
+    - 18.3:
+        non_striker: PJ Scholfield
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 18.4:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Scholfield
+        wicket:
+          player_out: PJ Scholfield
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 18.5:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 18.6:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Dean
+    - 19.1:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ecclestone
+    - 19.2:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ecclestone
+    - 19.3:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+        wicket:
+          player_out: S Ecclestone
+          kind: caught and bowled
+    - 19.4:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Filer
+        wicket:
+          player_out: L Filer
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 19.5:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Bell
+    - 19.6:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Bell
+    - 19.7:
+        non_striker: CE Dean
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LK Bell
+    - 19.8:
+        non_striker: LK Bell
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Dean
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.7:
+        non_striker: Shafali Verma
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.1:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: Shafali Verma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.2:
+        non_striker: Shafali Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.3:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.4:
+        non_striker: Shafali Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 6.6:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 7.1:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.2:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 7.4:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 7.5:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 7.6:
+        non_striker: Shafali Verma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.1:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.2:
+        non_striker: Shafali Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.4:
+        non_striker: Shafali Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 8.5:
+        non_striker: Shafali Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          kind: bowled
+    - 9.1:
+        non_striker: JI Rodrigues
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 9.3:
+        non_striker: JI Rodrigues
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 9.4:
+        non_striker: JI Rodrigues
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.5:
+        non_striker: JI Rodrigues
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.6:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 9.7:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 10.1:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.3:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.5:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: S Mandhana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.1:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 11.3:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.4:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 11.5:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 12.1:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 12.3:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 12.6:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.1:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - AE Jones
+          kind: caught
+    - 13.2:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.3:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.4:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.5:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 13.6:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.7:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.1:
+        non_striker: S Mandhana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.2:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.3:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.4:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 14.5:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.6:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 15.1:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 15.2:
+        non_striker: S Mandhana
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.3:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - S Ecclestone
+          kind: caught
+    - 15.4:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 15.5:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.6:
+        non_striker: RM Ghosh
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 16.1:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 16.2:
+        non_striker: RM Ghosh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 16.3:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 16.4:
+        non_striker: RM Ghosh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 16.5:
+        non_striker: RM Ghosh
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Kaur
+    - 16.6:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 17.1:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.2:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 17.3:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 17.4:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 17.5:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.6:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 18.1:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 18.2:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 18.3:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - CE Dean
+          kind: caught
+    - 18.4:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Kaur
+    - 18.5:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 18.6:
+        non_striker: H Kaur
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Kaur
+    - 19.1:
+        non_striker: AB Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 19.2:
+        non_striker: AB Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 19.3:
+        non_striker: H Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 19.4:
+        non_striker: AB Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 19.5:
+        non_striker: AB Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 19.6:
+        non_striker: AB Kaur
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - S Ecclestone
+          kind: caught

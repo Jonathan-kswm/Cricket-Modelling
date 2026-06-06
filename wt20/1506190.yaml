@@ -1,0 +1,2535 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2540
+  outcome:
+    winner: Norway
+    by:
+      runs: 98
+  overs: 20
+  player_of_match:
+  - R Immadi
+  players:
+    Norway:
+    - AS Gorad
+    - A Rautela
+    - Ayesha Hasan
+    - Nayab Razwan
+    - R Immadi
+    - Bijeyata Kumari
+    - Mirab Razwan
+    - VB Viyala
+    - Alina Aslam
+    - Lopamudra
+    - Prachi Kumari
+    Bulgaria:
+    - T Dissanayake
+    - S Sarandeva
+    - D Ruynekova
+    - V Nikolova
+    - S Galabova
+    - M Abadjieva
+    - K Srandeva
+    - V Kostova
+    - N Gocheva
+    - N Toleva
+    - V Atanasova
+  registry:
+    people:
+      A Rautela: e113c6c7
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      D Ruynekova: c3890e1e
+      K Srandeva: 38602b15
+      Lopamudra: ff4509d5
+      M Abadjieva: f37f1c61
+      Mirab Razwan: 498031f9
+      N Gocheva: 1be8f244
+      N Toleva: d381938d
+      Nayab Razwan: f12e21a0
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      S Galabova: 21bcbbdd
+      S Sarandeva: dacecca3
+      T Dissanayake: 5fb4c015
+      V Atanasova: b97e474c
+      V Kostova: 6df505f4
+      V Nikolova: '078d1eb5'
+      VB Viyala: 228a747d
+  teams:
+  - Norway
+  - Bulgaria
+  toss:
+    winner: Norway
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Rautela
+        batsman: AS Gorad
+    - 0.2:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Rautela
+        batsman: AS Gorad
+    - 0.3:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Rautela
+        batsman: AS Gorad
+    - 0.4:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Rautela
+        batsman: AS Gorad
+    - 0.5:
+        non_striker: AS Gorad
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 0.6:
+        non_striker: AS Gorad
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Rautela
+    - 0.7:
+        non_striker: AS Gorad
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 1.1:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 1.4:
+        non_striker: AS Gorad
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 1.5:
+        non_striker: AS Gorad
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 1.6:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AS Gorad
+    - 2.1:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.2:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - T Dissanayake
+          kind: caught
+    - 2.3:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 2.4:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 2.5:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 2.6:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 2.7:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 2.8:
+        non_striker: A Rautela
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 3.1:
+        non_striker: Ayesha Hasan
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 3.2:
+        non_striker: Ayesha Hasan
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 3.3:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 3.4:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 3.5:
+        non_striker: A Rautela
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 3.6:
+        non_striker: Ayesha Hasan
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 4.1:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.2:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.3:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 4.4:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 4.5:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 4.6:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 4.7:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ayesha Hasan
+    - 4.8:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 5.1:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 5.2:
+        non_striker: Ayesha Hasan
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 5.3:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 5.4:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 5.5:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ayesha Hasan
+    - 5.6:
+        non_striker: Ayesha Hasan
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 5.7:
+        non_striker: Ayesha Hasan
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 6.1:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 6.2:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 6.3:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 6.4:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 6.5:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Rautela
+    - 7.1:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          fielders:
+          - S Sarandeva
+          kind: caught
+    - 7.2:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 7.3:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 7.4:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 7.5:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 7.6:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nayab Razwan
+    - 7.7:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nayab Razwan
+    - 7.8:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 7.9:
+        non_striker: A Rautela
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 8.1:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 8.2:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+        wicket:
+          player_out: Nayab Razwan
+          fielders:
+          - V Nikolova
+          kind: caught
+    - 8.3:
+        non_striker: A Rautela
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 8.4:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+        wicket:
+          player_out: A Rautela
+          fielders:
+          - V Nikolova
+          kind: caught
+    - 8.5:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 8.6:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 8.7:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 9.1:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 9.2:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 9.3:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 9.4:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 9.5:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 9.6:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 9.7:
+        non_striker: R Immadi
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 9.8:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 9.9:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 9.10:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 9.11:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 9.12:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 9.13:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 9.14:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 9.15:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 10.1:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 10.2:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 10.3:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 10.4:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 10.5:
+        non_striker: R Immadi
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 10.6:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 10.7:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 10.8:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 10.9:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 10.10:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 10.11:
+        non_striker: Bijeyata Kumari
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 11.1:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 11.2:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 11.3:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 11.4:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 11.5:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 11.6:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.7:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 11.8:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.9:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.10:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.11:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.12:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 11.13:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 12.1:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 12.2:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 12.3:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 12.4:
+        non_striker: Bijeyata Kumari
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Immadi
+    - 12.5:
+        non_striker: Bijeyata Kumari
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 12.6:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 12.7:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 12.8:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 12.9:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 12.10:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 13.1:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.2:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.3:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Immadi
+    - 13.4:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Immadi
+    - 13.5:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.6:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.7:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.8:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.9:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.10:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.11:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.12:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.13:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.14:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.15:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.16:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.17:
+        non_striker: Bijeyata Kumari
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 14.1:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 14.2:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 14.3:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bijeyata Kumari
+    - 14.4:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 14.5:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 14.6:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 14.7:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Immadi
+    - 14.8:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 15.1:
+        non_striker: Bijeyata Kumari
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 15.2:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 15.3:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 15.4:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 15.5:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 15.6:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 16.1:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 16.2:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Immadi
+    - 16.3:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 16.4:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 16.5:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 16.6:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 16.7:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 16.8:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Bijeyata Kumari
+    - 16.9:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 16.10:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 16.11:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 16.12:
+        non_striker: Bijeyata Kumari
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 16.13:
+        non_striker: R Immadi
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 17.1:
+        non_striker: Bijeyata Kumari
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 17.2:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 17.3:
+        non_striker: Bijeyata Kumari
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 17.4:
+        non_striker: Bijeyata Kumari
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 17.5:
+        non_striker: Bijeyata Kumari
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 17.6:
+        non_striker: R Immadi
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 18.1:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 18.2:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 18.3:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Bijeyata Kumari
+    - 18.4:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 18.5:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Bijeyata Kumari
+    - 18.6:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bijeyata Kumari
+    - 18.7:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bijeyata Kumari
+    - 18.8:
+        non_striker: Bijeyata Kumari
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 18.9:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 18.10:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 18.11:
+        non_striker: Bijeyata Kumari
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Immadi
+    - 18.12:
+        non_striker: Bijeyata Kumari
+        bowler: N Toleva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Immadi
+    - 18.13:
+        non_striker: R Immadi
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 19.1:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 19.2:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 19.3:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bijeyata Kumari
+    - 19.4:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Bijeyata Kumari
+    - 19.5:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 19.6:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 19.7:
+        non_striker: Bijeyata Kumari
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Immadi
+    - 19.8:
+        non_striker: R Immadi
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+- 2nd innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.4:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 0.5:
+        non_striker: S Sarandeva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 0.6:
+        non_striker: S Sarandeva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 0.7:
+        non_striker: S Sarandeva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 0.8:
+        non_striker: S Sarandeva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 1.1:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          kind: bowled
+    - 1.2:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 1.3:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 1.4:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 1.5:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 1.6:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 1.7:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 2.1:
+        non_striker: D Ruynekova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 2.2:
+        non_striker: D Ruynekova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 2.3:
+        non_striker: D Ruynekova
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Dissanayake
+    - 2.4:
+        non_striker: D Ruynekova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Dissanayake
+    - 2.5:
+        non_striker: D Ruynekova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 2.6:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          kind: bowled
+    - 2.7:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          kind: bowled
+    - 3.1:
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Galabova
+        batsman: T Dissanayake
+    - 3.2:
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Galabova
+        batsman: T Dissanayake
+    - 3.3:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          fielders:
+          - Mirab Razwan
+          kind: caught
+    - 3.4:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 3.5:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 3.6:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 3.7:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 3.8:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 4.1:
+        non_striker: M Abadjieva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 4.2:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 4.3:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 4.4:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 4.5:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+        wicket:
+          player_out: M Abadjieva
+          fielders:
+          - Bijeyata Kumari
+          kind: caught
+    - 4.6:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 4.7:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 4.8:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 4.9:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.1:
+        non_striker: K Srandeva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 5.2:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 5.3:
+        non_striker: K Srandeva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 5.4:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+        wicket:
+          player_out: K Srandeva
+          kind: bowled
+    - 5.5:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kostova
+        wicket:
+          player_out: V Kostova
+          kind: bowled
+    - 5.6:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gocheva
+    - 6.1:
+        non_striker: N Gocheva
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 6.2:
+        non_striker: N Gocheva
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 6.3:
+        non_striker: N Gocheva
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 6.4:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gocheva
+        wicket:
+          player_out: N Gocheva
+          kind: bowled
+    - 6.5:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 6.6:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 6.7:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 7.1:
+        non_striker: N Toleva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 7.2:
+        non_striker: N Toleva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 7.3:
+        non_striker: N Toleva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 7.4:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 7.5:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 7.6:
+        non_striker: T Dissanayake
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Toleva
+    - 7.7:
+        non_striker: N Toleva
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 8.1:
+        non_striker: N Toleva
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 8.2:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.3:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.4:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 8.5:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.6:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 8.7:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 8.8:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 8.9:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.10:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.11:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.12:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 8.13:
+        non_striker: T Dissanayake
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 9.1:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 9.2:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 9.3:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 9.4:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 9.5:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 9.6:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Toleva
+    - 10.1:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Toleva
+    - 10.2:
+        non_striker: N Toleva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 10.3:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 10.4:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 10.5:
+        non_striker: T Dissanayake
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Toleva
+    - 10.6:
+        non_striker: N Toleva
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 11.1:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Dissanayake
+    - 11.2:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 11.3:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 11.4:
+        non_striker: N Toleva
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 11.5:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 11.6:
+        non_striker: T Dissanayake
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 12.1:
+        non_striker: N Toleva
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+        wicket:
+          player_out: T Dissanayake
+          fielders:
+          - Alina Aslam
+          kind: caught
+    - 12.2:
+        non_striker: N Toleva
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Atanasova
+    - 12.3:
+        non_striker: N Toleva
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Atanasova
+    - 12.4:
+        non_striker: N Toleva
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Atanasova
+        wicket:
+          player_out: V Atanasova
+          kind: bowled

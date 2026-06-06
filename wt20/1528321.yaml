@@ -1,0 +1,1923 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2705
+  outcome:
+    winner: Brazil
+    by:
+      runs: 136
+  overs: 20
+  player_of_match:
+  - NC Monteiro
+  players:
+    Brazil:
+    - LV Boas
+    - EC Muller
+    - RMAM Avery
+    - L Cardoso
+    - AC Sabino
+    - CS Nascimento
+    - L Moises
+    - M Artur
+    - M Ribeiro
+    - NC Monteiro
+    - MB dos Santos
+    Malawi:
+    - S Chinawa
+    - E Chiralile
+    - S Kananji
+    - P Maziya
+    - M Ndipo
+    - A Alfonso
+    - C Mangulama
+    - C Bwanali
+    - L Malino
+    - W Matabwa
+    - B Kasinja
+  registry:
+    people:
+      A Alfonso: 5088c217
+      AC Sabino: dd45b04b
+      B Kasinja: eaba37fc
+      C Bwanali: b26a30f9
+      C Mangulama: 857c13f8
+      CS Nascimento: df997334
+      E Chiralile: 4e193c55
+      EC Muller: e1461e39
+      Imran Zakir: 0071171d
+      L Cardoso: 5777d460
+      L Malino: 7a81836e
+      L Moises: b27f9716
+      L Msemburi: ef6037f8
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Ndipo: e6a893a1
+      M Ribeiro: 38424a4d
+      MB dos Santos: 8ba8dd7a
+      NC Monteiro: 752af5a4
+      P Maziya: 4f85f02c
+      RMAM Avery: 4cf645c9
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      Vivek Kohli: 676c3a3c
+      W Matabwa: cfbd10ee
+  teams:
+  - Brazil
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - Imran Zakir
+  - L Msemburi
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.2:
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.3:
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.4:
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.5:
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.6:
+        bowler: S Chinawa
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.7:
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.8:
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EC Muller
+        batsman: LV Boas
+    - 0.9:
+        non_striker: LV Boas
+        bowler: S Chinawa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: EC Muller
+    - 0.10:
+        non_striker: EC Muller
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 0.11:
+        non_striker: LV Boas
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EC Muller
+    - 0.12:
+        non_striker: LV Boas
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 1.1:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 1.2:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 1.3:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LV Boas
+    - 1.4:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.5:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.6:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.7:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.8:
+        non_striker: EC Muller
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LV Boas
+    - 2.1:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.2:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 2.3:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 2.4:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.5:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.6:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 3.1:
+        non_striker: LV Boas
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EC Muller
+    - 3.2:
+        non_striker: LV Boas
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 3.3:
+        non_striker: LV Boas
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Muller
+    - 3.4:
+        non_striker: LV Boas
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 3.5:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 3.6:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 3.7:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 3.8:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 4.1:
+        non_striker: LV Boas
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 4.2:
+        non_striker: LV Boas
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Muller
+    - 4.3:
+        non_striker: LV Boas
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 4.4:
+        non_striker: LV Boas
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 4.5:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          kind: bowled
+    - 4.6:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.1:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 5.2:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 5.3:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.4:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.5:
+        non_striker: EC Muller
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 5.6:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 5.7:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Muller
+    - 6.1:
+        non_striker: EC Muller
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 6.2:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 6.3:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 6.4:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Muller
+    - 6.5:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+        wicket:
+          player_out: EC Muller
+          kind: caught and bowled
+    - 6.6:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Cardoso
+    - 7.1:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 7.2:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 7.3:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 7.4:
+        non_striker: L Cardoso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 7.5:
+        non_striker: L Cardoso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 7.6:
+        non_striker: L Cardoso
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 7.7:
+        non_striker: L Cardoso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 8.1:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.2:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RMAM Avery
+    - 8.3:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 8.4:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 8.5:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.6:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.7:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 9.1:
+        non_striker: L Cardoso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.2:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 9.3:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 9.4:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 9.5:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 9.6:
+        non_striker: RMAM Avery
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 10.1:
+        non_striker: L Cardoso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.2:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.4:
+        non_striker: RMAM Avery
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 10.5:
+        non_striker: L Cardoso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 10.6:
+        non_striker: L Cardoso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.1:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 11.2:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 11.4:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 11.5:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Cardoso
+    - 11.6:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 12.1:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 12.2:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 12.3:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Cardoso
+    - 12.4:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 12.5:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 12.6:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Cardoso
+    - 13.1:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 13.2:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 13.3:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 13.4:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.5:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 13.6:
+        non_striker: L Cardoso
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 14.1:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.2:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.3:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 14.4:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 14.5:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 14.6:
+        non_striker: L Cardoso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.1:
+        non_striker: L Cardoso
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 15.2:
+        non_striker: L Cardoso
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 15.3:
+        non_striker: L Cardoso
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 15.4:
+        non_striker: L Cardoso
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 15.5:
+        non_striker: L Cardoso
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.6:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          kind: bowled
+    - 15.7:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 16.1:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 16.2:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 16.3:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 16.4:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 16.5:
+        non_striker: RMAM Avery
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.6:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 16.7:
+        non_striker: AC Sabino
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 17.1:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 17.2:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 17.3:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 17.4:
+        non_striker: AC Sabino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.5:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 17.6:
+        non_striker: RMAM Avery
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.1:
+        non_striker: AC Sabino
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 18.2:
+        non_striker: AC Sabino
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 18.3:
+        non_striker: AC Sabino
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 18.4:
+        non_striker: AC Sabino
+        bowler: W Matabwa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RMAM Avery
+    - 18.5:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 18.6:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 18.7:
+        non_striker: RMAM Avery
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 19.1:
+        non_striker: AC Sabino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 19.2:
+        non_striker: RMAM Avery
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 19.3:
+        non_striker: RMAM Avery
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 19.4:
+        non_striker: RMAM Avery
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 19.5:
+        non_striker: RMAM Avery
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 19.6:
+        non_striker: RMAM Avery
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+        wicket:
+          player_out: AC Sabino
+          fielders:
+          - E Chiralile
+          kind: stumped
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Chiralile
+        batsman: S Chinawa
+    - 0.2:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Chiralile
+        batsman: S Chinawa
+        wicket:
+          player_out: S Chinawa
+          fielders:
+          - L Moises
+          - M Ribeiro
+          kind: run out
+    - 0.3:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kananji
+        batsman: E Chiralile
+    - 0.4:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kananji
+        batsman: E Chiralile
+    - 0.5:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kananji
+        batsman: E Chiralile
+    - 0.6:
+        non_striker: S Kananji
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 1.1:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 1.2:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 1.3:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 1.4:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 1.5:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 1.6:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 1.7:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 1.8:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 1.9:
+        non_striker: E Chiralile
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.1:
+        non_striker: S Kananji
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 2.2:
+        non_striker: S Kananji
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 2.3:
+        non_striker: S Kananji
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 2.4:
+        non_striker: E Chiralile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.5:
+        non_striker: E Chiralile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 2.6:
+        non_striker: E Chiralile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 3.1:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 3.2:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 3.3:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+        wicket:
+          player_out: E Chiralile
+          kind: bowled
+    - 3.4:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 3.5:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 3.6:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 3.7:
+        non_striker: S Kananji
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 4.1:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 4.2:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 4.3:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 4.4:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 4.5:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 4.6:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 4.7:
+        non_striker: S Kananji
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 5.1:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+        wicket:
+          player_out: S Kananji
+          fielders:
+          - CS Nascimento
+          kind: caught
+    - 5.2:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ndipo
+        wicket:
+          player_out: M Ndipo
+          kind: bowled
+    - 5.3:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Alfonso
+    - 5.4:
+        non_striker: A Alfonso
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 5.5:
+        non_striker: A Alfonso
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 5.6:
+        non_striker: A Alfonso
+        bowler: NC Monteiro
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Maziya
+    - 5.7:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Alfonso
+    - 6.1:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+    - 6.2:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+    - 6.3:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+    - 6.4:
+        non_striker: P Maziya
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Alfonso
+    - 6.5:
+        non_striker: A Alfonso
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 6.6:
+        non_striker: A Alfonso
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 7.1:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+        wicket:
+          player_out: A Alfonso
+          fielders:
+          - RMAM Avery
+          kind: caught
+    - 7.2:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mangulama
+    - 7.3:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mangulama
+    - 7.4:
+        non_striker: P Maziya
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mangulama
+    - 7.5:
+        non_striker: C Mangulama
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 7.6:
+        non_striker: C Mangulama
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 8.1:
+        non_striker: P Maziya
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mangulama
+    - 8.2:
+        non_striker: C Mangulama
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+        wicket:
+          player_out: P Maziya
+          kind: bowled
+    - 8.3:
+        non_striker: C Mangulama
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 8.4:
+        non_striker: C Mangulama
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 8.5:
+        non_striker: C Mangulama
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 8.6:
+        non_striker: C Mangulama
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 9.1:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mangulama
+        wicket:
+          player_out: C Mangulama
+          kind: bowled
+    - 9.2:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 9.3:
+        non_striker: L Malino
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 9.4:
+        non_striker: L Malino
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 9.5:
+        non_striker: L Malino
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 9.6:
+        non_striker: L Malino
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 10.1:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 10.2:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+        wicket:
+          player_out: L Malino
+          fielders:
+          - MB dos Santos
+          kind: stumped
+    - 10.3:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Matabwa
+    - 10.4:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Matabwa
+    - 10.5:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Matabwa
+    - 10.6:
+        non_striker: C Bwanali
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Matabwa
+    - 11.1:
+        non_striker: W Matabwa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 11.2:
+        non_striker: W Matabwa
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bwanali
+        wicket:
+          player_out: W Matabwa
+          fielders:
+          - NC Monteiro
+          kind: run out
+    - 11.3:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kasinja
+    - 11.4:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kasinja
+    - 11.5:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kasinja
+    - 11.6:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kasinja
+    - 11.7:
+        non_striker: C Bwanali
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kasinja
+    - 12.1:
+        non_striker: B Kasinja
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bwanali
+        wicket:
+          player_out: C Bwanali
+          fielders:
+          - NC Monteiro
+          - MB dos Santos
+          kind: run out

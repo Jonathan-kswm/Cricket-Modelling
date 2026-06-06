@@ -1,0 +1,2133 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ishoj
+  dates:
+  - '2025-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2453
+  outcome:
+    winner: Norway
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - Mirab Razwan
+  players:
+    Finland:
+    - D Unhale
+    - T Mulepati
+    - S Sheridan
+    - R Khullar
+    - Malyun Hassan
+    - H Nguyen
+    - M Stolt
+    - M Saastamoinen
+    - M Kojo
+    - A Khullar
+    - P Bhandari
+    Norway:
+    - AS Gorad
+    - Mirab Sajjad
+    - Bijeyata Kumari
+    - Ayesha Hasan
+    - R Immadi
+    - Alina Aslam
+    - Mirab Razwan
+    - A Vishwakarma
+    - VB Viyala
+    - Prachi Kumari
+    - Lopamudra
+  registry:
+    people:
+      A Khullar: 9efc1ea4
+      A Vishwakarma: fe226394
+      AK Saini: 894ebe7e
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      D Unhale: efea55e5
+      H Nguyen: 8047ca8c
+      Lopamudra: ff4509d5
+      M Kojo: 7a652afa
+      M Saastamoinen: 5b1a4ff7
+      M Stolt: e7cae029
+      Malyun Hassan: 22cbe7fb
+      Mirab Razwan: 498031f9
+      Mirab Sajjad: 41db4d1f
+      P Bhandari: ddd411e0
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      R Khullar: 76a5e857
+      S Sheridan: 2d093c80
+      T Mulepati: cb83a7df
+      VB Viyala: 228a747d
+      Zeb Pirzada: 716e41af
+  teams:
+  - Finland
+  - Norway
+  toss:
+    winner: Norway
+    decision: field
+  umpires:
+  - AK Saini
+  - Zeb Pirzada
+  venue: Ishoj Cricket Club, Vejledalen
+innings:
+- 1st innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 0.6:
+        non_striker: D Unhale
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 0.7:
+        non_striker: D Unhale
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 1.1:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.2:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 1.3:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.4:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.5:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.6:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.7:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 2.1:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.2:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 2.3:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.4:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.5:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.6:
+        non_striker: T Mulepati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 3.1:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.2:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 3.3:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 3.4:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 3.5:
+        non_striker: T Mulepati
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 3.6:
+        non_striker: D Unhale
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 3.7:
+        non_striker: D Unhale
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+        wicket:
+          player_out: T Mulepati
+          kind: lbw
+    - 4.1:
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.2:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.3:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.4:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.5:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.6:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sheridan
+        batsman: D Unhale
+    - 4.7:
+        non_striker: S Sheridan
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 5.1:
+        non_striker: D Unhale
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 5.2:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 5.3:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+        wicket:
+          player_out: D Unhale
+          kind: caught and bowled
+    - 5.4:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 5.5:
+        non_striker: R Khullar
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 5.6:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 6.1:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 6.2:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sheridan
+    - 6.3:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Sheridan
+    - 6.4:
+        non_striker: S Sheridan
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 6.5:
+        non_striker: S Sheridan
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 6.6:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sheridan
+    - 7.1:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 7.2:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 7.3:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 7.4:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 7.5:
+        non_striker: R Khullar
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 7.6:
+        non_striker: R Khullar
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 8.1:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 8.2:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 8.3:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 8.4:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 8.5:
+        non_striker: R Khullar
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 8.6:
+        non_striker: S Sheridan
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+        wicket:
+          player_out: R Khullar
+          fielders:
+          - AS Gorad
+          kind: caught
+    - 9.1:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.2:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.3:
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.4:
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.5:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.6:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Malyun Hassan
+        batsman: S Sheridan
+    - 9.7:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 9.8:
+        non_striker: Malyun Hassan
+        bowler: VB Viyala
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Sheridan
+    - 9.9:
+        non_striker: Malyun Hassan
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sheridan
+    - 9.10:
+        non_striker: Malyun Hassan
+        bowler: VB Viyala
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sheridan
+    - 9.11:
+        non_striker: S Sheridan
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 10.1:
+        non_striker: Malyun Hassan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sheridan
+    - 10.2:
+        non_striker: Malyun Hassan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 10.3:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+        wicket:
+          player_out: Malyun Hassan
+          kind: bowled
+    - 10.4:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 10.5:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 10.6:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+        wicket:
+          player_out: H Nguyen
+          fielders:
+          - VB Viyala
+          kind: caught
+    - 11.1:
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Stolt
+        batsman: S Sheridan
+    - 11.2:
+        non_striker: S Sheridan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 11.3:
+        non_striker: S Sheridan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 11.4:
+        non_striker: S Sheridan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 11.5:
+        non_striker: S Sheridan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 11.6:
+        non_striker: S Sheridan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stolt
+    - 12.1:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Stolt
+    - 12.2:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stolt
+    - 12.3:
+        non_striker: M Stolt
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sheridan
+    - 12.4:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 12.5:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 12.6:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+        wicket:
+          player_out: M Stolt
+          kind: lbw
+    - 12.7:
+        non_striker: S Sheridan
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 13.1:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+    - 13.2:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sheridan
+    - 13.3:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+        wicket:
+          player_out: S Sheridan
+          kind: bowled
+    - 13.4:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 13.5:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 13.6:
+        non_striker: M Saastamoinen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 14.1:
+        non_striker: M Kojo
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Saastamoinen
+    - 14.2:
+        non_striker: M Saastamoinen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+        wicket:
+          player_out: M Kojo
+          kind: lbw
+    - 14.3:
+        non_striker: M Saastamoinen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+        wicket:
+          player_out: A Khullar
+          kind: bowled
+    - 14.4:
+        non_striker: M Saastamoinen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bhandari
+    - 14.5:
+        non_striker: M Saastamoinen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bhandari
+        wicket:
+          player_out: P Bhandari
+          kind: bowled
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.2:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.3:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.4:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.5:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 0.6:
+        non_striker: Mirab Sajjad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 0.7:
+        non_striker: Mirab Sajjad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.1:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mirab Sajjad
+    - 1.2:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 1.3:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.4:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.5:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirab Sajjad
+    - 1.6:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.7:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.8:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+        wicket:
+          player_out: Mirab Sajjad
+          fielders:
+          - S Sheridan
+          kind: caught
+    - 2.1:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Bijeyata Kumari
+        batsman: AS Gorad
+    - 2.2:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bijeyata Kumari
+        batsman: AS Gorad
+    - 2.3:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.4:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.5:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bijeyata Kumari
+    - 2.6:
+        non_striker: Bijeyata Kumari
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.1:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Bijeyata Kumari
+    - 3.2:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 3.3:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.4:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 3.5:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.6:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bijeyata Kumari
+    - 3.7:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.8:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.1:
+        non_striker: Bijeyata Kumari
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 4.2:
+        non_striker: Bijeyata Kumari
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 4.3:
+        non_striker: Bijeyata Kumari
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 4.4:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.5:
+        non_striker: AS Gorad
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 4.6:
+        non_striker: Bijeyata Kumari
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 5.1:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 5.2:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 5.3:
+        non_striker: Bijeyata Kumari
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AS Gorad
+    - 5.4:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 5.5:
+        non_striker: AS Gorad
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 5.6:
+        non_striker: Bijeyata Kumari
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 5.7:
+        non_striker: Bijeyata Kumari
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Gorad
+    - 5.8:
+        non_striker: Bijeyata Kumari
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 5.9:
+        non_striker: Bijeyata Kumari
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.1:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.2:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.3:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.4:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 6.5:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bijeyata Kumari
+    - 6.6:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          kind: bowled
+    - 6.7:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 6.8:
+        non_striker: AS Gorad
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.1:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - H Nguyen
+          kind: caught
+    - 7.2:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 7.3:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 7.4:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 7.5:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 7.6:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Immadi
+    - 7.7:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+        wicket:
+          player_out: R Immadi
+          fielders:
+          - H Nguyen
+          kind: caught
+    - 7.8:
+        non_striker: Ayesha Hasan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 8.1:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.2:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.3:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.4:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 8.5:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: caught and bowled
+    - 8.6:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 8.7:
+        non_striker: Alina Aslam
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 9.1:
+        non_striker: Mirab Razwan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 9.2:
+        non_striker: Mirab Razwan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Alina Aslam
+    - 9.3:
+        non_striker: Mirab Razwan
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 9.4:
+        non_striker: Mirab Razwan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 9.5:
+        non_striker: Alina Aslam
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 9.6:
+        non_striker: Alina Aslam
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 9.7:
+        non_striker: Alina Aslam
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 9.8:
+        non_striker: Alina Aslam
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 9.9:
+        non_striker: Alina Aslam
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 9.10:
+        non_striker: Mirab Razwan
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 10.1:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 10.2:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 10.3:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 10.4:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 10.5:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 10.6:
+        non_striker: Alina Aslam
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 11.1:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 11.2:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 11.3:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 11.4:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 11.5:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+        wicket:
+          player_out: Alina Aslam
+          fielders:
+          - S Sheridan
+          kind: caught
+    - 11.6:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vishwakarma
+    - 12.1:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mirab Razwan
+    - 12.2:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.3:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.4:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.5:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 12.6:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.7:
+        non_striker: A Vishwakarma
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 12.8:
+        non_striker: Mirab Razwan
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vishwakarma
+    - 13.1:
+        non_striker: A Vishwakarma
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 13.2:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vishwakarma
+    - 13.3:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vishwakarma
+        wicket:
+          player_out: A Vishwakarma
+          kind: bowled
+    - 13.4:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 13.5:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+        wicket:
+          player_out: VB Viyala
+          fielders:
+          - T Mulepati
+          - Malyun Hassan
+          kind: run out
+    - 13.6:
+        non_striker: Prachi Kumari
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.1:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prachi Kumari
+    - 14.2:
+        non_striker: Prachi Kumari
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirab Razwan
+    - 14.3:
+        non_striker: Prachi Kumari
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.4:
+        non_striker: Prachi Kumari
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.5:
+        non_striker: Prachi Kumari
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.6:
+        non_striker: Prachi Kumari
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Prachi Kumari
+          fielders:
+          - S Sheridan
+          - M Saastamoinen
+          kind: run out
+    - 15.1:
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Lopamudra
+        batsman: Mirab Razwan
+    - 15.2:
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Lopamudra
+        batsman: Mirab Razwan
+    - 15.3:
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Lopamudra
+        batsman: Mirab Razwan
+    - 15.4:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 15.5:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.6:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.7:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.8:
+        non_striker: Mirab Razwan
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 16.1:
+        non_striker: Lopamudra
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 16.2:
+        non_striker: Lopamudra
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 16.3:
+        non_striker: Lopamudra
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 16.4:
+        non_striker: Lopamudra
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 16.5:
+        non_striker: Lopamudra
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 16.6:
+        non_striker: Mirab Razwan
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 16.7:
+        non_striker: Mirab Razwan
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 17.1:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 17.2:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 17.3:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 17.4:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 17.5:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 17.6:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 17.7:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 17.8:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 17.9:
+        non_striker: Lopamudra
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 18.1:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.2:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.3:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.4:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.5:
+        non_striker: Mirab Razwan
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra

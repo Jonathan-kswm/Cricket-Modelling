@@ -1,0 +1,2383 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2025-07-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2391
+  outcome:
+    winner: Serbia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - N Nojic
+  players:
+    Bulgaria:
+    - T Dissanayake
+    - S Sarandeva
+    - V Nikolova
+    - D Ruynekova
+    - S Galabova
+    - B Shotorova
+    - K Srandeva
+    - G Ilarionova
+    - A Stoilova
+    - M Abadjieva
+    - N Toleva
+    Serbia:
+    - T Trajkovic
+    - M Perisic
+    - A Mesarovic
+    - M Nikolic
+    - E Prokic
+    - M Trajkovi
+    - N Nojic
+    - S Matijevic
+    - M Jevdjenovic
+    - B Ercegovcevic
+    - D Demic
+  registry:
+    people:
+      A Mesarovic: 15404b57
+      A Stoilova: c602c725
+      B Ercegovcevic: be5b6d0d
+      B Shotorova: cbef9f64
+      D Demic: 618327de
+      D Ruynekova: c3890e1e
+      E Prokic: 6153ce0d
+      G Ilarionova: b56786e5
+      K Srandeva: 38602b15
+      M Abadjieva: f37f1c61
+      M Jevdjenovic: 3be2b0a3
+      M Nikolic: 852f74c8
+      M Perisic: 81599c08
+      M Trajkovi: 2f208ab6
+      N Nojic: ef537c2e
+      N Toleva: d381938d
+      S Galabova: 21bcbbdd
+      S Matijevic: eae6959b
+      S Sarandeva: dacecca3
+      T Dissanayake: 5fb4c015
+      T Trajkovic: 1e630426
+      V Nikolova: '078d1eb5'
+  teams:
+  - Bulgaria
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  venue: Vassil Levski National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.2:
+        non_striker: T Dissanayake
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 0.3:
+        non_striker: T Dissanayake
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 0.4:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Dissanayake
+    - 0.5:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Dissanayake
+    - 0.6:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 0.7:
+        non_striker: T Dissanayake
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.1:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Dissanayake
+    - 1.2:
+        non_striker: T Dissanayake
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 1.3:
+        non_striker: T Dissanayake
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.4:
+        non_striker: T Dissanayake
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.5:
+        non_striker: T Dissanayake
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.6:
+        non_striker: T Dissanayake
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 1.7:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Dissanayake
+    - 1.8:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+    - 2.1:
+        non_striker: T Dissanayake
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 2.2:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+        wicket:
+          player_out: T Dissanayake
+          fielders:
+          - E Prokic
+          kind: caught
+    - 2.3:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 2.4:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 2.5:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 2.6:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 2.7:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 2.8:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 3.1:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 3.2:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 3.3:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 3.4:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 3.5:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 3.6:
+        non_striker: S Sarandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 3.7:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sarandeva
+    - 4.1:
+        non_striker: S Sarandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 4.2:
+        non_striker: V Nikolova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.3:
+        non_striker: V Nikolova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 4.4:
+        non_striker: V Nikolova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          kind: bowled
+    - 4.5:
+        non_striker: V Nikolova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 4.6:
+        non_striker: D Ruynekova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 4.7:
+        non_striker: V Nikolova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 5.1:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 5.2:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 5.3:
+        non_striker: V Nikolova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 5.4:
+        non_striker: D Ruynekova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 5.5:
+        non_striker: D Ruynekova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          kind: bowled
+    - 5.6:
+        non_striker: D Ruynekova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 5.7:
+        non_striker: D Ruynekova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 6.1:
+        non_striker: D Ruynekova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 6.2:
+        non_striker: D Ruynekova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 6.3:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 6.4:
+        non_striker: D Ruynekova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 6.5:
+        non_striker: D Ruynekova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Galabova
+    - 6.6:
+        non_striker: D Ruynekova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 6.7:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 7.1:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 7.2:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 7.3:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          fielders:
+          - D Demic
+          kind: caught
+    - 7.4:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.5:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 7.6:
+        non_striker: B Shotorova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 7.7:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.8:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.9:
+        non_striker: S Galabova
+        bowler: M Trajkovi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 8.1:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 8.2:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 8.3:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 8.4:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 8.5:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 8.6:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 8.7:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 9.1:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 9.2:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 9.3:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 9.4:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 9.5:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 9.6:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 10.1:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Galabova
+    - 10.2:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Galabova
+    - 10.3:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 10.4:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 10.5:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 10.6:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Galabova
+    - 10.7:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 10.8:
+        non_striker: B Shotorova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 11.1:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 11.2:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 11.3:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 11.4:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 11.5:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 11.6:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 11.7:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 11.8:
+        non_striker: B Shotorova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 12.1:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 12.2:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 12.3:
+        non_striker: B Shotorova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 12.4:
+        non_striker: B Shotorova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 12.5:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+        wicket:
+          player_out: B Shotorova
+          kind: caught and bowled
+    - 12.6:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 13.1:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 13.2:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 13.3:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 13.4:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 13.5:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 13.6:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 14.1:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 14.2:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 14.3:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 14.4:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 14.5:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 14.6:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 15.1:
+        non_striker: S Galabova
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 15.2:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Galabova
+    - 15.3:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 15.4:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          kind: bowled
+    - 15.5:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 15.6:
+        non_striker: K Srandeva
+        bowler: A Mesarovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 16.1:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 16.2:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 16.3:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 16.4:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Srandeva
+    - 16.5:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 16.6:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 16.7:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 17.1:
+        non_striker: G Ilarionova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 17.2:
+        non_striker: G Ilarionova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 17.3:
+        non_striker: K Srandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 17.4:
+        non_striker: K Srandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ilarionova
+    - 17.5:
+        non_striker: G Ilarionova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 17.6:
+        non_striker: K Srandeva
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ilarionova
+    - 17.7:
+        non_striker: G Ilarionova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 17.8:
+        non_striker: G Ilarionova
+        bowler: M Jevdjenovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 18.1:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 18.2:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ilarionova
+    - 18.3:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ilarionova
+    - 18.4:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+        wicket:
+          player_out: G Ilarionova
+          kind: hit wicket
+    - 18.5:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 18.6:
+        non_striker: K Srandeva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 19.1:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 19.2:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 19.3:
+        non_striker: K Srandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 19.4:
+        non_striker: K Srandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+        wicket:
+          player_out: A Stoilova
+          kind: bowled
+    - 19.5:
+        non_striker: K Srandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Abadjieva
+    - 19.6:
+        non_striker: K Srandeva
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Abadjieva
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Perisic
+        batsman: T Trajkovic
+    - 0.2:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Perisic
+        batsman: T Trajkovic
+    - 0.3:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Perisic
+        batsman: T Trajkovic
+    - 0.4:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Perisic
+        batsman: T Trajkovic
+    - 0.5:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 0.6:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 0.7:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 1.1:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Trajkovic
+    - 1.2:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 1.3:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 1.4:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 1.5:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 1.6:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 1.7:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Trajkovic
+    - 1.8:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 2.1:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 2.2:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.3:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 2.4:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Perisic
+    - 2.5:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 2.6:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.7:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 2.8:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 2.9:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 2.10:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 3.1:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 3.2:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 3.3:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 3.4:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 3.5:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 3.6:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 3.7:
+        non_striker: M Perisic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 4.1:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 4.2:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 4.3:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 4.4:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 4.5:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 4.6:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 4.7:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 4.8:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 5.1:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Trajkovic
+    - 5.2:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 5.3:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 5.4:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 5.5:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 5.6:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Trajkovic
+    - 5.7:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 5.8:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 5.9:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 5.10:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 6.1:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.2:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.3:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.4:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 6.5:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.6:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 6.7:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 6.8:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 6.9:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 6.10:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 6.11:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 7.1:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 7.2:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Perisic
+    - 7.3:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perisic
+    - 7.4:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Trajkovic
+    - 7.5:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 7.6:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 7.7:
+        non_striker: M Perisic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 7.8:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Perisic
+    - 7.9:
+        non_striker: T Trajkovic
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+    - 8.1:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 8.2:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 8.3:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 8.4:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perisic
+        wicket:
+          player_out: M Perisic
+          kind: lbw
+    - 8.5:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 8.6:
+        non_striker: T Trajkovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+    - 9.1:
+        non_striker: A Mesarovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 9.2:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mesarovic
+        wicket:
+          player_out: A Mesarovic
+          kind: caught and bowled
+    - 9.3:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Nikolic
+    - 9.4:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 9.5:
+        non_striker: M Nikolic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 9.6:
+        non_striker: M Nikolic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 9.7:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 10.1:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 10.2:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 10.3:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 10.4:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 10.5:
+        non_striker: T Trajkovic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 10.6:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 10.7:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 10.8:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 10.9:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 11.1:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 11.2:
+        non_striker: M Nikolic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 11.3:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 11.4:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Nikolic
+    - 11.5:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Nikolic
+    - 11.6:
+        non_striker: T Trajkovic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 11.7:
+        non_striker: M Nikolic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 12.1:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 12.2:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 12.3:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Trajkovic
+    - 12.4:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 12.5:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 12.6:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 12.7:
+        non_striker: M Nikolic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 12.8:
+        non_striker: T Trajkovic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 13.1:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Nikolic
+    - 13.2:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Nikolic
+    - 13.3:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 13.4:
+        non_striker: M Nikolic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 13.5:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Nikolic
+    - 13.6:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Nikolic
+    - 13.7:
+        non_striker: T Trajkovic
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 14.1:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Trajkovic
+    - 14.2:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 14.3:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic
+    - 14.4:
+        non_striker: T Trajkovic
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Nikolic
+    - 14.5:
+        non_striker: T Trajkovic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 14.6:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Trajkovic
+    - 14.7:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 14.8:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 14.9:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Trajkovic
+    - 14.10:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 14.11:
+        non_striker: M Nikolic
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Trajkovic
+    - 15.1:
+        non_striker: T Trajkovic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nikolic
+    - 15.2:
+        non_striker: T Trajkovic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nikolic
+    - 15.3:
+        non_striker: M Nikolic
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Trajkovic
+    - 15.4:
+        non_striker: M Nikolic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Trajkovic

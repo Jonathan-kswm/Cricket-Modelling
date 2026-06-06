@@ -1,0 +1,1592 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2534
+  outcome:
+    winner: Turkey
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - H Celik
+  players:
+    Romania:
+    - N Kuruppu
+    - RL Blake
+    - M Kearvell
+    - J Chirila
+    - I Muntean
+    - I Palliya
+    - G Ionita
+    - C Cirlig
+    - A Lupascu
+    - D Tanase
+    - M Marin
+    Turkey:
+    - D Tekyildirim
+    - Suzan Turan
+    - K Canavarci
+    - M Bayram
+    - Ezgi Nur Kilic
+    - G Ayan
+    - G Keles
+    - S Yildirim
+    - R Cenik
+    - ZB Ender
+    - H Celik
+  registry:
+    people:
+      A Lupascu: 66f819df
+      C Cirlig: 9cfee623
+      D Tanase: 3e377209
+      D Tekyildirim: ae5f7b63
+      Ezgi Nur Kilic: ec8132b2
+      G Ayan: 66d258e2
+      G Ionita: c5c308b7
+      G Keles: 3e84a803
+      H Celik: 266f372c
+      I Muntean: 9b88f80e
+      I Palliya: a5824c28
+      J Chirila: a801ca06
+      K Canavarci: 556ad437
+      M Bayram: 4867ffbf
+      M Kearvell: d802854a
+      M Marin: 2feef01b
+      N Kuruppu: bacbc4ee
+      R Cenik: '050009d9'
+      RL Blake: e2b58daf
+      S Yildirim: aae9b47b
+      Suzan Turan: fec8377a
+      ZB Ender: 54b592a5
+  teams:
+  - Romania
+  - Turkey
+  toss:
+    winner: Turkey
+    decision: field
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Blake
+        batsman: N Kuruppu
+    - 0.2:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Blake
+        batsman: N Kuruppu
+    - 0.3:
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RL Blake
+        batsman: N Kuruppu
+    - 0.4:
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RL Blake
+        batsman: N Kuruppu
+    - 0.5:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RL Blake
+        batsman: N Kuruppu
+    - 0.6:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 0.7:
+        non_striker: RL Blake
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 0.8:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 1.1:
+        non_striker: RL Blake
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 1.2:
+        non_striker: RL Blake
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 1.3:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 1.4:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 1.5:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 1.6:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 1.7:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 2.1:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 2.2:
+        non_striker: RL Blake
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kuruppu
+    - 2.3:
+        non_striker: RL Blake
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kuruppu
+    - 2.4:
+        non_striker: RL Blake
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 2.5:
+        non_striker: RL Blake
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kuruppu
+    - 2.6:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 2.7:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 2.8:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 2.9:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 2.10:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 2.11:
+        non_striker: N Kuruppu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 3.1:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 3.2:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 3.3:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 3.4:
+        non_striker: N Kuruppu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 3.5:
+        non_striker: RL Blake
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+    - 3.6:
+        non_striker: RL Blake
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kuruppu
+        wicket:
+          player_out: N Kuruppu
+          kind: bowled
+    - 4.1:
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: M Kearvell
+        batsman: RL Blake
+    - 4.2:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Kearvell
+        batsman: RL Blake
+    - 4.3:
+        non_striker: M Kearvell
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+        wicket:
+          player_out: RL Blake
+          kind: bowled
+    - 4.4:
+        non_striker: M Kearvell
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 4.5:
+        non_striker: M Kearvell
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 4.6:
+        non_striker: M Kearvell
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Chirila
+    - 4.7:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Kearvell
+    - 4.8:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 5.1:
+        non_striker: J Chirila
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 5.2:
+        non_striker: J Chirila
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kearvell
+    - 5.3:
+        non_striker: J Chirila
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 5.4:
+        non_striker: M Kearvell
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 5.5:
+        non_striker: M Kearvell
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 5.6:
+        non_striker: M Kearvell
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Chirila
+    - 5.7:
+        non_striker: M Kearvell
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 6.1:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 6.2:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Kearvell
+    - 6.3:
+        non_striker: M Kearvell
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 6.4:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 6.5:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+        wicket:
+          player_out: M Kearvell
+          kind: bowled
+    - 6.6:
+        non_striker: J Chirila
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Muntean
+        wicket:
+          player_out: I Muntean
+          kind: bowled
+    - 7.1:
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.2:
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.3:
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.4:
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.5:
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.6:
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.7:
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.8:
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Palliya
+        batsman: J Chirila
+    - 7.9:
+        non_striker: J Chirila
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Palliya
+        wicket:
+          player_out: I Palliya
+          kind: lbw
+    - 8.1:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ionita
+        batsman: J Chirila
+    - 8.2:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Ionita
+        batsman: J Chirila
+    - 8.3:
+        non_striker: J Chirila
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ionita
+        wicket:
+          player_out: G Ionita
+          kind: lbw
+    - 8.4:
+        non_striker: J Chirila
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 8.5:
+        non_striker: J Chirila
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: C Cirlig
+    - 8.6:
+        non_striker: J Chirila
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Cirlig
+    - 8.7:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 9.1:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.2:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.3:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.4:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.5:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.6:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+        wicket:
+          player_out: J Chirila
+          kind: bowled
+    - 10.1:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lupascu
+        batsman: C Cirlig
+    - 10.2:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Lupascu
+        batsman: C Cirlig
+    - 10.3:
+        non_striker: C Cirlig
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 10.4:
+        non_striker: C Cirlig
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 10.5:
+        non_striker: C Cirlig
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Lupascu
+    - 10.6:
+        non_striker: A Lupascu
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 10.7:
+        non_striker: A Lupascu
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Cirlig
+    - 11.1:
+        non_striker: A Lupascu
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 11.2:
+        non_striker: A Lupascu
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Cirlig
+    - 11.3:
+        non_striker: C Cirlig
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lupascu
+    - 11.4:
+        non_striker: A Lupascu
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 11.5:
+        non_striker: A Lupascu
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 11.6:
+        non_striker: A Lupascu
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 12.1:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 12.2:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 12.3:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 12.4:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+    - 12.5:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lupascu
+        wicket:
+          player_out: A Lupascu
+          kind: lbw
+    - 12.6:
+        non_striker: C Cirlig
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tanase
+    - 13.1:
+        non_striker: D Tanase
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 13.2:
+        non_striker: D Tanase
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+    - 13.3:
+        non_striker: D Tanase
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cirlig
+        wicket:
+          player_out: C Cirlig
+          fielders:
+          - H Celik
+          kind: run out
+    - 13.4:
+        non_striker: M Marin
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tanase
+        wicket:
+          player_out: D Tanase
+          kind: bowled
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Suzan Turan
+        batsman: D Tekyildirim
+    - 0.2:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Suzan Turan
+        batsman: D Tekyildirim
+    - 0.3:
+        non_striker: D Tekyildirim
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Suzan Turan
+    - 0.4:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 0.5:
+        non_striker: D Tekyildirim
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Suzan Turan
+    - 0.6:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 1.1:
+        non_striker: D Tekyildirim
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 1.2:
+        non_striker: D Tekyildirim
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Suzan Turan
+    - 1.3:
+        non_striker: D Tekyildirim
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 1.4:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 1.5:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 1.6:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Tekyildirim
+    - 1.7:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Tekyildirim
+    - 1.8:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 2.1:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 2.2:
+        non_striker: D Tekyildirim
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 2.3:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Tekyildirim
+    - 2.4:
+        non_striker: D Tekyildirim
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Suzan Turan
+    - 2.5:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 2.6:
+        non_striker: D Tekyildirim
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Suzan Turan
+    - 2.7:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 3.1:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 3.2:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Tekyildirim
+    - 3.3:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 3.4:
+        non_striker: D Tekyildirim
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+        wicket:
+          player_out: D Tekyildirim
+          fielders:
+          - I Muntean
+          kind: run out
+    - 3.5:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Canavarci
+        batsman: Suzan Turan
+    - 3.6:
+        non_striker: K Canavarci
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.1:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 4.2:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 4.3:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Canavarci
+    - 4.4:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.5:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Suzan Turan
+    - 4.6:
+        non_striker: Suzan Turan
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 4.7:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.8:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 5.1:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 5.2:
+        non_striker: Suzan Turan
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 5.3:
+        non_striker: K Canavarci
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+        wicket:
+          player_out: Suzan Turan
+          fielders:
+          - M Kearvell
+          kind: caught
+    - 5.4:
+        non_striker: K Canavarci
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Bayram
+    - 5.5:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 5.6:
+        non_striker: K Canavarci
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 5.7:
+        non_striker: K Canavarci
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 5.8:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Canavarci
+    - 5.9:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 6.1:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 6.2:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 6.3:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 6.4:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 6.5:
+        non_striker: M Bayram
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 6.6:
+        non_striker: M Bayram
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 6.7:
+        non_striker: K Canavarci
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 6.8:
+        non_striker: M Bayram
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+        wicket:
+          player_out: K Canavarci
+          kind: bowled
+    - 7.1:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ezgi Nur Kilic
+        batsman: M Bayram
+    - 7.2:
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ezgi Nur Kilic
+        batsman: M Bayram
+    - 7.3:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 7.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 7.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 7.6:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+        wicket:
+          player_out: Ezgi Nur Kilic
+          kind: caught and bowled
+    - 7.7:
+        non_striker: M Bayram
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 8.1:
+        non_striker: M Bayram
+        bowler: RL Blake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 8.2:
+        non_striker: M Bayram
+        bowler: RL Blake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 8.3:
+        non_striker: M Bayram
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 8.4:
+        non_striker: G Ayan
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 8.5:
+        non_striker: G Ayan
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 8.6:
+        non_striker: M Bayram
+        bowler: RL Blake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 8.7:
+        non_striker: M Bayram
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 8.8:
+        non_striker: G Ayan
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 8.9:
+        non_striker: G Ayan
+        bowler: RL Blake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 8.10:
+        non_striker: G Ayan
+        bowler: RL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 9.1:
+        non_striker: G Ayan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 9.2:
+        non_striker: G Ayan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 9.3:
+        non_striker: M Bayram
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 9.4:
+        non_striker: G Ayan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 9.5:
+        non_striker: M Bayram
+        bowler: M Kearvell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Ayan
+    - 9.6:
+        non_striker: G Ayan
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram

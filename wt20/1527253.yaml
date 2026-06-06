@@ -1,0 +1,2127 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  dates:
+  - '2026-04-17'
+  gender: female
+  match_type: T20
+  match_type_number: 2724
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - A Khaka
+  players:
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - JI Rodrigues
+    - H Kaur
+    - RM Ghosh
+    - KS Gautam
+    - A Reddy
+    - SR Patil
+    - DB Sharma
+    - N Shree Charani
+    - Renuka Singh
+    South Africa:
+    - L Wolvaardt
+    - S Luus
+    - T Brits
+    - A Dercksen
+    - A Bosch
+    - CL Tryon
+    - N de Klerk
+    - S Jafta
+    - A Khaka
+    - TS Sekhukhune
+    - N Mlaba
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      A Dercksen: d2b1f515
+      A Khaka: 0d518f89
+      A Reddy: eadc8924
+      CL Tryon: 4d4605e6
+      DB Sharma: 201fef33
+      GH Pienaar: 3516e46b
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      K Klaaste: 6cc1d918
+      KS Gautam: bc773c4a
+      L Wolvaardt: e60f81c9
+      Lauren Agenbag: 40849abd
+      MN Gampu: '41597619'
+      N Mlaba: 686362af
+      N Shree Charani: 583ce32c
+      N de Klerk: ea544967
+      RM Ghosh: 721e0199
+      Renuka Singh: 7298db76
+      S Jafta: '34304210'
+      S Lackay: d3a9aadd
+      S Luus: 6d76bc23
+      S Mandhana: 5d2eda89
+      SR Patil: 33946d69
+      Shafali Verma: d8f59089
+      T Brits: '06659caa'
+      TS Sekhukhune: 6e28e586
+  teams:
+  - India
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - K Klaaste
+  - Lauren Agenbag
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: Shafali Verma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 4.4:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.5:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.6:
+        non_striker: S Mandhana
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - T Brits
+          kind: caught
+    - 5.1:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 5.3:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 5.6:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.1:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.2:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 6.3:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.4:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 6.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.6:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.1:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.2:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.3:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.4:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.5:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.6:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.1:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 8.2:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.3:
+        non_striker: JI Rodrigues
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.4:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 8.5:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 8.6:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 8.7:
+        non_striker: H Kaur
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 9.1:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.2:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.3:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 9.4:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 9.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 9.6:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.1:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.2:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.3:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.5:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.1:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 11.3:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 11.4:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.5:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 11.6:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.1:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 12.3:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 12.4:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JI Rodrigues
+    - 12.5:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.1:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.3:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.4:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JI Rodrigues
+    - 13.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 13.6:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.1:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 14.2:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - S Luus
+          kind: caught
+    - 14.3:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.4:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.5:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 14.6:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.1:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - A Bosch
+          kind: caught
+    - 15.2:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Gautam
+    - 15.3:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Gautam
+    - 15.4:
+        non_striker: KS Gautam
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.5:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Gautam
+    - 15.6:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Gautam
+    - 16.1:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Gautam
+    - 16.2:
+        non_striker: KS Gautam
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 16.3:
+        non_striker: KS Gautam
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 16.4:
+        non_striker: KS Gautam
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 16.5:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Gautam
+    - 16.6:
+        non_striker: KS Gautam
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 17.1:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Gautam
+    - 17.2:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Gautam
+        wicket:
+          player_out: KS Gautam
+          kind: bowled
+    - 17.3:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 17.4:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 17.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 17.6:
+        non_striker: A Reddy
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 18.1:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 18.2:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 18.3:
+        non_striker: A Reddy
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 18.4:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Reddy
+    - 18.5:
+        non_striker: A Reddy
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 18.6:
+        non_striker: H Kaur
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 19.1:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+        wicket:
+          player_out: A Reddy
+          fielders:
+          - N de Klerk
+          kind: caught
+    - 19.2:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patil
+    - 19.3:
+        non_striker: SR Patil
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 19.4:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Patil
+    - 19.5:
+        non_striker: SR Patil
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+        wicket:
+          player_out: SR Patil
+          fielders:
+          - A Dercksen
+          - S Jafta
+          kind: run out
+    - 19.6:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: S Luus
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: S Luus
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 0.7:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          kind: bowled
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.5:
+        non_striker: T Brits
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: T Brits
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: T Brits
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: T Brits
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: T Brits
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.5:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.1:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.2:
+        non_striker: T Brits
+        bowler: KS Gautam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 4.3:
+        non_striker: T Brits
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: T Brits
+        bowler: KS Gautam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 4.5:
+        non_striker: T Brits
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.7:
+        non_striker: T Brits
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.8:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 5.1:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 5.2:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 5.4:
+        non_striker: T Brits
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.5:
+        non_striker: T Brits
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.6:
+        non_striker: T Brits
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.1:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 6.2:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 6.3:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 6.4:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 7.1:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 7.2:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 7.3:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 7.4:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 7.5:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.6:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 8.1:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 8.2:
+        non_striker: A Dercksen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.3:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Dercksen
+    - 8.4:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 8.5:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 8.6:
+        non_striker: A Dercksen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.7:
+        non_striker: L Wolvaardt
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 9.1:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 9.2:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.3:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dercksen
+    - 9.4:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 9.5:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 9.6:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.7:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 10.1:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 10.2:
+        non_striker: A Dercksen
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.3:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 10.4:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dercksen
+    - 10.5:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 10.6:
+        non_striker: L Wolvaardt
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 10.7:
+        non_striker: A Dercksen
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.1:
+        non_striker: A Dercksen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.2:
+        non_striker: L Wolvaardt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dercksen
+    - 11.3:
+        non_striker: L Wolvaardt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 11.4:
+        non_striker: A Dercksen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 11.5:
+        non_striker: A Dercksen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.6:
+        non_striker: L Wolvaardt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 12.1:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 12.2:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 12.3:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 12.4:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 12.5:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 12.6:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.1:
+        non_striker: L Wolvaardt
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 13.2:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 13.3:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 13.4:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Bosch
+    - 13.5:
+        non_striker: A Bosch
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 13.6:
+        non_striker: A Bosch
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 13.7:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 14.1:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Bosch
+    - 14.2:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Bosch
+    - 14.3:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 14.4:
+        non_striker: A Bosch
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dercksen
+    - 14.5:
+        non_striker: A Bosch
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 14.6:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 14.7:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+        wicket:
+          player_out: A Bosch
+          kind: lbw
+    - 14.8:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.1:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.2:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.3:
+        non_striker: CL Tryon
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 15.4:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.5:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.6:
+        non_striker: A Dercksen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.1:
+        non_striker: A Dercksen
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.2:
+        non_striker: CL Tryon
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dercksen
+    - 16.3:
+        non_striker: CL Tryon
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 16.4:
+        non_striker: CL Tryon
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 16.5:
+        non_striker: A Dercksen
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.6:
+        non_striker: CL Tryon
+        bowler: KS Gautam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 17.1:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 17.2:
+        non_striker: CL Tryon
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 17.3:
+        non_striker: CL Tryon
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 17.4:
+        non_striker: CL Tryon
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 17.5:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 17.6:
+        non_striker: A Dercksen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 18.1:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 18.2:
+        non_striker: CL Tryon
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 18.3:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 18.4:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 18.5:
+        non_striker: CL Tryon
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 18.6:
+        non_striker: A Dercksen
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 19.1:
+        non_striker: A Dercksen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon

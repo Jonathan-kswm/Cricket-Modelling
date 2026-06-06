@@ -1,0 +1,1921 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-05-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2026-05-28'
+  gender: female
+  match_type: T20
+  match_type_number: 2782
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - K Fraser
+  players:
+    Netherlands:
+    - HDJ Siegers
+    - P Molkenboer
+    - B de Leede
+    - R Rijke
+    - S Khurana
+    - RA Lawrence
+    - F Overdijk
+    - IJR Zwilling
+    - C de Lange
+    - S Siegers
+    - I van der Woning
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - M McColl
+    - PA Chatterji
+    - EL Watson
+    - KL Gordon
+    - C Abel
+    - AH Maqsood
+    - G Fontenla
+  registry:
+    people:
+      AH Maqsood: f61e2829
+      B de Leede: b3020075
+      C Abel: d92d3563
+      C de Lange: c6a019f5
+      DEM Carter: c3394c16
+      DH Mclean: 281d4749
+      EL Watson: 45dd7433
+      F Overdijk: 022745d5
+      G Fontenla: 581eec7e
+      HDJ Siegers: 6d48df01
+      I McDonald: 37b55799
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      K Fraser: a0a65375
+      KE Bryce: f13d3eba
+      KL Gordon: '00823a96'
+      M McColl: d5fa2ab3
+      P Molkenboer: fa9db243
+      PA Chatterji: 8e7be59c
+      Philip Thompson: 0c677650
+      R Rijke: 42e4b276
+      RA Lawrence: 8f201b0a
+      Ryan Milne: d2343b26
+      S Khurana: 9a9a056d
+      S Siegers: 9a58f2c8
+      SJ Bryce: 2ca65aee
+  teams:
+  - Netherlands
+  - Scotland
+  toss:
+    winner: Netherlands
+    decision: bat
+  umpires:
+  - DH Mclean
+  - I McDonald
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 0.2:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDJ Siegers
+    - 0.3:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.4:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 0.5:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 0.6:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.7:
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 1.1:
+        non_striker: HDJ Siegers
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 1.2:
+        non_striker: HDJ Siegers
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Molkenboer
+    - 1.3:
+        non_striker: P Molkenboer
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 1.4:
+        non_striker: HDJ Siegers
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 1.5:
+        non_striker: P Molkenboer
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 1.6:
+        non_striker: HDJ Siegers
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 2.1:
+        non_striker: P Molkenboer
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 2.2:
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - G Fontenla
+          kind: caught
+    - 2.3:
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.4:
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 2.5:
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.6:
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 3.1:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 3.2:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 3.3:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 3.4:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 3.5:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 3.6:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 4.1:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          fielders:
+          - AH Maqsood
+          kind: caught
+    - 4.2:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 4.3:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 4.4:
+        non_striker: R Rijke
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 4.5:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 4.6:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 5.1:
+        non_striker: B de Leede
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Rijke
+    - 5.2:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.3:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 5.4:
+        non_striker: B de Leede
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 5.5:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.6:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 5.7:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 5.8:
+        non_striker: R Rijke
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.1:
+        non_striker: B de Leede
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 6.2:
+        non_striker: B de Leede
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 6.3:
+        non_striker: B de Leede
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 6.4:
+        non_striker: B de Leede
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 6.5:
+        non_striker: B de Leede
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 6.6:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.7:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 7.1:
+        non_striker: B de Leede
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.2:
+        non_striker: R Rijke
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.3:
+        non_striker: B de Leede
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 7.4:
+        non_striker: B de Leede
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.5:
+        non_striker: R Rijke
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.6:
+        non_striker: B de Leede
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.1:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          kind: bowled
+    - 8.2:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 8.3:
+        non_striker: S Khurana
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 8.4:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Khurana
+    - 8.5:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 8.6:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 9.1:
+        non_striker: S Khurana
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.2:
+        non_striker: S Khurana
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.3:
+        non_striker: S Khurana
+        bowler: KL Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 9.4:
+        non_striker: S Khurana
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.5:
+        non_striker: R Rijke
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+        wicket:
+          player_out: S Khurana
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 9.6:
+        non_striker: R Rijke
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Lawrence
+    - 9.7:
+        non_striker: RA Lawrence
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.1:
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Lawrence
+    - 10.2:
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Lawrence
+        wicket:
+          player_out: RA Lawrence
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 10.3:
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 10.4:
+        non_striker: F Overdijk
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.5:
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 10.6:
+        non_striker: F Overdijk
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 11.1:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 11.2:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 11.3:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 11.4:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 11.5:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.6:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 12.1:
+        non_striker: F Overdijk
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.2:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 12.3:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 12.4:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 12.5:
+        non_striker: F Overdijk
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.6:
+        non_striker: R Rijke
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 13.1:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 13.2:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 13.3:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.4:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 13.5:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 13.6:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 14.1:
+        non_striker: F Overdijk
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 14.2:
+        non_striker: F Overdijk
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 14.3:
+        non_striker: R Rijke
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 14.4:
+        non_striker: R Rijke
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 14.5:
+        non_striker: F Overdijk
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 14.6:
+        non_striker: F Overdijk
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 15.1:
+        non_striker: F Overdijk
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 15.2:
+        non_striker: F Overdijk
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.3:
+        non_striker: F Overdijk
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 15.4:
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 15.5:
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 15.6:
+        non_striker: F Overdijk
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 16.1:
+        non_striker: F Overdijk
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 16.2:
+        non_striker: F Overdijk
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 16.3:
+        non_striker: F Overdijk
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 16.4:
+        non_striker: R Rijke
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 16.5:
+        non_striker: R Rijke
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 16.6:
+        non_striker: F Overdijk
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 17.1:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 17.2:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 17.3:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 17.4:
+        non_striker: F Overdijk
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 17.5:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 17.6:
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 18.1:
+        non_striker: IJR Zwilling
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 18.2:
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 18.3:
+        non_striker: IJR Zwilling
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 18.4:
+        non_striker: IJR Zwilling
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - AH Maqsood
+          kind: caught
+    - 18.5:
+        non_striker: IJR Zwilling
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 18.6:
+        non_striker: C de Lange
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 19.1:
+        non_striker: C de Lange
+        bowler: KL Gordon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: IJR Zwilling
+    - 19.2:
+        non_striker: C de Lange
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 19.3:
+        non_striker: IJR Zwilling
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 19.4:
+        non_striker: C de Lange
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 19.5:
+        non_striker: IJR Zwilling
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 19.6:
+        non_striker: C de Lange
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          fielders:
+          - DEM Carter
+          kind: caught
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.2:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.3:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.4:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 0.5:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.6:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 1.1:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 1.2:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.3:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.4:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 1.6:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.1:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 2.2:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.3:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DEM Carter
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 2.5:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 3.1:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 3.2:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 3.3:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.4:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.5:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 3.6:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 4.1:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 4.2:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DEM Carter
+    - 4.3:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: DEM Carter
+    - 4.4:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DEM Carter
+    - 4.5:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DEM Carter
+    - 4.6:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DEM Carter
+    - 4.7:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: DEM Carter
+    - 4.8:
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 4.9:
+        non_striker: DEM Carter
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.10:
+        non_striker: DEM Carter
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.11:
+        non_striker: DEM Carter
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.12:
+        non_striker: DEM Carter
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 5.1:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.3:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 5.4:
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 5.5:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 5.6:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.1:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 6.2:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 6.3:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.4:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 6.5:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 6.6:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 7.1:
+        non_striker: DEM Carter
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 7.2:
+        non_striker: DEM Carter
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 7.3:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 7.4:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.5:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: DEM Carter
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 8.1:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 8.3:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 8.5:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.6:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 9.1:
+        non_striker: DEM Carter
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 9.2:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 9.3:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 9.4:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DEM Carter
+    - 9.5:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.6:
+        non_striker: DEM Carter
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 10.1:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.2:
+        non_striker: DEM Carter
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 10.3:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.4:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 10.5:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - HDJ Siegers
+          kind: caught
+    - 10.6:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.1:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 11.2:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: KE Bryce
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 11.5:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.6:
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.1:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 12.2:
+        non_striker: K Fraser
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: KE Bryce
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 12.4:
+        non_striker: KE Bryce
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 12.5:
+        non_striker: KE Bryce
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 12.6:
+        non_striker: KE Bryce
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 13.1:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 13.3:
+        non_striker: KE Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 13.4:
+        non_striker: KE Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 13.5:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.6:
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 14.1:
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 14.2:
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 14.3:
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 14.4:
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 14.5:
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce

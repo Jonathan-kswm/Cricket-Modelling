@@ -1,0 +1,2258 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelephu
+  dates:
+  - '2026-01-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2630
+  outcome:
+    winner: Bhutan
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - A Gurung
+  players:
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Mas Elysa
+    - Mahirah Izzati Ismail
+    - Nur Dania Syuhada
+    - Nur Arianna Natsya
+    - Aina Najwa
+    - Irdina Beh Nabil
+    - Nur Izzatul Syafiqa
+    - Musfirah Nur Ainaa
+    - Aisya Eleesa
+    Bhutan:
+    - N Choden
+    - K Dema
+    - S Paldon
+    - T Zangmo
+    - A Gurung
+    - S Choden
+    - Chado Om
+    - Sonam
+    - R Choden
+    - Riya Pradhan
+    - Tshering Choden
+  registry:
+    people:
+      A Gurung: 10854c82
+      AK Rai: 1d70834a
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      Chado Om: f53fa89c
+      Irdina Beh Nabil: 59ace6d9
+      K Dema: 0b211a32
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      Musfirah Nur Ainaa: acd1fec7
+      N Choden: a904600a
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Nur Izzatul Syafiqa: fc282a40
+      ON Pradhan: d41a08d6
+      R Choden: c0266a6e
+      Riya Pradhan: c3cf210c
+      S Choden: e1e0775d
+      S Paldon: 47c3d294
+      Sonam: '09cbca15'
+      Subas Lama: 0a0c48dc
+      T Zangmo: b1f21c0f
+      Tshering Choden: 3f38caff
+      U Dorji: 12bba2d4
+      WA Duraisingam: 7467fe01
+  teams:
+  - Malaysia
+  - Bhutan
+  toss:
+    winner: Bhutan
+    decision: field
+  umpires:
+  - AK Rai
+  - U Dorji
+  venue: Gelephu International Cricket Ground
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          kind: lbw
+    - 0.3:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mas Elysa
+    - 0.4:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 0.5:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 0.6:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.2:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.3:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.4:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.6:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.1:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.2:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.3:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 2.4:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.6:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.7:
+        non_striker: WA Duraisingam
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 3.2:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 3.3:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 3.4:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.5:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.6:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 3.7:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.8:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.1:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.2:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.3:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.4:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.5:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.6:
+        non_striker: Mas Elysa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 5.1:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.2:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.3:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 5.4:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.5:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.6:
+        non_striker: Mas Elysa
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: WA Duraisingam
+    - 5.7:
+        non_striker: WA Duraisingam
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mas Elysa
+    - 5.8:
+        non_striker: Mas Elysa
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 6.1:
+        non_striker: Mas Elysa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 6.2:
+        non_striker: Mas Elysa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: R Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 6.4:
+        non_striker: Mas Elysa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 6.5:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.6:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.7:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.1:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 7.2:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 7.3:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 7.4:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.5:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.6:
+        non_striker: WA Duraisingam
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.7:
+        non_striker: Mas Elysa
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 8.1:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.2:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          kind: lbw
+    - 8.3:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 8.4:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 8.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 9.1:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 9.2:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.3:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 9.4:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 9.5:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.6:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 10.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 10.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 10.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 10.5:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.6:
+        non_striker: WA Duraisingam
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 11.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 11.2:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+        wicket:
+          player_out: Mahirah Izzati Ismail
+          kind: lbw
+    - 11.3:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 11.4:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 11.5:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+        wicket:
+          player_out: Nur Dania Syuhada
+          kind: lbw
+    - 11.6:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nur Arianna Natsya
+    - 11.7:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 12.1:
+        non_striker: WA Duraisingam
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 12.2:
+        non_striker: Nur Arianna Natsya
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 12.3:
+        non_striker: Nur Arianna Natsya
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 12.4:
+        non_striker: WA Duraisingam
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 12.5:
+        non_striker: Nur Arianna Natsya
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 12.6:
+        non_striker: WA Duraisingam
+        bowler: Tshering Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nur Arianna Natsya
+    - 12.7:
+        non_striker: WA Duraisingam
+        bowler: Tshering Choden
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nur Arianna Natsya
+    - 12.8:
+        non_striker: Nur Arianna Natsya
+        bowler: Tshering Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 13.1:
+        non_striker: Nur Arianna Natsya
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 13.2:
+        non_striker: Nur Arianna Natsya
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 13.3:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Nur Arianna Natsya
+    - 13.4:
+        non_striker: Nur Arianna Natsya
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 13.5:
+        non_striker: Nur Arianna Natsya
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 13.6:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 13.7:
+        non_striker: Nur Arianna Natsya
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 14.1:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          kind: bowled
+    - 14.2:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 14.3:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 14.4:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 14.5:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 14.6:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 15.1:
+        non_striker: Aina Najwa
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 15.2:
+        non_striker: Aina Najwa
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 15.3:
+        non_striker: Aina Najwa
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 15.4:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aina Najwa
+    - 15.5:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 15.6:
+        non_striker: WA Duraisingam
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 15.7:
+        non_striker: Aina Najwa
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 16.1:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 16.2:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 16.3:
+        non_striker: WA Duraisingam
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 16.4:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: caught and bowled
+    - 16.5:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 16.6:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.1:
+        non_striker: Irdina Beh Nabil
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 17.2:
+        non_striker: Aina Najwa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.3:
+        non_striker: Aina Najwa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.4:
+        non_striker: Aina Najwa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.5:
+        non_striker: Aina Najwa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.6:
+        non_striker: Aina Najwa
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irdina Beh Nabil
+    - 18.1:
+        non_striker: Irdina Beh Nabil
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aina Najwa
+    - 18.2:
+        non_striker: Irdina Beh Nabil
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 18.3:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irdina Beh Nabil
+    - 18.4:
+        non_striker: Aina Najwa
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irdina Beh Nabil
+    - 18.5:
+        non_striker: Irdina Beh Nabil
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 18.6:
+        non_striker: Irdina Beh Nabil
+        bowler: Riya Pradhan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aina Najwa
+    - 19.1:
+        non_striker: Aina Najwa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+        wicket:
+          player_out: Irdina Beh Nabil
+          fielders:
+          - N Choden
+          kind: run out
+    - 19.2:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nur Izzatul Syafiqa
+        batsman: Aina Najwa
+    - 19.3:
+        non_striker: Aina Najwa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Izzatul Syafiqa
+    - 19.4:
+        non_striker: Aina Najwa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Izzatul Syafiqa
+        wicket:
+          player_out: Nur Izzatul Syafiqa
+          fielders:
+          - S Choden
+          kind: caught
+    - 19.5:
+        non_striker: Aina Najwa
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Musfirah Nur Ainaa
+    - 19.6:
+        non_striker: Musfirah Nur Ainaa
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aina Najwa
+- 2nd innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.2:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.3:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 0.4:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Dema
+    - 0.5:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Dema
+    - 0.6:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 0.7:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+        wicket:
+          player_out: K Dema
+          kind: bowled
+    - 0.8:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 1.1:
+        non_striker: S Paldon
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 1.2:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 1.3:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 1.4:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 1.5:
+        non_striker: S Paldon
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 1.6:
+        non_striker: S Paldon
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 1.7:
+        non_striker: S Paldon
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 2.1:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 2.2:
+        non_striker: N Choden
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 2.3:
+        non_striker: S Paldon
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 2.4:
+        non_striker: S Paldon
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 2.5:
+        non_striker: S Paldon
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 2.6:
+        non_striker: S Paldon
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 3.1:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+        wicket:
+          player_out: S Paldon
+          kind: bowled
+    - 3.2:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 3.3:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 3.4:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 3.5:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 3.6:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 4.1:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 4.2:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 4.3:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 4.4:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 4.5:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Zangmo
+    - 4.6:
+        non_striker: N Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 5.1:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.2:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 5.3:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.4:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.5:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 5.6:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 5.7:
+        non_striker: T Zangmo
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 5.8:
+        non_striker: N Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 6.1:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 6.2:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 6.3:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 6.4:
+        non_striker: N Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 6.5:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 6.6:
+        non_striker: N Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 7.1:
+        non_striker: T Zangmo
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.2:
+        non_striker: T Zangmo
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 7.3:
+        non_striker: T Zangmo
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.4:
+        non_striker: T Zangmo
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.5:
+        non_striker: T Zangmo
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 7.6:
+        non_striker: N Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 8.1:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 8.2:
+        non_striker: N Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 8.3:
+        non_striker: N Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+        wicket:
+          player_out: N Choden
+          fielders:
+          - Nur Dania Syuhada
+          kind: run out
+    - 8.4:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 8.5:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 8.6:
+        non_striker: T Zangmo
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gurung
+    - 9.1:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 9.2:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 9.3:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+        wicket:
+          player_out: T Zangmo
+          fielders:
+          - WA Duraisingam
+          kind: caught
+    - 9.4:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 9.5:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 9.6:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 10.1:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 10.2:
+        non_striker: A Gurung
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 10.3:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 10.4:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 10.5:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 10.6:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 11.1:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 11.2:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 11.3:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 11.4:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 11.5:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 11.6:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 11.7:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 12.1:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 12.2:
+        non_striker: A Gurung
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 12.3:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 12.4:
+        non_striker: S Choden
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 12.5:
+        non_striker: A Gurung
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 12.6:
+        non_striker: A Gurung
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 13.1:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 13.2:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 13.3:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 13.4:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gurung
+    - 13.5:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gurung
+    - 13.6:
+        non_striker: S Choden
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 13.7:
+        non_striker: A Gurung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 14.1:
+        non_striker: A Gurung
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Choden
+    - 14.2:
+        non_striker: A Gurung
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 14.3:
+        non_striker: S Choden
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+        wicket:
+          player_out: A Gurung
+          kind: bowled
+    - 14.4:
+        non_striker: S Choden
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 14.5:
+        non_striker: Chado Om
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 14.6:
+        non_striker: Chado Om
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 15.1:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+        wicket:
+          player_out: Chado Om
+          kind: lbw
+    - 15.2:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.3:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sonam
+    - 15.4:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.5:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.6:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.7:
+        non_striker: S Choden
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.1:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 16.2:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 16.3:
+        non_striker: S Choden
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 16.4:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Choden
+    - 16.5:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 16.6:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 16.7:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.1:
+        non_striker: Sonam
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.2:
+        non_striker: S Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sonam
+    - 17.3:
+        non_striker: S Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 17.4:
+        non_striker: Sonam
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 17.5:
+        non_striker: Sonam
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.6:
+        non_striker: S Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 18.1:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 18.2:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 18.3:
+        non_striker: S Choden
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 18.4:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 18.5:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+        wicket:
+          player_out: S Choden
+          kind: bowled
+    - 18.6:
+        non_striker: Sonam
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Choden
+    - 18.7:
+        non_striker: R Choden
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 19.1:
+        non_striker: R Choden
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 19.2:
+        non_striker: Sonam
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Choden

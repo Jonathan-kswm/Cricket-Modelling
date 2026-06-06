@@ -1,0 +1,2437 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ishoj
+  dates:
+  - '2025-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2456
+  outcome:
+    winner: Germany
+    by:
+      runs: 78
+  overs: 20
+  player_of_match:
+  - JE Ronalds
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - A Kanukuntla
+    - N Kingsley
+    - Aishani Kishore
+    - JE Ronalds
+    - K Vijayaraghavan
+    - S Kolcharam
+    - A Kohli
+    - V Stolle
+    - A Meyenborg
+    - Ashwini Balaji
+    Norway:
+    - AS Gorad
+    - Mirab Sajjad
+    - Ayesha Hasan
+    - Bijeyata Kumari
+    - R Immadi
+    - L Stanfergin
+    - VB Viyala
+    - Alina Aslam
+    - Mirab Razwan
+    - Lopamudra
+    - Prachi Kumari
+  registry:
+    people:
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      A Meyenborg: edbc9441
+      AK Saini: 894ebe7e
+      AS Gorad: 2c8d0953
+      Aishani Kishore: 2bd89375
+      Alina Aslam: fbffb752
+      Ashwini Balaji: 81283f75
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      JE Ronalds: d4f98302
+      K Vijayaraghavan: '048da365'
+      L Stanfergin: ef114b4c
+      Lopamudra: ff4509d5
+      Mirab Razwan: 498031f9
+      Mirab Sajjad: 41db4d1f
+      N Kingsley: 31036a1d
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      S Kolcharam: 761c929e
+      V Stolle: 0dc4ac6c
+      VB Viyala: 228a747d
+      W Hornero-Garcia: 7d5fef52
+      Zeb Pirzada: 716e41af
+  teams:
+  - Germany
+  - Norway
+  toss:
+    winner: Germany
+    decision: bat
+  umpires:
+  - AK Saini
+  - Zeb Pirzada
+  venue: Ishoj Cricket Club, Vejledalen
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kanukuntla
+        batsman: W Hornero-Garcia
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: A Kanukuntla
+        batsman: W Hornero-Garcia
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Kanukuntla
+        batsman: W Hornero-Garcia
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        non_striker: A Kanukuntla
+        batsman: W Hornero-Garcia
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kanukuntla
+        batsman: W Hornero-Garcia
+    - 0.6:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 0.7:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 0.8:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kanukuntla
+    - 1.2:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 1.3:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 1.4:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 1.5:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 1.6:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kanukuntla
+    - 1.7:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 2.1:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 2.2:
+        non_striker: A Kanukuntla
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Hornero-Garcia
+    - 2.3:
+        non_striker: A Kanukuntla
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 2.4:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kanukuntla
+    - 2.5:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 2.6:
+        non_striker: W Hornero-Garcia
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kanukuntla
+    - 3.1:
+        non_striker: A Kanukuntla
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.2:
+        non_striker: A Kanukuntla
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Hornero-Garcia
+    - 3.3:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Kanukuntla
+    - 3.4:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 3.5:
+        non_striker: W Hornero-Garcia
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kanukuntla
+    - 3.6:
+        non_striker: A Kanukuntla
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          kind: bowled
+    - 4.1:
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Kingsley
+        batsman: A Kanukuntla
+    - 4.2:
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Kingsley
+        batsman: A Kanukuntla
+    - 4.3:
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Kingsley
+        batsman: A Kanukuntla
+    - 4.4:
+        non_striker: A Kanukuntla
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 4.5:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 4.6:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 4.7:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 4.8:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 5.1:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 5.2:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 5.3:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kanukuntla
+    - 5.4:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+        wicket:
+          player_out: A Kanukuntla
+          fielders:
+          - AS Gorad
+          kind: caught
+    - 5.5:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 5.6:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Aishani Kishore
+    - 5.7:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 5.8:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 5.9:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 6.1:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Aishani Kishore
+    - 6.2:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 6.3:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 6.4:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 6.5:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 6.6:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 6.7:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aishani Kishore
+    - 7.1:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Kingsley
+    - 7.2:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 7.3:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 7.4:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 7.5:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 7.6:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 7.7:
+        non_striker: N Kingsley
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 8.1:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 8.2:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 8.3:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 8.4:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 8.5:
+        non_striker: N Kingsley
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 8.6:
+        non_striker: N Kingsley
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 9.1:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 9.2:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 9.3:
+        non_striker: N Kingsley
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 9.4:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Kingsley
+    - 9.5:
+        non_striker: N Kingsley
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 9.6:
+        non_striker: N Kingsley
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aishani Kishore
+    - 9.7:
+        non_striker: N Kingsley
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 9.8:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 10.1:
+        non_striker: N Kingsley
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Aishani Kishore
+    - 10.2:
+        non_striker: N Kingsley
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 10.3:
+        non_striker: Aishani Kishore
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 10.4:
+        non_striker: Aishani Kishore
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 10.5:
+        non_striker: Aishani Kishore
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 10.6:
+        non_striker: Aishani Kishore
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 10.7:
+        non_striker: Aishani Kishore
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 11.1:
+        non_striker: N Kingsley
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 11.2:
+        non_striker: N Kingsley
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aishani Kishore
+    - 11.3:
+        non_striker: N Kingsley
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 11.4:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 11.5:
+        non_striker: N Kingsley
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 11.6:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 12.1:
+        non_striker: N Kingsley
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 12.2:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+        wicket:
+          player_out: N Kingsley
+          kind: lbw
+    - 12.3:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 12.4:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JE Ronalds
+    - 12.5:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 12.6:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 12.7:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 13.1:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aishani Kishore
+    - 13.2:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 13.3:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 13.4:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 13.5:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 13.6:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 14.1:
+        non_striker: JE Ronalds
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 14.2:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 14.3:
+        non_striker: JE Ronalds
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 14.4:
+        non_striker: JE Ronalds
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 14.5:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: JE Ronalds
+    - 14.6:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 14.7:
+        non_striker: Aishani Kishore
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 15.1:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 15.2:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 15.3:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 15.4:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 15.5:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 15.6:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 16.1:
+        non_striker: JE Ronalds
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 16.2:
+        non_striker: JE Ronalds
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 16.3:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.4:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 16.5:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 16.6:
+        non_striker: Aishani Kishore
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 16.7:
+        non_striker: JE Ronalds
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 17.1:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 17.2:
+        non_striker: JE Ronalds
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aishani Kishore
+    - 17.3:
+        non_striker: JE Ronalds
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aishani Kishore
+    - 17.4:
+        non_striker: JE Ronalds
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 17.5:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 17.6:
+        non_striker: Aishani Kishore
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 17.7:
+        non_striker: JE Ronalds
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 17.8:
+        non_striker: JE Ronalds
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Aishani Kishore
+    - 18.1:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 18.2:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 18.3:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aishani Kishore
+    - 18.4:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 18.5:
+        non_striker: JE Ronalds
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 18.6:
+        non_striker: Aishani Kishore
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 19.1:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 19.2:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 19.3:
+        non_striker: JE Ronalds
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aishani Kishore
+    - 19.4:
+        non_striker: JE Ronalds
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 19.5:
+        non_striker: Aishani Kishore
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 19.6:
+        non_striker: JE Ronalds
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+    - 19.7:
+        non_striker: JE Ronalds
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aishani Kishore
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.2:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.3:
+        non_striker: AS Gorad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 0.4:
+        non_striker: Mirab Sajjad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 0.5:
+        non_striker: Mirab Sajjad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 0.6:
+        non_striker: Mirab Sajjad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 0.7:
+        non_striker: AS Gorad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 0.8:
+        non_striker: AS Gorad
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.1:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 1.4:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AS Gorad
+    - 1.5:
+        non_striker: AS Gorad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 1.6:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.7:
+        non_striker: Mirab Sajjad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: Mirab Sajjad
+          fielders:
+          - JE Ronalds
+          - V Stolle
+          kind: run out
+    - 1.8:
+        non_striker: AS Gorad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 1.9:
+        non_striker: AS Gorad
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 2.1:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.2:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 2.3:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.4:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          kind: bowled
+    - 2.5:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 2.6:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.7:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.8:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Bijeyata Kumari
+    - 3.1:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.2:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Bijeyata Kumari
+    - 3.3:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 3.4:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.5:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.6:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bijeyata Kumari
+    - 3.7:
+        non_striker: Bijeyata Kumari
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 3.8:
+        non_striker: Ayesha Hasan
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.1:
+        non_striker: Bijeyata Kumari
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.2:
+        non_striker: Bijeyata Kumari
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.3:
+        non_striker: Bijeyata Kumari
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.4:
+        non_striker: Bijeyata Kumari
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 4.5:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 4.6:
+        non_striker: Ayesha Hasan
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 5.1:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 5.2:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.3:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 5.4:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 5.5:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.6:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.7:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.8:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 6.1:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.2:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.3:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.4:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 6.7:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 7.1:
+        non_striker: Bijeyata Kumari
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 7.2:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - Ashwini Balaji
+          kind: caught
+    - 7.3:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: R Immadi
+    - 7.4:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 7.5:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 7.6:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 7.7:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Immadi
+    - 8.1:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 8.2:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Hasan
+    - 8.3:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.4:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 8.5:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.6:
+        non_striker: R Immadi
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 8.7:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 8.8:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 9.1:
+        non_striker: R Immadi
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.2:
+        non_striker: R Immadi
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 9.3:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 9.4:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 9.5:
+        non_striker: R Immadi
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: R Immadi
+          fielders:
+          - V Stolle
+          - Ashwini Balaji
+          kind: run out
+    - 9.6:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 10.1:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 10.2:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 10.3:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 10.4:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 10.5:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 10.6:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 10.7:
+        non_striker: L Stanfergin
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 10.8:
+        non_striker: Ayesha Hasan
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 11.1:
+        non_striker: L Stanfergin
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 11.2:
+        non_striker: L Stanfergin
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 11.3:
+        non_striker: L Stanfergin
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 11.4:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 11.5:
+        non_striker: Ayesha Hasan
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Stanfergin
+    - 11.6:
+        non_striker: L Stanfergin
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 12.1:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 12.2:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 12.3:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 12.4:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+    - 12.5:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stanfergin
+        wicket:
+          player_out: L Stanfergin
+          kind: lbw
+    - 12.6:
+        non_striker: Ayesha Hasan
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 13.1:
+        non_striker: Ayesha Hasan
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 13.2:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 13.3:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 13.4:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 13.5:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Ayesha Hasan
+    - 13.6:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 13.7:
+        non_striker: Ayesha Hasan
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 13.8:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: caught and bowled
+    - 14.1:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Alina Aslam
+        batsman: VB Viyala
+    - 14.2:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+        wicket:
+          player_out: Alina Aslam
+          fielders:
+          - A Kohli
+          kind: caught
+    - 14.3:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.4:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 14.5:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.6:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 14.7:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Mirab Razwan
+          fielders:
+          - A Kanukuntla
+          kind: caught
+    - 14.8:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.1:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 15.2:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.3:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.4:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.5:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VB Viyala
+    - 15.6:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.7:
+        non_striker: Lopamudra
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 16.1:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+        wicket:
+          player_out: Lopamudra
+          kind: lbw
+    - 16.2:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Prachi Kumari
+    - 16.3:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.4:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.5:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.6:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 16.7:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 17.1:
+        non_striker: Prachi Kumari
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 17.2:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 17.3:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 17.4:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 17.5:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 17.6:
+        non_striker: VB Viyala
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prachi Kumari
+    - 17.7:
+        non_striker: Prachi Kumari
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 17.8:
+        non_striker: Prachi Kumari
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 17.9:
+        non_striker: Prachi Kumari
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VB Viyala
+    - 18.1:
+        non_striker: VB Viyala
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+        wicket:
+          player_out: Prachi Kumari
+          fielders:
+          - A Kohli
+          kind: caught

@@ -1,0 +1,2626 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Copenhagen
+  dates:
+  - '2025-08-31'
+  gender: female
+  match_type: T20
+  match_type_number: 2463
+  outcome:
+    winner: Sweden
+    by:
+      runs: 73
+  overs: 20
+  players:
+    Sweden:
+    - E Bogdanova
+    - A Vaidya
+    - Kanchan Rana
+    - E Thelander
+    - RG Somashekhar
+    - Jayasooriya
+    - Zara Mohammad
+    - H Chamto
+    - Malyun Yusuf
+    - K Kanwar
+    - Matilda Fred
+    Finland:
+    - D Unhale
+    - R Khullar
+    - Malyun Hassan
+    - T Mulepati
+    - M Saastamoinen
+    - H Nguyen
+    - M Stolt
+    - M Kojo
+    - A Khullar
+    - S Sheridan
+    - P Bhandari
+  registry:
+    people:
+      A Khullar: 9efc1ea4
+      A Vaidya: b7d8c07d
+      Bilal Munir: c35c63b9
+      D Unhale: efea55e5
+      E Bogdanova: c7859708
+      E Thelander: 45cb4feb
+      H Chamto: 5e181be6
+      H Nguyen: 8047ca8c
+      Jayasooriya: '39183970'
+      K Kanwar: 5879b714
+      Kanchan Rana: d5d87f3f
+      M Kojo: 7a652afa
+      M Saastamoinen: 5b1a4ff7
+      M Stolt: e7cae029
+      Malyun Hassan: 22cbe7fb
+      Malyun Yusuf: 436527cd
+      Matilda Fred: '58994986'
+      P Bhandari: ddd411e0
+      R Khullar: 76a5e857
+      RG Somashekhar: 881cb071
+      S Sheridan: 2d093c80
+      T Mulepati: cb83a7df
+      Zara Mohammad: c9ca2bd7
+      Zeb Pirzada: 716e41af
+  teams:
+  - Sweden
+  - Finland
+  toss:
+    winner: Sweden
+    decision: bat
+  umpires:
+  - Bilal Munir
+  - Zeb Pirzada
+  venue: Albertslund Cricket Club
+innings:
+- 1st innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vaidya
+        batsman: E Bogdanova
+        wicket:
+          player_out: E Bogdanova
+          fielders:
+          - D Unhale
+          - R Khullar
+          kind: run out
+    - 0.2:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kanchan Rana
+        batsman: A Vaidya
+    - 0.3:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kanchan Rana
+        batsman: A Vaidya
+    - 0.4:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kanchan Rana
+        batsman: A Vaidya
+    - 0.5:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kanchan Rana
+        batsman: A Vaidya
+    - 0.6:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 1.1:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 1.2:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 1.3:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 1.4:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 1.5:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 1.6:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 1.7:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 1.8:
+        non_striker: A Vaidya
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 1.9:
+        non_striker: Kanchan Rana
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.1:
+        non_striker: A Vaidya
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 2.2:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vaidya
+    - 2.3:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Vaidya
+    - 2.4:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+    - 2.5:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vaidya
+        wicket:
+          player_out: A Vaidya
+          fielders:
+          - S Sheridan
+          kind: caught
+    - 2.6:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 2.7:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 3.1:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 3.2:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 3.3:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 3.4:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 3.5:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 3.6:
+        non_striker: E Thelander
+        bowler: M Kojo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Kanchan Rana
+    - 3.7:
+        non_striker: Kanchan Rana
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 3.8:
+        non_striker: Kanchan Rana
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 3.9:
+        non_striker: Kanchan Rana
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 4.1:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 4.2:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 4.3:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 4.4:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kanchan Rana
+    - 4.5:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 4.6:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 4.7:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 5.1:
+        non_striker: Kanchan Rana
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 5.2:
+        non_striker: Kanchan Rana
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 5.3:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kanchan Rana
+    - 5.4:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kanchan Rana
+    - 5.5:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kanchan Rana
+    - 5.6:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kanchan Rana
+    - 5.7:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 6.1:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 6.2:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 6.3:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kanchan Rana
+    - 6.4:
+        non_striker: E Thelander
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kanchan Rana
+    - 6.5:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 6.6:
+        non_striker: Kanchan Rana
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Thelander
+    - 7.1:
+        non_striker: Kanchan Rana
+        bowler: R Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Thelander
+    - 7.2:
+        non_striker: Kanchan Rana
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 7.3:
+        non_striker: Kanchan Rana
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 7.4:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+    - 7.5:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+        wicket:
+          player_out: Kanchan Rana
+          kind: bowled
+    - 7.6:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 7.7:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 8.1:
+        non_striker: RG Somashekhar
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 8.2:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 8.3:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Somashekhar
+    - 8.4:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 8.5:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 8.6:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 9.1:
+        non_striker: E Thelander
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 9.2:
+        non_striker: RG Somashekhar
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.3:
+        non_striker: RG Somashekhar
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 9.4:
+        non_striker: RG Somashekhar
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 9.5:
+        non_striker: RG Somashekhar
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Thelander
+    - 9.6:
+        non_striker: RG Somashekhar
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 10.1:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 10.2:
+        non_striker: RG Somashekhar
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Thelander
+    - 10.3:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: RG Somashekhar
+    - 10.4:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: RG Somashekhar
+    - 10.5:
+        non_striker: RG Somashekhar
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Thelander
+    - 10.6:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 10.7:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Somashekhar
+    - 10.8:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 10.9:
+        non_striker: E Thelander
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 10.10:
+        non_striker: RG Somashekhar
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Thelander
+    - 10.11:
+        non_striker: RG Somashekhar
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 11.1:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.2:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: RG Somashekhar
+    - 11.3:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: RG Somashekhar
+    - 11.4:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.5:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 11.6:
+        non_striker: RG Somashekhar
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 11.7:
+        non_striker: RG Somashekhar
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 11.8:
+        non_striker: RG Somashekhar
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 11.9:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.10:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.11:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.12:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 11.13:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Somashekhar
+    - 11.14:
+        non_striker: E Thelander
+        bowler: H Nguyen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 12.1:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 12.2:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 12.3:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Thelander
+    - 12.4:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 12.5:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 12.6:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 12.7:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Somashekhar
+    - 13.1:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 13.2:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 13.3:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Thelander
+    - 13.4:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Thelander
+    - 13.5:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 13.6:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 13.7:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 13.8:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Somashekhar
+    - 14.1:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 14.2:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 14.3:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 14.4:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 14.5:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Thelander
+    - 14.6:
+        non_striker: RG Somashekhar
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 14.7:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RG Somashekhar
+    - 15.1:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 15.2:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 15.3:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+    - 15.4:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Somashekhar
+    - 15.5:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 15.6:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Somashekhar
+    - 15.7:
+        non_striker: E Thelander
+        bowler: T Mulepati
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RG Somashekhar
+    - 15.8:
+        non_striker: RG Somashekhar
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 16.1:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Somashekhar
+        wicket:
+          player_out: RG Somashekhar
+          kind: bowled
+    - 16.2:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.3:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 16.4:
+        non_striker: Jayasooriya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Thelander
+    - 16.5:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 16.6:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 17.1:
+        non_striker: Jayasooriya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 17.2:
+        non_striker: E Thelander
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jayasooriya
+    - 17.3:
+        non_striker: E Thelander
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 17.4:
+        non_striker: Jayasooriya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 17.5:
+        non_striker: E Thelander
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 17.6:
+        non_striker: Jayasooriya
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 18.1:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 18.2:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+    - 18.3:
+        non_striker: Jayasooriya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Thelander
+    - 18.4:
+        non_striker: Jayasooriya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 18.5:
+        non_striker: Jayasooriya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 18.6:
+        non_striker: E Thelander
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+    - 19.1:
+        non_striker: Jayasooriya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 19.2:
+        non_striker: Jayasooriya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 19.3:
+        non_striker: E Thelander
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Jayasooriya
+    - 19.4:
+        non_striker: Jayasooriya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Thelander
+    - 19.5:
+        non_striker: Jayasooriya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+        wicket:
+          player_out: E Thelander
+          fielders:
+          - M Kojo
+          kind: run out
+    - 19.6:
+        non_striker: Zara Mohammad
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jayasooriya
+- 2nd innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.2:
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.3:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.4:
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.5:
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.6:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Khullar
+        batsman: D Unhale
+    - 0.7:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 0.8:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 0.9:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 0.10:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Khullar
+    - 0.11:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.1:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.2:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.3:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.4:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.5:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.6:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 1.7:
+        non_striker: R Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.1:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.2:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.3:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.4:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+        wicket:
+          player_out: R Khullar
+          kind: bowled
+    - 2.5:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 2.6:
+        non_striker: D Unhale
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 3.1:
+        non_striker: Malyun Hassan
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 3.2:
+        non_striker: Malyun Hassan
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 3.3:
+        non_striker: D Unhale
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 3.4:
+        non_striker: D Unhale
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Malyun Hassan
+    - 3.5:
+        non_striker: D Unhale
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Malyun Hassan
+    - 3.6:
+        non_striker: D Unhale
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 3.7:
+        non_striker: D Unhale
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 3.8:
+        non_striker: Malyun Hassan
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+        wicket:
+          player_out: D Unhale
+          kind: bowled
+    - 4.1:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.2:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.3:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.4:
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.5:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.6:
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.7:
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Mulepati
+        batsman: Malyun Hassan
+    - 4.8:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.1:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 5.2:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 5.3:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 5.4:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 5.5:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 5.6:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 6.1:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.2:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 6.3:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.4:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.5:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 6.6:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 6.7:
+        non_striker: Malyun Hassan
+        bowler: Zara Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 7.1:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.2:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.3:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.4:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 7.5:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.6:
+        non_striker: Malyun Hassan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.1:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 8.2:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 8.3:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 8.4:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Malyun Hassan
+    - 8.5:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 8.6:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Malyun Hassan
+    - 8.7:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 9.1:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 9.2:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Mulepati
+    - 9.3:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 9.4:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 9.5:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 9.6:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 9.7:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: T Mulepati
+    - 9.8:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.1:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 10.2:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 10.3:
+        non_striker: T Mulepati
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 10.4:
+        non_striker: Malyun Hassan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.5:
+        non_striker: Malyun Hassan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.6:
+        non_striker: Malyun Hassan
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 10.7:
+        non_striker: Malyun Hassan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 11.1:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Malyun Hassan
+    - 11.2:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 11.3:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 11.4:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 11.5:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 11.6:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 11.7:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Malyun Hassan
+    - 11.8:
+        non_striker: T Mulepati
+        bowler: K Kanwar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Malyun Hassan
+    - 11.9:
+        non_striker: Malyun Hassan
+        bowler: K Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 12.1:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.2:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.3:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.4:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 12.5:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mulepati
+    - 12.6:
+        non_striker: Malyun Hassan
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 13.1:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Malyun Hassan
+    - 13.2:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 13.3:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+    - 13.4:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Malyun Hassan
+        wicket:
+          player_out: Malyun Hassan
+          fielders:
+          - RG Somashekhar
+          kind: run out
+    - 13.5:
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Saastamoinen
+        batsman: T Mulepati
+    - 13.6:
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Saastamoinen
+        batsman: T Mulepati
+    - 13.7:
+        non_striker: M Saastamoinen
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 14.1:
+        non_striker: T Mulepati
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 14.2:
+        non_striker: T Mulepati
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Saastamoinen
+    - 14.3:
+        non_striker: T Mulepati
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Saastamoinen
+    - 14.4:
+        non_striker: M Saastamoinen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 14.5:
+        non_striker: M Saastamoinen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 14.6:
+        non_striker: M Saastamoinen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 15.1:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+        wicket:
+          player_out: M Saastamoinen
+          fielders:
+          - Zara Mohammad
+          kind: caught
+    - 15.2:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Nguyen
+    - 15.3:
+        non_striker: H Nguyen
+        bowler: Malyun Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 15.4:
+        non_striker: H Nguyen
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 15.5:
+        non_striker: H Nguyen
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 15.6:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+        wicket:
+          player_out: H Nguyen
+          kind: bowled
+    - 15.7:
+        non_striker: T Mulepati
+        bowler: Malyun Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+        wicket:
+          player_out: M Stolt
+          fielders:
+          - Matilda Fred
+          kind: caught
+    - 16.1:
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.2:
+        bowler: Matilda Fred
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.3:
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.4:
+        bowler: Matilda Fred
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.5:
+        bowler: Matilda Fred
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.6:
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.7:
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Kojo
+        batsman: T Mulepati
+    - 16.8:
+        non_striker: T Mulepati
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 16.9:
+        non_striker: T Mulepati
+        bowler: Matilda Fred
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kojo
+    - 16.10:
+        non_striker: T Mulepati
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kojo
+    - 17.1:
+        non_striker: M Kojo
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 17.2:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 17.3:
+        non_striker: T Mulepati
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kojo
+    - 17.4:
+        non_striker: M Kojo
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 17.5:
+        non_striker: M Kojo
+        bowler: H Chamto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 17.6:
+        non_striker: M Kojo
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 17.7:
+        non_striker: M Kojo
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 18.1:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 18.2:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 18.3:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 18.4:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+        wicket:
+          player_out: T Mulepati
+          fielders:
+          - H Chamto
+          kind: caught
+    - 18.5:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+    - 18.6:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Khullar
+    - 18.7:
+        non_striker: M Kojo
+        bowler: Matilda Fred
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+    - 19.1:
+        non_striker: A Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 19.2:
+        non_striker: A Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kojo
+    - 19.3:
+        non_striker: M Kojo
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Khullar
+    - 19.4:
+        non_striker: M Kojo
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Khullar
+    - 19.5:
+        non_striker: A Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kojo
+    - 19.6:
+        non_striker: A Khullar
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kojo
+    - 19.7:
+        non_striker: M Kojo
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khullar

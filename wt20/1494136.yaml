@@ -1,0 +1,2269 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-24'
+  gender: female
+  match_type: T20
+  match_type_number: 2423
+  outcome:
+    winner: Cameroon
+    by:
+      runs: 140
+  overs: 20
+  player_of_match:
+  - E Guehoada
+  players:
+    Cameroon:
+    - MLN Sissako
+    - JAN Ngono
+    - BMA Mbida
+    - B Waluma
+    - ME Bessala
+    - EGS Kana
+    - CSN Mbelel
+    - NB Diom
+    - MFD Douma
+    - E Guehoada
+    - O Ranedoumoun
+    Eswatini:
+    - Ntombizodwa Mkhatshwa
+    - LN Shabalala
+    - M Dlamini
+    - ZN Shabalala
+    - N Mabila
+    - N Mamba
+    - N Gwebu
+    - L Mamba
+    - LM Gwebu
+    - T Dlamini
+    - LS Simelane
+  registry:
+    people:
+      B Waluma: fb56dda6
+      BMA Mbida: e3c23cef
+      CSN Mbelel: 1669ba8a
+      E Guehoada: 8c03f3b8
+      EGS Kana: 8a91d0f1
+      J Chibhabha: 4c5c47a4
+      JAN Ngono: 0bc162c4
+      K Klaaste: 6cc1d918
+      L Mamba: bcbb22dc
+      LM Gwebu: 5cc27b7e
+      LN Shabalala: '21548315'
+      LS Simelane: 642b1b28
+      M Dlamini: 877a3433
+      ME Bessala: a8301fdc
+      MFD Douma: 88bcd8da
+      MLN Sissako: 52a0e81d
+      N Gwebu: 67e4248c
+      N Mabila: 21ef59e3
+      N Mamba: f99b9970
+      NB Diom: f7b100e8
+      Ntombizodwa Mkhatshwa: 5d297269
+      O Ranedoumoun: 71ee8c8d
+      Patric Makumbi: e4c69c16
+      R D'Mello: f3c22863
+      T Dlamini: b92d1fe6
+      ZN Shabalala: c0a87b5d
+  teams:
+  - Cameroon
+  - Eswatini
+  toss:
+    winner: Eswatini
+    decision: field
+  umpires:
+  - K Klaaste
+  - Patric Makumbi
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Cameroon
+    deliveries:
+    - 0.1:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.2:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.3:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JAN Ngono
+        batsman: MLN Sissako
+    - 0.4:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JAN Ngono
+    - 0.5:
+        non_striker: JAN Ngono
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 0.6:
+        non_striker: JAN Ngono
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 0.7:
+        non_striker: JAN Ngono
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 1.1:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 1.2:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 1.3:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 1.4:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JAN Ngono
+    - 1.5:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 1.6:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAN Ngono
+    - 1.7:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+        wicket:
+          player_out: JAN Ngono
+          kind: bowled
+    - 2.1:
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 2.2:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 2.3:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 2.4:
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 2.5:
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: BMA Mbida
+        batsman: MLN Sissako
+    - 2.6:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 2.7:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 2.8:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 3.1:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 3.2:
+        non_striker: BMA Mbida
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 3.3:
+        non_striker: BMA Mbida
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MLN Sissako
+    - 3.4:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BMA Mbida
+    - 3.5:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 3.6:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 4.1:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 4.2:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 4.3:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MLN Sissako
+    - 4.4:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMA Mbida
+    - 4.5:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 4.6:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 4.7:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 4.8:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 4.9:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 5.1:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMA Mbida
+    - 5.2:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BMA Mbida
+    - 5.3:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 5.4:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 5.5:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BMA Mbida
+    - 5.6:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 5.7:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 6.1:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 6.2:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.3:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 6.4:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 6.5:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 6.6:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 6.7:
+        non_striker: BMA Mbida
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 7.1:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BMA Mbida
+    - 7.2:
+        non_striker: BMA Mbida
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MLN Sissako
+    - 7.3:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: BMA Mbida
+    - 7.4:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: BMA Mbida
+    - 7.5:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 7.6:
+        non_striker: BMA Mbida
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 7.7:
+        non_striker: BMA Mbida
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 7.8:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+        wicket:
+          player_out: BMA Mbida
+          kind: bowled
+    - 7.9:
+        non_striker: MLN Sissako
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 8.1:
+        non_striker: B Waluma
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 8.2:
+        non_striker: B Waluma
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 8.3:
+        non_striker: B Waluma
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 8.4:
+        non_striker: B Waluma
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 8.5:
+        non_striker: B Waluma
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 8.6:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Waluma
+    - 8.7:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 8.8:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Waluma
+    - 8.9:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Waluma
+    - 9.1:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 9.2:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 9.3:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 9.4:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 9.5:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 9.6:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 9.7:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 9.8:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 9.9:
+        non_striker: B Waluma
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.1:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Waluma
+    - 10.2:
+        non_striker: MLN Sissako
+        bowler: T Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Waluma
+    - 10.3:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MLN Sissako
+    - 10.4:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.5:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.6:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.7:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 10.8:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.9:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 10.10:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.11:
+        non_striker: B Waluma
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 11.1:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 11.2:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Waluma
+    - 11.3:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Waluma
+    - 11.4:
+        non_striker: B Waluma
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 11.5:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 11.6:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Waluma
+    - 12.1:
+        non_striker: B Waluma
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 12.2:
+        non_striker: B Waluma
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 12.3:
+        non_striker: B Waluma
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 12.4:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 12.5:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 12.6:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: B Waluma
+          kind: bowled
+    - 13.1:
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ME Bessala
+        batsman: MLN Sissako
+    - 13.2:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 13.3:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MLN Sissako
+    - 13.4:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 13.5:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 13.6:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 13.7:
+        non_striker: MLN Sissako
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 14.1:
+        non_striker: ME Bessala
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 14.2:
+        non_striker: ME Bessala
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 14.3:
+        non_striker: ME Bessala
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 14.4:
+        non_striker: ME Bessala
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 14.5:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bessala
+    - 14.6:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 14.7:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bessala
+    - 14.8:
+        non_striker: MLN Sissako
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 15.1:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 15.2:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 15.3:
+        non_striker: ME Bessala
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 15.4:
+        non_striker: ME Bessala
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 15.5:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bessala
+    - 15.6:
+        non_striker: MLN Sissako
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bessala
+    - 16.1:
+        non_striker: ME Bessala
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 16.2:
+        non_striker: ME Bessala
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 16.3:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 16.4:
+        non_striker: MLN Sissako
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 16.5:
+        non_striker: ME Bessala
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 16.6:
+        non_striker: ME Bessala
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 17.1:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+        wicket:
+          player_out: MLN Sissako
+          fielders:
+          - N Mabila
+          kind: caught
+    - 17.2:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 17.3:
+        non_striker: EGS Kana
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 17.4:
+        non_striker: EGS Kana
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bessala
+    - 17.5:
+        non_striker: EGS Kana
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 17.6:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+        wicket:
+          player_out: EGS Kana
+          fielders:
+          - M Dlamini
+          kind: caught
+    - 18.1:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.2:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.3:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.4:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.5:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.6:
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CSN Mbelel
+        batsman: ME Bessala
+    - 18.7:
+        non_striker: CSN Mbelel
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 19.1:
+        non_striker: CSN Mbelel
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 19.2:
+        non_striker: CSN Mbelel
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bessala
+    - 19.3:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CSN Mbelel
+    - 19.4:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CSN Mbelel
+    - 19.5:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 19.6:
+        non_striker: ME Bessala
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CSN Mbelel
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LN Shabalala
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.2:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LN Shabalala
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.3:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+        wicket:
+          player_out: Ntombizodwa Mkhatshwa
+          kind: bowled
+    - 0.4:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 0.5:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dlamini
+    - 0.6:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 1.1:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 1.2:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 1.3:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 1.4:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 1.5:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 1.6:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Shabalala
+    - 2.1:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 2.2:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 2.3:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 2.4:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 2.5:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LN Shabalala
+    - 2.6:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 3.1:
+        non_striker: LN Shabalala
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 3.2:
+        non_striker: LN Shabalala
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dlamini
+    - 3.3:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LN Shabalala
+    - 3.4:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 3.5:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 3.6:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 3.7:
+        non_striker: M Dlamini
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 4.1:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.2:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.3:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Dlamini
+    - 4.4:
+        non_striker: LN Shabalala
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dlamini
+    - 4.5:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 4.6:
+        non_striker: M Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+        wicket:
+          player_out: LN Shabalala
+          kind: bowled
+    - 5.1:
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZN Shabalala
+        batsman: M Dlamini
+    - 5.2:
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZN Shabalala
+        batsman: M Dlamini
+    - 5.3:
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZN Shabalala
+        batsman: M Dlamini
+    - 5.4:
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZN Shabalala
+        batsman: M Dlamini
+    - 5.5:
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZN Shabalala
+        batsman: M Dlamini
+    - 5.6:
+        non_striker: ZN Shabalala
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 6.1:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 6.2:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 6.3:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+        wicket:
+          player_out: ZN Shabalala
+          fielders:
+          - O Ranedoumoun
+          kind: caught
+    - 6.4:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 6.5:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 6.6:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 7.1:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Dlamini
+    - 7.2:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.3:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.4:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dlamini
+    - 7.5:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 7.6:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Mabila
+    - 7.7:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 7.8:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 8.1:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 8.2:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 8.3:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 8.4:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 8.5:
+        non_striker: N Mabila
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 8.6:
+        non_striker: N Mabila
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 9.1:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 9.2:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Mabila
+    - 9.3:
+        non_striker: M Dlamini
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Mabila
+    - 9.4:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 9.5:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 9.6:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 9.7:
+        non_striker: N Mabila
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 10.1:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+        wicket:
+          player_out: N Mabila
+          kind: bowled
+    - 10.2:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+        wicket:
+          player_out: N Mamba
+          kind: caught and bowled
+    - 10.3:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 10.4:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 10.5:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 10.6:
+        non_striker: M Dlamini
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 11.1:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dlamini
+    - 11.2:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+        wicket:
+          player_out: M Dlamini
+          kind: bowled
+    - 11.3:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 11.4:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mamba
+    - 11.5:
+        non_striker: L Mamba
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 11.6:
+        non_striker: L Mamba
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 12.1:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+        wicket:
+          player_out: L Mamba
+          fielders:
+          - CSN Mbelel
+          kind: caught
+    - 12.2:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 12.3:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 12.4:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 12.5:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 12.6:
+        non_striker: N Gwebu
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 13.1:
+        non_striker: LM Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 13.2:
+        non_striker: LM Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 13.3:
+        non_striker: LM Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 13.4:
+        non_striker: LM Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 13.5:
+        non_striker: LM Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwebu
+    - 13.6:
+        non_striker: N Gwebu
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 14.1:
+        non_striker: LM Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 14.2:
+        non_striker: LM Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwebu
+    - 14.3:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 14.4:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 14.5:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+    - 14.6:
+        non_striker: N Gwebu
+        bowler: JAN Ngono
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gwebu
+    - 15.1:
+        non_striker: N Gwebu
+        bowler: ME Bessala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Gwebu
+    - 15.2:
+        non_striker: N Gwebu
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gwebu
+        wicket:
+          player_out: LM Gwebu
+          fielders:
+          - MLN Sissako
+          kind: caught
+    - 15.3:
+        non_striker: N Gwebu
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 15.4:
+        non_striker: N Gwebu
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dlamini
+    - 15.5:
+        non_striker: T Dlamini
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 15.6:
+        non_striker: T Dlamini
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 15.7:
+        non_striker: T Dlamini
+        bowler: ME Bessala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gwebu
+    - 15.8:
+        non_striker: T Dlamini
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 16.1:
+        non_striker: N Gwebu
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 16.2:
+        non_striker: N Gwebu
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dlamini
+    - 16.3:
+        non_striker: T Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 16.4:
+        non_striker: T Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+    - 16.5:
+        non_striker: T Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwebu
+        wicket:
+          player_out: N Gwebu
+          fielders:
+          - ME Bessala
+          kind: caught
+    - 16.6:
+        non_striker: T Dlamini
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Simelane
+    - 17.1:
+        non_striker: LS Simelane
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+        wicket:
+          player_out: T Dlamini
+          kind: bowled

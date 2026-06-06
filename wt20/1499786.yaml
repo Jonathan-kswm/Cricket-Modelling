@@ -1,0 +1,2246 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-09'
+  gender: female
+  match_type: T20
+  match_type_number: 2493
+  outcome:
+    winner: Vanuatu
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - R Andrew
+  players:
+    Vanuatu:
+    - R Andrew
+    - V Langiatu
+    - N Navaika
+    - S Solman
+    - A Chilia
+    - S Stephen
+    - G Chilia
+    - V Mansale
+    - R Ova
+    - M Tarimiala
+    - V Vira
+    Indonesia:
+    - M Corazon
+    - D Wulandari
+    - Emily Sirs
+    - NPAN Sakarini
+    - NLKWR Dewi
+    - NKF Rada Rani
+    - NK Ariani
+    - DAL Paramitha
+    - NMP Suwandewi
+    - SAN Maypriani
+    - NW Sariani
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      C Black: 75b42f71
+      D Wulandari: 8c0d904e
+      DAL Paramitha: 84f831c3
+      Emily Sirs: aa88b08b
+      G Chilia: daf255ce
+      H Atai: 0460d756
+      Kim Cotton: 67a7c2ee
+      M Corazon: 0baa36e0
+      M Tarimiala: 0030a57d
+      N Navaika: b0023708
+      NK Ariani: 382377a4
+      NKF Rada Rani: 39f4084c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      NW Sariani: e910d955
+      R Andrew: 66c1accf
+      R Ova: 88bba252
+      S Solman: 24ed1f75
+      S Stephen: b48304b5
+      SAN Maypriani: ad135bde
+      TL Anderson: f52ddf8d
+      V Langiatu: fdd18ca0
+      V Mansale: 7163637f
+      V Vira: '94271647'
+  teams:
+  - Vanuatu
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - H Atai
+  - Kim Cotton
+  venue: Albert Park 1, Suva
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.2:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.3:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.4:
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.5:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 0.6:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 0.7:
+        non_striker: V Langiatu
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 1.1:
+        non_striker: V Langiatu
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 1.2:
+        non_striker: V Langiatu
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 1.3:
+        non_striker: V Langiatu
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 1.4:
+        non_striker: R Andrew
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          fielders:
+          - NMP Suwandewi
+          kind: caught
+    - 1.5:
+        non_striker: R Andrew
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 1.6:
+        non_striker: R Andrew
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 2.1:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 2.2:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 2.3:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 2.4:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 2.5:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 2.6:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 3.1:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.2:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 3.3:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.4:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 3.5:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 3.6:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.7:
+        non_striker: N Navaika
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 4.1:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 4.2:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.3:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 4.4:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 4.5:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 4.6:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 5.1:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Navaika
+    - 5.2:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.3:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.4:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Navaika
+    - 5.5:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 5.6:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 5.7:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.8:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.9:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.1:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 6.2:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.3:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.4:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 6.5:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 6.6:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.7:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 7.1:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 7.2:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.3:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.4:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.5:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.6:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 8.1:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 8.2:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: R Andrew
+    - 8.3:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 8.4:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 8.5:
+        non_striker: N Navaika
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.6:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 8.7:
+        non_striker: R Andrew
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.1:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.2:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.3:
+        non_striker: R Andrew
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 9.4:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 9.5:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 9.6:
+        non_striker: N Navaika
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.1:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Navaika
+    - 10.2:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: N Navaika
+    - 10.3:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 10.4:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.5:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.6:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.7:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 11.1:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.2:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.3:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.4:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 11.5:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 11.6:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 11.7:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 12.1:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.2:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.3:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.4:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.5:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 12.6:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 13.1:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 13.2:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 13.3:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 13.4:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Navaika
+    - 13.5:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 13.6:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 14.1:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 14.2:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 14.3:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 14.4:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 14.5:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 14.6:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 15.1:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 15.2:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Andrew
+    - 15.3:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 15.4:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 15.5:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 15.6:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 16.1:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 16.2:
+        non_striker: N Navaika
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 16.3:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 16.4:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 16.5:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 16.6:
+        non_striker: R Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 17.1:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 17.2:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 17.3:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 17.4:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 17.5:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 17.6:
+        non_striker: N Navaika
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 18.1:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 18.2:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 18.3:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 18.4:
+        non_striker: N Navaika
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 18.5:
+        non_striker: R Andrew
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: N Navaika
+          fielders:
+          - NPAN Sakarini
+          - NK Ariani
+          kind: run out
+    - 18.6:
+        non_striker: S Solman
+        bowler: NK Ariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 19.1:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 19.2:
+        non_striker: R Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 19.3:
+        non_striker: S Solman
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 19.4:
+        non_striker: S Solman
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 19.5:
+        non_striker: S Solman
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 19.6:
+        non_striker: S Solman
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wulandari
+        batsman: M Corazon
+    - 0.2:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wulandari
+        batsman: M Corazon
+    - 0.3:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wulandari
+        batsman: M Corazon
+    - 0.4:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Wulandari
+        batsman: M Corazon
+    - 0.5:
+        non_striker: M Corazon
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 0.6:
+        non_striker: M Corazon
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 1.1:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.2:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 1.3:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 1.4:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 1.5:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 1.6:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 2.1:
+        non_striker: M Corazon
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 2.2:
+        non_striker: D Wulandari
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.3:
+        non_striker: D Wulandari
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 2.4:
+        non_striker: D Wulandari
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.5:
+        non_striker: D Wulandari
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 2.6:
+        non_striker: D Wulandari
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 3.1:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 3.2:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Wulandari
+    - 3.3:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 3.4:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 3.5:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 3.6:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 3.7:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 4.1:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 4.2:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 4.3:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 4.4:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wulandari
+    - 4.5:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wulandari
+    - 4.6:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wulandari
+    - 4.7:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 4.8:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 5.1:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 5.2:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 5.3:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 5.4:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 5.5:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 5.6:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 6.1:
+        non_striker: D Wulandari
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 6.2:
+        non_striker: D Wulandari
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 6.3:
+        non_striker: D Wulandari
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 6.4:
+        non_striker: D Wulandari
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 6.5:
+        non_striker: D Wulandari
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 6.6:
+        non_striker: M Corazon
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 7.1:
+        non_striker: D Wulandari
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 7.2:
+        non_striker: D Wulandari
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 7.3:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 7.4:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 7.5:
+        non_striker: D Wulandari
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 7.6:
+        non_striker: M Corazon
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 8.1:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+    - 8.2:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 8.3:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 8.4:
+        non_striker: D Wulandari
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 8.5:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wulandari
+    - 8.6:
+        non_striker: M Corazon
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 9.1:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 9.2:
+        non_striker: D Wulandari
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 9.3:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wulandari
+    - 9.4:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wulandari
+    - 9.5:
+        non_striker: D Wulandari
+        bowler: N Navaika
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Corazon
+    - 9.6:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wulandari
+    - 9.7:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wulandari
+        wicket:
+          player_out: D Wulandari
+          fielders:
+          - R Andrew
+          kind: caught
+    - 9.8:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emily Sirs
+    - 10.1:
+        non_striker: Emily Sirs
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 10.2:
+        non_striker: M Corazon
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emily Sirs
+    - 10.3:
+        non_striker: M Corazon
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Emily Sirs
+    - 10.4:
+        non_striker: Emily Sirs
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 10.5:
+        non_striker: Emily Sirs
+        bowler: V Mansale
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: M Corazon
+    - 10.6:
+        non_striker: M Corazon
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emily Sirs
+    - 10.7:
+        non_striker: Emily Sirs
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 11.1:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emily Sirs
+        wicket:
+          player_out: Emily Sirs
+          fielders:
+          - S Stephen
+          kind: caught
+    - 11.2:
+        non_striker: M Corazon
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 11.3:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 11.4:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 11.5:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Corazon
+    - 11.6:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+        wicket:
+          player_out: M Corazon
+          fielders:
+          - V Mansale
+          kind: caught
+    - 12.1:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 12.2:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 12.3:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 12.4:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 12.5:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 12.6:
+        non_striker: NLKWR Dewi
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.1:
+        non_striker: NLKWR Dewi
+        bowler: R Ova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NPAN Sakarini
+    - 13.2:
+        non_striker: NLKWR Dewi
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.3:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLKWR Dewi
+    - 13.4:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 13.5:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 13.6:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLKWR Dewi
+    - 13.7:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 13.8:
+        non_striker: NLKWR Dewi
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 13.9:
+        non_striker: NPAN Sakarini
+        bowler: R Ova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 14.1:
+        non_striker: NLKWR Dewi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 14.2:
+        non_striker: NLKWR Dewi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 14.3:
+        non_striker: NPAN Sakarini
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 14.4:
+        non_striker: NLKWR Dewi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 14.5:
+        non_striker: NPAN Sakarini
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 14.6:
+        non_striker: NLKWR Dewi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NPAN Sakarini
+    - 15.1:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 15.2:
+        non_striker: NLKWR Dewi
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 15.3:
+        non_striker: NLKWR Dewi
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 15.4:
+        non_striker: NPAN Sakarini
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 15.5:
+        non_striker: NLKWR Dewi
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 15.6:
+        non_striker: NLKWR Dewi
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 16.1:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+        wicket:
+          player_out: NPAN Sakarini
+          kind: bowled
+    - 16.2:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 16.3:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 16.4:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 16.5:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+    - 16.6:
+        non_striker: NLKWR Dewi
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 17.1:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NKF Rada Rani
+    - 17.2:
+        non_striker: NKF Rada Rani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 17.3:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NKF Rada Rani
+    - 17.4:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NKF Rada Rani
+        wicket:
+          player_out: NKF Rada Rani
+          kind: bowled
+    - 17.5:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Ariani
+    - 17.6:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NK Ariani
+    - 17.7:
+        non_striker: NLKWR Dewi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 18.1:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 18.2:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+        wicket:
+          player_out: NLKWR Dewi
+          kind: bowled
+    - 18.3:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAL Paramitha
+        wicket:
+          player_out: DAL Paramitha
+          kind: bowled
+    - 18.4:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMP Suwandewi
+        wicket:
+          player_out: NMP Suwandewi
+          kind: lbw
+    - 18.5:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SAN Maypriani
+    - 18.6:
+        non_striker: NK Ariani
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SAN Maypriani
+    - 19.1:
+        non_striker: SAN Maypriani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 19.2:
+        non_striker: SAN Maypriani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Ariani
+    - 19.3:
+        non_striker: SAN Maypriani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Ariani
+    - 19.4:
+        non_striker: NK Ariani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SAN Maypriani
+    - 19.5:
+        non_striker: NK Ariani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SAN Maypriani
+    - 19.6:
+        non_striker: SAN Maypriani
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Ariani

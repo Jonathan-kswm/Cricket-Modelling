@@ -1,0 +1,1773 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kathmandu
+  dates:
+  - '2026-01-22'
+  gender: female
+  match_type: T20
+  match_type_number: 2638
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  players:
+    Zimbabwe:
+    - CS Mugeri-Tiripano
+    - B Biza
+    - M Mupachikwa
+    - K Ndlovu
+    - L Tshuma
+    - CT Dhururu
+    - N Gwanzura
+    - L Phiri
+    - C Chatonzwa
+    - A Zimunu
+    - A Mazvishaya
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - M McColl
+    - PA Chatterji
+    - O Bell
+    - R Slater
+    - AH Maqsood
+    - C Abel
+  registry:
+    people:
+      A Lister: '090c0213'
+      A Mazvishaya: '09a58e2d'
+      A Zimunu: af6c03bc
+      AH Maqsood: f61e2829
+      B Biza: 8a522c6c
+      BB Pradhan: 8603d942
+      C Abel: d92d3563
+      C Chatonzwa: da61a9af
+      CS Mugeri-Tiripano: 99c86133
+      CT Dhururu: 8d7fba79
+      DEM Carter: c3394c16
+      Jonathan Kennedy: f7ad4494
+      K Fraser: a0a65375
+      K Ndlovu: 8d25271a
+      KE Bryce: f13d3eba
+      L Phiri: cca8bdca
+      L Tshuma: f281dd00
+      M McColl: d5fa2ab3
+      M Mupachikwa: 6657b319
+      N Gwanzura: 9c2e3040
+      O Bell: 385eac52
+      PA Chatterji: 8e7be59c
+      R Slater: 8a452195
+      Reon King: 20fbf68c
+      S Redfern: 5b038989
+      SJ Bryce: 2ca65aee
+  teams:
+  - Zimbabwe
+  - Scotland
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - BB Pradhan
+  - Jonathan Kennedy
+  venue: Mulpani Cricket Ground
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.6:
+        non_striker: B Biza
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 1.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 1.2:
+        non_striker: B Biza
+        bowler: O Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CS Mugeri-Tiripano
+    - 1.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 1.4:
+        non_striker: B Biza
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 1.5:
+        non_striker: B Biza
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          fielders:
+          - M McColl
+          kind: caught
+    - 1.6:
+        non_striker: B Biza
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 2.1:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 2.2:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: B Biza
+    - 2.3:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 2.4:
+        non_striker: B Biza
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.5:
+        non_striker: B Biza
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 2.6:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 3.1:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.2:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.3:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Biza
+    - 3.5:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+        wicket:
+          player_out: B Biza
+          kind: bowled
+    - 3.6:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.2:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.3:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.4:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 4.5:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ndlovu
+    - 4.6:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 4.7:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 5.1:
+        non_striker: K Ndlovu
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 5.2:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 5.3:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 5.4:
+        non_striker: K Ndlovu
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 5.5:
+        non_striker: K Ndlovu
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.6:
+        non_striker: K Ndlovu
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.7:
+        non_striker: K Ndlovu
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.1:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 6.2:
+        non_striker: K Ndlovu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.3:
+        non_striker: K Ndlovu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.4:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 6.5:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 6.6:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 7.1:
+        non_striker: L Tshuma
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.2:
+        non_striker: L Tshuma
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.3:
+        non_striker: L Tshuma
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 7.4:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+        wicket:
+          player_out: L Tshuma
+          kind: bowled
+    - 7.5:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 7.6:
+        non_striker: M Mupachikwa
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 8.1:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.2:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 8.3:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 8.4:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.5:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 8.6:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 8.7:
+        non_striker: CT Dhururu
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 9.1:
+        non_striker: CT Dhururu
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.2:
+        non_striker: CT Dhururu
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.3:
+        non_striker: CT Dhururu
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.4:
+        non_striker: CT Dhururu
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 9.5:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 9.6:
+        non_striker: CT Dhururu
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.1:
+        non_striker: CT Dhururu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 10.2:
+        non_striker: CT Dhururu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.3:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 10.4:
+        non_striker: CT Dhururu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.5:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 10.6:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 11.1:
+        non_striker: M Mupachikwa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 11.2:
+        non_striker: M Mupachikwa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 11.3:
+        non_striker: CT Dhururu
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 11.4:
+        non_striker: M Mupachikwa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 11.5:
+        non_striker: CT Dhururu
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.6:
+        non_striker: CT Dhururu
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 12.1:
+        non_striker: CT Dhururu
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 12.2:
+        non_striker: CT Dhururu
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 12.3:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 12.4:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 12.5:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 12.6:
+        non_striker: M Mupachikwa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 13.1:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 13.2:
+        non_striker: CT Dhururu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 13.3:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 13.4:
+        non_striker: CT Dhururu
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 13.5:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 13.6:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 14.1:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 14.2:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+        wicket:
+          player_out: CT Dhururu
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 14.3:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gwanzura
+    - 14.4:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+        wicket:
+          player_out: N Gwanzura
+          kind: lbw
+    - 14.5:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 14.6:
+        non_striker: M Mupachikwa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Phiri
+    - 15.1:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+        wicket:
+          player_out: L Phiri
+          fielders:
+          - SJ Bryce
+          - O Bell
+          kind: run out
+    - 15.2:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatonzwa
+    - 15.3:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 15.4:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 15.5:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 15.6:
+        non_striker: C Chatonzwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 16.1:
+        non_striker: C Chatonzwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 16.2:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatonzwa
+    - 16.3:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 16.4:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 16.5:
+        non_striker: M Mupachikwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 16.6:
+        non_striker: C Chatonzwa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 17.1:
+        non_striker: C Chatonzwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 17.2:
+        non_striker: C Chatonzwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 17.3:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 17.4:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+        wicket:
+          player_out: C Chatonzwa
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 17.5:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zimunu
+        wicket:
+          player_out: A Zimunu
+          kind: bowled
+    - 17.6:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mazvishaya
+    - 17.7:
+        non_striker: M Mupachikwa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 18.1:
+        non_striker: A Mazvishaya
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 18.2:
+        non_striker: A Mazvishaya
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 18.3:
+        non_striker: A Mazvishaya
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 18.4:
+        non_striker: M Mupachikwa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+        wicket:
+          player_out: A Mazvishaya
+          fielders:
+          - M McColl
+          kind: caught
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.2:
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.3:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 0.4:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 0.5:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 0.6:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.1:
+        non_striker: K Fraser
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.2:
+        non_striker: K Fraser
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 1.3:
+        non_striker: DEM Carter
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.4:
+        non_striker: DEM Carter
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.6:
+        non_striker: DEM Carter
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.1:
+        non_striker: K Fraser
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.2:
+        non_striker: K Fraser
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 2.3:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 2.5:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.6:
+        non_striker: DEM Carter
+        bowler: A Zimunu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 3.1:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DEM Carter
+    - 3.2:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.3:
+        non_striker: DEM Carter
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 3.4:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.5:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.6:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - M Mupachikwa
+          kind: caught
+    - 3.7:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.1:
+        non_striker: KE Bryce
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.3:
+        non_striker: KE Bryce
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.4:
+        non_striker: KE Bryce
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 4.5:
+        non_striker: K Fraser
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.6:
+        non_striker: K Fraser
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 5.2:
+        non_striker: KE Bryce
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 5.3:
+        non_striker: KE Bryce
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 5.4:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.5:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: K Fraser
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: KE Bryce
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 6.2:
+        non_striker: K Fraser
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 6.3:
+        non_striker: K Fraser
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.4:
+        non_striker: K Fraser
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 6.5:
+        non_striker: K Fraser
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 7.1:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 7.3:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+    - 7.4:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.5:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.6:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 8.3:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.4:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 8.6:
+        non_striker: SJ Bryce
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 9.1:
+        non_striker: SJ Bryce
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 9.2:
+        non_striker: SJ Bryce
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 9.3:
+        non_striker: SJ Bryce
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 9.4:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - N Gwanzura
+          kind: caught
+    - 9.5:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.6:
+        non_striker: K Fraser
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - CT Dhururu
+          kind: caught
+    - 10.1:
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M McColl
+        batsman: K Fraser
+    - 10.2:
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M McColl
+        batsman: K Fraser
+    - 10.3:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 10.4:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 10.5:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M McColl
+    - 10.6:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 10.7:
+        non_striker: K Fraser
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+        wicket:
+          player_out: K Fraser
+          fielders:
+          - L Phiri
+          - C Chatonzwa
+          kind: run out
+    - 11.1:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 11.2:
+        non_striker: PA Chatterji
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 11.3:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 11.4:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 11.5:
+        non_striker: PA Chatterji
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 11.6:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: PA Chatterji
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 12.2:
+        non_striker: M McColl
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 12.3:
+        non_striker: M McColl
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 12.4:
+        non_striker: M McColl
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 12.6:
+        non_striker: M McColl
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.1:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 13.2:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.3:
+        non_striker: PA Chatterji
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 13.4:
+        non_striker: M McColl
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji

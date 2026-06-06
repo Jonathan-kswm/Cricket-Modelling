@@ -1,0 +1,1963 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2025-09-02'
+  gender: female
+  match_type: T20
+  match_type_number: 2471
+  outcome:
+    winner: Isle of Man
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Jersey:
+    - A Merritt
+    - A Aikenhead
+    - F Tanguy
+    - G Wetherall
+    - MD Rocha
+    - L Greig
+    - A Mossop
+    - M Maguire
+    - E Gouge
+    - G Mallett
+    - D Pearce
+    Isle of Man:
+    - L Barnett
+    - L Moore
+    - C Henery
+    - C Crowe
+    - R Overman
+    - R Stones
+    - C Perry
+    - G Ford
+    - L Hornby-Wheeler
+    - A Thorpe
+    - J Hicks
+  registry:
+    people:
+      A Aikenhead: 007f121f
+      A Merritt: 4c87bd01
+      A Mossop: 006b0d25
+      A Thorpe: 6c54bd7a
+      C Crowe: 9b671b41
+      C Henery: 03d9e80f
+      C Perry: 152d3c9d
+      D Pearce: b901e93c
+      E Gouge: e01e17ee
+      F Tanguy: c46400b7
+      G Ford: c569a574
+      G Mallett: 95bf6b2a
+      G Wetherall: 5c77d7cb
+      J Hicks: 802febe2
+      L Barnett: d9a2345a
+      L Greig: 0e3e8ce3
+      L Hornby-Wheeler: a5ce3e4d
+      L Moore: da50a075
+      M Maguire: 0441a1f5
+      MD Rocha: 30aa04d2
+      R Overman: 2ec52460
+      R Stones: '45474493'
+  teams:
+  - Jersey
+  - Isle of Man
+  toss:
+    winner: Isle of Man
+    decision: field
+  venue: New Farnley CC, Leeds
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Aikenhead
+        batsman: A Merritt
+    - 0.2:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Aikenhead
+        batsman: A Merritt
+    - 0.3:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 0.4:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aikenhead
+    - 0.5:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 0.6:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 1.1:
+        non_striker: A Aikenhead
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.2:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 1.3:
+        non_striker: A Aikenhead
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.4:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 1.5:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 1.6:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 2.1:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 2.2:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+        wicket:
+          player_out: A Aikenhead
+          kind: bowled
+    - 2.3:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 2.4:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 2.5:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 2.6:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 3.1:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 3.2:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 3.3:
+        non_striker: F Tanguy
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.4:
+        non_striker: F Tanguy
+        bowler: C Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Merritt
+    - 3.5:
+        non_striker: F Tanguy
+        bowler: C Perry
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Merritt
+    - 3.6:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 3.7:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 3.8:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 4.1:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 4.2:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Merritt
+    - 4.3:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 4.4:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 4.5:
+        non_striker: A Merritt
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 4.6:
+        non_striker: F Tanguy
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.1:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 5.2:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Tanguy
+    - 5.3:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: F Tanguy
+    - 5.4:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 5.5:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 5.6:
+        non_striker: F Tanguy
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 5.7:
+        non_striker: A Merritt
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 6.1:
+        non_striker: F Tanguy
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Merritt
+    - 6.2:
+        non_striker: F Tanguy
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+        wicket:
+          player_out: A Merritt
+          kind: bowled
+    - 6.3:
+        non_striker: F Tanguy
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 6.4:
+        non_striker: F Tanguy
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 6.5:
+        non_striker: G Wetherall
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 6.6:
+        non_striker: F Tanguy
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 6.7:
+        non_striker: G Wetherall
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+        wicket:
+          player_out: F Tanguy
+          fielders:
+          - J Hicks
+          kind: caught
+    - 7.1:
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MD Rocha
+        batsman: G Wetherall
+    - 7.2:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 7.3:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Rocha
+    - 7.4:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 7.5:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 7.6:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 7.7:
+        non_striker: G Wetherall
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 8.1:
+        non_striker: G Wetherall
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 8.2:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+        wicket:
+          player_out: G Wetherall
+          fielders:
+          - L Barnett
+          kind: caught
+    - 8.3:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 8.4:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 8.5:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 8.6:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 9.1:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 9.2:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Greig
+    - 9.3:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 9.4:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Greig
+    - 9.5:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 9.6:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 9.7:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 10.1:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Greig
+    - 10.2:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Greig
+    - 10.3:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 10.4:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 10.5:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 10.6:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 10.7:
+        non_striker: MD Rocha
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Greig
+    - 11.1:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 11.2:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 11.3:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+    - 11.4:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 11.5:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 11.6:
+        non_striker: MD Rocha
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 11.7:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Rocha
+    - 11.8:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 12.1:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Rocha
+        wicket:
+          player_out: MD Rocha
+          kind: bowled
+    - 12.2:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mossop
+    - 12.3:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 12.4:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 12.5:
+        non_striker: A Mossop
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 12.6:
+        non_striker: L Greig
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Mossop
+    - 13.1:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 13.2:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 13.3:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Mossop
+    - 13.4:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 13.5:
+        non_striker: L Greig
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Mossop
+    - 13.6:
+        non_striker: A Mossop
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 13.7:
+        non_striker: A Mossop
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+        wicket:
+          player_out: L Greig
+          kind: bowled
+    - 14.1:
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Maguire
+        batsman: A Mossop
+    - 14.2:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 14.3:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 14.4:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Maguire
+    - 14.5:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mossop
+    - 14.6:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 15.1:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Maguire
+    - 15.2:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 15.3:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 15.4:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 15.5:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Maguire
+    - 15.6:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 15.7:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 16.1:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.2:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.3:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.4:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.5:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.6:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 17.1:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 17.2:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 17.3:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 17.4:
+        non_striker: M Maguire
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 17.5:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Maguire
+    - 17.6:
+        non_striker: A Mossop
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Maguire
+    - 18.1:
+        non_striker: M Maguire
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 18.2:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 18.3:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 18.4:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Maguire
+    - 18.5:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+        wicket:
+          player_out: M Maguire
+          fielders:
+          - R Stones
+          kind: stumped
+    - 18.6:
+        non_striker: A Mossop
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Gouge
+    - 19.1:
+        non_striker: E Gouge
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 19.2:
+        non_striker: E Gouge
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mossop
+    - 19.3:
+        non_striker: E Gouge
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 19.4:
+        non_striker: E Gouge
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 19.5:
+        non_striker: A Mossop
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Gouge
+    - 19.6:
+        non_striker: E Gouge
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mossop
+- 2nd innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.2:
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.3:
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.4:
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.5:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 0.6:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 1.1:
+        non_striker: L Moore
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 1.2:
+        non_striker: L Moore
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 1.3:
+        non_striker: L Moore
+        bowler: G Wetherall
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Barnett
+    - 1.4:
+        non_striker: L Moore
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 1.5:
+        non_striker: L Barnett
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 1.6:
+        non_striker: L Barnett
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 1.7:
+        non_striker: L Barnett
+        bowler: G Wetherall
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: L Moore
+    - 2.1:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 2.2:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 2.3:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Moore
+    - 2.4:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 2.5:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 2.6:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Barnett
+    - 3.1:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 3.2:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 3.3:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Moore
+    - 3.4:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Moore
+    - 3.5:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 3.6:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Barnett
+    - 3.7:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 3.8:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Moore
+    - 4.1:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 4.2:
+        non_striker: L Barnett
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 4.3:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 4.4:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 4.5:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 4.6:
+        non_striker: L Moore
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 5.1:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Moore
+    - 5.2:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Barnett
+    - 5.3:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 5.4:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 5.5:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Barnett
+    - 5.6:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Barnett
+    - 5.7:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 6.1:
+        non_striker: L Moore
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 6.2:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Moore
+    - 6.3:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Moore
+    - 6.4:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Moore
+    - 6.5:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 6.6:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Moore
+    - 6.7:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 6.8:
+        non_striker: L Barnett
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 6.9:
+        non_striker: L Moore
+        bowler: D Pearce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 7.1:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Barnett
+    - 7.2:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 7.3:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 7.4:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 7.5:
+        non_striker: L Moore
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 7.6:
+        non_striker: L Barnett
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 8.1:
+        non_striker: L Barnett
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 8.2:
+        non_striker: L Moore
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+        wicket:
+          player_out: L Barnett
+          fielders:
+          - L Greig
+          kind: caught
+    - 8.3:
+        non_striker: L Moore
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 8.4:
+        non_striker: L Moore
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 8.5:
+        non_striker: C Henery
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+        wicket:
+          player_out: L Moore
+          fielders:
+          - E Gouge
+          kind: caught
+    - 8.6:
+        non_striker: C Henery
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 9.1:
+        non_striker: C Crowe
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 9.2:
+        non_striker: C Crowe
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 9.3:
+        non_striker: C Crowe
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 9.4:
+        non_striker: C Henery
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 9.5:
+        non_striker: C Henery
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 9.6:
+        non_striker: C Henery
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 10.1:
+        non_striker: C Crowe
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 10.2:
+        non_striker: C Henery
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 10.3:
+        non_striker: C Crowe
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Henery
+    - 10.4:
+        non_striker: C Crowe
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery
+    - 10.5:
+        non_striker: C Crowe
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 10.6:
+        non_striker: C Crowe
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 11.1:
+        non_striker: C Crowe
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery
+    - 11.2:
+        non_striker: C Crowe
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 11.3:
+        non_striker: C Crowe
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 11.4:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 11.5:
+        non_striker: C Crowe
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 11.6:
+        non_striker: C Crowe
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 12.1:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 12.2:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Crowe
+    - 12.3:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 12.4:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 12.5:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 12.6:
+        non_striker: C Henery
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 13.1:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 13.2:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 13.3:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 13.4:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Crowe
+    - 13.5:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+        wicket:
+          player_out: C Crowe
+          kind: bowled
+    - 13.6:
+        non_striker: C Henery
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 13.7:
+        non_striker: R Overman
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 14.1:
+        non_striker: R Overman
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery

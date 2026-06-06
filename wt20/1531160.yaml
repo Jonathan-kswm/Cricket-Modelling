@@ -1,0 +1,2207 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2026-04-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2740
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - M Uwase
+  players:
+    Rwanda:
+    - F Utagushimaninde
+    - G Ishimwe
+    - A Ikuzwe
+    - M Uwase
+    - H Ishimwe
+    - C Uwase
+    - B Murekatete
+    - F Irakoze
+    - Geovanis Uwase
+    - MD Bimenyimana
+    - Rosine Irera
+    Vanuatu:
+    - V Langiatu
+    - S Stephen
+    - R Andrew
+    - S Solman
+    - N Navaika
+    - M Tarimiala
+    - MV Fare
+    - A Chilia
+    - N Kakor
+    - G Chilia
+    - V Vira
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      A Ikuzwe: 6762a445
+      B Murekatete: 2d4317da
+      C Uwase: 808bb510
+      F Irakoze: 14f0a5e3
+      F Mutizwa: d3e83eef
+      F Utagushimaninde: b973a7ee
+      G Chilia: daf255ce
+      G Ishimwe: b5ae57ee
+      Geovanis Uwase: '088f22fd'
+      H Ishimwe: ffa296f7
+      J Chibhabha: 4c5c47a4
+      L Rusere: 6a4734ae
+      M Tarimiala: 0030a57d
+      M Uwase: 7d6ce83f
+      MD Bimenyimana: c1a0cebe
+      MV Fare: 314463cc
+      N Kakor: 1bc685ee
+      N Navaika: b0023708
+      R Andrew: 66c1accf
+      Rosine Irera: b84718fd
+      S Solman: 24ed1f75
+      S Stephen: b48304b5
+      V Langiatu: fdd18ca0
+      V Vira: '94271647'
+      VR Angara: 5b7b706f
+  teams:
+  - Rwanda
+  - Vanuatu
+  toss:
+    winner: Rwanda
+    decision: bat
+  umpires:
+  - L Rusere
+  - VR Angara
+  venue: Gahanga B Ground, Rwanda
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ishimwe
+        batsman: F Utagushimaninde
+    - 0.2:
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Ishimwe
+        batsman: F Utagushimaninde
+    - 0.3:
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Ishimwe
+        batsman: F Utagushimaninde
+    - 0.4:
+        non_striker: F Utagushimaninde
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 0.5:
+        non_striker: F Utagushimaninde
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 0.6:
+        non_striker: F Utagushimaninde
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 1.1:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Utagushimaninde
+    - 1.2:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 1.3:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 1.4:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 1.5:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Utagushimaninde
+    - 1.6:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 1.7:
+        non_striker: G Ishimwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 2.1:
+        non_striker: F Utagushimaninde
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 2.2:
+        non_striker: G Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 2.3:
+        non_striker: G Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Utagushimaninde
+    - 2.4:
+        non_striker: G Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Utagushimaninde
+    - 2.5:
+        non_striker: G Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 2.6:
+        non_striker: G Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 3.1:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 3.2:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 3.3:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+        wicket:
+          player_out: G Ishimwe
+          fielders:
+          - N Kakor
+          kind: caught
+    - 3.4:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 3.5:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 3.6:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 3.7:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 4.1:
+        non_striker: F Utagushimaninde
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 4.2:
+        non_striker: F Utagushimaninde
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 4.3:
+        non_striker: F Utagushimaninde
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 4.4:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 4.5:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 4.6:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 5.1:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 5.2:
+        non_striker: A Ikuzwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 5.3:
+        non_striker: A Ikuzwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+    - 5.4:
+        non_striker: A Ikuzwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Utagushimaninde
+    - 5.5:
+        non_striker: F Utagushimaninde
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 5.6:
+        non_striker: A Ikuzwe
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Utagushimaninde
+    - 5.7:
+        non_striker: A Ikuzwe
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Utagushimaninde
+    - 6.1:
+        non_striker: F Utagushimaninde
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 6.2:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Utagushimaninde
+        wicket:
+          player_out: F Utagushimaninde
+          fielders:
+          - S Solman
+          kind: caught
+    - 6.3:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 6.4:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Uwase
+    - 6.5:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 6.6:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 6.7:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 7.1:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 7.2:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 7.3:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 7.4:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 7.5:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 7.6:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 8.1:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 8.2:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 8.3:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 8.4:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 8.5:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 8.6:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 9.1:
+        non_striker: M Uwase
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 9.2:
+        non_striker: A Ikuzwe
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 9.3:
+        non_striker: M Uwase
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 9.4:
+        non_striker: M Uwase
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 9.5:
+        non_striker: A Ikuzwe
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 9.6:
+        non_striker: A Ikuzwe
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 10.1:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 10.2:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 10.3:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 10.4:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 10.5:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 10.6:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 10.7:
+        non_striker: A Ikuzwe
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 11.1:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 11.2:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 11.3:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 11.4:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Uwase
+    - 11.5:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Ikuzwe
+    - 11.6:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Uwase
+    - 12.1:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 12.2:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 12.3:
+        non_striker: A Ikuzwe
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 12.4:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 12.5:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 12.6:
+        non_striker: M Uwase
+        bowler: S Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 13.1:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 13.2:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ikuzwe
+    - 13.3:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 13.4:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 13.5:
+        non_striker: A Ikuzwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 13.6:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 14.1:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 14.2:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 14.3:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 14.4:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 14.5:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 14.6:
+        non_striker: A Ikuzwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 15.1:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ikuzwe
+    - 15.2:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+        wicket:
+          player_out: A Ikuzwe
+          fielders:
+          - V Vira
+          kind: caught
+    - 15.3:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 15.4:
+        non_striker: H Ishimwe
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 15.5:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 15.6:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 16.1:
+        non_striker: H Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 16.2:
+        non_striker: H Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 16.3:
+        non_striker: M Uwase
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 16.4:
+        non_striker: H Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 16.5:
+        non_striker: H Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 16.6:
+        non_striker: H Ishimwe
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 17.1:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 17.2:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 17.3:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+        wicket:
+          player_out: H Ishimwe
+          fielders:
+          - V Vira
+          kind: caught
+    - 17.4:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 17.5:
+        non_striker: M Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 17.6:
+        non_striker: C Uwase
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 18.1:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 18.2:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 18.3:
+        non_striker: C Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 18.4:
+        non_striker: C Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 18.5:
+        non_striker: C Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 18.6:
+        non_striker: M Uwase
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 19.1:
+        non_striker: C Uwase
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 19.2:
+        non_striker: C Uwase
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 19.3:
+        non_striker: C Uwase
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 19.4:
+        non_striker: C Uwase
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+        wicket:
+          player_out: M Uwase
+          fielders:
+          - S Stephen
+          kind: caught
+    - 19.5:
+        non_striker: C Uwase
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Murekatete
+    - 19.6:
+        non_striker: B Murekatete
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+- 2nd innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Stephen
+        batsman: V Langiatu
+    - 0.2:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Stephen
+        batsman: V Langiatu
+    - 0.3:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Stephen
+        batsman: V Langiatu
+    - 0.4:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 0.5:
+        non_striker: S Stephen
+        bowler: B Murekatete
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Langiatu
+    - 0.6:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 1.1:
+        non_striker: S Stephen
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 1.2:
+        non_striker: S Stephen
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.3:
+        non_striker: S Stephen
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.4:
+        non_striker: S Stephen
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 1.5:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 1.6:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 2.1:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Stephen
+    - 2.2:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 2.3:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Stephen
+    - 2.4:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Stephen
+    - 2.5:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 2.6:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Stephen
+    - 2.7:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Stephen
+    - 2.8:
+        non_striker: V Langiatu
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 2.9:
+        non_striker: S Stephen
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 3.1:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+        wicket:
+          player_out: S Stephen
+          kind: bowled
+    - 3.2:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.3:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.4:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 3.5:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.6:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.1:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 4.2:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.3:
+        non_striker: R Andrew
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 4.4:
+        non_striker: R Andrew
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 4.5:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.6:
+        non_striker: R Andrew
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 5.1:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.2:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.3:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 5.4:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.5:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 5.6:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 5.7:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 6.1:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.2:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.3:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 6.4:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 6.5:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 6.6:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 7.1:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: V Langiatu
+    - 7.2:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.3:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.4:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 7.5:
+        non_striker: V Langiatu
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.6:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 7.7:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 7.8:
+        non_striker: R Andrew
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 8.1:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 8.2:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 8.3:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.4:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 8.5:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 8.6:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.7:
+        non_striker: R Andrew
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 9.1:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 9.2:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.3:
+        non_striker: R Andrew
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 9.4:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 9.5:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.6:
+        non_striker: R Andrew
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 10.1:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.2:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.3:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 10.4:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 10.5:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.6:
+        non_striker: R Andrew
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Langiatu
+    - 11.1:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 11.2:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 11.3:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 11.4:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 11.5:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 11.6:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 11.7:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 12.1:
+        non_striker: R Andrew
+        bowler: Rosine Irera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 12.2:
+        non_striker: R Andrew
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 12.3:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 12.4:
+        non_striker: R Andrew
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 12.5:
+        non_striker: V Langiatu
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 12.6:
+        non_striker: R Andrew
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 12.7:
+        non_striker: R Andrew
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 13.1:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 13.2:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 13.3:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Andrew
+    - 13.4:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 13.5:
+        non_striker: R Andrew
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 13.6:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 14.1:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+        wicket:
+          player_out: R Andrew
+          fielders:
+          - MD Bimenyimana
+          kind: caught
+    - 14.2:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Solman
+    - 14.3:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 14.4:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 14.5:
+        non_striker: S Solman
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 14.6:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 15.1:
+        non_striker: S Solman
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 15.2:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 15.3:
+        non_striker: V Langiatu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 15.4:
+        non_striker: S Solman
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 15.5:
+        non_striker: S Solman
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 15.6:
+        non_striker: S Solman
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 16.1:
+        non_striker: S Solman
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 16.2:
+        non_striker: S Solman
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Langiatu
+    - 16.3:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 16.4:
+        non_striker: S Solman
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+        wicket:
+          player_out: S Solman
+          fielders:
+          - B Murekatete
+          - Geovanis Uwase
+          kind: run out
+    - 16.5:
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Navaika
+        batsman: V Langiatu
+    - 16.6:
+        non_striker: V Langiatu
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 17.1:
+        non_striker: N Navaika
+        bowler: G Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 17.2:
+        non_striker: N Navaika
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 17.3:
+        non_striker: N Navaika
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 17.4:
+        non_striker: N Navaika
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 17.5:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 17.6:
+        non_striker: V Langiatu
+        bowler: G Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Navaika
+    - 17.7:
+        non_striker: N Navaika
+        bowler: G Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 18.1:
+        non_striker: N Navaika
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 18.2:
+        non_striker: N Navaika
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 18.3:
+        non_striker: N Navaika
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 18.4:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 18.5:
+        non_striker: N Navaika
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 18.6:
+        non_striker: V Langiatu
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 19.1:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 19.2:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 19.3:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 19.4:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Langiatu
+    - 19.5:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 19.6:
+        non_striker: N Navaika
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu

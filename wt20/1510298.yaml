@@ -1,0 +1,1574 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2569
+  outcome:
+    winner: United Arab Emirates
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - ER Oza
+  players:
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - R Musamali
+    - S Nampiina
+    - K Awino
+    - P Alako
+    - M Ariokot
+    - C Aweko
+    - K Amuge
+    - S Akiteng
+    United Arab Emirates:
+    - ER Oza
+    - Theertha Satish
+    - H Hotchandani
+    - Al Maseera Jahangir
+    - MD Botha
+    - Rinitha Rajith
+    - S Dharnidharka
+    - S Kotte
+    - UCKA Dona
+    - Vaishnave Mahesh
+    - ATS Silva
+  registry:
+    people:
+      ATS Silva: 9ca533cc
+      Al Maseera Jahangir: be47cb63
+      C Aweko: 01c1b96c
+      Dolly Rani: 2821c99e
+      E Iloku: f1fa1c6b
+      ER Oza: fdc6b34d
+      H Hotchandani: f537d39c
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      M Abbott: 3e5f0c04
+      M Ariokot: c328bc6c
+      MD Botha: c2c7e58a
+      P Alako: fcf37e14
+      R Musamali: 017cadb2
+      Rinitha Rajith: 36ba7f0b
+      S Akiteng: cf92d76b
+      S Dharnidharka: f8b50da3
+      S Kotte: 6c8904c8
+      S Nampiina: 91d9aa26
+      SM Bartlett: 7ba18406
+      T Semmens: 3b471aa4
+      Theertha Satish: ee3dcb3f
+      UCKA Dona: caa99fcb
+      Vaishnave Mahesh: 31c56f40
+  teams:
+  - Uganda
+  - United Arab Emirates
+  toss:
+    winner: United Arab Emirates
+    decision: field
+  umpires:
+  - Dolly Rani
+  - T Semmens
+  venue: Asian Institute of Technology Ground, Bangkok
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.3:
+        bowler: S Dharnidharka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.4:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.5:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Iloku
+    - 0.6:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.7:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.1:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 1.2:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.3:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.4:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.5:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 1.6:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 1.7:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 1.8:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.1:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.2:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 2.3:
+        non_striker: E Iloku
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.4:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 2.5:
+        non_striker: E Iloku
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.6:
+        non_striker: J Mbabazi
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 3.1:
+        non_striker: J Mbabazi
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 3.2:
+        non_striker: E Iloku
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.3:
+        non_striker: J Mbabazi
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 3.4:
+        non_striker: E Iloku
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.5:
+        non_striker: E Iloku
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.6:
+        non_striker: J Mbabazi
+        bowler: S Kotte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.1:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.2:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.3:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.4:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.5:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.6:
+        non_striker: E Iloku
+        bowler: ATS Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 5.1:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 5.2:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          fielders:
+          - Rinitha Rajith
+          kind: caught
+    - 5.3:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 5.5:
+        non_striker: I Nakisuuyi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 5.6:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.1:
+        non_striker: I Nakisuuyi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 6.2:
+        non_striker: I Nakisuuyi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.3:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          kind: bowled
+    - 6.4:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 6.5:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 6.6:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Musamali
+    - 7.1:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 7.2:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 7.3:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 7.4:
+        non_striker: J Mbabazi
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 7.5:
+        non_striker: R Musamali
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 7.6:
+        non_striker: R Musamali
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 8.1:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 8.2:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: bowled
+    - 8.3:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 8.4:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 8.5:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 8.6:
+        non_striker: J Mbabazi
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: S Nampiina
+          kind: bowled
+    - 9.1:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Awino
+        batsman: J Mbabazi
+    - 9.2:
+        non_striker: K Awino
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          fielders:
+          - Theertha Satish
+          kind: stumped
+    - 9.3:
+        non_striker: K Awino
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 9.4:
+        non_striker: K Awino
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 9.5:
+        non_striker: K Awino
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 9.6:
+        non_striker: P Alako
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 10.1:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 10.2:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 10.3:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 10.4:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 10.5:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 10.6:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 11.1:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.2:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.3:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.4:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.5:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.6:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 12.1:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 12.2:
+        non_striker: K Awino
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 12.3:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Awino
+    - 12.4:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 12.5:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 12.6:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Awino
+    - 12.7:
+        non_striker: P Alako
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 13.1:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.2:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.3:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.4:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.5:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 13.6:
+        non_striker: P Alako
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 14.1:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 14.2:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 14.3:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 14.4:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          kind: caught and bowled
+    - 14.5:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ariokot
+    - 14.6:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ariokot
+    - 15.1:
+        non_striker: M Ariokot
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 15.2:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ariokot
+    - 15.3:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ariokot
+        wicket:
+          player_out: M Ariokot
+          kind: lbw
+    - 15.4:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 15.5:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 15.6:
+        non_striker: C Aweko
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 16.1:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 16.2:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Aweko
+    - 16.3:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 16.4:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 16.5:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 16.6:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 16.7:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 17.1:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Aweko
+    - 17.2:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 17.3:
+        non_striker: C Aweko
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 17.4:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 17.5:
+        non_striker: K Awino
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 17.6:
+        non_striker: C Aweko
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 18.1:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 18.2:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Aweko
+    - 18.3:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 18.4:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 18.5:
+        non_striker: C Aweko
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 18.6:
+        non_striker: K Awino
+        bowler: H Hotchandani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+        wicket:
+          player_out: C Aweko
+          kind: bowled
+    - 19.1:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Amuge
+        batsman: K Awino
+    - 19.2:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Amuge
+        batsman: K Awino
+    - 19.3:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Amuge
+        batsman: K Awino
+    - 19.4:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Amuge
+        batsman: K Awino
+    - 19.5:
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Amuge
+        batsman: K Awino
+    - 19.6:
+        non_striker: K Amuge
+        bowler: MD Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.3:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.4:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.5:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.6:
+        non_striker: ER Oza
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 1.1:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.2:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.3:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 1.4:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.5:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.6:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 2.1:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 2.2:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 2.3:
+        non_striker: ER Oza
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 2.4:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ER Oza
+    - 2.5:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ER Oza
+    - 2.6:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 3.1:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Theertha Satish
+    - 3.2:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 3.3:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 3.4:
+        non_striker: Theertha Satish
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 3.5:
+        non_striker: ER Oza
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 3.6:
+        non_striker: Theertha Satish
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 4.1:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 4.2:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 4.3:
+        non_striker: ER Oza
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 4.4:
+        non_striker: ER Oza
+        bowler: I Nakisuuyi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Theertha Satish
+    - 4.5:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 4.6:
+        non_striker: Theertha Satish
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 4.7:
+        non_striker: ER Oza
+        bowler: I Nakisuuyi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Theertha Satish
+    - 5.1:
+        non_striker: ER Oza
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 5.2:
+        non_striker: Theertha Satish
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 5.3:
+        non_striker: Theertha Satish
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ER Oza
+    - 5.4:
+        non_striker: Theertha Satish
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 5.5:
+        non_striker: Theertha Satish
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 5.6:
+        non_striker: Theertha Satish
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 6.1:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 6.2:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 6.3:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 6.4:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 6.5:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 6.6:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 6.7:
+        non_striker: ER Oza
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 6.8:
+        non_striker: Theertha Satish
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 7.1:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 7.2:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 7.3:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ER Oza
+    - 7.4:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 7.5:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 7.6:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 7.7:
+        non_striker: Theertha Satish
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 8.1:
+        non_striker: Theertha Satish
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 8.2:
+        non_striker: Theertha Satish
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza

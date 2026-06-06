@@ -1,0 +1,1909 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2026-01-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2645
+  outcome:
+    winner: Scotland
+    by:
+      runs: 72
+  overs: 20
+  player_of_match:
+  - PA Chatterji
+  players:
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - M McColl
+    - PA Chatterji
+    - R Slater
+    - C Abel
+    - AH Maqsood
+    - O Bell
+    Nepal:
+    - B Rawal
+    - Samjhana Khadka
+    - Puja Mahato
+    - K Joshi
+    - I Barma
+    - SR Magar
+    - RC Belbashi
+    - K Kunwar
+    - Roma Thapa
+    - Riya Sharma
+    - M Upadhayay
+  registry:
+    people:
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      B Rawal: 4d1cc284
+      C Abel: d92d3563
+      DEM Carter: c3394c16
+      H Pack: fed53c91
+      I Barma: 521abce2
+      Jonathan Kennedy: f7ad4494
+      K Fraser: a0a65375
+      K Joshi: 0cd297b9
+      K Kunwar: 97e6e41a
+      KE Bryce: f13d3eba
+      M McColl: d5fa2ab3
+      M Upadhayay: cdda92be
+      O Bell: 385eac52
+      PA Chatterji: 8e7be59c
+      Puja Mahato: 4b95058b
+      R Slater: 8a452195
+      RC Belbashi: dfdaca74
+      Riya Sharma: 8b7cda26
+      Rizwan Akram: b5346f1e
+      Roma Thapa: 05d9faac
+      SJ Bryce: 2ca65aee
+      SR Magar: 61c22ad0
+      Saleema Imtiaz: d17d21d5
+      Samjhana Khadka: 765a2354
+      Shivani Mishra: 2982a0c7
+  teams:
+  - Scotland
+  - Nepal
+  toss:
+    winner: Nepal
+    decision: field
+  umpires:
+  - Rizwan Akram
+  - Shivani Mishra
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: M Upadhayay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.2:
+        bowler: M Upadhayay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.3:
+        bowler: M Upadhayay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.4:
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.5:
+        non_striker: DEM Carter
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          kind: bowled
+    - 0.6:
+        non_striker: DEM Carter
+        bowler: M Upadhayay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KE Bryce
+    - 0.7:
+        non_striker: KE Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - Samjhana Khadka
+          kind: caught
+    - 0.8:
+        non_striker: KE Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 0.9:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.1:
+        non_striker: KE Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 1.2:
+        non_striker: KE Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.3:
+        non_striker: SJ Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.4:
+        non_striker: SJ Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.5:
+        non_striker: SJ Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 1.6:
+        non_striker: SJ Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 1.7:
+        non_striker: SJ Bryce
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.1:
+        non_striker: KE Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.2:
+        non_striker: KE Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.3:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.4:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: lbw
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 2.6:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 3.1:
+        non_striker: A Lister
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.2:
+        non_striker: A Lister
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 3.4:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 3.5:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 3.6:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 4.1:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.2:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.3:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 4.4:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 4.5:
+        non_striker: SJ Bryce
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 4.6:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: Riya Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Lister
+    - 5.2:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.4:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 5.5:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 5.6:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.7:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.1:
+        non_striker: SJ Bryce
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 6.2:
+        non_striker: SJ Bryce
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 6.3:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: SJ Bryce
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 6.5:
+        non_striker: SJ Bryce
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 6.6:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          kind: bowled
+    - 7.1:
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M McColl
+        batsman: A Lister
+    - 7.2:
+        non_striker: A Lister
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 7.3:
+        non_striker: M McColl
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 7.4:
+        non_striker: M McColl
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 7.5:
+        non_striker: M McColl
+        bowler: Riya Sharma
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Lister
+    - 7.6:
+        non_striker: M McColl
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 7.7:
+        non_striker: M McColl
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 8.1:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 8.2:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 8.3:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 8.4:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M McColl
+    - 8.5:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.6:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 8.7:
+        non_striker: A Lister
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 9.1:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 9.2:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 9.3:
+        non_striker: A Lister
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 9.4:
+        non_striker: M McColl
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.5:
+        non_striker: M McColl
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.6:
+        non_striker: M McColl
+        bowler: M Upadhayay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - K Joshi
+          kind: caught
+    - 10.1:
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PA Chatterji
+        batsman: M McColl
+    - 10.2:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 10.3:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 10.4:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M McColl
+    - 10.5:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 10.6:
+        non_striker: M McColl
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 10.7:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 11.1:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 11.2:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 11.3:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 11.4:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          kind: bowled
+    - 11.5:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 11.6:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: R Slater
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.2:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 12.3:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 12.4:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 12.6:
+        non_striker: PA Chatterji
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 13.1:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.2:
+        non_striker: PA Chatterji
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 13.3:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 13.4:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 13.5:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 13.6:
+        non_striker: R Slater
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.1:
+        non_striker: R Slater
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.2:
+        non_striker: R Slater
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.3:
+        non_striker: R Slater
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.4:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 14.5:
+        non_striker: R Slater
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.6:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 15.1:
+        non_striker: PA Chatterji
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Slater
+    - 15.2:
+        non_striker: PA Chatterji
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 15.3:
+        non_striker: R Slater
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.4:
+        non_striker: R Slater
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.5:
+        non_striker: R Slater
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 15.6:
+        non_striker: R Slater
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 16.1:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 16.2:
+        non_striker: R Slater
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 16.3:
+        non_striker: R Slater
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 16.4:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 16.5:
+        non_striker: R Slater
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 16.6:
+        non_striker: R Slater
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.1:
+        non_striker: R Slater
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.2:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+        wicket:
+          player_out: R Slater
+          kind: bowled
+    - 17.3:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+    - 17.4:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+    - 17.5:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Abel
+    - 17.6:
+        non_striker: C Abel
+        bowler: RC Belbashi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PA Chatterji
+    - 17.7:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Abel
+    - 18.1:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Abel
+    - 18.2:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+        wicket:
+          player_out: C Abel
+          kind: bowled
+    - 18.3:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+    - 18.4:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+    - 18.5:
+        non_striker: PA Chatterji
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Maqsood
+    - 18.6:
+        non_striker: AH Maqsood
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 19.1:
+        non_striker: AH Maqsood
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 19.2:
+        non_striker: AH Maqsood
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 19.3:
+        non_striker: AH Maqsood
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 19.4:
+        non_striker: AH Maqsood
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 19.5:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Maqsood
+        wicket:
+          player_out: AH Maqsood
+          fielders:
+          - K Joshi
+          kind: caught
+    - 19.6:
+        non_striker: PA Chatterji
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bell
+        wicket:
+          player_out: O Bell
+          kind: bowled
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.6:
+        non_striker: Samjhana Khadka
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Rawal
+    - 1.1:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 1.2:
+        non_striker: Samjhana Khadka
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 1.3:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Samjhana Khadka
+    - 1.4:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 1.5:
+        non_striker: Samjhana Khadka
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 1.6:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 2.1:
+        non_striker: B Rawal
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+        wicket:
+          player_out: Samjhana Khadka
+          fielders:
+          - M McColl
+          kind: caught
+    - 2.2:
+        non_striker: B Rawal
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Puja Mahato
+    - 2.3:
+        non_striker: Puja Mahato
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.4:
+        non_striker: Puja Mahato
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Rawal
+    - 2.5:
+        non_striker: Puja Mahato
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.6:
+        non_striker: Puja Mahato
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Rawal
+    - 3.1:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.2:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puja Mahato
+    - 3.3:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.4:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.5:
+        non_striker: B Rawal
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 3.6:
+        non_striker: Puja Mahato
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+        wicket:
+          player_out: B Rawal
+          kind: lbw
+    - 3.7:
+        non_striker: Puja Mahato
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 4.1:
+        non_striker: K Joshi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 4.2:
+        non_striker: Puja Mahato
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Joshi
+    - 4.3:
+        non_striker: Puja Mahato
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Joshi
+    - 4.4:
+        non_striker: K Joshi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 4.5:
+        non_striker: K Joshi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+        wicket:
+          player_out: Puja Mahato
+          fielders:
+          - A Lister
+          kind: caught
+    - 4.6:
+        non_striker: K Joshi
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 5.1:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 5.2:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 5.3:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Joshi
+    - 5.4:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 5.5:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 5.6:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 5.7:
+        non_striker: I Barma
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 6.1:
+        non_striker: K Joshi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 6.2:
+        non_striker: K Joshi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 6.3:
+        non_striker: K Joshi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 6.4:
+        non_striker: I Barma
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Joshi
+    - 6.5:
+        non_striker: K Joshi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+        wicket:
+          player_out: I Barma
+          kind: retired hurt
+    - 6.6:
+        non_striker: K Joshi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 7.1:
+        non_striker: K Joshi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 7.2:
+        non_striker: K Joshi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 7.3:
+        non_striker: SR Magar
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Joshi
+    - 7.4:
+        non_striker: K Joshi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 7.5:
+        non_striker: K Joshi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 7.6:
+        non_striker: K Joshi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+        wicket:
+          player_out: SR Magar
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 8.1:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RC Belbashi
+        batsman: K Joshi
+    - 8.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RC Belbashi
+        batsman: K Joshi
+    - 8.3:
+        non_striker: RC Belbashi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+        wicket:
+          player_out: K Joshi
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 8.4:
+        non_striker: RC Belbashi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 8.5:
+        non_striker: RC Belbashi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 8.6:
+        non_striker: RC Belbashi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 9.1:
+        non_striker: K Kunwar
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RC Belbashi
+    - 9.2:
+        non_striker: K Kunwar
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+    - 9.3:
+        non_striker: K Kunwar
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 9.4:
+        non_striker: RC Belbashi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 9.5:
+        non_striker: RC Belbashi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+        wicket:
+          player_out: K Kunwar
+          kind: bowled
+    - 9.6:
+        non_striker: RC Belbashi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Roma Thapa
+    - 10.1:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RC Belbashi
+    - 10.2:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+    - 10.3:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 10.4:
+        non_striker: RC Belbashi
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa
+    - 10.5:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+    - 10.6:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+        wicket:
+          player_out: RC Belbashi
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 11.1:
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Riya Sharma
+        batsman: Roma Thapa
+    - 11.2:
+        non_striker: Roma Thapa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riya Sharma
+    - 11.3:
+        non_striker: Roma Thapa
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riya Sharma
+    - 11.4:
+        non_striker: Riya Sharma
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roma Thapa
+    - 11.5:
+        non_striker: Riya Sharma
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Roma Thapa
+    - 11.6:
+        non_striker: Riya Sharma
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roma Thapa
+    - 12.1:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riya Sharma
+        wicket:
+          player_out: Riya Sharma
+          kind: bowled
+    - 12.2:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Upadhayay
+    - 12.3:
+        non_striker: M Upadhayay
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa
+    - 12.4:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Upadhayay
+    - 12.5:
+        non_striker: Roma Thapa
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Upadhayay
+    - 12.6:
+        non_striker: M Upadhayay
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roma Thapa
+    - 13.1:
+        non_striker: Roma Thapa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Upadhayay
+    - 13.2:
+        non_striker: M Upadhayay
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roma Thapa
+    - 13.3:
+        non_striker: M Upadhayay
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Roma Thapa
+    - 13.4:
+        non_striker: M Upadhayay
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Roma Thapa
+    - 13.5:
+        non_striker: Roma Thapa
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Upadhayay
+        wicket:
+          player_out: M Upadhayay
+          kind: lbw

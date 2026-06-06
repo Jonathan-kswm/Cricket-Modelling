@@ -1,0 +1,2735 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-04-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2697
+  outcome:
+    winner: Cyprus
+    by:
+      runs: 34
+  overs: 20
+  player_of_match:
+  - A Dirannehelage
+  players:
+    Cyprus:
+    - Dilini Ishara
+    - A Dirannehelage
+    - I Chathurani
+    - T De Silva
+    - D Koralalage
+    - C Wijesinghe
+    - N Liyanage
+    - CS Gamlath
+    - S Dunukedeniya
+    - S Jayakodi
+    - A Taylor
+    Greece:
+    - M Syrioti
+    - A Savvani
+    - A Makri
+    - A Argyropoulou
+    - M Polimeri
+    - M Vervitsioti
+    - T Parisi-mesimeri
+    - A Kourkoulou
+    - Maria Penna
+    - E Kallous
+    - S Georgota
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Dirannehelage: '039168c7'
+      A Kourkoulou: 637f6ae5
+      A Makri: 98affc04
+      A Savvani: 5d006a1a
+      A Taylor: 723f9bee
+      C Wijesinghe: db86ac96
+      CS Gamlath: 9cdc553a
+      D Koralalage: 5e6041a4
+      Dilini Ishara: f45efeca
+      E Kallous: '0680ff7f'
+      I Chathurani: '85364088'
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      Maria Penna: 5063c3cf
+      N Liyanage: 2ee5997e
+      S Dunukedeniya: 3134e4a4
+      S Georgota: d07b6842
+      S Jayakodi: 64875d5c
+      T De Silva: '31821596'
+      T Parisi-mesimeri: c002a904
+  teams:
+  - Cyprus
+  - Greece
+  toss:
+    winner: Cyprus
+    decision: bat
+  venue: Happy Valley Ground 2
+innings:
+- 1st innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        non_striker: Dilini Ishara
+        bowler: A Makri
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Taylor
+    - 0.2:
+        non_striker: Dilini Ishara
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 0.3:
+        non_striker: Dilini Ishara
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 0.4:
+        non_striker: Dilini Ishara
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 0.5:
+        non_striker: Dilini Ishara
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+        wicket:
+          player_out: Dilini Ishara
+          fielders:
+          - E Kallous
+          - A Argyropoulou
+          kind: run out
+    - 0.6:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Taylor
+        batsman: A Dirannehelage
+    - 0.7:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Taylor
+        batsman: A Dirannehelage
+    - 1.1:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Taylor
+        batsman: A Dirannehelage
+    - 1.2:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Taylor
+        batsman: A Dirannehelage
+    - 1.3:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 1.4:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 1.5:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 1.6:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 1.7:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+        wicket:
+          player_out: A Taylor
+          kind: lbw
+    - 1.8:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 2.1:
+        non_striker: I Chathurani
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 2.2:
+        non_striker: I Chathurani
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 2.3:
+        non_striker: I Chathurani
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 2.4:
+        non_striker: I Chathurani
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 2.5:
+        non_striker: I Chathurani
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 2.6:
+        non_striker: A Dirannehelage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 2.7:
+        non_striker: A Dirannehelage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 2.8:
+        non_striker: A Dirannehelage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 3.1:
+        non_striker: I Chathurani
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 3.2:
+        non_striker: I Chathurani
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 3.3:
+        non_striker: I Chathurani
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 3.4:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 3.5:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 3.6:
+        non_striker: A Dirannehelage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chathurani
+    - 4.1:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 4.2:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 4.3:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 4.4:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 4.5:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 4.6:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dirannehelage
+    - 4.7:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 4.8:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 4.9:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 5.1:
+        non_striker: I Chathurani
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 5.2:
+        non_striker: I Chathurani
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dirannehelage
+    - 5.3:
+        non_striker: I Chathurani
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 5.4:
+        non_striker: I Chathurani
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dirannehelage
+    - 5.5:
+        non_striker: I Chathurani
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 5.6:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Chathurani
+    - 6.1:
+        non_striker: I Chathurani
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 6.2:
+        non_striker: A Dirannehelage
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 6.3:
+        non_striker: I Chathurani
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 6.4:
+        non_striker: I Chathurani
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 6.5:
+        non_striker: A Dirannehelage
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 6.6:
+        non_striker: I Chathurani
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 7.1:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 7.2:
+        non_striker: I Chathurani
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 7.3:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 7.4:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 7.5:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+        wicket:
+          player_out: I Chathurani
+          fielders:
+          - A Argyropoulou
+          kind: caught
+    - 7.6:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T De Silva
+    - 7.7:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T De Silva
+    - 7.8:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T De Silva
+    - 7.9:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T De Silva
+    - 7.10:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T De Silva
+        wicket:
+          player_out: T De Silva
+          kind: bowled
+    - 7.11:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 7.12:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 8.1:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 8.2:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 8.3:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 8.4:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 8.5:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 8.6:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 8.7:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 8.8:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 9.1:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 9.2:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 9.3:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 9.4:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dirannehelage
+    - 9.5:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dirannehelage
+    - 9.6:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 9.7:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 9.8:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 9.9:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 10.1:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 10.2:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 10.3:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 10.4:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 10.5:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 10.6:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 11.1:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 11.2:
+        non_striker: D Koralalage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 11.3:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 11.4:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 11.5:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 11.6:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 11.7:
+        non_striker: A Dirannehelage
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 12.1:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 12.2:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dirannehelage
+    - 12.3:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dirannehelage
+    - 12.4:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 12.5:
+        non_striker: A Dirannehelage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+        wicket:
+          player_out: A Dirannehelage
+          fielders:
+          - M Syrioti
+          kind: run out
+    - 12.6:
+        non_striker: D Koralalage
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+    - 13.1:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 13.2:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 13.3:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 13.4:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Wijesinghe
+    - 13.5:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Wijesinghe
+    - 13.6:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Wijesinghe
+    - 13.7:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+    - 13.8:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Wijesinghe
+    - 13.9:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Wijesinghe
+    - 13.10:
+        non_striker: D Koralalage
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wijesinghe
+    - 13.11:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 13.12:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 13.13:
+        non_striker: C Wijesinghe
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 14.1:
+        non_striker: D Koralalage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wijesinghe
+    - 14.2:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Koralalage
+    - 14.3:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 14.4:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 14.5:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 14.6:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 14.7:
+        non_striker: D Koralalage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+    - 15.1:
+        non_striker: C Wijesinghe
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Koralalage
+    - 15.2:
+        non_striker: C Wijesinghe
+        bowler: Maria Penna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 15.3:
+        non_striker: C Wijesinghe
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 15.4:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+    - 15.5:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Wijesinghe
+    - 15.6:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wijesinghe
+    - 15.7:
+        non_striker: C Wijesinghe
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 15.8:
+        non_striker: C Wijesinghe
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 16.1:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 16.2:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Koralalage
+    - 16.3:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 16.4:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 16.5:
+        non_striker: C Wijesinghe
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 16.6:
+        non_striker: D Koralalage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+    - 16.7:
+        non_striker: D Koralalage
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Wijesinghe
+    - 16.8:
+        non_striker: D Koralalage
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wijesinghe
+    - 17.1:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+        wicket:
+          player_out: C Wijesinghe
+          fielders:
+          - A Argyropoulou
+          kind: caught
+    - 17.2:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Liyanage
+    - 17.3:
+        non_striker: N Liyanage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 17.4:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Liyanage
+    - 17.5:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Liyanage
+    - 17.6:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Liyanage
+    - 17.7:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Liyanage
+    - 18.1:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Liyanage
+    - 18.2:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Liyanage
+    - 18.3:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Liyanage
+    - 18.4:
+        non_striker: N Liyanage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+    - 18.5:
+        non_striker: N Liyanage
+        bowler: Maria Penna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Koralalage
+    - 18.6:
+        non_striker: N Liyanage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 18.7:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: N Liyanage
+    - 18.8:
+        non_striker: N Liyanage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 18.9:
+        non_striker: D Koralalage
+        bowler: Maria Penna
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Liyanage
+    - 18.10:
+        non_striker: N Liyanage
+        bowler: Maria Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 19.1:
+        non_striker: N Liyanage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Koralalage
+    - 19.2:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Liyanage
+    - 19.3:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Liyanage
+    - 19.4:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Liyanage
+    - 19.5:
+        non_striker: D Koralalage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Liyanage
+    - 19.6:
+        non_striker: N Liyanage
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Koralalage
+- 2nd innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.2:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.3:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.4:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.5:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.6:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Savvani
+        batsman: M Syrioti
+    - 0.7:
+        non_striker: M Syrioti
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 0.8:
+        non_striker: M Syrioti
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Savvani
+    - 1.1:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Savvani
+    - 1.2:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 1.3:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 1.4:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 1.5:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 1.6:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 1.7:
+        non_striker: M Syrioti
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 2.1:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.2:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.3:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.4:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.5:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.6:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 2.7:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Syrioti
+    - 2.8:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.9:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.10:
+        non_striker: A Savvani
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+        wicket:
+          player_out: M Syrioti
+          kind: bowled
+    - 3.1:
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: A Makri
+        batsman: A Savvani
+    - 3.2:
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Makri
+        batsman: A Savvani
+    - 3.3:
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Makri
+        batsman: A Savvani
+    - 3.4:
+        non_striker: A Savvani
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 3.5:
+        non_striker: A Savvani
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 3.6:
+        non_striker: A Savvani
+        bowler: S Dunukedeniya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: A Makri
+    - 3.7:
+        non_striker: A Makri
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Savvani
+    - 3.8:
+        non_striker: A Makri
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 3.9:
+        non_striker: A Savvani
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 4.1:
+        non_striker: A Savvani
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 4.2:
+        non_striker: A Savvani
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Makri
+    - 4.3:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Savvani
+    - 4.4:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 4.5:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 4.6:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 4.7:
+        non_striker: A Savvani
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 5.1:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 5.2:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 5.3:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Savvani
+    - 5.4:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 5.5:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 5.6:
+        non_striker: A Savvani
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+        wicket:
+          player_out: A Savvani
+          fielders:
+          - I Chathurani
+          kind: run out
+    - 6.1:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 6.2:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 6.3:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 6.4:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 6.5:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 6.6:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 6.7:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: A Argyropoulou
+          fielders:
+          - A Taylor
+          kind: caught
+    - 6.8:
+        non_striker: A Makri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 7.1:
+        non_striker: M Polimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 7.2:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 7.3:
+        non_striker: M Polimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.4:
+        non_striker: M Polimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.5:
+        non_striker: M Polimeri
+        bowler: I Chathurani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 7.6:
+        non_striker: M Polimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 7.7:
+        non_striker: A Makri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 8.1:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 8.2:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 8.3:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 8.4:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+        wicket:
+          player_out: A Makri
+          kind: bowled
+    - 8.5:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 8.6:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 9.1:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 9.2:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 9.3:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 9.4:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 9.5:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 9.6:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vervitsioti
+    - 9.7:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 9.8:
+        non_striker: M Polimeri
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vervitsioti
+    - 10.1:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.2:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.3:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.4:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.5:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 10.6:
+        non_striker: M Polimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 11.1:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 11.2:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+        wicket:
+          player_out: M Polimeri
+          kind: bowled
+    - 11.3:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 11.4:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parisi-mesimeri
+    - 11.5:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 11.6:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parisi-mesimeri
+    - 11.7:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 11.8:
+        non_striker: M Vervitsioti
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 12.1:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.2:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.3:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.4:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.5:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 12.6:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 12.7:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.8:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 13.1:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 13.2:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 13.3:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 13.4:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parisi-mesimeri
+    - 13.5:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Parisi-mesimeri
+    - 13.6:
+        non_striker: T Parisi-mesimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 13.7:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 13.8:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 14.1:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 14.2:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parisi-mesimeri
+    - 14.3:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parisi-mesimeri
+    - 14.4:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 14.5:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 14.6:
+        non_striker: M Vervitsioti
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 14.7:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 14.8:
+        non_striker: T Parisi-mesimeri
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 15.1:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 15.2:
+        non_striker: T Parisi-mesimeri
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 15.3:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.4:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.5:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+        wicket:
+          player_out: T Parisi-mesimeri
+          fielders:
+          - A Taylor
+          kind: caught
+    - 15.6:
+        non_striker: M Vervitsioti
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 16.1:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+        wicket:
+          player_out: M Vervitsioti
+          fielders:
+          - A Taylor
+          kind: caught
+    - 16.2:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Penna
+    - 16.3:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maria Penna
+    - 16.4:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Maria Penna
+    - 16.5:
+        non_striker: Maria Penna
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 16.6:
+        non_striker: Maria Penna
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 16.7:
+        non_striker: Maria Penna
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kourkoulou
+    - 16.8:
+        non_striker: Maria Penna
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kourkoulou
+    - 16.9:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Penna
+        wicket:
+          player_out: Maria Penna
+          kind: bowled
+    - 17.1:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.2:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.3:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.4:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.5:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.6:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.7:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: A Kourkoulou
+    - 17.8:
+        non_striker: E Kallous
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 18.1:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 18.2:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 18.3:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 18.4:
+        non_striker: A Kourkoulou
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 18.5:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kourkoulou
+    - 18.6:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 18.7:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+        wicket:
+          player_out: A Kourkoulou
+          kind: bowled
+    - 18.8:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Georgota
+    - 18.9:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 18.10:
+        non_striker: E Kallous
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 19.1:
+        non_striker: S Georgota
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+        wicket:
+          player_out: E Kallous
+          kind: bowled

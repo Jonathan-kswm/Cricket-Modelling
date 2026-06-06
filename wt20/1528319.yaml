@@ -1,0 +1,2528 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2703
+  outcome:
+    winner: Mozambique
+    by:
+      runs: 144
+  overs: 20
+  player_of_match:
+  - P Cuinica
+  players:
+    Mozambique:
+    - O Mondlane
+    - P Cuinica
+    - AL Mundundo
+    - C Magaia
+    - AA Moiane
+    - A Salomao
+    - AL Mangue
+    - IE Mulhovo
+    - L Chipanga
+    - RO Mazumba
+    - R Haiong
+    Zambia:
+    - F Chenda
+    - R Chanda
+    - N Chabula
+    - M Kachingo
+    - M Chabula
+    - V Mwansa
+    - E Mulenga
+    - Rithika Sriram
+    - E Malama
+    - P Munsanda
+    - M Nguni
+  registry:
+    people:
+      A Salomao: 04e145f4
+      AA Moiane: '80190078'
+      AL Mangue: 7e8cd083
+      AL Mundundo: c1edced9
+      C Magaia: bb4d1237
+      E Malama: cd440d77
+      E Mulenga: 10ae734d
+      F Chenda: c3d8b72f
+      IE Mulhovo: ab750f1f
+      Imran Zakir: 0071171d
+      L Chipanga: 70722cc7
+      L Msemburi: ef6037f8
+      M Chabula: 7952fe28
+      M Kachingo: 287dab75
+      M Nguni: b40bbd02
+      N Chabula: c6fee9f1
+      O Mondlane: 7f97139f
+      P Cuinica: efca38df
+      P Munsanda: a648fdcd
+      R Chanda: 43fe74b1
+      R Haiong: 2832fbba
+      RO Mazumba: 2a753483
+      Rithika Sriram: d409b68f
+      V Mwansa: b0032f26
+      Vivek Kohli: 676c3a3c
+  teams:
+  - Mozambique
+  - Zambia
+  toss:
+    winner: Zambia
+    decision: field
+  umpires:
+  - Imran Zakir
+  - Vivek Kohli
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Cuinica
+        batsman: O Mondlane
+    - 0.2:
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: O Mondlane
+    - 0.3:
+        bowler: M Nguni
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: P Cuinica
+        batsman: O Mondlane
+    - 0.4:
+        non_striker: O Mondlane
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 0.5:
+        non_striker: O Mondlane
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 0.6:
+        non_striker: O Mondlane
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Cuinica
+    - 0.7:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Mondlane
+    - 1.1:
+        non_striker: O Mondlane
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 1.2:
+        non_striker: O Mondlane
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 1.3:
+        non_striker: O Mondlane
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 1.4:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 1.5:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Mondlane
+    - 1.6:
+        non_striker: O Mondlane
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 1.7:
+        non_striker: O Mondlane
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 2.1:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 2.2:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Mondlane
+    - 2.3:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 2.4:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+        wicket:
+          player_out: O Mondlane
+          kind: bowled
+    - 2.5:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 2.6:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 2.7:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 2.8:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 3.1:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AL Mundundo
+    - 3.2:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 3.3:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 3.4:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 3.5:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 4
+          batsman: 3
+        extras:
+          noballs: 1
+        batsman: P Cuinica
+    - 3.6:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 3.7:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 4.1:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 4.2:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 4.3:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 4.4:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AL Mundundo
+    - 4.5:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 4.6:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 4.7:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 4.8:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 5.1:
+        non_striker: P Cuinica
+        bowler: R Chanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AL Mundundo
+    - 5.2:
+        non_striker: P Cuinica
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.3:
+        non_striker: AL Mundundo
+        bowler: R Chanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Cuinica
+    - 5.4:
+        non_striker: AL Mundundo
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 5.5:
+        non_striker: AL Mundundo
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Cuinica
+    - 5.6:
+        non_striker: P Cuinica
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 5.7:
+        non_striker: AL Mundundo
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 5.8:
+        non_striker: AL Mundundo
+        bowler: R Chanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 6.1:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 6.2:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 6.3:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 6.4:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 6.5:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 6.6:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 6.7:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 6.8:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 7.1:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 7.2:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: P Cuinica
+    - 7.3:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 7.4:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Cuinica
+    - 7.5:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 7.6:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 7.7:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 7.8:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 8.1:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 8.2:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 8.3:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 8.4:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 8.5:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 8.6:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 9.1:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AL Mundundo
+    - 9.2:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AL Mundundo
+    - 9.3:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 9.4:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 9.5:
+        non_striker: P Cuinica
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 9.6:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 9.7:
+        non_striker: AL Mundundo
+        bowler: M Kachingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.1:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 10.2:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.3:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 10.4:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 10.5:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 10.6:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 10.7:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.8:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 10.9:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 10.10:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 10.11:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Mundundo
+    - 11.1:
+        non_striker: AL Mundundo
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 11.2:
+        non_striker: AL Mundundo
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.3:
+        non_striker: AL Mundundo
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 11.4:
+        non_striker: AL Mundundo
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 11.5:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 11.6:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 11.7:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 11.8:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Mundundo
+    - 12.1:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 12.2:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 12.3:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AL Mundundo
+    - 12.4:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 12.5:
+        non_striker: P Cuinica
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 12.6:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 12.7:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 12.8:
+        non_striker: AL Mundundo
+        bowler: M Nguni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Cuinica
+    - 13.1:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 13.2:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 13.3:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 13.4:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 13.5:
+        non_striker: AL Mundundo
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 13.6:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 13.7:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 14.1:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AL Mundundo
+    - 14.2:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 14.3:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 14.4:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 14.5:
+        non_striker: AL Mundundo
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 14.6:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 14.7:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 15.1:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 15.2:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Mundundo
+    - 15.3:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 15.4:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Mundundo
+    - 15.5:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 15.6:
+        non_striker: P Cuinica
+        bowler: E Mulenga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 16.1:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: P Cuinica
+    - 16.2:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 16.3:
+        non_striker: AL Mundundo
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 16.4:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+        wicket:
+          player_out: AL Mundundo
+          kind: bowled
+    - 16.5:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 16.6:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 16.7:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 17.1:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 17.2:
+        non_striker: C Magaia
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 17.3:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Magaia
+    - 17.4:
+        non_striker: P Cuinica
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 17.5:
+        non_striker: C Magaia
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 17.6:
+        non_striker: C Magaia
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 17.7:
+        non_striker: C Magaia
+        bowler: Rithika Sriram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 17.8:
+        non_striker: C Magaia
+        bowler: Rithika Sriram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 18.1:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Cuinica
+    - 18.2:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 18.3:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 18.4:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cuinica
+    - 18.5:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 18.6:
+        non_striker: C Magaia
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 18.7:
+        non_striker: P Cuinica
+        bowler: M Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 19.1:
+        non_striker: C Magaia
+        bowler: N Chabula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 19.2:
+        non_striker: C Magaia
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cuinica
+    - 19.3:
+        non_striker: C Magaia
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 19.4:
+        non_striker: C Magaia
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 19.5:
+        non_striker: C Magaia
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 19.6:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 19.7:
+        non_striker: P Cuinica
+        bowler: N Chabula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+- 2nd innings:
+    team: Zambia
+    deliveries:
+    - 0.1:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Chanda
+        batsman: F Chenda
+    - 0.2:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Chanda
+        batsman: F Chenda
+    - 0.3:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Chanda
+        batsman: F Chenda
+    - 0.4:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Chanda
+        batsman: F Chenda
+    - 0.5:
+        non_striker: F Chenda
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 0.6:
+        non_striker: F Chenda
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 1.1:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Chenda
+    - 1.2:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Chenda
+    - 1.3:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Chenda
+        wicket:
+          player_out: F Chenda
+          kind: bowled
+    - 1.4:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.5:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 1.6:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chabula
+    - 1.7:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chabula
+    - 1.8:
+        non_striker: R Chanda
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 2.1:
+        non_striker: N Chabula
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 2.2:
+        non_striker: N Chabula
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chanda
+    - 2.3:
+        non_striker: N Chabula
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 2.4:
+        non_striker: N Chabula
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chanda
+    - 2.5:
+        non_striker: R Chanda
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 2.6:
+        non_striker: R Chanda
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 3.1:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+    - 3.2:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chanda
+        wicket:
+          player_out: R Chanda
+          kind: bowled
+    - 3.3:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kachingo
+    - 3.4:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 3.5:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 3.6:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 3.7:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kachingo
+    - 3.8:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 4.1:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 4.2:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 4.3:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 4.4:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 4.5:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 4.6:
+        non_striker: M Kachingo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chabula
+    - 5.1:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 5.2:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 5.3:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 5.4:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 5.5:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 5.6:
+        non_striker: N Chabula
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 6.1:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.2:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.3:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.4:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 6.5:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chabula
+    - 6.6:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chabula
+    - 6.7:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chabula
+    - 6.8:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chabula
+    - 6.9:
+        non_striker: M Kachingo
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 7.1:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 7.2:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+    - 7.3:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kachingo
+        wicket:
+          player_out: M Kachingo
+          kind: lbw
+    - 7.4:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Chabula
+    - 7.5:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.6:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 7.7:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Chabula
+    - 7.8:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 8.1:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.2:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.3:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.4:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.5:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 8.6:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+    - 9.1:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 9.2:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 9.3:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 9.4:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Chabula
+    - 9.5:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 9.6:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Chabula
+    - 9.7:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 9.8:
+        non_striker: N Chabula
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chabula
+    - 10.1:
+        non_striker: M Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+        wicket:
+          player_out: M Chabula
+          fielders:
+          - R Haiong
+          - C Magaia
+          kind: run out
+    - 10.2:
+        non_striker: N Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 10.3:
+        non_striker: N Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 10.4:
+        non_striker: N Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 10.5:
+        non_striker: N Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 10.6:
+        non_striker: N Chabula
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 11.1:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chabula
+        wicket:
+          player_out: N Chabula
+          kind: bowled
+    - 11.2:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mulenga
+        wicket:
+          player_out: E Mulenga
+          kind: lbw
+    - 11.3:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rithika Sriram
+    - 11.4:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rithika Sriram
+        wicket:
+          player_out: Rithika Sriram
+          kind: bowled
+    - 11.5:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 11.6:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 12.1:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mwansa
+    - 12.2:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 12.3:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 12.4:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 12.5:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mwansa
+    - 12.6:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 12.7:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 12.8:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mwansa
+    - 12.9:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 13.1:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malama
+    - 13.2:
+        non_striker: E Malama
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 13.3:
+        non_striker: E Malama
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 13.4:
+        non_striker: E Malama
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mwansa
+    - 13.5:
+        non_striker: E Malama
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 13.6:
+        non_striker: E Malama
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Mwansa
+    - 13.7:
+        non_striker: V Mwansa
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 14.1:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 14.2:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 14.3:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+    - 14.4:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mwansa
+        wicket:
+          player_out: V Mwansa
+          kind: lbw
+    - 14.5:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 14.6:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 15.1:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 15.2:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 15.3:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 15.4:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Munsanda
+        batsman: E Malama
+    - 15.5:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Munsanda
+        batsman: E Malama
+    - 15.6:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 16.1:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 16.2:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 16.3:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 16.4:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Munsanda
+    - 16.5:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 16.6:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 16.7:
+        non_striker: E Malama
+        bowler: R Haiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 17.1:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 17.2:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 17.3:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 17.4:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 17.5:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Malama
+    - 17.6:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 17.7:
+        non_striker: P Munsanda
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 18.1:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 18.2:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 18.3:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+    - 18.4:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Munsanda
+        wicket:
+          player_out: P Munsanda
+          kind: lbw
+    - 18.5:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+    - 18.6:
+        non_striker: E Malama
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+    - 19.1:
+        non_striker: M Nguni
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malama
+    - 19.2:
+        non_striker: M Nguni
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malama
+    - 19.3:
+        non_striker: E Malama
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+    - 19.4:
+        non_striker: E Malama
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+    - 19.5:
+        non_striker: E Malama
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni
+    - 19.6:
+        non_striker: E Malama
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nguni

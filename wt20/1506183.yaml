@@ -1,0 +1,2623 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2533
+  outcome:
+    winner: Austria
+    by:
+      runs: 9
+  overs: 20
+  player_of_match:
+  - P Sabu
+  players:
+    Austria:
+    - P Sabu
+    - H Bhullar
+    - AM Zepeda
+    - S Bhardwaj
+    - MPM Pathirannehelage
+    - SM Ariyasinghage
+    - Ashi Chopla
+    - A Nookala
+    - Hadia Siddiqui
+    - A Saifee
+    - P Ganeshan
+    Turkey:
+    - D Tekyildirim
+    - S Ozkunduz
+    - H Celik
+    - M Bayram
+    - G Ayan
+    - Ezgi Nur Kilic
+    - K Canavarci
+    - S Yildirim
+    - G Cengiz
+    - G Keles
+    - R Cenik
+  registry:
+    people:
+      A Nookala: 57922f7c
+      A Saifee: 7efe9059
+      AM Zepeda: c9f95a16
+      Ashi Chopla: 89d6902b
+      D Tekyildirim: ae5f7b63
+      Ezgi Nur Kilic: ec8132b2
+      G Ayan: 66d258e2
+      G Cengiz: be59ed3f
+      G Keles: 3e84a803
+      H Bhullar: c9ffb93d
+      H Celik: 266f372c
+      Hadia Siddiqui: 14bc5d2d
+      K Canavarci: 556ad437
+      M Bayram: 4867ffbf
+      MPM Pathirannehelage: 0c142594
+      P Ganeshan: 3829c5ea
+      P Sabu: a38da707
+      R Cenik: '050009d9'
+      S Bhardwaj: 83e9173e
+      S Ozkunduz: 25850e31
+      S Yildirim: aae9b47b
+      SM Ariyasinghage: 64ddc3e7
+  teams:
+  - Austria
+  - Turkey
+  toss:
+    winner: Austria
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.2:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.3:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.4:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.5:
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.6:
+        non_striker: P Sabu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 1.1:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.2:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.3:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.4:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.5:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.6:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 1.7:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.8:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 1.9:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: H Bhullar
+    - 1.10:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 2.1:
+        non_striker: H Bhullar
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 2.2:
+        non_striker: P Sabu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 2.3:
+        non_striker: P Sabu
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 2.4:
+        non_striker: P Sabu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 2.5:
+        non_striker: H Bhullar
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 2.6:
+        non_striker: P Sabu
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 2.7:
+        non_striker: H Bhullar
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 3.1:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 3.2:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.3:
+        non_striker: H Bhullar
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Sabu
+    - 3.4:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 3.5:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 3.6:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 3.7:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 3.8:
+        non_striker: P Sabu
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 4.1:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 4.2:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 4.3:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 4.4:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          kind: bowled
+    - 4.5:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 4.6:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 4.7:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 5.1:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AM Zepeda
+    - 5.2:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 5.3:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 5.4:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 5.5:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 5.6:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 5.7:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 5.8:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 5.9:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 5.10:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 5.11:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 6.1:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 6.2:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 6.3:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 6.4:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 6.5:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 6.6:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 7.1:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 7.2:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 7.3:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 7.4:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 7.5:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 7.6:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 7.7:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 8.1:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 8.2:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 8.3:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 8.4:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 8.5:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 8.6:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 8.7:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 8.8:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 8.9:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 8.10:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 9.1:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 9.2:
+        non_striker: AM Zepeda
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 9.3:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 9.4:
+        non_striker: AM Zepeda
+        bowler: G Cengiz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: H Bhullar
+    - 9.5:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 9.6:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 9.7:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 9.8:
+        non_striker: H Bhullar
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 10.1:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 10.2:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.3:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.4:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.5:
+        non_striker: H Bhullar
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 10.6:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 11.1:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 11.2:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 11.3:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 11.4:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 11.5:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 11.6:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 11.7:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 11.8:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 11.9:
+        non_striker: H Bhullar
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 11.10:
+        non_striker: AM Zepeda
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 12.1:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: H Bhullar
+    - 12.2:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 12.3:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 12.4:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 12.5:
+        non_striker: H Bhullar
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 12.6:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+        wicket:
+          player_out: H Bhullar
+          kind: bowled
+    - 12.7:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 13.1:
+        non_striker: S Bhardwaj
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 13.2:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 13.3:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 13.4:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 13.5:
+        non_striker: S Bhardwaj
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 13.6:
+        non_striker: S Bhardwaj
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 13.7:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+        wicket:
+          player_out: S Bhardwaj
+          fielders:
+          - G Ayan
+          kind: caught
+    - 13.8:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 14.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 14.2:
+        non_striker: MPM Pathirannehelage
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 14.3:
+        non_striker: MPM Pathirannehelage
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.4:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 14.5:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 14.6:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 15.1:
+        non_striker: MPM Pathirannehelage
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 15.2:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 15.3:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MPM Pathirannehelage
+    - 15.4:
+        non_striker: MPM Pathirannehelage
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 15.5:
+        non_striker: MPM Pathirannehelage
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 15.6:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 15.7:
+        non_striker: AM Zepeda
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 15.8:
+        non_striker: MPM Pathirannehelage
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 16.1:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+        wicket:
+          player_out: MPM Pathirannehelage
+          kind: bowled
+    - 16.2:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Ariyasinghage
+    - 16.3:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ariyasinghage
+    - 16.4:
+        non_striker: SM Ariyasinghage
+        bowler: H Celik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: AM Zepeda
+    - 16.5:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SM Ariyasinghage
+    - 16.6:
+        non_striker: SM Ariyasinghage
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 16.7:
+        non_striker: SM Ariyasinghage
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 16.8:
+        non_striker: SM Ariyasinghage
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 16.9:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ariyasinghage
+        wicket:
+          player_out: SM Ariyasinghage
+          kind: bowled
+    - 16.10:
+        non_striker: AM Zepeda
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashi Chopla
+    - 16.11:
+        non_striker: Ashi Chopla
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 17.1:
+        non_striker: Ashi Chopla
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 17.2:
+        non_striker: Ashi Chopla
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 17.3:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ashi Chopla
+    - 17.4:
+        non_striker: Ashi Chopla
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 17.5:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashi Chopla
+    - 17.6:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashi Chopla
+        wicket:
+          player_out: Ashi Chopla
+          kind: bowled
+    - 17.7:
+        non_striker: AM Zepeda
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nookala
+    - 18.1:
+        non_striker: A Nookala
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 18.2:
+        non_striker: A Nookala
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 18.3:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nookala
+    - 18.4:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nookala
+    - 18.5:
+        non_striker: A Nookala
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 18.6:
+        non_striker: A Nookala
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 18.7:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Nookala
+    - 18.8:
+        non_striker: AM Zepeda
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Nookala
+    - 18.9:
+        non_striker: A Nookala
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AM Zepeda
+    - 19.1:
+        non_striker: A Nookala
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 19.2:
+        non_striker: A Nookala
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 19.3:
+        non_striker: A Nookala
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 19.4:
+        non_striker: A Nookala
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 19.5:
+        non_striker: A Nookala
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 19.6:
+        non_striker: AM Zepeda
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nookala
+    - 19.7:
+        non_striker: AM Zepeda
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Nookala
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ozkunduz
+        batsman: D Tekyildirim
+    - 0.2:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ozkunduz
+    - 0.3:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ozkunduz
+    - 0.4:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ozkunduz
+    - 0.5:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ozkunduz
+    - 0.6:
+        non_striker: S Ozkunduz
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Tekyildirim
+    - 1.1:
+        non_striker: S Ozkunduz
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 1.2:
+        non_striker: S Ozkunduz
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Tekyildirim
+    - 1.3:
+        non_striker: S Ozkunduz
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Tekyildirim
+    - 1.4:
+        non_striker: S Ozkunduz
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 1.5:
+        non_striker: S Ozkunduz
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 1.6:
+        non_striker: D Tekyildirim
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ozkunduz
+    - 1.7:
+        non_striker: D Tekyildirim
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: H Celik
+            out: S Ozkunduz
+            reason: injury
+            role: batter
+        batsman: H Celik
+    - 1.8:
+        non_striker: D Tekyildirim
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 2.1:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 2.2:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 2.3:
+        non_striker: H Celik
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tekyildirim
+    - 2.4:
+        non_striker: D Tekyildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Celik
+    - 2.5:
+        non_striker: H Celik
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+    - 2.6:
+        non_striker: H Celik
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tekyildirim
+        wicket:
+          player_out: D Tekyildirim
+          kind: bowled
+    - 3.1:
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bayram
+        batsman: H Celik
+    - 3.2:
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Bayram
+        batsman: H Celik
+    - 3.3:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 3.4:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 3.5:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 3.6:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 4.1:
+        non_striker: M Bayram
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 4.2:
+        non_striker: M Bayram
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Celik
+    - 4.3:
+        non_striker: M Bayram
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Celik
+    - 4.4:
+        non_striker: M Bayram
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 4.5:
+        non_striker: M Bayram
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+        wicket:
+          player_out: M Bayram
+          fielders:
+          - P Ganeshan
+          kind: run out
+    - 4.6:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 4.7:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 4.8:
+        non_striker: G Ayan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 5.1:
+        non_striker: G Ayan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 5.2:
+        non_striker: G Ayan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 5.3:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+    - 5.4:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 5.5:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+    - 5.6:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 5.7:
+        non_striker: G Ayan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 6.1:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ayan
+    - 6.2:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+        wicket:
+          player_out: G Ayan
+          kind: bowled
+    - 6.3:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 6.4:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 6.5:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 6.6:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 6.7:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Ezgi Nur Kilic
+    - 6.8:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ezgi Nur Kilic
+    - 6.9:
+        non_striker: H Celik
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 7.1:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 7.2:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 7.3:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 7.4:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 7.5:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 7.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 8.1:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 8.2:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 8.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 8.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 8.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 8.6:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 9.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 9.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 9.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Celik
+    - 9.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Celik
+    - 9.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 9.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Celik
+    - 9.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 9.8:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 10.1:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 10.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 10.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 10.4:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 10.5:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 10.6:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 10.7:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 10.8:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 11.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 11.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 11.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 11.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 11.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Celik
+    - 11.6:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 11.7:
+        non_striker: H Celik
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ezgi Nur Kilic
+    - 12.1:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ezgi Nur Kilic
+    - 12.2:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 12.3:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 12.4:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 12.5:
+        non_striker: H Celik
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 12.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 12.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 13.1:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 13.2:
+        non_striker: H Celik
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 13.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+    - 13.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 13.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Celik
+    - 13.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Celik
+        wicket:
+          player_out: H Celik
+          kind: retired hurt
+    - 14.1:
+        non_striker: K Canavarci
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 14.2:
+        non_striker: K Canavarci
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Ezgi Nur Kilic
+    - 14.3:
+        non_striker: K Canavarci
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 14.4:
+        non_striker: K Canavarci
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 14.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 14.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 14.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 15.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 15.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Canavarci
+    - 15.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 15.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 15.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 15.6:
+        non_striker: K Canavarci
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 16.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 16.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 16.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 16.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 16.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Canavarci
+    - 16.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 17.1:
+        non_striker: K Canavarci
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 17.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 17.3:
+        non_striker: K Canavarci
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 17.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Canavarci
+    - 17.5:
+        non_striker: K Canavarci
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ezgi Nur Kilic
+    - 17.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Canavarci
+    - 18.1:
+        non_striker: K Canavarci
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 18.2:
+        non_striker: K Canavarci
+        bowler: P Sabu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Ezgi Nur Kilic
+    - 18.3:
+        non_striker: K Canavarci
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+        wicket:
+          player_out: Ezgi Nur Kilic
+          kind: lbw
+    - 18.4:
+        non_striker: K Canavarci
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 18.5:
+        non_striker: S Yildirim
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Canavarci
+    - 18.6:
+        non_striker: S Yildirim
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Canavarci
+    - 19.1:
+        non_striker: K Canavarci
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+        wicket:
+          player_out: K Canavarci
+          fielders:
+          - A Nookala
+          kind: run out
+    - 19.2:
+        non_striker: S Yildirim
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+        wicket:
+          player_out: G Cengiz
+          fielders:
+          - P Sabu
+          kind: run out
+    - 19.3:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Keles
+        batsman: S Yildirim
+        wicket:
+          player_out: S Yildirim
+          fielders:
+          - A Nookala
+          kind: run out
+    - 19.4:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Keles
+        batsman: S Ozkunduz
+    - 19.5:
+        non_striker: S Ozkunduz
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.6:
+        non_striker: G Keles
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ozkunduz

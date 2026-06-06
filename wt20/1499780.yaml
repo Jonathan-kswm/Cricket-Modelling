@@ -1,0 +1,1928 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2483
+  outcome:
+    winner: Japan
+    by:
+      runs: 104
+  overs: 20
+  players:
+    Japan:
+    - A Kano
+    - Erika Oda
+    - M Yanagida
+    - H Iwasaki
+    - A Chandel
+    - Seika Sumi
+    - M Kaswan
+    - E Kusuda-Nairn
+    - K Ota
+    - A Fujikawa
+    - E Toguchi-Quinn
+    Fiji:
+    - S Lomani
+    - AK Gonerara
+    - MT Waqanisau
+    - S Kijiana
+    - S Sigaiwasa
+    - I Waqavakatoga
+    - S Vuni
+    - M Biu
+    - MSC Erasito
+    - A Levaci
+    - KV Vakuruivalu
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Fujikawa: 9543a4fe
+      A Kano: e92841c0
+      A Levaci: 6ff1d14f
+      AK Gonerara: 141ee9a0
+      E Kusuda-Nairn: 95c5ce07
+      E Toguchi-Quinn: d144423b
+      Erika Oda: 4c8a1197
+      H Iwasaki: f2698c78
+      I Waqavakatoga: 31d220f5
+      K Ota: 211f48fe
+      KV Vakuruivalu: 98db3666
+      M Biu: c386183b
+      M Kaswan: da76ae8f
+      M Yanagida: f20e7e23
+      MSC Erasito: ce02e769
+      MT Waqanisau: dc86b56a
+      S Kijiana: ed1f0ef2
+      S Lomani: b85ac5bb
+      S Sigaiwasa: b1414505
+      S Vuni: 951e08f0
+      Seika Sumi: 704b4c30
+  teams:
+  - Japan
+  - Fiji
+  toss:
+    winner: Japan
+    decision: bat
+  venue: Albert Park 1, Suva
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Erika Oda
+        batsman: A Kano
+    - 0.2:
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Erika Oda
+        batsman: A Kano
+    - 0.3:
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Erika Oda
+        batsman: A Kano
+    - 0.4:
+        non_striker: A Kano
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Erika Oda
+    - 0.5:
+        non_striker: A Kano
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.6:
+        non_striker: A Kano
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.7:
+        non_striker: A Kano
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 0.8:
+        non_striker: A Kano
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 1.1:
+        non_striker: Erika Oda
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: A Kano
+    - 1.2:
+        non_striker: Erika Oda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.3:
+        non_striker: Erika Oda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.4:
+        non_striker: Erika Oda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 1.5:
+        non_striker: A Kano
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 1.6:
+        non_striker: A Kano
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.7:
+        non_striker: Erika Oda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kano
+    - 2.1:
+        non_striker: A Kano
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 2.2:
+        non_striker: A Kano
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 2.3:
+        non_striker: A Kano
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.4:
+        non_striker: Erika Oda
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kano
+    - 2.5:
+        non_striker: Erika Oda
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 2.6:
+        non_striker: Erika Oda
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Kano
+    - 2.7:
+        non_striker: A Kano
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.8:
+        non_striker: Erika Oda
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 3.1:
+        non_striker: Erika Oda
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+        wicket:
+          player_out: A Kano
+          kind: bowled
+    - 3.2:
+        non_striker: Erika Oda
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 3.3:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 3.4:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 3.5:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 3.6:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 4.1:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 4.2:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 4.3:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 4.4:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 4.5:
+        non_striker: Erika Oda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.6:
+        non_striker: Erika Oda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 5.1:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 5.2:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 5.3:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 5.4:
+        non_striker: Erika Oda
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 5.5:
+        non_striker: Erika Oda
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 5.6:
+        non_striker: Erika Oda
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 6.1:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          fielders:
+          - MSC Erasito
+          kind: caught
+    - 6.2:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 6.3:
+        non_striker: H Iwasaki
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 6.4:
+        non_striker: H Iwasaki
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.5:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 6.6:
+        non_striker: M Yanagida
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 7.1:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 7.2:
+        non_striker: H Iwasaki
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 7.3:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          fielders:
+          - MT Waqanisau
+          kind: caught
+    - 7.4:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 7.5:
+        non_striker: M Yanagida
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 7.6:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 7.7:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 8.1:
+        non_striker: M Yanagida
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 8.2:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 8.3:
+        non_striker: M Yanagida
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 8.4:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 8.5:
+        non_striker: M Yanagida
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 8.6:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 8.7:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 9.1:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.2:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.3:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 9.4:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 9.5:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.6:
+        non_striker: A Chandel
+        bowler: M Biu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 10.1:
+        non_striker: M Yanagida
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 10.2:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 10.3:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 10.4:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 10.5:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 10.6:
+        non_striker: A Chandel
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 10.7:
+        non_striker: M Yanagida
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 11.1:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.2:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 11.3:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.4:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.5:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.6:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 12.1:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.2:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 12.3:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 12.4:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 12.5:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 12.6:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 12.7:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 13.1:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 13.2:
+        non_striker: A Chandel
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.3:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 13.4:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 13.5:
+        non_striker: A Chandel
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.6:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 14.1:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 14.2:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 14.3:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 14.4:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 14.5:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 14.6:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 14.7:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 15.1:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 15.2:
+        non_striker: A Chandel
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 15.3:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 15.4:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 15.5:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 15.6:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 15.7:
+        non_striker: M Yanagida
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 16.1:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 16.2:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 16.3:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 16.4:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 16.5:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 16.6:
+        non_striker: M Yanagida
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 17.1:
+        non_striker: M Yanagida
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 17.2:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          kind: lbw
+    - 17.3:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 17.4:
+        non_striker: Seika Sumi
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 17.5:
+        non_striker: Seika Sumi
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 17.6:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Seika Sumi
+    - 17.7:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Seika Sumi
+    - 18.1:
+        non_striker: Seika Sumi
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 18.2:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 18.3:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 18.4:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 18.5:
+        non_striker: A Chandel
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 18.6:
+        non_striker: Seika Sumi
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 19.1:
+        non_striker: Seika Sumi
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Chandel
+    - 19.2:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 19.3:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.4:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.5:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.6:
+        non_striker: A Chandel
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+        wicket:
+          player_out: Seika Sumi
+          kind: bowled
+- 2nd innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AK Gonerara
+        batsman: S Lomani
+    - 0.2:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AK Gonerara
+        batsman: S Lomani
+    - 0.3:
+        non_striker: AK Gonerara
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lomani
+        wicket:
+          player_out: S Lomani
+          kind: lbw
+    - 0.4:
+        non_striker: AK Gonerara
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 0.5:
+        non_striker: AK Gonerara
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 0.6:
+        non_striker: MT Waqanisau
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+    - 1.1:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 1.2:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 1.3:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+        wicket:
+          player_out: MT Waqanisau
+          fielders:
+          - A Kano
+          kind: caught
+    - 1.4:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 1.5:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 1.6:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kijiana
+    - 1.7:
+        non_striker: AK Gonerara
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 2.1:
+        non_striker: S Kijiana
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gonerara
+        wicket:
+          player_out: AK Gonerara
+          kind: bowled
+    - 2.2:
+        non_striker: S Kijiana
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 2.3:
+        non_striker: S Kijiana
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 2.4:
+        non_striker: S Sigaiwasa
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 2.5:
+        non_striker: S Sigaiwasa
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 2.6:
+        non_striker: S Sigaiwasa
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+    - 3.1:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.2:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sigaiwasa
+    - 3.3:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sigaiwasa
+    - 3.4:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.5:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sigaiwasa
+    - 3.6:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.7:
+        non_striker: S Kijiana
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 4.1:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Sigaiwasa
+          fielders:
+          - E Kusuda-Nairn
+          kind: caught
+    - 4.2:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.3:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 4.4:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 4.5:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 4.6:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 4.7:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 4.8:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 4.9:
+        non_striker: I Waqavakatoga
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+    - 4.10:
+        non_striker: S Kijiana
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.1:
+        non_striker: I Waqavakatoga
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kijiana
+    - 5.2:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Waqavakatoga
+    - 5.3:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.4:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.5:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 5.6:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 5.7:
+        non_striker: S Kijiana
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Waqavakatoga
+    - 6.1:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kijiana
+        wicket:
+          player_out: S Kijiana
+          fielders:
+          - A Kano
+          kind: stumped
+    - 6.2:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.3:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.4:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.5:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.6:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 7.1:
+        non_striker: S Vuni
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 7.2:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 7.3:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vuni
+    - 7.4:
+        non_striker: S Vuni
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 7.5:
+        non_striker: S Vuni
+        bowler: M Kaswan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Waqavakatoga
+    - 7.6:
+        non_striker: S Vuni
+        bowler: M Kaswan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: I Waqavakatoga
+    - 7.7:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vuni
+    - 8.1:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+        wicket:
+          player_out: S Vuni
+          kind: bowled
+    - 8.2:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+    - 8.3:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Biu
+    - 8.4:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Biu
+    - 8.5:
+        non_striker: M Biu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 8.6:
+        non_striker: M Biu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Waqavakatoga
+    - 8.7:
+        non_striker: M Biu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 9.1:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Biu
+        wicket:
+          player_out: M Biu
+          kind: bowled
+    - 9.2:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 9.3:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 9.4:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 9.5:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSC Erasito
+    - 9.6:
+        non_striker: MSC Erasito
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+    - 10.1:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 10.2:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 10.3:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+    - 10.4:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSC Erasito
+        wicket:
+          player_out: MSC Erasito
+          fielders:
+          - A Fujikawa
+          kind: caught
+    - 10.5:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Levaci
+    - 10.6:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Levaci
+        wicket:
+          player_out: A Levaci
+          fielders:
+          - A Fujikawa
+          kind: caught
+    - 11.1:
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KV Vakuruivalu
+        batsman: I Waqavakatoga
+    - 11.2:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Vakuruivalu
+    - 11.3:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Vakuruivalu
+    - 11.4:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KV Vakuruivalu
+    - 11.5:
+        non_striker: KV Vakuruivalu
+        bowler: M Kaswan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: I Waqavakatoga
+    - 11.6:
+        non_striker: I Waqavakatoga
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KV Vakuruivalu
+    - 11.7:
+        non_striker: KV Vakuruivalu
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 12.1:
+        non_striker: KV Vakuruivalu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Waqavakatoga
+    - 12.2:
+        non_striker: I Waqavakatoga
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KV Vakuruivalu
+    - 12.3:
+        non_striker: KV Vakuruivalu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Waqavakatoga
+        wicket:
+          player_out: I Waqavakatoga
+          kind: bowled

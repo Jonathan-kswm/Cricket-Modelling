@@ -1,0 +1,2371 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2026-02-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2672
+  outcome:
+    winner: Oman
+    by:
+      runs: 70
+  overs: 20
+  player_of_match:
+  - Javed Hina
+  players:
+    Oman:
+    - J Gunasekar
+    - N Joshi
+    - Fiza
+    - PE Mendonca
+    - Javed Hina
+    - TB Pawde
+    - Sameera Khan
+    - CM Saldanha
+    - SA Sathiya
+    - Afida Afthab
+    - Alifiya Sayed
+    Denmark:
+    - K Brock-Nielsen
+    - S Hojholt
+    - L Ostergaard
+    - L Leisner
+    - A Ostergaard
+    - K Pandya
+    - AB Slebsager
+    - NP Dalgaard
+    - S Ostergaard
+    - L Holmgaard
+    - C Ostergaard
+  registry:
+    people:
+      A Ostergaard: 36ffe914
+      AB Slebsager: 4ae7048b
+      Afida Afthab: 9446598e
+      Alifiya Sayed: '81423620'
+      C Ostergaard: e212b0fd
+      CM Saldanha: aee1bc06
+      Fiza: c7c60bc5
+      Freddie Lonappan: 5f5d6d83
+      J Gunasekar: e50c13a5
+      Javed Hina: a487762e
+      K Brock-Nielsen: c14ba87c
+      K Pandya: 75b4acc8
+      L Holmgaard: 8ea1f4c4
+      L Leisner: ed614ded
+      L Ostergaard: 3a5160d9
+      Merita Pinto: 44098b1a
+      N Joshi: cfece11f
+      NP Dalgaard: '40283617'
+      PE Mendonca: 70bab30b
+      S Hojholt: 1a14aefd
+      S Ostergaard: a19e799b
+      SA Sathiya: 1ba007d8
+      Sagir Vengitta: ef1d2a81
+      Sameera Khan: 237baa2c
+      TB Pawde: 42d5be2e
+  teams:
+  - Oman
+  - Denmark
+  toss:
+    winner: Denmark
+    decision: field
+  umpires:
+  - Freddie Lonappan
+  - Merita Pinto
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.2:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Joshi
+    - 0.3:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+        wicket:
+          player_out: N Joshi
+          fielders:
+          - AB Slebsager
+          kind: caught
+    - 0.4:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 0.5:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 0.6:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 0.7:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 1.1:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 1.2:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 1.3:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 1.4:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.5:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 1.6:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 2.1:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 2.2:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 2.3:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 2.4:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 2.5:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 2.6:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 2.7:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 2.8:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.1:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.2:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.3:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 3.4:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 3.5:
+        non_striker: J Gunasekar
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 3.6:
+        non_striker: Fiza
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 4.1:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fiza
+    - 4.2:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 4.3:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 4.4:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 4.5:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gunasekar
+    - 4.6:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 4.7:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 4.8:
+        non_striker: Fiza
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 4.9:
+        non_striker: J Gunasekar
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+        wicket:
+          player_out: Fiza
+          fielders:
+          - L Ostergaard
+          kind: caught
+    - 5.1:
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PE Mendonca
+        batsman: J Gunasekar
+    - 5.2:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+        wicket:
+          player_out: J Gunasekar
+          fielders:
+          - L Ostergaard
+          kind: caught
+    - 5.3:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.4:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.5:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 5.6:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 5.7:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 6.1:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 6.2:
+        non_striker: Javed Hina
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 6.3:
+        non_striker: Javed Hina
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 6.4:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 6.5:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 6.6:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 7.1:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 7.2:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 7.3:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 7.4:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 7.5:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 7.6:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 8.1:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javed Hina
+    - 8.2:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.3:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javed Hina
+    - 8.4:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.5:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javed Hina
+    - 8.6:
+        non_striker: PE Mendonca
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 9.1:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 9.2:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 9.3:
+        non_striker: PE Mendonca
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 9.4:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PE Mendonca
+    - 9.5:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 9.6:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 9.7:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+        wicket:
+          player_out: PE Mendonca
+          kind: bowled
+    - 10.1:
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TB Pawde
+        batsman: Javed Hina
+    - 10.2:
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TB Pawde
+        batsman: Javed Hina
+    - 10.3:
+        non_striker: Javed Hina
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Pawde
+    - 10.4:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 10.5:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 10.6:
+        non_striker: Javed Hina
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Pawde
+    - 11.1:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: TB Pawde
+    - 11.2:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Pawde
+    - 11.3:
+        non_striker: TB Pawde
+        bowler: AB Slebsager
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Javed Hina
+    - 11.4:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 11.5:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Pawde
+    - 11.6:
+        non_striker: TB Pawde
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javed Hina
+    - 11.7:
+        non_striker: TB Pawde
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 11.8:
+        non_striker: Javed Hina
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Pawde
+    - 12.1:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 12.2:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Javed Hina
+    - 12.3:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javed Hina
+    - 12.4:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javed Hina
+    - 12.5:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 12.6:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 12.7:
+        non_striker: Javed Hina
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Pawde
+    - 12.8:
+        non_striker: TB Pawde
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 13.1:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Pawde
+    - 13.2:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 13.3:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Pawde
+    - 13.4:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 13.5:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 13.6:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Pawde
+    - 14.1:
+        non_striker: TB Pawde
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 14.2:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 14.3:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB Pawde
+    - 14.4:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+        wicket:
+          player_out: TB Pawde
+          fielders:
+          - K Brock-Nielsen
+          - C Ostergaard
+          kind: run out
+    - 14.5:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Sameera Khan
+        batsman: Javed Hina
+    - 14.6:
+        bowler: C Ostergaard
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Sameera Khan
+        batsman: Javed Hina
+    - 14.7:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 14.8:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 15.1:
+        non_striker: Sameera Khan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 15.2:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameera Khan
+    - 15.3:
+        non_striker: Javed Hina
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 15.4:
+        non_striker: Sameera Khan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 15.5:
+        non_striker: Sameera Khan
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 15.6:
+        non_striker: Sameera Khan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 15.7:
+        non_striker: Sameera Khan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 16.1:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameera Khan
+    - 16.2:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 16.3:
+        non_striker: Sameera Khan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 16.4:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 16.5:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameera Khan
+    - 16.6:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+        wicket:
+          player_out: Sameera Khan
+          kind: bowled
+    - 16.7:
+        non_striker: Javed Hina
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 16.8:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 16.9:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+        wicket:
+          player_out: Javed Hina
+          fielders:
+          - S Hojholt
+          kind: caught
+    - 17.1:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SA Sathiya
+        batsman: CM Saldanha
+    - 17.2:
+        non_striker: CM Saldanha
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Sathiya
+    - 17.3:
+        non_striker: CM Saldanha
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Sathiya
+    - 17.4:
+        non_striker: SA Sathiya
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Saldanha
+    - 17.5:
+        non_striker: SA Sathiya
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 17.6:
+        non_striker: SA Sathiya
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Saldanha
+    - 18.1:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Sathiya
+    - 18.2:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Sathiya
+    - 18.3:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SA Sathiya
+    - 18.4:
+        non_striker: SA Sathiya
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 18.5:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Sathiya
+    - 18.6:
+        non_striker: CM Saldanha
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Sathiya
+    - 19.1:
+        non_striker: CM Saldanha
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Sathiya
+    - 19.2:
+        non_striker: CM Saldanha
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Sathiya
+    - 19.3:
+        non_striker: CM Saldanha
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Sathiya
+    - 19.4:
+        non_striker: SA Sathiya
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 19.5:
+        non_striker: SA Sathiya
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+        wicket:
+          player_out: CM Saldanha
+          fielders:
+          - S Hojholt
+          kind: stumped
+    - 19.6:
+        non_striker: SA Sathiya
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afida Afthab
+    - 19.7:
+        non_striker: Afida Afthab
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Sathiya
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hojholt
+        batsman: K Brock-Nielsen
+    - 0.2:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Hojholt
+        batsman: K Brock-Nielsen
+    - 0.3:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hojholt
+        batsman: K Brock-Nielsen
+    - 0.4:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hojholt
+        batsman: K Brock-Nielsen
+    - 0.5:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hojholt
+        batsman: K Brock-Nielsen
+    - 0.6:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Brock-Nielsen
+        wicket:
+          player_out: K Brock-Nielsen
+          kind: bowled
+    - 1.1:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        batsman: S Hojholt
+    - 1.2:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Ostergaard
+        batsman: S Hojholt
+    - 1.3:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        batsman: S Hojholt
+    - 1.4:
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Ostergaard
+        batsman: S Hojholt
+    - 1.5:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 1.6:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 2.1:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.2:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.3:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ostergaard
+    - 2.4:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.5:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.6:
+        non_striker: S Hojholt
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 3.1:
+        non_striker: L Ostergaard
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 3.2:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 3.3:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 3.4:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 3.5:
+        non_striker: L Ostergaard
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 3.6:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 4.1:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 4.2:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 4.3:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 4.4:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 4.5:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 4.6:
+        non_striker: L Ostergaard
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Hojholt
+    - 5.1:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.2:
+        non_striker: L Ostergaard
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 5.3:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.4:
+        non_striker: L Ostergaard
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 5.5:
+        non_striker: L Ostergaard
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 5.6:
+        non_striker: S Hojholt
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 6.1:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 6.2:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 6.3:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 6.4:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 6.5:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 6.6:
+        non_striker: L Ostergaard
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Hojholt
+    - 7.1:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 7.2:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 7.3:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 7.4:
+        non_striker: L Ostergaard
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Hojholt
+    - 7.5:
+        non_striker: L Ostergaard
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 7.6:
+        non_striker: L Ostergaard
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 8.1:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.2:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.3:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 8.4:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.5:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ostergaard
+    - 8.6:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.7:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 8.8:
+        non_striker: S Hojholt
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Ostergaard
+    - 9.1:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 9.2:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+        wicket:
+          player_out: L Ostergaard
+          fielders:
+          - J Gunasekar
+          kind: caught
+    - 9.3:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 9.4:
+        non_striker: L Leisner
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 9.5:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 9.6:
+        non_striker: S Hojholt
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 10.1:
+        non_striker: S Hojholt
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 10.2:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Hojholt
+    - 10.3:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Hojholt
+    - 10.4:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 10.5:
+        non_striker: S Hojholt
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 10.6:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 10.7:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 11.1:
+        non_striker: S Hojholt
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 11.2:
+        non_striker: S Hojholt
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 11.3:
+        non_striker: L Leisner
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 11.4:
+        non_striker: S Hojholt
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 11.5:
+        non_striker: S Hojholt
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 11.6:
+        non_striker: S Hojholt
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 12.1:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hojholt
+    - 12.2:
+        non_striker: S Hojholt
+        bowler: Fiza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Leisner
+    - 12.3:
+        non_striker: S Hojholt
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 12.4:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Hojholt
+    - 12.5:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 12.6:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Hojholt
+    - 12.7:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+    - 12.8:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hojholt
+        wicket:
+          player_out: S Hojholt
+          kind: bowled
+    - 12.9:
+        non_striker: L Leisner
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 13.1:
+        non_striker: L Leisner
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.2:
+        non_striker: L Leisner
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 13.3:
+        non_striker: A Ostergaard
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+        wicket:
+          player_out: L Leisner
+          fielders:
+          - CM Saldanha
+          kind: stumped
+    - 13.4:
+        non_striker: A Ostergaard
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 13.5:
+        non_striker: K Pandya
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 13.6:
+        non_striker: A Ostergaard
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 14.1:
+        non_striker: A Ostergaard
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 14.2:
+        non_striker: A Ostergaard
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 14.3:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.4:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 14.5:
+        non_striker: A Ostergaard
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 14.6:
+        non_striker: A Ostergaard
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 15.1:
+        non_striker: A Ostergaard
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 15.2:
+        non_striker: A Ostergaard
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 15.3:
+        non_striker: K Pandya
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 15.4:
+        non_striker: K Pandya
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 15.5:
+        non_striker: K Pandya
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 15.6:
+        non_striker: K Pandya
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 16.1:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+        wicket:
+          player_out: A Ostergaard
+          fielders:
+          - Fiza
+          kind: caught
+    - 16.2:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 16.3:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 16.4:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 16.5:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 16.6:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 16.7:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Pandya
+    - 16.8:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 17.1:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Slebsager
+    - 17.2:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Slebsager
+    - 17.3:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 17.4:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 17.5:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 17.6:
+        non_striker: K Pandya
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 17.7:
+        non_striker: AB Slebsager
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 17.8:
+        non_striker: AB Slebsager
+        bowler: N Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 18.1:
+        non_striker: AB Slebsager
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 18.2:
+        non_striker: AB Slebsager
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+    - 18.3:
+        non_striker: AB Slebsager
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pandya
+    - 18.4:
+        non_striker: K Pandya
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 18.5:
+        non_striker: K Pandya
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 18.6:
+        non_striker: K Pandya
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 19.1:
+        non_striker: K Pandya
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 19.2:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pandya
+        wicket:
+          player_out: K Pandya
+          fielders:
+          - SA Sathiya
+          kind: caught
+    - 19.3:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 19.4:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          fielders:
+          - Sameera Khan
+          kind: run out
+    - 19.5:
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ostergaard
+        batsman: AB Slebsager
+    - 19.6:
+        non_striker: AB Slebsager
+        bowler: Sameera Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Ostergaard

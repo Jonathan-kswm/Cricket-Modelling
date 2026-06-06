@@ -1,0 +1,2293 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2413
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 67
+  overs: 20
+  player_of_match:
+  - H Ishimwe
+  players:
+    Rwanda:
+    - MD Bimenyimana
+    - M Uwase
+    - G Ishimwe
+    - C Uwase
+    - S Niyomuhoza
+    - H Ishimwe
+    - A Ikuzwe
+    - B Murekatete
+    - Geovanis Uwase
+    - R Shimwamana
+    - Rosine Irera
+    Malawi:
+    - S Chinawa
+    - S Kananji
+    - T Luka
+    - LL Dimba
+    - A Lumbe
+    - P Maziya
+    - F Malefula
+    - KM Chingaipe
+    - C Bwanali
+    - E Kabwere
+    - L Malino
+  registry:
+    people:
+      A Ikuzwe: 6762a445
+      A Lumbe: 7e421645
+      B Murekatete: 2d4317da
+      C Bwanali: b26a30f9
+      C Uwase: 808bb510
+      E Kabwere: b6358ee8
+      F Malefula: 6a405883
+      G Ishimwe: b5ae57ee
+      Geovanis Uwase: '088f22fd'
+      H Ishimwe: ffa296f7
+      J Chibhabha: 4c5c47a4
+      K Klaaste: 6cc1d918
+      KM Chingaipe: db32d60a
+      L Malino: 7a81836e
+      LL Dimba: 53f88bf1
+      M Uwase: 7d6ce83f
+      MD Bimenyimana: c1a0cebe
+      P Maziya: 4f85f02c
+      Patric Makumbi: e4c69c16
+      R D'Mello: f3c22863
+      R Shimwamana: 03fb10bd
+      Rosine Irera: b84718fd
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      S Niyomuhoza: a5424013
+      T Luka: 44e008a5
+  teams:
+  - Rwanda
+  - Malawi
+  toss:
+    winner: Rwanda
+    decision: bat
+  umpires:
+  - K Klaaste
+  - R D'Mello
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Uwase
+        batsman: MD Bimenyimana
+    - 0.2:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Uwase
+        batsman: MD Bimenyimana
+    - 0.3:
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: M Uwase
+        batsman: MD Bimenyimana
+    - 0.4:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 0.5:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+        wicket:
+          player_out: M Uwase
+          kind: lbw
+    - 0.6:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 0.7:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 1.1:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.2:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 1.3:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 1.4:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.5:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.6:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 1.7:
+        non_striker: MD Bimenyimana
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 1.8:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 2.1:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 2.2:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 2.3:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: G Ishimwe
+    - 2.4:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 2.5:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 2.6:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 2.7:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 3.1:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Bimenyimana
+    - 3.2:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.3:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.4:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 3.5:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.6:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 3.7:
+        non_striker: MD Bimenyimana
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 4.1:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 4.2:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 4.3:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 4.4:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Ishimwe
+    - 4.5:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 4.6:
+        non_striker: MD Bimenyimana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 4.7:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 5.1:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 5.2:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.3:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 5.4:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.5:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 5.6:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.7:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Bimenyimana
+    - 5.8:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+        wicket:
+          player_out: MD Bimenyimana
+          kind: bowled
+    - 6.1:
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Uwase
+        batsman: G Ishimwe
+    - 6.2:
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Uwase
+        batsman: G Ishimwe
+    - 6.3:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.4:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Uwase
+    - 6.5:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.6:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 6.7:
+        non_striker: C Uwase
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 7.1:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 7.2:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 7.3:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 7.4:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 7.5:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 7.6:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 7.7:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 8.1:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: C Uwase
+    - 8.2:
+        non_striker: C Uwase
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 8.3:
+        non_striker: C Uwase
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 8.4:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 8.5:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 8.6:
+        non_striker: G Ishimwe
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 9.1:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 9.2:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 9.3:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Uwase
+    - 9.4:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 9.5:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 9.6:
+        non_striker: C Uwase
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Ishimwe
+        wicket:
+          player_out: C Uwase
+          fielders:
+          - LL Dimba
+          - L Malino
+          kind: run out
+    - 9.7:
+        non_striker: S Niyomuhoza
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 10.1:
+        non_striker: S Niyomuhoza
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 10.2:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+    - 10.3:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+    - 10.4:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+    - 10.5:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+    - 10.6:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+    - 11.1:
+        non_striker: S Niyomuhoza
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 11.2:
+        non_striker: S Niyomuhoza
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 11.3:
+        non_striker: S Niyomuhoza
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 11.4:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Niyomuhoza
+        wicket:
+          player_out: S Niyomuhoza
+          fielders:
+          - S Chinawa
+          kind: caught
+    - 11.5:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 11.6:
+        non_striker: H Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 12.1:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 12.2:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 12.3:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 12.4:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 12.5:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 12.6:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 13.1:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.2:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.3:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.4:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.5:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.6:
+        non_striker: G Ishimwe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 14.1:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 14.2:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 14.3:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 14.4:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 14.5:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 14.6:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.1:
+        non_striker: G Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 15.2:
+        non_striker: G Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 15.3:
+        non_striker: H Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.4:
+        non_striker: H Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 15.5:
+        non_striker: H Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 15.6:
+        non_striker: H Ishimwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 16.1:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 16.2:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Ishimwe
+    - 16.3:
+        non_striker: G Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 16.4:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 16.5:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 16.6:
+        non_striker: H Ishimwe
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 17.1:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 17.2:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 17.3:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 17.4:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+        wicket:
+          player_out: H Ishimwe
+          fielders:
+          - S Chinawa
+          kind: caught
+    - 17.5:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 17.6:
+        non_striker: G Ishimwe
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ikuzwe
+    - 18.1:
+        non_striker: A Ikuzwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 18.2:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 18.3:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Ikuzwe
+    - 18.4:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 18.5:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 18.6:
+        non_striker: G Ishimwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Ikuzwe
+    - 18.7:
+        non_striker: A Ikuzwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 18.8:
+        non_striker: A Ikuzwe
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+        wicket:
+          player_out: G Ishimwe
+          kind: bowled
+    - 19.1:
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Murekatete
+        batsman: A Ikuzwe
+    - 19.2:
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Murekatete
+        batsman: A Ikuzwe
+    - 19.3:
+        non_striker: A Ikuzwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Murekatete
+    - 19.4:
+        non_striker: A Ikuzwe
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Murekatete
+    - 19.5:
+        non_striker: B Murekatete
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 19.6:
+        non_striker: B Murekatete
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kananji
+        batsman: S Chinawa
+    - 0.2:
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kananji
+        batsman: S Chinawa
+    - 0.3:
+        bowler: B Murekatete
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: S Kananji
+        batsman: S Chinawa
+    - 0.4:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 0.5:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 0.6:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 1.1:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.2:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.3:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.4:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.5:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.6:
+        non_striker: S Kananji
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 2.1:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.2:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 2.3:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+        wicket:
+          player_out: S Kananji
+          kind: bowled
+    - 2.4:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+        wicket:
+          player_out: T Luka
+          kind: lbw
+    - 2.5:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 2.6:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 3.1:
+        non_striker: S Chinawa
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 3.2:
+        non_striker: S Chinawa
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 3.3:
+        non_striker: LL Dimba
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa
+    - 3.4:
+        non_striker: LL Dimba
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 3.5:
+        non_striker: S Chinawa
+        bowler: Geovanis Uwase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 3.6:
+        non_striker: S Chinawa
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 3.7:
+        non_striker: S Chinawa
+        bowler: Geovanis Uwase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 4.1:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.2:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.3:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.4:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.5:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.6:
+        non_striker: LL Dimba
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: A Lumbe
+            out: S Chinawa
+            reason: injury
+            role: batter
+        batsman: A Lumbe
+    - 5.1:
+        non_striker: A Lumbe
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 5.2:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+    - 5.3:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+    - 5.4:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+        wicket:
+          player_out: A Lumbe
+          kind: lbw
+    - 5.5:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 5.6:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: P Maziya
+    - 5.7:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+        wicket:
+          player_out: P Maziya
+          fielders:
+          - MD Bimenyimana
+          kind: caught
+    - 5.8:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.1:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 6.2:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.3:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.4:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 6.5:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 6.6:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 7.1:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.2:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.3:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 7.4:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 7.5:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 7.6:
+        non_striker: LL Dimba
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 8.1:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 8.2:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 8.3:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 8.4:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 8.5:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 8.6:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 9.1:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 9.2:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 9.3:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 9.4:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 9.5:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 9.6:
+        non_striker: F Malefula
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 10.1:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 10.2:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 10.3:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 10.4:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 10.5:
+        non_striker: F Malefula
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 10.6:
+        non_striker: LL Dimba
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 11.1:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 11.2:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 11.3:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 11.4:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 11.5:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 11.6:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 12.1:
+        non_striker: F Malefula
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 12.2:
+        non_striker: F Malefula
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 12.3:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 12.4:
+        non_striker: F Malefula
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 12.5:
+        non_striker: F Malefula
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 12.6:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 13.1:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 13.2:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 13.3:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 13.4:
+        non_striker: F Malefula
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 13.5:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 13.6:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 13.7:
+        non_striker: LL Dimba
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 14.1:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+        wicket:
+          player_out: F Malefula
+          kind: bowled
+    - 14.2:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 14.3:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 14.4:
+        non_striker: LL Dimba
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 14.5:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+        wicket:
+          player_out: LL Dimba
+          fielders:
+          - S Niyomuhoza
+          kind: caught
+    - 14.6:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 15.1:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 15.2:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 15.3:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 15.4:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 15.5:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 15.6:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 15.7:
+        non_striker: S Chinawa
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 15.8:
+        non_striker: S Chinawa
+        bowler: R Shimwamana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KM Chingaipe
+    - 15.9:
+        non_striker: KM Chingaipe
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 16.1:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 16.2:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Chingaipe
+    - 16.3:
+        non_striker: KM Chingaipe
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 16.4:
+        non_striker: KM Chingaipe
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 16.5:
+        non_striker: KM Chingaipe
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 16.6:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Chingaipe
+    - 17.1:
+        non_striker: KM Chingaipe
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 17.2:
+        non_striker: S Chinawa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 17.3:
+        non_striker: S Chinawa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+    - 17.4:
+        non_striker: S Chinawa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Chingaipe
+    - 17.5:
+        non_striker: S Chinawa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Chingaipe
+        wicket:
+          player_out: KM Chingaipe
+          kind: caught and bowled
+    - 17.6:
+        non_striker: S Chinawa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 18.1:
+        non_striker: C Bwanali
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 18.2:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+        wicket:
+          player_out: C Bwanali
+          fielders:
+          - M Uwase
+          - Rosine Irera
+          kind: run out
+    - 18.3:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+    - 18.4:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+    - 18.5:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+    - 18.6:
+        non_striker: S Chinawa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+    - 19.1:
+        non_striker: E Kabwere
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 19.2:
+        non_striker: E Kabwere
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 19.3:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+        wicket:
+          player_out: E Kabwere
+          kind: bowled
+    - 19.4:
+        non_striker: S Chinawa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 19.5:
+        non_striker: L Malino
+        bowler: H Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 19.6:
+        non_striker: L Malino
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 19.7:
+        non_striker: L Malino
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa

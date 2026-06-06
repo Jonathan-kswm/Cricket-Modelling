@@ -1,0 +1,2068 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kampala
+  dates:
+  - '2025-10-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2543
+  outcome:
+    winner: Uganda
+    by:
+      runs: 18
+  overs: 20
+  player_of_match:
+  - K Amuge
+  players:
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - K Awino
+    - R Musamali
+    - S Nampiina
+    - P Alako
+    - NJ Amongin
+    - K Amuge
+    - C Aweko
+    - S Tino
+    Canada:
+    - A Perera
+    - Habeeba Bader
+    - I Goordial-John
+    - Amarpal Kaur
+    - K Kapadia
+    - Rabbjyot Rajput
+    - V Mahajan
+    - TA Lavia
+    - Zeel Patel
+    - T Thorpe
+    - Srishti Raha
+  registry:
+    people:
+      A Perera: 788afc32
+      Amarpal Kaur: 3051fcc6
+      C Aweko: 01c1b96c
+      E Iloku: f1fa1c6b
+      Habeeba Bader: 18d53879
+      I Goordial-John: 6e2ec862
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      John Mayeku: 9d819a32
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      K Kapadia: 52fc5577
+      NJ Amongin: 98cdb42d
+      Norbert Abii: ed06cf51
+      P Alako: fcf37e14
+      R Musamali: 017cadb2
+      Rabbjyot Rajput: 8b1f5f91
+      S Athuola: 7c94cfd1
+      S Nampiina: 91d9aa26
+      S Tino: e2a702e3
+      Srishti Raha: b325acfa
+      T Thorpe: 9e547805
+      TA Lavia: 361b378b
+      V Mahajan: 8c42d7d8
+      Zeel Patel: c6635f86
+  teams:
+  - Uganda
+  - Canada
+  toss:
+    winner: Canada
+    decision: field
+  umpires:
+  - Norbert Abii
+  - S Athuola
+  venue: Lugogo Cricket Oval, Kampala
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.3:
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.4:
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.5:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          kind: bowled
+    - 0.6:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 1.1:
+        non_striker: I Nakisuuyi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 1.2:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.3:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.4:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 1.5:
+        non_striker: I Nakisuuyi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.6:
+        non_striker: I Nakisuuyi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.1:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.2:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: I Nakisuuyi
+    - 2.3:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 2.4:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.5:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 2.6:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 3.1:
+        non_striker: I Nakisuuyi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.2:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 3.3:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 3.4:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 3.5:
+        non_striker: J Mbabazi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 3.6:
+        non_striker: I Nakisuuyi
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.1:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - Rabbjyot Rajput
+          kind: caught
+    - 4.2:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.3:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.4:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 4.5:
+        non_striker: K Awino
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 4.6:
+        non_striker: J Mbabazi
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 5.1:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.2:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.3:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 5.5:
+        non_striker: J Mbabazi
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 5.6:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.1:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.2:
+        non_striker: J Mbabazi
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 6.3:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 6.4:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.5:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.6:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.7:
+        non_striker: J Mbabazi
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 7.1:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 7.2:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 7.3:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.4:
+        non_striker: J Mbabazi
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 7.5:
+        non_striker: J Mbabazi
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 7.6:
+        non_striker: K Awino
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.1:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 8.2:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 8.3:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.4:
+        non_striker: J Mbabazi
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 8.5:
+        non_striker: J Mbabazi
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 8.6:
+        non_striker: K Awino
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 9.1:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 9.2:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 9.3:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 9.4:
+        non_striker: K Awino
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 9.5:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Awino
+    - 9.6:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 10.1:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Mbabazi
+    - 10.2:
+        non_striker: J Mbabazi
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 10.3:
+        non_striker: J Mbabazi
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 10.4:
+        non_striker: J Mbabazi
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 10.5:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 10.6:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 11.1:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.2:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 11.3:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.4:
+        non_striker: J Mbabazi
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 11.5:
+        non_striker: K Awino
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 11.6:
+        non_striker: K Awino
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 12.1:
+        non_striker: J Mbabazi
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 12.2:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          kind: lbw
+    - 12.3:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.4:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.5:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.6:
+        non_striker: K Awino
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: lbw
+    - 13.1:
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Nampiina
+        batsman: K Awino
+    - 13.2:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          fielders:
+          - Habeeba Bader
+          kind: caught
+    - 13.3:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.4:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.5:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.6:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 14.1:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 14.2:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 14.3:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 14.4:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 14.5:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 14.6:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 15.1:
+        non_striker: P Alako
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 15.2:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 15.3:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 15.4:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 15.5:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 15.6:
+        non_striker: S Nampiina
+        bowler: I Goordial-John
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 16.1:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 16.2:
+        non_striker: P Alako
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 16.3:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.4:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.5:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.6:
+        non_striker: S Nampiina
+        bowler: TA Lavia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.1:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 17.2:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 17.3:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 17.4:
+        non_striker: S Nampiina
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 17.5:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 17.6:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 18.1:
+        non_striker: P Alako
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 18.2:
+        non_striker: P Alako
+        bowler: V Mahajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Nampiina
+    - 18.3:
+        non_striker: S Nampiina
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 18.4:
+        non_striker: S Nampiina
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 18.5:
+        non_striker: S Nampiina
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 18.6:
+        non_striker: P Alako
+        bowler: V Mahajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 19.1:
+        non_striker: S Nampiina
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 19.2:
+        non_striker: P Alako
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 19.3:
+        non_striker: S Nampiina
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          fielders:
+          - K Kapadia
+          kind: run out
+    - 19.4:
+        non_striker: S Nampiina
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Amongin
+    - 19.5:
+        non_striker: NJ Amongin
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 19.6:
+        non_striker: NJ Amongin
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Nampiina
+- 2nd innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Habeeba Bader
+        batsman: A Perera
+    - 0.2:
+        non_striker: A Perera
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 0.3:
+        non_striker: A Perera
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+        wicket:
+          player_out: Habeeba Bader
+          kind: bowled
+    - 0.4:
+        non_striker: A Perera
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Goordial-John
+    - 0.5:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+        wicket:
+          player_out: A Perera
+          fielders:
+          - J Mbabazi
+          kind: caught
+    - 0.6:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 1.1:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.2:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.3:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.4:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 1.5:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Goordial-John
+    - 1.6:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 2.1:
+        non_striker: Amarpal Kaur
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Goordial-John
+    - 2.2:
+        non_striker: Amarpal Kaur
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 2.3:
+        non_striker: Amarpal Kaur
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 2.4:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 2.5:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 2.6:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 2.7:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 3.1:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.2:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.3:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Goordial-John
+    - 3.4:
+        non_striker: I Goordial-John
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 3.5:
+        non_striker: I Goordial-John
+        bowler: NJ Amongin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amarpal Kaur
+    - 3.6:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Goordial-John
+    - 3.7:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Goordial-John
+    - 4.1:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 4.2:
+        non_striker: I Goordial-John
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+        wicket:
+          player_out: I Goordial-John
+          fielders:
+          - NJ Amongin
+          - K Amuge
+          kind: run out
+    - 4.3:
+        non_striker: K Kapadia
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+        wicket:
+          player_out: K Kapadia
+          fielders:
+          - S Nampiina
+          kind: run out
+    - 4.4:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Rabbjyot Rajput
+        batsman: Amarpal Kaur
+    - 4.5:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rabbjyot Rajput
+        batsman: Amarpal Kaur
+    - 4.6:
+        non_striker: Rabbjyot Rajput
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 5.1:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 5.2:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 5.3:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 5.4:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 5.5:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 5.6:
+        non_striker: Amarpal Kaur
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 6.1:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 6.2:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 6.3:
+        non_striker: Rabbjyot Rajput
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 6.4:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 6.5:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 6.6:
+        non_striker: Rabbjyot Rajput
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 7.1:
+        non_striker: Rabbjyot Rajput
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 7.2:
+        non_striker: Rabbjyot Rajput
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 7.3:
+        non_striker: Rabbjyot Rajput
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 7.4:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 7.5:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 7.6:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 8.1:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+    - 8.2:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabbjyot Rajput
+    - 8.3:
+        non_striker: Rabbjyot Rajput
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 8.4:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabbjyot Rajput
+        wicket:
+          player_out: Rabbjyot Rajput
+          fielders:
+          - K Amuge
+          kind: caught
+    - 8.5:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 8.6:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 9.1:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 9.2:
+        non_striker: V Mahajan
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 9.3:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 9.4:
+        non_striker: V Mahajan
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 9.5:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 9.6:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 10.1:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 10.2:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 10.3:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 10.4:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 10.5:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 10.6:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 11.1:
+        non_striker: V Mahajan
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 11.2:
+        non_striker: V Mahajan
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amarpal Kaur
+    - 11.3:
+        non_striker: V Mahajan
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 11.4:
+        non_striker: V Mahajan
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 11.5:
+        non_striker: Amarpal Kaur
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Mahajan
+    - 11.6:
+        non_striker: Amarpal Kaur
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 12.1:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 12.2:
+        non_striker: V Mahajan
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 12.3:
+        non_striker: V Mahajan
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 12.4:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 12.5:
+        non_striker: V Mahajan
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 12.6:
+        non_striker: Amarpal Kaur
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 13.1:
+        non_striker: V Mahajan
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 13.2:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Mahajan
+    - 13.3:
+        non_striker: V Mahajan
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 13.4:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 13.5:
+        non_striker: V Mahajan
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 13.6:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Mahajan
+    - 14.1:
+        non_striker: V Mahajan
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 14.2:
+        non_striker: Amarpal Kaur
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mahajan
+    - 14.3:
+        non_striker: V Mahajan
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 14.4:
+        non_striker: Amarpal Kaur
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+    - 14.5:
+        non_striker: Amarpal Kaur
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mahajan
+        wicket:
+          player_out: V Mahajan
+          kind: bowled
+    - 14.6:
+        non_striker: Amarpal Kaur
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lavia
+    - 15.1:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 15.2:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Lavia
+    - 15.3:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TA Lavia
+    - 15.4:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 15.5:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lavia
+    - 15.6:
+        non_striker: TA Lavia
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 15.7:
+        non_striker: Amarpal Kaur
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Lavia
+    - 16.1:
+        non_striker: TA Lavia
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amarpal Kaur
+    - 16.2:
+        non_striker: TA Lavia
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 16.3:
+        non_striker: Amarpal Kaur
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lavia
+    - 16.4:
+        non_striker: TA Lavia
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+        wicket:
+          player_out: Amarpal Kaur
+          fielders:
+          - K Awino
+          kind: caught
+    - 16.5:
+        non_striker: TA Lavia
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeel Patel
+    - 16.6:
+        non_striker: Zeel Patel
+        bowler: R Musamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TA Lavia
+    - 16.7:
+        non_striker: Zeel Patel
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 17.1:
+        non_striker: TA Lavia
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeel Patel
+    - 17.2:
+        non_striker: TA Lavia
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeel Patel
+    - 17.3:
+        non_striker: TA Lavia
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeel Patel
+        wicket:
+          player_out: Zeel Patel
+          fielders:
+          - K Awino
+          - P Alako
+          kind: run out
+    - 17.4:
+        non_striker: TA Lavia
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Thorpe
+    - 17.5:
+        non_striker: T Thorpe
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+    - 17.6:
+        non_striker: T Thorpe
+        bowler: NJ Amongin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lavia
+    - 18.1:
+        non_striker: T Thorpe
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lavia
+        wicket:
+          player_out: TA Lavia
+          kind: bowled
+    - 18.2:
+        non_striker: T Thorpe
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Srishti Raha
+    - 18.3:
+        non_striker: T Thorpe
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Srishti Raha
+        wicket:
+          player_out: T Thorpe
+          fielders:
+          - K Awino
+          - R Musamali
+          kind: run out

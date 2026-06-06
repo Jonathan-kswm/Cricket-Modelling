@@ -1,0 +1,2210 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2026-01-18'
+  gender: female
+  match_type: T20
+  match_type_number: 2626
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - C Chatonzwa
+  players:
+    Netherlands:
+    - HDJ Siegers
+    - P Molkenboer
+    - B de Leede
+    - SL Kalis
+    - R Rijke
+    - F Overdijk
+    - IJR Zwilling
+    - S Khurana
+    - C de Lange
+    - S Siegers
+    - I van der Woning
+    Zimbabwe:
+    - K Ndlovu
+    - B Biza
+    - M Mupachikwa
+    - CS Mugeri-Tiripano
+    - J Nkomo
+    - CT Dhururu
+    - N Gwanzura
+    - C Chatonzwa
+    - K Chigora
+    - A Mazvishaya
+    - L Mabhero
+  registry:
+    people:
+      A Mazvishaya: '09a58e2d'
+      B Biza: 8a522c6c
+      B de Leede: b3020075
+      C Chatonzwa: da61a9af
+      C de Lange: c6a019f5
+      CS Mugeri-Tiripano: 99c86133
+      CT Dhururu: 8d7fba79
+      F Overdijk: 022745d5
+      H Pack: fed53c91
+      HDJ Siegers: 6d48df01
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      J Nkomo: 36dfa62e
+      Jonathan Kennedy: f7ad4494
+      K Chigora: 5f311f1a
+      K Klaaste: 6cc1d918
+      K Ndlovu: 8d25271a
+      L Mabhero: 37f9eb59
+      M Mupachikwa: 6657b319
+      N Gwanzura: 9c2e3040
+      P Molkenboer: fa9db243
+      R Rijke: 42e4b276
+      S Khurana: 9a9a056d
+      S Siegers: 9a58f2c8
+      SL Kalis: 2b150c6b
+      Shathira Jakir: 6b992a6f
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Netherlands
+  - Zimbabwe
+  toss:
+    winner: Zimbabwe
+    decision: field
+  umpires:
+  - K Klaaste
+  - Vijaya Mallela
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.2:
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.3:
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.4:
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.5:
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.6:
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.7:
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.8:
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: P Molkenboer
+        batsman: HDJ Siegers
+    - 0.9:
+        non_striker: HDJ Siegers
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 0.10:
+        non_striker: HDJ Siegers
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 0.11:
+        non_striker: HDJ Siegers
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 0.12:
+        non_striker: HDJ Siegers
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 0.13:
+        non_striker: HDJ Siegers
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 1.1:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 1.2:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          fielders:
+          - A Mazvishaya
+          kind: caught
+    - 1.3:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          kind: lbw
+    - 1.4:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.5:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.6:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SL Kalis
+    - 2.1:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 2.2:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 2.3:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.4:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.5:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 2.6:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.7:
+        non_striker: SL Kalis
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.1:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.2:
+        non_striker: SL Kalis
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.3:
+        non_striker: SL Kalis
+        bowler: C Chatonzwa
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 3.4:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.5:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 3.6:
+        non_striker: P Molkenboer
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.7:
+        non_striker: SL Kalis
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 4.1:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.2:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 4.3:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.4:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 4.5:
+        non_striker: P Molkenboer
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.6:
+        non_striker: P Molkenboer
+        bowler: N Gwanzura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 4.7:
+        non_striker: P Molkenboer
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.1:
+        non_striker: SL Kalis
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Molkenboer
+    - 5.2:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.3:
+        non_striker: SL Kalis
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 5.4:
+        non_striker: SL Kalis
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 5.5:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: P Molkenboer
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 6.2:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 6.3:
+        non_striker: P Molkenboer
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.4:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.5:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.6:
+        non_striker: SL Kalis
+        bowler: N Gwanzura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 7.1:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.2:
+        non_striker: SL Kalis
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 7.4:
+        non_striker: SL Kalis
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.5:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.6:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 8.1:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.2:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.3:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 8.4:
+        non_striker: SL Kalis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 8.5:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.6:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 9.1:
+        non_striker: SL Kalis
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 9.2:
+        non_striker: SL Kalis
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 9.3:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 9.4:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 9.5:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          kind: caught and bowled
+    - 9.6:
+        non_striker: P Molkenboer
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.1:
+        non_striker: R Rijke
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 10.2:
+        non_striker: P Molkenboer
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.3:
+        non_striker: R Rijke
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - K Ndlovu
+          kind: caught
+    - 10.4:
+        non_striker: R Rijke
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 10.5:
+        non_striker: F Overdijk
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 10.6:
+        non_striker: F Overdijk
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.1:
+        non_striker: F Overdijk
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 11.2:
+        non_striker: F Overdijk
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.3:
+        non_striker: R Rijke
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 11.4:
+        non_striker: R Rijke
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 11.5:
+        non_striker: R Rijke
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 11.6:
+        non_striker: F Overdijk
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 12.1:
+        non_striker: R Rijke
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 12.2:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.3:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 12.4:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.5:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          kind: lbw
+    - 12.6:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 13.1:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          kind: lbw
+    - 13.2:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 13.3:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Khurana
+    - 13.4:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Khurana
+    - 13.5:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 13.6:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 13.7:
+        non_striker: S Khurana
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 13.8:
+        non_striker: S Khurana
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 13.9:
+        non_striker: S Khurana
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 13.10:
+        non_striker: F Overdijk
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 14.1:
+        non_striker: F Overdijk
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 14.2:
+        non_striker: S Khurana
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 14.3:
+        non_striker: S Khurana
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          kind: lbw
+    - 14.4:
+        non_striker: S Khurana
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 14.5:
+        non_striker: S Khurana
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 14.6:
+        non_striker: S Khurana
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+        wicket:
+          player_out: C de Lange
+          kind: bowled
+    - 15.1:
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Siegers
+        batsman: S Khurana
+    - 15.2:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 15.3:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 15.4:
+        non_striker: S Siegers
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 15.5:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 15.6:
+        non_striker: S Siegers
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 16.1:
+        non_striker: S Siegers
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 16.2:
+        non_striker: S Siegers
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 16.3:
+        non_striker: S Khurana
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 16.4:
+        non_striker: S Siegers
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Khurana
+    - 16.5:
+        non_striker: S Siegers
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 16.6:
+        non_striker: S Khurana
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 17.1:
+        non_striker: S Siegers
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 17.2:
+        non_striker: S Siegers
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+    - 17.3:
+        non_striker: S Siegers
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 17.4:
+        non_striker: S Khurana
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 17.5:
+        non_striker: S Khurana
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 17.6:
+        non_striker: S Khurana
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 18.1:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Siegers
+    - 18.2:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Siegers
+    - 18.3:
+        non_striker: S Siegers
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+        wicket:
+          player_out: S Siegers
+          fielders:
+          - J Nkomo
+          kind: run out
+    - 18.4:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van der Woning
+    - 18.5:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van der Woning
+    - 18.6:
+        non_striker: S Khurana
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van der Woning
+        wicket:
+          player_out: I van der Woning
+          kind: bowled
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Biza
+        batsman: K Ndlovu
+    - 0.2:
+        non_striker: K Ndlovu
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 0.3:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 0.4:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 0.5:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          fielders:
+          - B de Leede
+          kind: caught
+    - 0.6:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 1.1:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.2:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.3:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.4:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.5:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 1.6:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Biza
+    - 2.1:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.2:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 2.3:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.4:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.5:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.6:
+        non_striker: B Biza
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 2.7:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.1:
+        non_striker: B Biza
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 3.2:
+        non_striker: B Biza
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 3.3:
+        non_striker: M Mupachikwa
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+        wicket:
+          player_out: B Biza
+          kind: bowled
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 3.5:
+        non_striker: M Mupachikwa
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 3.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.2:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.3:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.4:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.5:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.6:
+        non_striker: M Mupachikwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 5.1:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 5.2:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 5.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 5.4:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 5.5:
+        non_striker: M Mupachikwa
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 5.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+        wicket:
+          player_out: M Mupachikwa
+          fielders:
+          - B de Leede
+          - S Siegers
+          kind: run out
+    - 6.1:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: CS Mugeri-Tiripano
+    - 6.2:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: CS Mugeri-Tiripano
+    - 6.3:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: CS Mugeri-Tiripano
+    - 6.4:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          kind: lbw
+    - 6.5:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 6.6:
+        non_striker: CT Dhururu
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 7.1:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 7.2:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 7.3:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 7.4:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 7.5:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Nkomo
+    - 7.6:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 7.7:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 8.1:
+        non_striker: CT Dhururu
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 8.2:
+        non_striker: CT Dhururu
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 8.3:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 8.4:
+        non_striker: CT Dhururu
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 8.5:
+        non_striker: CT Dhururu
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 8.6:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 9.1:
+        non_striker: CT Dhururu
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 9.2:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 9.3:
+        non_striker: CT Dhururu
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 9.4:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 9.5:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 9.6:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 10.1:
+        non_striker: J Nkomo
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 10.2:
+        non_striker: CT Dhururu
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 10.3:
+        non_striker: J Nkomo
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 10.4:
+        non_striker: J Nkomo
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 10.5:
+        non_striker: J Nkomo
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 10.6:
+        non_striker: J Nkomo
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 11.1:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 11.2:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 11.3:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 11.4:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 11.5:
+        non_striker: J Nkomo
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 11.6:
+        non_striker: CT Dhururu
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 12.1:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 12.2:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+        wicket:
+          player_out: CT Dhururu
+          fielders:
+          - B de Leede
+          kind: run out
+    - 12.3:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+    - 12.4:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 12.5:
+        non_striker: N Gwanzura
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 12.6:
+        non_striker: J Nkomo
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 13.1:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gwanzura
+    - 13.2:
+        non_striker: J Nkomo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 13.3:
+        non_striker: N Gwanzura
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 13.4:
+        non_striker: N Gwanzura
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+        wicket:
+          player_out: J Nkomo
+          fielders:
+          - B de Leede
+          kind: stumped
+    - 13.5:
+        non_striker: N Gwanzura
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 13.6:
+        non_striker: C Chatonzwa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Gwanzura
+    - 14.1:
+        non_striker: N Gwanzura
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 14.2:
+        non_striker: C Chatonzwa
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 14.3:
+        non_striker: N Gwanzura
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 14.4:
+        non_striker: C Chatonzwa
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Gwanzura
+    - 14.5:
+        non_striker: C Chatonzwa
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gwanzura
+    - 14.6:
+        non_striker: C Chatonzwa
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Gwanzura
+    - 14.7:
+        non_striker: N Gwanzura
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 15.1:
+        non_striker: N Gwanzura
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 15.2:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+    - 15.3:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gwanzura
+    - 15.4:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+    - 15.5:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 15.6:
+        non_striker: N Gwanzura
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 16.1:
+        non_striker: C Chatonzwa
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 16.2:
+        non_striker: N Gwanzura
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 16.3:
+        non_striker: N Gwanzura
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 16.4:
+        non_striker: C Chatonzwa
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+        wicket:
+          player_out: N Gwanzura
+          fielders:
+          - SL Kalis
+          kind: caught
+    - 16.5:
+        non_striker: C Chatonzwa
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+    - 16.6:
+        non_striker: C Chatonzwa
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Chigora
+        wicket:
+          player_out: K Chigora
+          kind: bowled
+    - 17.1:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 17.2:
+        non_striker: C Chatonzwa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 17.3:
+        non_striker: C Chatonzwa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 17.4:
+        non_striker: A Mazvishaya
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 17.5:
+        non_striker: C Chatonzwa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mazvishaya
+    - 17.6:
+        non_striker: C Chatonzwa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 18.1:
+        non_striker: A Mazvishaya
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 18.2:
+        non_striker: C Chatonzwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 18.3:
+        non_striker: C Chatonzwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 18.4:
+        non_striker: A Mazvishaya
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 18.5:
+        non_striker: C Chatonzwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 18.6:
+        non_striker: C Chatonzwa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 19.1:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 19.2:
+        non_striker: A Mazvishaya
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 19.3:
+        non_striker: A Mazvishaya
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 19.4:
+        non_striker: C Chatonzwa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 19.5:
+        non_striker: A Mazvishaya
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 19.6:
+        non_striker: A Mazvishaya
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatonzwa

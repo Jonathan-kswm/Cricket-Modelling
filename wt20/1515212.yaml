@@ -1,0 +1,2135 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2026-01-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2628
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - Shorna Akter
+  players:
+    Bangladesh:
+    - Dilara Akter
+    - Juairiya Ferdous
+    - Sharmin Akhter
+    - Nigar Sultana
+    - S Mostary
+    - Shorna Akter
+    - Ritu Moni
+    - Fahima Khatun
+    - Rabeya Khan
+    - Sanjida Akter Meghla
+    - Sultana Khatun
+    Papua New Guinea:
+    - H Doriga
+    - K Oala
+    - B Tau
+    - S Jimmy
+    - P Siaka
+    - N Vare
+    - HJ Thomas
+    - I Toua
+    - HL Tau
+    - D Lohia
+    - M Tom
+  registry:
+    people:
+      B Tau: 3a6cbb8e
+      D Lohia: '01341439'
+      Dilara Akter: f2670a3d
+      Fahima Khatun: 558cdd64
+      H Doriga: 5aa874da
+      H Pack: fed53c91
+      HJ Thomas: a3034d3d
+      HL Tau: ace63b7f
+      I Toua: 83cde44d
+      Juairiya Ferdous: e6f05a84
+      K Oala: df70c3f2
+      M Tom: cebc1351
+      N Vare: 20ace887
+      Nigar Sultana: 3827f6a2
+      P Siaka: 595433d2
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Dambanevana: '039923bd'
+      S Jimmy: 2daa8e40
+      S Mostary: 94de63bf
+      S Redfern: 5b038989
+      Saleema Imtiaz: d17d21d5
+      Sanjida Akter Meghla: a6412417
+      Sharmin Akhter: 84fdd3cf
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Bangladesh
+  - Papua New Guinea
+  toss:
+    winner: Papua New Guinea
+    decision: field
+  umpires:
+  - S Dambanevana
+  - Vijaya Mallela
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Juairiya Ferdous
+        batsman: Dilara Akter
+    - 0.2:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Juairiya Ferdous
+        batsman: Dilara Akter
+    - 0.3:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Juairiya Ferdous
+        batsman: Dilara Akter
+    - 0.4:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Juairiya Ferdous
+    - 0.5:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 0.6:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Juairiya Ferdous
+    - 0.7:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Juairiya Ferdous
+    - 1.1:
+        non_striker: Juairiya Ferdous
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 1.2:
+        non_striker: Juairiya Ferdous
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dilara Akter
+    - 1.3:
+        non_striker: Juairiya Ferdous
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 1.4:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 1.5:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 1.6:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 2.1:
+        non_striker: Juairiya Ferdous
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dilara Akter
+    - 2.2:
+        non_striker: Juairiya Ferdous
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 2.3:
+        non_striker: Juairiya Ferdous
+        bowler: P Siaka
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: Dilara Akter
+    - 2.4:
+        non_striker: Dilara Akter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+    - 2.5:
+        non_striker: Dilara Akter
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Juairiya Ferdous
+    - 2.6:
+        non_striker: Juairiya Ferdous
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 2.7:
+        non_striker: Juairiya Ferdous
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 3.1:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.2:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 3.3:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 3.4:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.5:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 3.6:
+        non_striker: Juairiya Ferdous
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 4.1:
+        non_striker: Juairiya Ferdous
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 4.2:
+        non_striker: Juairiya Ferdous
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 4.3:
+        non_striker: Juairiya Ferdous
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 4.4:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Juairiya Ferdous
+    - 4.5:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Juairiya Ferdous
+    - 4.6:
+        non_striker: Dilara Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Juairiya Ferdous
+        wicket:
+          player_out: Juairiya Ferdous
+          fielders:
+          - N Vare
+          kind: caught
+    - 5.1:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sharmin Akhter
+        batsman: Dilara Akter
+    - 5.2:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sharmin Akhter
+        batsman: Dilara Akter
+    - 5.3:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.4:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.5:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.6:
+        non_striker: Dilara Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 6.1:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.2:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 6.3:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 6.4:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 6.5:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 6.6:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 7.1:
+        non_striker: Sharmin Akhter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 7.2:
+        non_striker: Dilara Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.3:
+        non_striker: Dilara Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.4:
+        non_striker: Dilara Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.5:
+        non_striker: Dilara Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.6:
+        non_striker: Dilara Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 8.1:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 8.2:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dilara Akter
+    - 8.3:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 8.4:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 8.5:
+        non_striker: Dilara Akter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 8.6:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 9.1:
+        non_striker: Sharmin Akhter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 9.2:
+        non_striker: Sharmin Akhter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+        wicket:
+          player_out: Dilara Akter
+          fielders:
+          - B Tau
+          - P Siaka
+          kind: run out
+    - 9.3:
+        non_striker: Sharmin Akhter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 9.4:
+        non_striker: Sharmin Akhter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 9.5:
+        non_striker: Nigar Sultana
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 9.6:
+        non_striker: Nigar Sultana
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 10.1:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 10.2:
+        non_striker: Nigar Sultana
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.3:
+        non_striker: Nigar Sultana
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.4:
+        non_striker: Nigar Sultana
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.5:
+        non_striker: Nigar Sultana
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 10.6:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.1:
+        non_striker: Nigar Sultana
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 11.2:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 11.3:
+        non_striker: Nigar Sultana
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.4:
+        non_striker: Nigar Sultana
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 11.5:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 11.6:
+        non_striker: Nigar Sultana
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Nigar Sultana
+          fielders:
+          - D Lohia
+          kind: run out
+    - 12.1:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.2:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.3:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.4:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.5:
+        non_striker: Sharmin Akhter
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 12.6:
+        non_striker: S Mostary
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.1:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.2:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 13.3:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.4:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 13.5:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 13.6:
+        non_striker: Sharmin Akhter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 14.1:
+        non_striker: Sharmin Akhter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 14.2:
+        non_striker: Sharmin Akhter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 14.3:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 14.4:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 14.5:
+        non_striker: Sharmin Akhter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 14.6:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.7:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 15.1:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 15.2:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          fielders:
+          - P Siaka
+          kind: caught
+    - 15.3:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 15.4:
+        non_striker: S Mostary
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 15.5:
+        non_striker: Shorna Akter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 15.6:
+        non_striker: Shorna Akter
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mostary
+    - 16.1:
+        non_striker: S Mostary
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 16.2:
+        non_striker: Shorna Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 16.3:
+        non_striker: Shorna Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 16.4:
+        non_striker: S Mostary
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 16.5:
+        non_striker: Shorna Akter
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 16.6:
+        non_striker: S Mostary
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shorna Akter
+    - 17.1:
+        non_striker: Shorna Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 17.2:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 17.3:
+        non_striker: Shorna Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mostary
+    - 17.4:
+        non_striker: Shorna Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 17.5:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 17.6:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shorna Akter
+    - 18.1:
+        non_striker: Shorna Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 18.2:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shorna Akter
+    - 18.3:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 18.4:
+        non_striker: Shorna Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mostary
+    - 18.5:
+        non_striker: Shorna Akter
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 18.6:
+        non_striker: S Mostary
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 19.1:
+        non_striker: Shorna Akter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 19.2:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shorna Akter
+    - 19.3:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shorna Akter
+    - 19.4:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          fielders:
+          - N Vare
+          kind: caught
+    - 19.5:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 19.6:
+        non_striker: S Mostary
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ritu Moni
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Oala
+        batsman: H Doriga
+    - 0.2:
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Oala
+        batsman: H Doriga
+    - 0.3:
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Oala
+        batsman: H Doriga
+    - 0.4:
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Oala
+        batsman: H Doriga
+    - 0.5:
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Oala
+        batsman: H Doriga
+    - 0.6:
+        non_striker: K Oala
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 1.1:
+        non_striker: H Doriga
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 1.2:
+        non_striker: H Doriga
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Oala
+    - 1.3:
+        non_striker: K Oala
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 1.4:
+        non_striker: K Oala
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 1.5:
+        non_striker: K Oala
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 1.6:
+        non_striker: K Oala
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 2.1:
+        non_striker: H Doriga
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 2.2:
+        non_striker: H Doriga
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Oala
+    - 2.3:
+        non_striker: H Doriga
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Oala
+    - 2.4:
+        non_striker: H Doriga
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 2.5:
+        non_striker: H Doriga
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Oala
+    - 2.6:
+        non_striker: K Oala
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 3.1:
+        non_striker: H Doriga
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+        wicket:
+          player_out: K Oala
+          kind: lbw
+    - 3.2:
+        non_striker: H Doriga
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.3:
+        non_striker: H Doriga
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.4:
+        non_striker: H Doriga
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.5:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 3.6:
+        non_striker: H Doriga
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.1:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+        wicket:
+          player_out: H Doriga
+          kind: bowled
+    - 4.2:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 4.3:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 4.4:
+        non_striker: S Jimmy
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 4.5:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 4.6:
+        non_striker: S Jimmy
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 4.7:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.1:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 5.2:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.3:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.4:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.5:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.6:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 6.1:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 6.2:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.3:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.4:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.5:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.6:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.1:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.2:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.3:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 7.4:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 7.5:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.6:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.1:
+        non_striker: S Jimmy
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.2:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 8.3:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 8.4:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 8.5:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 8.6:
+        non_striker: S Jimmy
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.1:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 9.2:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.3:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 9.4:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 9.5:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 9.6:
+        non_striker: S Jimmy
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.7:
+        non_striker: B Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.1:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.2:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.3:
+        non_striker: S Jimmy
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 10.4:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.5:
+        non_striker: S Jimmy
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 10.6:
+        non_striker: B Tau
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.1:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jimmy
+    - 11.2:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.3:
+        non_striker: S Jimmy
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 11.4:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.5:
+        non_striker: B Tau
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.6:
+        non_striker: S Jimmy
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 12.1:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 12.2:
+        non_striker: B Tau
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 12.3:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 12.4:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 12.5:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 12.6:
+        non_striker: S Jimmy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 13.1:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.2:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 13.3:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          fielders:
+          - Ritu Moni
+          kind: caught
+    - 13.4:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 13.5:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 13.6:
+        non_striker: S Jimmy
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 14.1:
+        non_striker: P Siaka
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: P Siaka
+          fielders:
+          - Nigar Sultana
+          - Fahima Khatun
+          kind: run out
+    - 14.2:
+        non_striker: N Vare
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          fielders:
+          - Dilara Akter
+          kind: stumped
+    - 14.3:
+        non_striker: N Vare
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 14.4:
+        non_striker: HJ Thomas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 14.5:
+        non_striker: HJ Thomas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 14.6:
+        non_striker: HJ Thomas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 15.1:
+        non_striker: N Vare
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 15.2:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 15.3:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 15.4:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 15.5:
+        non_striker: N Vare
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 15.6:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 16.1:
+        non_striker: HJ Thomas
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 16.2:
+        non_striker: HJ Thomas
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 16.3:
+        non_striker: N Vare
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 16.4:
+        non_striker: N Vare
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 16.5:
+        non_striker: HJ Thomas
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 16.6:
+        non_striker: HJ Thomas
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Vare
+    - 17.1:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.2:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 17.3:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 17.4:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 17.5:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.6:
+        non_striker: HJ Thomas
+        bowler: Sanjida Akter Meghla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          fielders:
+          - Dilara Akter
+          kind: stumped
+    - 18.1:
+        non_striker: I Toua
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+        wicket:
+          player_out: I Toua
+          fielders:
+          - Nigar Sultana
+          - Ritu Moni
+          kind: run out
+    - 18.2:
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HL Tau
+        batsman: HJ Thomas
+    - 18.3:
+        non_striker: HJ Thomas
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.4:
+        non_striker: HL Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 18.5:
+        non_striker: HJ Thomas
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.6:
+        non_striker: HL Tau
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          fielders:
+          - Dilara Akter
+          - Fahima Khatun
+          kind: run out
+    - 19.1:
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Lohia
+        batsman: HL Tau
+    - 19.2:
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Lohia
+        batsman: HL Tau
+    - 19.3:
+        non_striker: HL Tau
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 19.4:
+        non_striker: HL Tau
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lohia
+    - 19.5:
+        non_striker: D Lohia
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+        wicket:
+          player_out: HL Tau
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 19.6:
+        non_striker: D Lohia
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Tom

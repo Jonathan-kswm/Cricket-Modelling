@@ -1,0 +1,2704 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Walferdange
+  dates:
+  - '2025-09-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2509
+  outcome:
+    winner: Switzerland
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - AM Zepeda
+  players:
+    Austria:
+    - P Sabu
+    - H Bhullar
+    - AM Zepeda
+    - H Simpson-Parker
+    - EL Kirkman
+    - MPM Pathirannehelage
+    - S Bhardwaj
+    - Hadia Siddiqui
+    - P Ganeshan
+    - Ashi Chopla
+    - V Poglitsch
+    Switzerland:
+    - L Pickard
+    - Amrita Sasidharan
+    - Meghna Rajan
+    - Ananya Srinivasan
+    - M Holmes
+    - S Dabholkatr
+    - D Medagoda
+    - M Parinitha
+    - Natalie Clarke
+    - Naina Saju
+    - Saranya Kotha
+  registry:
+    people:
+      AM Zepeda: c9f95a16
+      Amrita Sasidharan: b21446f8
+      Ananya Srinivasan: 74d9909b
+      Ashi Chopla: 89d6902b
+      D Medagoda: 77b49bd9
+      EL Kirkman: ecc585f0
+      H Bhullar: c9ffb93d
+      H Simpson-Parker: 59b0a7ad
+      Hadia Siddiqui: 14bc5d2d
+      L Pickard: bfe58c8a
+      M Holmes: ba69926f
+      M Parinitha: '28615668'
+      MPM Pathirannehelage: 0c142594
+      Meghna Rajan: 97ae78b7
+      Naina Saju: 756989cf
+      Natalie Clarke: 739ed6df
+      P Ganeshan: 3829c5ea
+      P Sabu: a38da707
+      S Bhardwaj: 83e9173e
+      S Dabholkatr: 280dc48c
+      Saranya Kotha: d27caa9c
+      V Poglitsch: e7351fbd
+  teams:
+  - Austria
+  - Switzerland
+  toss:
+    winner: Austria
+    decision: bat
+  venue: Pierre Werner Cricket Ground
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.2:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          fielders:
+          - Ananya Srinivasan
+          kind: caught
+    - 0.3:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 0.4:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 0.5:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 0.6:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 0.7:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 0.8:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 0.9:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 0.10:
+        non_striker: H Bhullar
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 0.11:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.1:
+        non_striker: H Bhullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 1.2:
+        non_striker: H Bhullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 1.3:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.4:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.5:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.6:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.7:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.8:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.9:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Bhullar
+    - 1.10:
+        non_striker: H Bhullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 1.11:
+        non_striker: H Bhullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 1.12:
+        non_striker: H Bhullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 2.1:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 2.2:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 2.3:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 2.4:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 2.5:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 2.6:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+        wicket:
+          player_out: H Bhullar
+          kind: bowled
+    - 2.7:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 2.8:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 3.1:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 3.2:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Simpson-Parker
+    - 3.3:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 3.4:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 3.5:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 3.6:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 4.1:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 4.2:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 4.3:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 4.4:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 4.5:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 4.6:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 4.7:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 5.1:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 5.2:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 5.3:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 5.4:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Simpson-Parker
+    - 5.5:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 5.6:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 6.1:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 6.2:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 6.3:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 6.4:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 6.5:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 6.6:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 6.7:
+        non_striker: H Simpson-Parker
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 7.1:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 7.2:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 7.3:
+        non_striker: AM Zepeda
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 7.4:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 7.5:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 7.6:
+        non_striker: H Simpson-Parker
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 8.1:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 8.2:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 8.3:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 8.4:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 8.5:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 8.6:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 8.7:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 9.1:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 9.2:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 9.3:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 9.4:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 9.5:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 9.6:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.1:
+        non_striker: AM Zepeda
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: H Simpson-Parker
+    - 10.2:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 10.3:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.4:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 10.5:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 10.6:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 10.7:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 10.8:
+        non_striker: H Simpson-Parker
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 11.1:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 11.2:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 11.3:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 11.4:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 11.5:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 11.6:
+        non_striker: H Simpson-Parker
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 12.1:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 12.2:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Simpson-Parker
+    - 12.3:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 12.4:
+        non_striker: H Simpson-Parker
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 12.5:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 12.6:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 12.7:
+        non_striker: H Simpson-Parker
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 13.1:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+        wicket:
+          player_out: H Simpson-Parker
+          fielders:
+          - M Holmes
+          kind: caught
+    - 13.2:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 13.3:
+        non_striker: EL Kirkman
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 13.4:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 13.5:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 13.6:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 14.1:
+        non_striker: EL Kirkman
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.2:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 14.3:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 14.4:
+        non_striker: EL Kirkman
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.5:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 14.6:
+        non_striker: EL Kirkman
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.7:
+        non_striker: AM Zepeda
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 15.1:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 15.2:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 15.3:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 15.4:
+        non_striker: EL Kirkman
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 15.5:
+        non_striker: EL Kirkman
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 15.6:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EL Kirkman
+    - 15.7:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 15.8:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 15.9:
+        non_striker: AM Zepeda
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 16.1:
+        non_striker: AM Zepeda
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 16.2:
+        non_striker: AM Zepeda
+        bowler: M Holmes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EL Kirkman
+    - 16.3:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 16.4:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 16.5:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 16.6:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 16.7:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 16.8:
+        non_striker: EL Kirkman
+        bowler: M Holmes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 17.1:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 17.2:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 17.3:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 17.4:
+        non_striker: EL Kirkman
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 17.5:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 17.6:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 17.7:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 17.8:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Kirkman
+    - 17.9:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 17.10:
+        non_striker: AM Zepeda
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Kirkman
+        wicket:
+          player_out: EL Kirkman
+          kind: obstructing the field
+    - 18.1:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+        wicket:
+          player_out: AM Zepeda
+          fielders:
+          - Meghna Rajan
+          kind: caught
+    - 18.2:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 18.3:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 18.4:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 18.5:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bhardwaj
+    - 18.6:
+        non_striker: MPM Pathirannehelage
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 18.7:
+        non_striker: S Bhardwaj
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 18.8:
+        non_striker: S Bhardwaj
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 19.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 19.2:
+        non_striker: S Bhardwaj
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 19.3:
+        non_striker: S Bhardwaj
+        bowler: Meghna Rajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 19.4:
+        non_striker: S Bhardwaj
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 19.5:
+        non_striker: MPM Pathirannehelage
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 19.6:
+        non_striker: S Bhardwaj
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+        wicket:
+          player_out: MPM Pathirannehelage
+          fielders:
+          - Meghna Rajan
+          kind: run out
+    - 19.7:
+        non_striker: S Bhardwaj
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadia Siddiqui
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amrita Sasidharan
+        batsman: L Pickard
+    - 0.2:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amrita Sasidharan
+        batsman: L Pickard
+    - 0.3:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amrita Sasidharan
+        batsman: L Pickard
+    - 0.4:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amrita Sasidharan
+        batsman: L Pickard
+    - 0.5:
+        non_striker: L Pickard
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 0.6:
+        non_striker: L Pickard
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 1.1:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 1.2:
+        non_striker: L Pickard
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Amrita Sasidharan
+    - 1.3:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 1.4:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+        wicket:
+          player_out: L Pickard
+          fielders:
+          - P Sabu
+          kind: caught
+    - 1.5:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 1.6:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 1.7:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 2.1:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 2.2:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 2.3:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 2.4:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 2.5:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 2.6:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Meghna Rajan
+    - 2.7:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 2.8:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 3.1:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amrita Sasidharan
+    - 3.2:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 3.3:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 3.4:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 3.5:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 3.6:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 3.7:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 3.8:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 4.1:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 4.2:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 4.3:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 4.4:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Meghna Rajan
+    - 4.5:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 4.6:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 4.7:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 4.8:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 5.1:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 5.2:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 5.3:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 5.4:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 5.5:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 5.6:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 5.7:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 5.8:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amrita Sasidharan
+    - 6.1:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 6.2:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 6.3:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 6.4:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 6.5:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 6.6:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 6.7:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 7.1:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 7.2:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 7.3:
+        non_striker: Amrita Sasidharan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 7.4:
+        non_striker: Amrita Sasidharan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 7.5:
+        non_striker: Amrita Sasidharan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 7.6:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Amrita Sasidharan
+    - 7.7:
+        non_striker: Amrita Sasidharan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 7.8:
+        non_striker: Amrita Sasidharan
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Meghna Rajan
+    - 8.1:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 8.2:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 8.3:
+        non_striker: Meghna Rajan
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Amrita Sasidharan
+    - 8.4:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 8.5:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 8.6:
+        non_striker: Meghna Rajan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 9.1:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 9.2:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 9.3:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 9.4:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 9.5:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 9.6:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 9.7:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 9.8:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 10.1:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 10.2:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 10.3:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 10.4:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Meghna Rajan
+    - 10.5:
+        non_striker: Meghna Rajan
+        bowler: V Poglitsch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 10.6:
+        non_striker: Meghna Rajan
+        bowler: V Poglitsch
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Amrita Sasidharan
+    - 10.7:
+        non_striker: Meghna Rajan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amrita Sasidharan
+    - 10.8:
+        non_striker: Meghna Rajan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 10.9:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Meghna Rajan
+    - 10.10:
+        non_striker: Amrita Sasidharan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 10.11:
+        non_striker: Meghna Rajan
+        bowler: V Poglitsch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amrita Sasidharan
+    - 11.1:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 11.2:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 11.3:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 11.4:
+        non_striker: Meghna Rajan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 11.5:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 11.6:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 11.7:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 11.8:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 11.9:
+        non_striker: Amrita Sasidharan
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 12.1:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 12.2:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 12.3:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Amrita Sasidharan
+    - 12.4:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 12.5:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amrita Sasidharan
+    - 12.6:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amrita Sasidharan
+    - 12.7:
+        non_striker: Meghna Rajan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 12.8:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 12.9:
+        non_striker: Amrita Sasidharan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 13.1:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 13.2:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+    - 13.3:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 13.4:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 13.5:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 13.6:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amrita Sasidharan
+    - 13.7:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amrita Sasidharan
+    - 13.8:
+        non_striker: Amrita Sasidharan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 14.1:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 14.2:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 14.3:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 14.4:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 14.5:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Meghna Rajan
+    - 14.6:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 14.7:
+        non_striker: Meghna Rajan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 14.8:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Meghna Rajan
+    - 14.9:
+        non_striker: Amrita Sasidharan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 15.1:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 15.2:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 15.3:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meghna Rajan
+    - 15.4:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 15.5:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amrita Sasidharan
+    - 15.6:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Meghna Rajan
+    - 15.7:
+        non_striker: Amrita Sasidharan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Meghna Rajan
+    - 16.1:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 16.2:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+    - 16.3:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amrita Sasidharan
+        wicket:
+          player_out: Amrita Sasidharan
+          fielders:
+          - AM Zepeda
+          - EL Kirkman
+          kind: run out
+    - 16.4:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Srinivasan
+    - 16.5:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Srinivasan
+    - 16.6:
+        non_striker: Meghna Rajan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Srinivasan
+    - 17.1:
+        non_striker: Ananya Srinivasan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 17.2:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Srinivasan
+        wicket:
+          player_out: Ananya Srinivasan
+          fielders:
+          - H Bhullar
+          kind: caught
+    - 17.3:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: M Holmes
+    - 17.4:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 17.5:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Holmes
+    - 17.6:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Holmes
+    - 17.7:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meghna Rajan
+    - 17.8:
+        non_striker: Meghna Rajan
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Holmes
+    - 18.1:
+        non_striker: M Holmes
+        bowler: P Sabu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Meghna Rajan
+    - 18.2:
+        non_striker: M Holmes
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Meghna Rajan
+    - 18.3:
+        non_striker: Meghna Rajan
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Holmes
+    - 18.4:
+        non_striker: M Holmes
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meghna Rajan
+        wicket:
+          player_out: Meghna Rajan
+          kind: bowled
+    - 18.5:
+        non_striker: M Holmes
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dabholkatr
+    - 18.6:
+        non_striker: S Dabholkatr
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Holmes
+    - 19.1:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dabholkatr
+    - 19.2:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dabholkatr
+    - 19.3:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dabholkatr
+    - 19.4:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dabholkatr
+    - 19.5:
+        non_striker: M Holmes
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dabholkatr

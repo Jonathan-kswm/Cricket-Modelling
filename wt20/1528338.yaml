@@ -1,0 +1,2363 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2722
+  outcome:
+    winner: Malawi
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - S Kananji
+  players:
+    Mozambique:
+    - O Mondlane
+    - L Chipanga
+    - AL Mundundo
+    - WNA Bucuane
+    - P Cuinica
+    - AA Moiane
+    - C Magaia
+    - I Chuma
+    - RO Mazumba
+    - R Haiong
+    - A Salomao
+    Malawi:
+    - S Chinawa
+    - E Chiralile
+    - P Maziya
+    - S Kananji
+    - A Alfonso
+    - M Ndipo
+    - C Mangulama
+    - C Bwanali
+    - W Matabwa
+    - L Malino
+    - B Kasinja
+  registry:
+    people:
+      A Alfonso: 5088c217
+      A Salomao: 04e145f4
+      AA Moiane: '80190078'
+      AL Mundundo: c1edced9
+      B Kasinja: eaba37fc
+      C Bwanali: b26a30f9
+      C Magaia: bb4d1237
+      C Mangulama: 857c13f8
+      E Chiralile: 4e193c55
+      I Chuma: b1021056
+      J Chibhabha: 4c5c47a4
+      J Mukandi: b7954ae3
+      L Chipanga: 70722cc7
+      L Malino: 7a81836e
+      L Msemburi: ef6037f8
+      M Ndipo: e6a893a1
+      O Mondlane: 7f97139f
+      P Cuinica: efca38df
+      P Maziya: 4f85f02c
+      R Haiong: 2832fbba
+      RO Mazumba: 2a753483
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      Vivek Kohli: 676c3a3c
+      W Matabwa: cfbd10ee
+      WNA Bucuane: eea3be2e
+  teams:
+  - Mozambique
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - L Msemburi
+  - Vivek Kohli
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.2:
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.3:
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.4:
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.5:
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.6:
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Chipanga
+        batsman: O Mondlane
+    - 0.7:
+        non_striker: L Chipanga
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 1.1:
+        non_striker: O Mondlane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+    - 1.2:
+        non_striker: O Mondlane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chipanga
+        wicket:
+          player_out: L Chipanga
+          kind: lbw
+    - 1.3:
+        non_striker: O Mondlane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.4:
+        non_striker: O Mondlane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 1.5:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 1.6:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 2.1:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.2:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.3:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.4:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.5:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.6:
+        non_striker: O Mondlane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 3.1:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 3.2:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+        wicket:
+          player_out: O Mondlane
+          kind: bowled
+    - 3.3:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 3.4:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 3.5:
+        non_striker: AL Mundundo
+        bowler: S Kananji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: WNA Bucuane
+    - 3.6:
+        non_striker: WNA Bucuane
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 3.7:
+        non_striker: WNA Bucuane
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 3.8:
+        non_striker: WNA Bucuane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 3.9:
+        non_striker: WNA Bucuane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 3.10:
+        non_striker: WNA Bucuane
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 4.1:
+        non_striker: AL Mundundo
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 4.2:
+        non_striker: AL Mundundo
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 4.3:
+        non_striker: AL Mundundo
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 4.4:
+        non_striker: AL Mundundo
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 4.5:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 4.6:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 4.7:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.1:
+        non_striker: AL Mundundo
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 5.2:
+        non_striker: WNA Bucuane
+        bowler: W Matabwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 5.3:
+        non_striker: WNA Bucuane
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 5.4:
+        non_striker: AL Mundundo
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 5.5:
+        non_striker: AL Mundundo
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 5.6:
+        non_striker: AL Mundundo
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WNA Bucuane
+    - 5.7:
+        non_striker: AL Mundundo
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WNA Bucuane
+    - 6.1:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.2:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Mundundo
+    - 6.3:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.4:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.5:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 6.6:
+        non_striker: AL Mundundo
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+        wicket:
+          player_out: AL Mundundo
+          fielders:
+          - S Chinawa
+          - E Chiralile
+          kind: run out
+    - 7.1:
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: WNA Bucuane
+    - 7.2:
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Cuinica
+        batsman: WNA Bucuane
+    - 7.3:
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Cuinica
+        batsman: WNA Bucuane
+    - 7.4:
+        non_striker: WNA Bucuane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 7.5:
+        non_striker: WNA Bucuane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 7.6:
+        non_striker: P Cuinica
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 8.1:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 8.2:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 8.3:
+        non_striker: P Cuinica
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 8.4:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 8.5:
+        non_striker: P Cuinica
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WNA Bucuane
+    - 8.6:
+        non_striker: WNA Bucuane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+        wicket:
+          player_out: P Cuinica
+          kind: lbw
+    - 9.1:
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AA Moiane
+        batsman: WNA Bucuane
+    - 9.2:
+        bowler: B Kasinja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AA Moiane
+        batsman: WNA Bucuane
+    - 9.3:
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AA Moiane
+        batsman: WNA Bucuane
+    - 9.4:
+        non_striker: WNA Bucuane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Moiane
+    - 9.5:
+        non_striker: WNA Bucuane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AA Moiane
+    - 9.6:
+        non_striker: AA Moiane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 9.7:
+        non_striker: WNA Bucuane
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Moiane
+    - 10.1:
+        non_striker: AA Moiane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 10.2:
+        non_striker: AA Moiane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 10.3:
+        non_striker: AA Moiane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 10.4:
+        non_striker: AA Moiane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 10.5:
+        non_striker: AA Moiane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 10.6:
+        non_striker: WNA Bucuane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Moiane
+        wicket:
+          player_out: AA Moiane
+          fielders:
+          - S Kananji
+          kind: caught
+    - 11.1:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Magaia
+        batsman: WNA Bucuane
+    - 11.2:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+        wicket:
+          player_out: WNA Bucuane
+          kind: bowled
+    - 11.3:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.4:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.5:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.6:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 11.7:
+        non_striker: C Magaia
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 12.1:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 12.2:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Magaia
+    - 12.3:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Magaia
+    - 12.4:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Magaia
+    - 12.5:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Magaia
+    - 12.6:
+        non_striker: C Magaia
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 12.7:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Magaia
+    - 12.8:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 12.9:
+        non_striker: C Magaia
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 13.1:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 13.2:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 13.3:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 13.4:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 13.5:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 13.6:
+        non_striker: I Chuma
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 14.1:
+        non_striker: C Magaia
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 14.2:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 14.3:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Magaia
+    - 14.4:
+        non_striker: C Magaia
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 14.5:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 14.6:
+        non_striker: I Chuma
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 14.7:
+        non_striker: C Magaia
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 15.1:
+        non_striker: C Magaia
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 15.2:
+        non_striker: C Magaia
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 15.3:
+        non_striker: I Chuma
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 15.4:
+        non_striker: C Magaia
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 15.5:
+        non_striker: I Chuma
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 15.6:
+        non_striker: I Chuma
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 16.1:
+        non_striker: I Chuma
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 16.2:
+        non_striker: I Chuma
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Magaia
+    - 16.3:
+        non_striker: I Chuma
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 16.4:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+        wicket:
+          player_out: I Chuma
+          kind: bowled
+    - 16.5:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RO Mazumba
+    - 16.6:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RO Mazumba
+    - 16.7:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RO Mazumba
+        wicket:
+          player_out: RO Mazumba
+          fielders:
+          - E Chiralile
+          kind: caught
+    - 17.1:
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Haiong
+        batsman: C Magaia
+    - 17.2:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Haiong
+    - 17.3:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 17.4:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Haiong
+    - 17.5:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Magaia
+    - 17.6:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 17.7:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 17.8:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Haiong
+    - 18.1:
+        non_striker: R Haiong
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 18.2:
+        non_striker: R Haiong
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 18.3:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 18.4:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Haiong
+    - 18.5:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Haiong
+    - 18.6:
+        non_striker: R Haiong
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 18.7:
+        non_striker: C Magaia
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 19.1:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 19.2:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 19.3:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 19.4:
+        non_striker: R Haiong
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 19.5:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 19.6:
+        non_striker: C Magaia
+        bowler: W Matabwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Haiong
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Chiralile
+        batsman: S Chinawa
+    - 0.2:
+        non_striker: S Chinawa
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Chiralile
+    - 0.3:
+        non_striker: S Chinawa
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 0.4:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 0.5:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 0.6:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 1.1:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 1.2:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa
+    - 1.3:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 1.4:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chinawa
+    - 1.5:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.6:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 1.7:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+        wicket:
+          player_out: S Chinawa
+          kind: bowled
+    - 1.8:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 1.9:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 2.1:
+        non_striker: P Maziya
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 2.2:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 2.3:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 2.4:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maziya
+    - 2.5:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 2.6:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Maziya
+    - 3.1:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 3.2:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 3.3:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maziya
+    - 3.4:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 3.5:
+        non_striker: E Chiralile
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 3.6:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Chiralile
+    - 3.7:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 4.1:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 4.2:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maziya
+    - 4.3:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 4.4:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maziya
+    - 4.5:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 4.6:
+        non_striker: E Chiralile
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 5.1:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 5.2:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 5.3:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 5.4:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 5.5:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Chiralile
+    - 5.6:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 6.1:
+        non_striker: E Chiralile
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 6.2:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Chiralile
+    - 6.3:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Chiralile
+    - 6.4:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 6.5:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 6.6:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: E Chiralile
+    - 6.7:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 6.8:
+        non_striker: E Chiralile
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 6.9:
+        non_striker: E Chiralile
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 7.1:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+        wicket:
+          player_out: E Chiralile
+          kind: bowled
+    - 7.2:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 7.3:
+        non_striker: S Kananji
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 7.4:
+        non_striker: S Kananji
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 7.5:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 7.6:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kananji
+    - 8.1:
+        non_striker: S Kananji
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 8.2:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 8.3:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji
+    - 8.4:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 8.5:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kananji
+    - 8.6:
+        non_striker: S Kananji
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 8.7:
+        non_striker: S Kananji
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 9.1:
+        non_striker: S Kananji
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 9.2:
+        non_striker: S Kananji
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 9.3:
+        non_striker: S Kananji
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 9.4:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+        wicket:
+          player_out: S Kananji
+          kind: bowled
+    - 9.5:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+    - 9.6:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Alfonso
+        wicket:
+          player_out: A Alfonso
+          fielders:
+          - WNA Bucuane
+          - C Magaia
+          kind: run out
+    - 9.7:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ndipo
+    - 9.8:
+        non_striker: M Ndipo
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 9.9:
+        non_striker: M Ndipo
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 10.1:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ndipo
+    - 10.2:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ndipo
+    - 10.3:
+        non_striker: M Ndipo
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 10.4:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ndipo
+    - 10.5:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ndipo
+    - 10.6:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ndipo
+    - 10.7:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ndipo
+        wicket:
+          player_out: M Ndipo
+          kind: bowled
+    - 11.1:
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.2:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.3:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.4:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.5:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.6:
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Mangulama
+        batsman: P Maziya
+    - 11.7:
+        non_striker: P Maziya
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mangulama
+    - 12.1:
+        non_striker: C Mangulama
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 12.2:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mangulama
+        wicket:
+          player_out: C Mangulama
+          kind: bowled
+    - 12.3:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bwanali
+    - 12.4:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 12.5:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 12.6:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bwanali
+    - 12.7:
+        non_striker: C Bwanali
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 13.1:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 13.2:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+        wicket:
+          player_out: C Bwanali
+          fielders:
+          - C Magaia
+          kind: caught
+    - 13.3:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Matabwa
+    - 13.4:
+        non_striker: W Matabwa
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 13.5:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Matabwa
+        wicket:
+          player_out: W Matabwa
+          kind: lbw
+    - 13.6:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 14.1:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 14.2:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maziya
+    - 14.3:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 14.4:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 14.5:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Maziya
+    - 14.6:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Maziya
+    - 14.7:
+        non_striker: P Maziya
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 14.8:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 14.9:
+        non_striker: L Malino
+        bowler: RO Mazumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 15.1:
+        non_striker: L Malino
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 15.2:
+        non_striker: L Malino
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 15.3:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Malino
+    - 15.4:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Malino
+    - 15.5:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 15.6:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Malino
+    - 15.7:
+        non_striker: P Maziya
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 16.1:
+        non_striker: P Maziya
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 16.2:
+        non_striker: P Maziya
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 16.3:
+        non_striker: P Maziya
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 16.4:
+        non_striker: L Malino
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 16.5:
+        non_striker: L Malino
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 16.6:
+        non_striker: L Malino
+        bowler: L Chipanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 17.1:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 17.2:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 17.3:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 17.4:
+        non_striker: L Malino
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 17.5:
+        non_striker: L Malino
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 17.6:
+        non_striker: P Maziya
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+        wicket:
+          player_out: L Malino
+          kind: bowled
+    - 18.1:
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Kasinja
+        batsman: P Maziya
+    - 18.2:
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Kasinja
+        batsman: P Maziya
+    - 18.3:
+        bowler: RO Mazumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Kasinja
+        batsman: P Maziya

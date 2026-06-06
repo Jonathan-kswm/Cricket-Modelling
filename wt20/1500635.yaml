@@ -1,0 +1,992 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2025-08-31'
+  gender: female
+  match_type: T20
+  match_type_number: 2465
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 10
+  overs: 20
+  players:
+    Isle of Man:
+    - C Crowe
+    - R Overman
+    - C Henery
+    - L Moore
+    - J Pullen
+    - C Perry
+    - A Thorpe
+    - G Ford
+    - J Hicks
+    - L Hornby-Wheeler
+    - R Stones
+    Brazil:
+    - LV Boas
+    - L Cardoso
+    - NC Monteiro
+    - L Agatha
+    - M Ribeiro
+    - MB dos Santos
+    - EC Muller
+    - MLG Silva
+    - M Artur
+    - CS Nascimento
+    - RMAM Avery
+  registry:
+    people:
+      A Thorpe: 6c54bd7a
+      C Crowe: 9b671b41
+      C Henery: 03d9e80f
+      C Perry: 152d3c9d
+      CS Nascimento: df997334
+      EC Muller: e1461e39
+      G Ford: c569a574
+      J Hicks: 802febe2
+      J Pullen: b3b97956
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Hornby-Wheeler: a5ce3e4d
+      L Moore: da50a075
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Ribeiro: 38424a4d
+      MB dos Santos: 8ba8dd7a
+      MLG Silva: 3b62a6b4
+      NC Monteiro: 752af5a4
+      R Overman: 2ec52460
+      R Stones: '45474493'
+      RMAM Avery: 4cf645c9
+  teams:
+  - Isle of Man
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  venue: New Farnley CC, Leeds
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.5:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.6:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Overman
+        batsman: C Crowe
+    - 0.7:
+        non_striker: R Overman
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 1.1:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 1.2:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 1.3:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 1.4:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+        wicket:
+          player_out: R Overman
+          fielders:
+          - LV Boas
+          kind: caught
+    - 1.5:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 1.6:
+        non_striker: C Henery
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 2.1:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.2:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.3:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+        wicket:
+          player_out: C Henery
+          kind: bowled
+    - 2.4:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 2.5:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Moore
+    - 2.6:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 2.7:
+        non_striker: C Crowe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 3.1:
+        non_striker: L Moore
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 3.2:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 3.3:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 3.4:
+        non_striker: L Moore
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 3.5:
+        non_striker: L Moore
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 3.6:
+        non_striker: C Crowe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 4.1:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 4.2:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 4.3:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 4.4:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 4.5:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 4.6:
+        non_striker: C Crowe
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 5.1:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: C Crowe
+    - 5.2:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 5.3:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 5.4:
+        non_striker: C Crowe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 5.5:
+        non_striker: C Crowe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 5.6:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 6.1:
+        non_striker: C Crowe
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 6.2:
+        non_striker: C Crowe
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 6.3:
+        non_striker: C Crowe
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 6.4:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 6.5:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 6.6:
+        non_striker: L Moore
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 7.1:
+        non_striker: C Crowe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 7.2:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Crowe
+    - 7.3:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Crowe
+    - 7.4:
+        non_striker: C Crowe
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Moore
+    - 7.5:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 7.6:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 8.1:
+        non_striker: C Crowe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 8.2:
+        non_striker: L Moore
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+    - 8.3:
+        non_striker: L Moore
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Crowe
+    - 8.4:
+        non_striker: C Crowe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moore
+    - 8.5:
+        non_striker: L Moore
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+        wicket:
+          player_out: C Crowe
+          kind: bowled
+    - 8.6:
+        non_striker: L Moore
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 9.1:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 9.2:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 9.3:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 9.4:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Moore
+    - 9.5:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 9.6:
+        non_striker: J Pullen
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+        wicket:
+          player_out: L Moore
+          kind: lbw
+    - 10.1:
+        non_striker: C Perry
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+        wicket:
+          player_out: J Pullen
+          kind: bowled
+    - 10.2:
+        non_striker: C Perry
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Thorpe
+    - 10.3:
+        non_striker: A Thorpe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 10.4:
+        non_striker: C Perry
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 10.5:
+        non_striker: C Perry
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+        wicket:
+          player_out: A Thorpe
+          fielders:
+          - LV Boas
+          kind: run out
+    - 10.6:
+        non_striker: C Perry
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 11.1:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+        wicket:
+          player_out: G Ford
+          kind: bowled
+    - 11.2:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 11.3:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 11.4:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 11.5:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 11.6:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Hicks
+    - 11.7:
+        non_striker: C Perry
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 12.1:
+        non_striker: J Hicks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 12.2:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+        wicket:
+          player_out: J Hicks
+          fielders:
+          - RMAM Avery
+          kind: caught
+    - 12.3:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+        wicket:
+          player_out: L Hornby-Wheeler
+          fielders:
+          - LV Boas
+          - MB dos Santos
+          kind: run out
+    - 12.4:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stones
+        wicket:
+          player_out: R Stones
+          kind: bowled
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 0.2:
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 0.3:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 0.4:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 0.5:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 0.6:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.1:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.2:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 1.3:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.4:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LV Boas
+    - 1.5:
+        non_striker: LV Boas
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 1.6:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 1.7:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 1.8:
+        non_striker: LV Boas
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 1.9:
+        non_striker: LV Boas
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 2.1:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Cardoso
+    - 2.2:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.3:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 2.4:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 2.5:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.6:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 2.7:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.8:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 3.1:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 3.2:
+        non_striker: LV Boas
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Cardoso
+    - 3.3:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 3.4:
+        non_striker: L Cardoso
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas

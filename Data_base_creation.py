@@ -17,6 +17,8 @@ print(match['meta'])
 
 os.makedirs("wt20", exist_ok=True)
 
+'''
+
 for file in os.listdir("t20s"):
     if not file.endswith(".yaml"):
         continue
@@ -25,3 +27,7 @@ for file in os.listdir("t20s"):
 
     if match["info"]["gender"] == "female":
         shutil.move(f"t20s/{file}", f"wt20/{file}")
+
+'''
+
+#We are going to create two csv files

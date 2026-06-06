@@ -1,0 +1,2273 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Rotterdam
+  dates:
+  - '2025-08-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2444
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 202
+  overs: 20
+  player_of_match:
+  - HDJ Siegers
+  players:
+    Netherlands:
+    - P Molkenboer
+    - HDJ Siegers
+    - B de Leede
+    - R Rijke
+    - F Overdijk
+    - HWA Landheer
+    - S Siegers
+    - C de Lange
+    - IJR Zwilling
+    - MIW van den Raad
+    - S Khurana
+    Germany:
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - S Kolcharam
+    - N Kingsley
+    - A Kanukuntla
+    - Rameesha Shahid
+    - V Stolle
+    - A Kohli
+    - I Edwards
+    - A Meyenborg
+    - Ashwini Balaji
+  registry:
+    people:
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      A Meyenborg: edbc9441
+      Aidan Seaver: 862c0b16
+      Ashwini Balaji: 81283f75
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      F Overdijk: 022745d5
+      GH Pienaar: 3516e46b
+      HDJ Siegers: 6d48df01
+      HWA Landheer: a6ec88f4
+      I Edwards: '42095275'
+      IJR Zwilling: 47b32a5a
+      J Jensen: fc80e7a2
+      K Vijayaraghavan: '048da365'
+      MIW van den Raad: dead3b10
+      N Kingsley: 31036a1d
+      P Molkenboer: fa9db243
+      R Rijke: 42e4b276
+      Rameesha Shahid: b810425e
+      Rizwan Akram: b5346f1e
+      S Khurana: 9a9a056d
+      S Kolcharam: 761c929e
+      S Siegers: 9a58f2c8
+      V Stolle: 0dc4ac6c
+      W Hornero-Garcia: 7d5fef52
+  teams:
+  - Netherlands
+  - Germany
+  toss:
+    winner: Germany
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - Rizwan Akram
+  venue: Hazelaarweg, Rotterdam
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: HDJ Siegers
+        batsman: P Molkenboer
+    - 0.2:
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: HDJ Siegers
+        batsman: P Molkenboer
+    - 0.3:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.4:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.5:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.6:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 0.7:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 1.1:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 1.2:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 1.3:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 1.4:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 1.5:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 1.6:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Molkenboer
+    - 1.7:
+        non_striker: P Molkenboer
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 1.8:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 2.1:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 2.2:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 2.3:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDJ Siegers
+    - 2.4:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDJ Siegers
+    - 2.5:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 2.6:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 2.7:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDJ Siegers
+    - 2.8:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 2.9:
+        non_striker: P Molkenboer
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 3.1:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.2:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.3:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 3.4:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 3.5:
+        non_striker: P Molkenboer
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 3.6:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.1:
+        non_striker: P Molkenboer
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 4.2:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 4.3:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 4.4:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 4.5:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 4.6:
+        non_striker: P Molkenboer
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: HDJ Siegers
+    - 4.7:
+        non_striker: P Molkenboer
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 4.8:
+        non_striker: P Molkenboer
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 5.1:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 5.2:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 5.3:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 5.4:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 5.5:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 5.6:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Molkenboer
+    - 6.1:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 6.2:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.3:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 6.4:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 6.5:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 6.6:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.7:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 6.8:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.9:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 6.10:
+        non_striker: HDJ Siegers
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.1:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.2:
+        non_striker: P Molkenboer
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 7.3:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 7.4:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 7.5:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 7.6:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 7.7:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 8.1:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 8.2:
+        non_striker: P Molkenboer
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 8.3:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 8.4:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 8.5:
+        non_striker: P Molkenboer
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 8.6:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 9.1:
+        non_striker: P Molkenboer
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 9.2:
+        non_striker: P Molkenboer
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 9.3:
+        non_striker: P Molkenboer
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 9.4:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 9.5:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          kind: lbw
+    - 9.6:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 10.1:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 10.2:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 10.3:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 10.4:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 10.5:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 10.6:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 11.1:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 11.2:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 11.3:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 11.4:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 11.5:
+        non_striker: HDJ Siegers
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B de Leede
+    - 11.6:
+        non_striker: B de Leede
+        bowler: A Meyenborg
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: HDJ Siegers
+    - 11.7:
+        non_striker: B de Leede
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 12.1:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 12.2:
+        non_striker: HDJ Siegers
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 12.3:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 12.4:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 12.5:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 12.6:
+        non_striker: B de Leede
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 13.1:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 13.2:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 13.3:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 13.4:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 13.5:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 13.6:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          kind: bowled
+    - 13.7:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Rijke
+    - 13.8:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.1:
+        non_striker: R Rijke
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 14.2:
+        non_striker: R Rijke
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 14.3:
+        non_striker: R Rijke
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 14.4:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.5:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 14.6:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - N Kingsley
+          kind: caught
+    - 15.1:
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: F Overdijk
+        batsman: HDJ Siegers
+    - 15.2:
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Overdijk
+        batsman: HDJ Siegers
+    - 15.3:
+        non_striker: HDJ Siegers
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 15.4:
+        non_striker: F Overdijk
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 15.5:
+        non_striker: F Overdijk
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 15.6:
+        non_striker: F Overdijk
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 16.1:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 16.2:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 16.3:
+        non_striker: F Overdijk
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 16.4:
+        non_striker: F Overdijk
+        bowler: Ashwini Balaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HDJ Siegers
+    - 16.5:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 16.6:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 16.7:
+        non_striker: F Overdijk
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 16.8:
+        non_striker: F Overdijk
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 17.1:
+        non_striker: HDJ Siegers
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 17.2:
+        non_striker: F Overdijk
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 17.3:
+        non_striker: F Overdijk
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 17.4:
+        non_striker: F Overdijk
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 17.5:
+        non_striker: F Overdijk
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 17.6:
+        non_striker: F Overdijk
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 18.1:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 18.2:
+        non_striker: F Overdijk
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 18.3:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 18.4:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: F Overdijk
+    - 18.5:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 18.6:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 18.7:
+        non_striker: HDJ Siegers
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Overdijk
+    - 19.1:
+        non_striker: HDJ Siegers
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 19.2:
+        non_striker: F Overdijk
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 19.3:
+        non_striker: F Overdijk
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 19.4:
+        non_striker: F Overdijk
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 19.5:
+        non_striker: F Overdijk
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 19.6:
+        non_striker: F Overdijk
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.3:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.4:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.5:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.6:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 1.2:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.3:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 1.4:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.5:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.6:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.7:
+        non_striker: W Hornero-Garcia
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 2.1:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 2.2:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 2.3:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 2.4:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          kind: bowled
+    - 2.5:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 2.6:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          kind: lbw
+    - 2.7:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 2.8:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 3.1:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.2:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.3:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.4:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.5:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.6:
+        non_striker: N Kingsley
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.1:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+        wicket:
+          player_out: N Kingsley
+          kind: bowled
+    - 4.2:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 4.3:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 4.4:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 4.5:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kanukuntla
+    - 4.6:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 4.7:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 4.8:
+        non_striker: K Vijayaraghavan
+        bowler: IJR Zwilling
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Kanukuntla
+    - 5.1:
+        non_striker: A Kanukuntla
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.2:
+        non_striker: A Kanukuntla
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.3:
+        non_striker: A Kanukuntla
+        bowler: R Rijke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 5.4:
+        non_striker: A Kanukuntla
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 5.5:
+        non_striker: K Vijayaraghavan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 5.6:
+        non_striker: K Vijayaraghavan
+        bowler: R Rijke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanukuntla
+    - 5.7:
+        non_striker: K Vijayaraghavan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+    - 5.8:
+        non_striker: K Vijayaraghavan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanukuntla
+    - 6.1:
+        non_striker: K Vijayaraghavan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanukuntla
+        wicket:
+          player_out: A Kanukuntla
+          kind: bowled
+    - 6.2:
+        non_striker: K Vijayaraghavan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 6.3:
+        non_striker: K Vijayaraghavan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 6.4:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 6.5:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 6.6:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 7.1:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rameesha Shahid
+    - 7.2:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 7.3:
+        non_striker: Rameesha Shahid
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 7.4:
+        non_striker: Rameesha Shahid
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 7.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 7.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rameesha Shahid
+    - 8.1:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.2:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.3:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 8.4:
+        non_striker: K Vijayaraghavan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 8.5:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.6:
+        non_striker: Rameesha Shahid
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 9.1:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 9.2:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 9.3:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameesha Shahid
+    - 9.4:
+        non_striker: Rameesha Shahid
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Vijayaraghavan
+    - 9.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rameesha Shahid
+    - 9.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameesha Shahid
+    - 10.1:
+        non_striker: Rameesha Shahid
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 10.2:
+        non_striker: Rameesha Shahid
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 10.3:
+        non_striker: K Vijayaraghavan
+        bowler: S Khurana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rameesha Shahid
+    - 10.4:
+        non_striker: K Vijayaraghavan
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 10.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+    - 10.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameesha Shahid
+        wicket:
+          player_out: Rameesha Shahid
+          fielders:
+          - R Rijke
+          kind: caught
+    - 10.7:
+        non_striker: K Vijayaraghavan
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Stolle
+    - 11.1:
+        non_striker: V Stolle
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 11.2:
+        non_striker: V Stolle
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 11.3:
+        non_striker: K Vijayaraghavan
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Stolle
+        wicket:
+          player_out: V Stolle
+          kind: bowled
+    - 11.4:
+        non_striker: K Vijayaraghavan
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 11.5:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          kind: bowled
+    - 11.6:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 12.1:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 12.2:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 12.3:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 12.4:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 12.5:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.6:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 12.7:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.8:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.9:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 12.10:
+        non_striker: I Edwards
+        bowler: S Khurana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.1:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 13.2:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 13.3:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 13.4:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 13.5:
+        non_striker: A Kohli
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Edwards
+    - 13.6:
+        non_striker: I Edwards
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 13.7:
+        non_striker: I Edwards
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 14.1:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+        wicket:
+          player_out: A Kohli
+          kind: lbw
+    - 14.2:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 14.3:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 14.4:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 14.5:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 14.6:
+        non_striker: I Edwards
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 15.1:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Edwards
+    - 15.2:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+    - 15.3:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Edwards
+        wicket:
+          player_out: I Edwards
+          kind: bowled
+    - 15.4:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+    - 15.5:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+    - 15.6:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+    - 15.7:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+    - 16.1:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 16.2:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 16.3:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Meyenborg
+    - 16.4:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 16.5:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 16.6:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 16.7:
+        non_striker: Ashwini Balaji
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 17.1:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashwini Balaji
+    - 17.2:
+        non_striker: A Meyenborg
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Balaji
+        wicket:
+          player_out: Ashwini Balaji
+          kind: bowled

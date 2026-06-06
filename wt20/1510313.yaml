@@ -1,0 +1,1376 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-11-27'
+  gender: female
+  match_type: T20
+  match_type_number: 2576
+  outcome:
+    winner: Myanmar
+    by:
+      wickets: 10
+    method: D/L
+  overs: 20
+  player_of_match:
+  - Zon Lin
+  players:
+    Singapore:
+    - Shafina Mahesh
+    - LAR Bommareddy
+    - Vinu Kumar
+    - Ananya Sarma
+    - RR Seth
+    - GK Diviya
+    - H Dhavina
+    - JS Pooranakaran
+    - NL Jacinta Si Ping
+    - E Ungerman
+    - S Merican
+    Myanmar:
+    - TT Soe
+    - Zon Lin
+    - LL Htun
+    - ZT Kyaw
+    - TT Aung
+    - ZL Win
+    - Thae Thae Po
+    - HH Aung
+    - MPP San
+    - ZL Thoon
+    - TS Shwe
+  registry:
+    people:
+      Ananya Sarma: 0bb03efc
+      E Ungerman: 3959c505
+      GK Diviya: 992979fa
+      H Dhavina: cd12f384
+      HH Aung: 860042f6
+      JS Pooranakaran: 417bde96
+      KK Ghosh: eea3fd8e
+      KSVP Venu Madhav: 8c7fb752
+      LAR Bommareddy: 3da8cd3a
+      LL Htun: ec687c3a
+      MPP San: 5bc290a2
+      NL Jacinta Si Ping: 68c9a36f
+      RR Seth: 7ccc0a38
+      S Merican: f3f6f5a0
+      Shafina Mahesh: 0c40b02d
+      T Senthil Kumar: 961ddfac
+      TS Shwe: 9e9d50b9
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      Thae Thae Po: 48a372a4
+      VL Sinha: 93cfdc7e
+      Vinu Kumar: 3775b9f9
+      ZL Thoon: 8d0543ce
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zon Lin: 3b492b8d
+  teams:
+  - Singapore
+  - Myanmar
+  toss:
+    winner: Myanmar
+    decision: field
+  umpires:
+  - KSVP Venu Madhav
+  - VL Sinha
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LAR Bommareddy
+        batsman: Shafina Mahesh
+    - 0.2:
+        non_striker: LAR Bommareddy
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          fielders:
+          - TS Shwe
+          kind: caught
+    - 0.3:
+        non_striker: LAR Bommareddy
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 0.4:
+        non_striker: LAR Bommareddy
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 0.5:
+        non_striker: LAR Bommareddy
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 0.6:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 1.1:
+        non_striker: LAR Bommareddy
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 1.2:
+        non_striker: LAR Bommareddy
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 1.3:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 1.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 1.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+        wicket:
+          player_out: LAR Bommareddy
+          kind: bowled
+    - 1.6:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 2.1:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 2.2:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 2.3:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 2.4:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ananya Sarma
+    - 2.5:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.6:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 2.7:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 3.1:
+        non_striker: Ananya Sarma
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.2:
+        non_striker: Ananya Sarma
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 3.3:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 3.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ananya Sarma
+    - 3.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 3.6:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ananya Sarma
+    - 4.1:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 4.2:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ananya Sarma
+    - 4.3:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.4:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.5:
+        non_striker: Ananya Sarma
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 4.6:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 5.1:
+        non_striker: Ananya Sarma
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.2:
+        non_striker: Ananya Sarma
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 5.3:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 5.4:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 5.5:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 5.6:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 6.1:
+        non_striker: Ananya Sarma
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 6.2:
+        non_striker: Ananya Sarma
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.3:
+        non_striker: Ananya Sarma
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Ananya Sarma
+          fielders:
+          - ZT Kyaw
+          - TT Aung
+          kind: run out
+    - 6.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 6.6:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 7.1:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 7.2:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 7.3:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 7.4:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.5:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.6:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 7.7:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.1:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.3:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Vinu Kumar
+    - 8.4:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.6:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.7:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.1:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.2:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 9.3:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.4:
+        non_striker: Vinu Kumar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 9.5:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.6:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.1:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 10.2:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.3:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.4:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 10.5:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.6:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.1:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 11.2:
+        non_striker: Vinu Kumar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.3:
+        non_striker: Vinu Kumar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.4:
+        non_striker: Vinu Kumar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 11.5:
+        non_striker: Vinu Kumar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.6:
+        non_striker: RR Seth
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 12.1:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 12.2:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 12.3:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 12.4:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: RR Seth
+          fielders:
+          - TT Soe
+          kind: run out
+    - 12.5:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GK Diviya
+        batsman: Vinu Kumar
+    - 12.6:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 12.7:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 13.1:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 13.2:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 13.3:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 13.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 13.5:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 13.6:
+        non_striker: Vinu Kumar
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 14.1:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 14.2:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 14.3:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 14.4:
+        non_striker: GK Diviya
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 14.5:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 14.6:
+        non_striker: Vinu Kumar
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 15.1:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 15.2:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 15.3:
+        non_striker: GK Diviya
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 15.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 15.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 15.6:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 16.1:
+        non_striker: GK Diviya
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 16.2:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 16.3:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GK Diviya
+    - 16.4:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 16.5:
+        non_striker: GK Diviya
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 16.6:
+        non_striker: Vinu Kumar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 16.7:
+        non_striker: GK Diviya
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.1:
+        non_striker: GK Diviya
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.2:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 17.3:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 17.4:
+        non_striker: GK Diviya
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.5:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 17.6:
+        non_striker: GK Diviya
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zon Lin
+        batsman: TT Soe
+    - 0.2:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zon Lin
+        batsman: TT Soe
+    - 0.3:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 0.4:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 0.5:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 0.6:
+        non_striker: Zon Lin
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 1.1:
+        non_striker: Zon Lin
+        bowler: E Ungerman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: TT Soe
+    - 1.2:
+        non_striker: Zon Lin
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 1.3:
+        non_striker: Zon Lin
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 1.4:
+        non_striker: TT Soe
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 1.5:
+        non_striker: Zon Lin
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Soe
+    - 1.6:
+        non_striker: Zon Lin
+        bowler: E Ungerman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: TT Soe
+    - 2.1:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 2.2:
+        non_striker: Zon Lin
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 2.3:
+        non_striker: Zon Lin
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 2.4:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 2.5:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 2.6:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.1:
+        non_striker: Zon Lin
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 3.2:
+        non_striker: Zon Lin
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 3.3:
+        non_striker: Zon Lin
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Soe
+    - 3.4:
+        non_striker: Zon Lin
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Soe
+    - 3.5:
+        non_striker: Zon Lin
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 3.6:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 3.7:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 4.1:
+        non_striker: Zon Lin
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 4.2:
+        non_striker: Zon Lin
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 4.3:
+        non_striker: TT Soe
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.4:
+        non_striker: TT Soe
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 4.5:
+        non_striker: Zon Lin
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 4.6:
+        non_striker: Zon Lin
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TT Soe
+    - 5.1:
+        non_striker: Zon Lin
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 5.2:
+        non_striker: Zon Lin
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 5.3:
+        non_striker: Zon Lin
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 5.4:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 5.5:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.6:
+        non_striker: TT Soe
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.1:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zon Lin
+    - 6.2:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 6.3:
+        non_striker: TT Soe
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.4:
+        non_striker: Zon Lin
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Soe
+    - 6.5:
+        non_striker: Zon Lin
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 6.6:
+        non_striker: Zon Lin
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe

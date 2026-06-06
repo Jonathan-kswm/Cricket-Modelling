@@ -1,0 +1,2389 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2414
+  outcome:
+    winner: Sierra Leone
+    by:
+      runs: 149
+  overs: 20
+  player_of_match:
+  - E Kamara
+  players:
+    Sierra Leone:
+    - E Kamara
+    - Aminata Kamara
+    - M Turay
+    - C Bull
+    - Z Kamara
+    - AM Kamara
+    - L Bull
+    - F Pessima
+    - H Sawanneh
+    - P Pratt
+    - AK Bangura
+    Eswatini:
+    - Ntombizodwa Mkhatshwa
+    - W Ginindza
+    - M Dlamini
+    - LN Shabalala
+    - ZN Shabalala
+    - L Mamba
+    - N Mamba
+    - N Mabila
+    - T Dlamini
+    - Noncedo Simelane
+    - LS Simelane
+  registry:
+    people:
+      A Jacobs: 70d117de
+      AK Bangura: 36c0228f
+      AM Kamara: 4ca3d67d
+      Aminata Kamara: f7aca3b3
+      C Bull: a7b3bd26
+      E Kamara: 3f8915a0
+      F Pessima: 9be80ea0
+      H Sawanneh: '89372586'
+      J Chibhabha: 4c5c47a4
+      L Bull: 256d29e8
+      L Mamba: bcbb22dc
+      LN Shabalala: '21548315'
+      LS Simelane: 642b1b28
+      Lauren Agenbag: 40849abd
+      M Dlamini: 877a3433
+      M Turay: 1eec6a0f
+      N Mabila: 21ef59e3
+      N Mamba: f99b9970
+      Noncedo Simelane: 1e1cd41d
+      Ntombizodwa Mkhatshwa: 5d297269
+      P Pratt: ccac9ed0
+      S Dambanevana: '039923bd'
+      T Dlamini: b92d1fe6
+      W Ginindza: b5fedf28
+      Z Kamara: a4e98e6b
+      ZN Shabalala: c0a87b5d
+  teams:
+  - Sierra Leone
+  - Eswatini
+  toss:
+    winner: Eswatini
+    decision: field
+  umpires:
+  - A Jacobs
+  - S Dambanevana
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.2:
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.3:
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.4:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.5:
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.6:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminata Kamara
+    - 0.7:
+        non_striker: Aminata Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 0.8:
+        non_striker: Aminata Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 1.1:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aminata Kamara
+    - 1.2:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminata Kamara
+    - 1.3:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 1.4:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 1.5:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Kamara
+    - 1.6:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aminata Kamara
+    - 1.7:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminata Kamara
+    - 1.8:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 2.1:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminata Kamara
+    - 2.2:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aminata Kamara
+    - 2.3:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aminata Kamara
+    - 2.4:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aminata Kamara
+    - 2.5:
+        non_striker: Aminata Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 2.6:
+        non_striker: Aminata Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 2.7:
+        non_striker: Aminata Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 2.8:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminata Kamara
+    - 3.1:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 3.2:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 3.3:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 3.4:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 3.5:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aminata Kamara
+    - 3.6:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminata Kamara
+    - 3.7:
+        non_striker: Aminata Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 3.8:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aminata Kamara
+    - 4.1:
+        non_striker: Aminata Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Kamara
+    - 4.2:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aminata Kamara
+    - 4.3:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminata Kamara
+    - 4.4:
+        non_striker: Aminata Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 4.5:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminata Kamara
+        wicket:
+          player_out: Aminata Kamara
+          kind: bowled
+    - 4.6:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 4.7:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 4.8:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 4.9:
+        non_striker: M Turay
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 5.1:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Turay
+    - 5.2:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 5.3:
+        non_striker: M Turay
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 5.4:
+        non_striker: M Turay
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 5.5:
+        non_striker: M Turay
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Kamara
+    - 5.6:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 6.1:
+        non_striker: M Turay
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Kamara
+    - 6.2:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 6.3:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 6.4:
+        non_striker: M Turay
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Kamara
+    - 6.5:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 6.6:
+        non_striker: M Turay
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 6.7:
+        non_striker: M Turay
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.1:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 7.2:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 7.3:
+        non_striker: M Turay
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 7.4:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 7.5:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 7.6:
+        non_striker: M Turay
+        bowler: L Mamba
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Kamara
+    - 7.7:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 7.8:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Turay
+    - 8.1:
+        non_striker: M Turay
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 8.2:
+        non_striker: M Turay
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 8.3:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 8.4:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 8.5:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 8.6:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 9.1:
+        non_striker: M Turay
+        bowler: N Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 9.2:
+        non_striker: M Turay
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 9.3:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 9.4:
+        non_striker: M Turay
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 9.5:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 9.6:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 9.7:
+        non_striker: M Turay
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 9.8:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 10.1:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 10.2:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+        wicket:
+          player_out: M Turay
+          kind: bowled
+    - 10.3:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 10.4:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bull
+    - 10.5:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 10.6:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bull
+    - 10.7:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 11.1:
+        non_striker: C Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 11.2:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Bull
+    - 11.3:
+        non_striker: C Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 11.4:
+        non_striker: C Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 11.5:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 11.6:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 11.7:
+        non_striker: C Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 12.1:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 12.2:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bull
+    - 12.3:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bull
+    - 12.4:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 12.5:
+        non_striker: C Bull
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 12.6:
+        non_striker: E Kamara
+        bowler: N Mabila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 13.1:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+        wicket:
+          player_out: C Bull
+          fielders:
+          - M Dlamini
+          kind: caught
+    - 13.2:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Kamara
+    - 13.3:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 13.4:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 13.5:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Kamara
+    - 13.6:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 14.1:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+    - 14.2:
+        non_striker: E Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 14.3:
+        non_striker: Z Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 14.4:
+        non_striker: Z Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 14.5:
+        non_striker: Z Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 14.6:
+        non_striker: Z Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 14.7:
+        non_striker: Z Kamara
+        bowler: LS Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 15.1:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 15.2:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 15.3:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 15.4:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 15.5:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 15.6:
+        non_striker: Z Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 15.7:
+        non_striker: E Kamara
+        bowler: L Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Kamara
+    - 16.1:
+        non_striker: Z Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 16.2:
+        non_striker: Z Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: E Kamara
+    - 16.3:
+        non_striker: Z Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 16.4:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Kamara
+    - 16.5:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+        wicket:
+          player_out: Z Kamara
+          kind: bowled
+    - 16.6:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 16.7:
+        non_striker: AM Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 17.1:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 17.2:
+        non_striker: AM Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+    - 17.3:
+        non_striker: AM Kamara
+        bowler: N Mamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kamara
+    - 17.4:
+        non_striker: AM Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 17.5:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Kamara
+    - 17.6:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Kamara
+    - 17.7:
+        non_striker: E Kamara
+        bowler: N Mamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 18.1:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 18.2:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Kamara
+    - 18.3:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 18.4:
+        non_striker: AM Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 18.5:
+        non_striker: E Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 18.6:
+        non_striker: AM Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: E Kamara
+    - 18.7:
+        non_striker: AM Kamara
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+        wicket:
+          player_out: AM Kamara
+          fielders:
+          - M Dlamini
+          kind: run out
+    - 18.8:
+        non_striker: L Bull
+        bowler: M Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 19.1:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 19.2:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Kamara
+    - 19.3:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 19.4:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Kamara
+    - 19.5:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bull
+    - 19.6:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bull
+    - 19.7:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bull
+    - 19.8:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Kamara
+    - 19.9:
+        non_striker: E Kamara
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Bull
+    - 19.10:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 19.11:
+        non_striker: L Bull
+        bowler: T Dlamini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+        wicket:
+          player_out: E Kamara
+          fielders:
+          - W Ginindza
+          kind: caught
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.2:
+        bowler: AM Kamara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.3:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.4:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.5:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.6:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ginindza
+        batsman: Ntombizodwa Mkhatshwa
+    - 0.7:
+        non_striker: W Ginindza
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 1.1:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ginindza
+    - 1.2:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ginindza
+        wicket:
+          player_out: W Ginindza
+          kind: bowled
+    - 1.3:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 1.4:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 1.5:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 1.6:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 2.1:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 2.2:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ntombizodwa Mkhatshwa
+    - 2.3:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 2.4:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 2.5:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 2.6:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 3.1:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 3.2:
+        non_striker: Ntombizodwa Mkhatshwa
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dlamini
+    - 3.3:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 3.4:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+    - 3.5:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ntombizodwa Mkhatshwa
+        wicket:
+          player_out: Ntombizodwa Mkhatshwa
+          fielders:
+          - Z Kamara
+          kind: caught
+    - 3.6:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+    - 4.1:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.2:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.3:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.4:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.5:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 4.6:
+        non_striker: LN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 5.1:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Shabalala
+        wicket:
+          player_out: LN Shabalala
+          kind: caught and bowled
+    - 5.2:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 5.3:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 5.4:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 5.5:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ZN Shabalala
+    - 5.6:
+        non_striker: M Dlamini
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 6.1:
+        non_striker: ZN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 6.2:
+        non_striker: ZN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 6.3:
+        non_striker: ZN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 6.4:
+        non_striker: ZN Shabalala
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dlamini
+    - 6.5:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 6.6:
+        non_striker: M Dlamini
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 7.1:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.2:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.3:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Dlamini
+    - 7.4:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.5:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 7.6:
+        non_striker: ZN Shabalala
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 8.1:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 8.2:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 8.3:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZN Shabalala
+    - 8.4:
+        non_striker: ZN Shabalala
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 8.5:
+        non_striker: ZN Shabalala
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dlamini
+    - 8.6:
+        non_striker: ZN Shabalala
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 9.1:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZN Shabalala
+    - 9.2:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 9.3:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 9.4:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 9.5:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 9.6:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 9.7:
+        non_striker: M Dlamini
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZN Shabalala
+    - 10.1:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 10.2:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 10.3:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 10.4:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+    - 10.5:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Shabalala
+        wicket:
+          player_out: ZN Shabalala
+          kind: bowled
+    - 10.6:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 11.1:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 11.2:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 11.3:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 11.4:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 11.5:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 11.6:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 12.1:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 12.2:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 12.3:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 12.4:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 12.5:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 12.6:
+        non_striker: M Dlamini
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 13.1:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+    - 13.2:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dlamini
+        wicket:
+          player_out: M Dlamini
+          kind: bowled
+    - 13.3:
+        non_striker: L Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mamba
+    - 13.4:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+    - 13.5:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mamba
+        wicket:
+          player_out: L Mamba
+          kind: bowled
+    - 13.6:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 14.1:
+        non_striker: N Mamba
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mabila
+    - 14.2:
+        non_striker: N Mamba
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 14.3:
+        non_striker: N Mamba
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mabila
+    - 14.4:
+        non_striker: N Mamba
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 14.5:
+        non_striker: N Mamba
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 14.6:
+        non_striker: N Mabila
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+    - 15.1:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mabila
+    - 15.2:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 15.3:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 15.4:
+        non_striker: N Mamba
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 15.5:
+        non_striker: N Mabila
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+    - 15.6:
+        non_striker: N Mabila
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mamba
+    - 16.1:
+        non_striker: N Mamba
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mabila
+    - 16.2:
+        non_striker: N Mamba
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mabila
+    - 16.3:
+        non_striker: N Mamba
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 16.4:
+        non_striker: N Mamba
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 16.5:
+        non_striker: N Mabila
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mamba
+    - 16.6:
+        non_striker: N Mamba
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 17.1:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+    - 17.2:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Mamba
+    - 17.3:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+    - 17.4:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mamba
+        wicket:
+          player_out: N Mamba
+          kind: lbw
+    - 17.5:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 17.6:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 17.7:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 18.1:
+        non_striker: T Dlamini
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 18.2:
+        non_striker: N Mabila
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+    - 18.3:
+        non_striker: N Mabila
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dlamini
+        wicket:
+          player_out: T Dlamini
+          fielders:
+          - Z Kamara
+          - F Pessima
+          kind: run out
+    - 18.4:
+        non_striker: N Mabila
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 18.5:
+        non_striker: N Mabila
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 18.6:
+        non_striker: N Mabila
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 19.1:
+        non_striker: Noncedo Simelane
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mabila
+    - 19.2:
+        non_striker: Noncedo Simelane
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mabila
+    - 19.3:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 19.4:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 19.5:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane
+    - 19.6:
+        non_striker: N Mabila
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noncedo Simelane

@@ -1,0 +1,2104 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2505
+  outcome:
+    winner: Fiji
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - MT Waqanisau
+  players:
+    Philippines:
+    - AR Valdez
+    - ABY Smith
+    - Karri Gullem Keen
+    - KK Donovan
+    - JKD Andreano
+    - AS Miranda
+    - Kyte Gullem Keen
+    - SF Sirah
+    - Angela Busa
+    - R Castillo
+    - JY Masaya
+    Fiji:
+    - S Vuni
+    - S Sigaiwasa
+    - MT Waqanisau
+    - T Saville
+    - I Waqavakatoga
+    - KV Vakuruivalu
+    - AK Gonerara
+    - A Levaci
+    - MSC Erasito
+    - J Rokoro
+    - KM Amoe
+  registry:
+    people:
+      A Levaci: 6ff1d14f
+      ABY Smith: fcb4448f
+      AK Gonerara: 141ee9a0
+      AR Valdez: 3c3f34b0
+      AS Miranda: 283e47fa
+      Adam Birss: 0cabf6f4
+      Angela Busa: cbef5af4
+      H Atai: 0460d756
+      I Waqavakatoga: 31d220f5
+      J Rokoro: 80b1465d
+      JKD Andreano: 757baa30
+      JY Masaya: 44368e16
+      KK Donovan: ef2a7af4
+      KM Amoe: e21ca3a8
+      KV Vakuruivalu: 98db3666
+      Karri Gullem Keen: bb7b014a
+      Kim Cotton: 67a7c2ee
+      Kyte Gullem Keen: f3f654c2
+      MSC Erasito: ce02e769
+      MT Waqanisau: dc86b56a
+      R Castillo: 716ba9ef
+      S Sigaiwasa: b1414505
+      S Vuni: 951e08f0
+      SF Sirah: 48bd237f
+      T Saville: 2ef9bdcb
+      TL Anderson: f52ddf8d
+  teams:
+  - Philippines
+  - Fiji
+  toss:
+    winner: Fiji
+    decision: field
+  umpires:
+  - Adam Birss
+  - H Atai
+  venue: Albert Park 2, Suva
+innings:
+- 1st innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+        wicket:
+          player_out: AR Valdez
+          fielders:
+          - T Saville
+          kind: caught
+    - 0.2:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 0.3:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karri Gullem Keen
+    - 0.4:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 0.5:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 0.6:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 1.1:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 1.2:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 1.3:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 1.4:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 1.5:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 1.6:
+        non_striker: Karri Gullem Keen
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 1.7:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 1.8:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+        wicket:
+          player_out: Karri Gullem Keen
+          kind: lbw
+    - 2.1:
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KK Donovan
+        batsman: ABY Smith
+    - 2.2:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 2.3:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+        wicket:
+          player_out: KK Donovan
+          kind: lbw
+    - 2.4:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 2.5:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 2.6:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 3.1:
+        non_striker: JKD Andreano
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 3.2:
+        non_striker: JKD Andreano
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 3.3:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 3.4:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 3.5:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JKD Andreano
+    - 3.6:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 3.7:
+        non_striker: ABY Smith
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+    - 4.1:
+        non_striker: JKD Andreano
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 4.2:
+        non_striker: JKD Andreano
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 4.3:
+        non_striker: JKD Andreano
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 4.4:
+        non_striker: JKD Andreano
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 4.5:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JKD Andreano
+        wicket:
+          player_out: JKD Andreano
+          kind: bowled
+    - 4.6:
+        non_striker: ABY Smith
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 5.1:
+        non_striker: AS Miranda
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 5.2:
+        non_striker: AS Miranda
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 5.3:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 5.4:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Miranda
+    - 5.5:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: AS Miranda
+    - 5.6:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 5.7:
+        non_striker: AS Miranda
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 5.8:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 5.9:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 5.10:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 5.11:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 5.12:
+        non_striker: ABY Smith
+        bowler: KV Vakuruivalu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 6.1:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+        wicket:
+          player_out: ABY Smith
+          fielders:
+          - S Vuni
+          - A Levaci
+          kind: run out
+    - 6.2:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 6.3:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 6.4:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 6.5:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 6.6:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kyte Gullem Keen
+    - 6.7:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 7.1:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 7.2:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 7.3:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 7.4:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 7.5:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 7.6:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 8.1:
+        non_striker: AS Miranda
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 8.2:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 8.3:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 8.4:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 8.5:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 8.6:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 8.7:
+        non_striker: Kyte Gullem Keen
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 9.1:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kyte Gullem Keen
+    - 9.2:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 9.3:
+        non_striker: Kyte Gullem Keen
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 9.4:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 9.5:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+        wicket:
+          player_out: Kyte Gullem Keen
+          kind: bowled
+    - 9.6:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Sirah
+    - 9.7:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Sirah
+    - 10.1:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Miranda
+    - 10.2:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 10.3:
+        non_striker: AS Miranda
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Sirah
+    - 10.4:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 10.5:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 10.6:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 10.7:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 10.8:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 10.9:
+        non_striker: AS Miranda
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Sirah
+    - 10.10:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 10.11:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 10.12:
+        non_striker: SF Sirah
+        bowler: J Rokoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 11.1:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Sirah
+    - 11.2:
+        non_striker: AS Miranda
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Sirah
+    - 11.3:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 11.4:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 11.5:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 11.6:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 11.7:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 11.8:
+        non_striker: SF Sirah
+        bowler: A Levaci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 12.1:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Sirah
+    - 12.2:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Sirah
+        wicket:
+          player_out: SF Sirah
+          fielders:
+          - KM Amoe
+          kind: caught
+    - 12.3:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 12.4:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 12.5:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 12.6:
+        non_striker: AS Miranda
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Angela Busa
+    - 13.1:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 13.2:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Miranda
+    - 13.3:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 13.4:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 13.5:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+        wicket:
+          player_out: AS Miranda
+          kind: bowled
+    - 13.6:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Castillo
+    - 13.7:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Castillo
+    - 13.8:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Castillo
+    - 13.9:
+        non_striker: R Castillo
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 14.1:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Castillo
+        wicket:
+          player_out: R Castillo
+          kind: lbw
+    - 14.2:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 14.3:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 14.4:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 14.5:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 14.6:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 15.1:
+        non_striker: JY Masaya
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 15.2:
+        non_striker: Angela Busa
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 15.3:
+        non_striker: Angela Busa
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 15.4:
+        non_striker: Angela Busa
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 15.5:
+        non_striker: Angela Busa
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 15.6:
+        non_striker: Angela Busa
+        bowler: AK Gonerara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JY Masaya
+    - 16.1:
+        non_striker: JY Masaya
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 16.2:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 16.3:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 16.4:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 16.5:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JY Masaya
+    - 16.6:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 16.7:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JY Masaya
+    - 16.8:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 17.1:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 17.2:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 17.3:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 17.4:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 17.5:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 17.6:
+        non_striker: JY Masaya
+        bowler: I Waqavakatoga
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Angela Busa
+    - 18.1:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 18.2:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 18.3:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 18.4:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JY Masaya
+    - 18.5:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JY Masaya
+    - 18.6:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 18.7:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 18.8:
+        non_striker: Angela Busa
+        bowler: S Sigaiwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 19.1:
+        non_striker: JY Masaya
+        bowler: MT Waqanisau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Angela Busa
+    - 19.2:
+        non_striker: JY Masaya
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 19.3:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 19.4:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+    - 19.5:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JY Masaya
+    - 19.6:
+        non_striker: JY Masaya
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 19.7:
+        non_striker: Angela Busa
+        bowler: MT Waqanisau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JY Masaya
+- 2nd innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sigaiwasa
+        batsman: S Vuni
+    - 0.2:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 0.3:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 0.4:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 0.5:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 0.6:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vuni
+    - 1.1:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sigaiwasa
+    - 1.2:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 1.3:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 1.4:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Sigaiwasa
+    - 1.5:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 1.6:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Vuni
+    - 1.7:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 1.8:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 2.1:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 2.2:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 2.3:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 2.4:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vuni
+    - 2.5:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 2.6:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 3.1:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 3.2:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Sigaiwasa
+    - 3.3:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 3.4:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 3.5:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 3.6:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 4.1:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.2:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sigaiwasa
+    - 4.3:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.4:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.5:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.6:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 4.7:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 5.1:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Vuni
+    - 5.2:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 5.3:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 5.4:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 5.5:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 5.6:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.1:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.2:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 6.3:
+        non_striker: S Vuni
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sigaiwasa
+    - 6.4:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.5:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 6.6:
+        non_striker: S Sigaiwasa
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 7.1:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 7.2:
+        non_striker: S Vuni
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Sigaiwasa
+    - 7.3:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 7.4:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 7.5:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vuni
+    - 7.6:
+        non_striker: S Sigaiwasa
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+    - 8.1:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sigaiwasa
+    - 8.2:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 8.3:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sigaiwasa
+    - 8.4:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sigaiwasa
+    - 8.5:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+    - 8.6:
+        non_striker: S Vuni
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sigaiwasa
+    - 9.1:
+        non_striker: S Sigaiwasa
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vuni
+        wicket:
+          player_out: S Vuni
+          fielders:
+          - AS Miranda
+          kind: caught
+    - 9.2:
+        non_striker: S Sigaiwasa
+        bowler: ABY Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Waqanisau
+    - 9.3:
+        non_striker: S Sigaiwasa
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 9.4:
+        non_striker: S Sigaiwasa
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 9.5:
+        non_striker: S Sigaiwasa
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 9.6:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sigaiwasa
+        wicket:
+          player_out: S Sigaiwasa
+          kind: caught and bowled
+    - 9.7:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 10.1:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 10.2:
+        non_striker: MT Waqanisau
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Saville
+    - 10.3:
+        non_striker: MT Waqanisau
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 10.4:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 10.5:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 10.6:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 11.1:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 11.2:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Waqanisau
+    - 11.3:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 11.4:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 11.5:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 11.6:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 12.1:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MT Waqanisau
+    - 12.2:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.3:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Waqanisau
+    - 12.4:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.5:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.6:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 12.7:
+        non_striker: T Saville
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 13.1:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Waqanisau
+    - 13.2:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau
+    - 13.3:
+        non_striker: MT Waqanisau
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 13.4:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Waqanisau
+    - 13.5:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Waqanisau
+    - 13.6:
+        non_striker: T Saville
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Waqanisau

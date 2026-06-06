@@ -1,0 +1,2075 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Copenhagen
+  dates:
+  - '2025-08-31'
+  gender: female
+  match_type: T20
+  match_type_number: 2459
+  outcome:
+    winner: Denmark
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - NP Dalgaard
+  players:
+    Norway:
+    - AS Gorad
+    - Mirab Sajjad
+    - Bijeyata Kumari
+    - Ayesha Hasan
+    - Alina Aslam
+    - R Immadi
+    - VB Viyala
+    - Mirab Razwan
+    - Purvi Kumari
+    - Lopamudra
+    - Prachi Kumari
+    Denmark:
+    - TS Erichsen
+    - ML Karlsen
+    - Farhat Afroz
+    - L Leisner
+    - A Ostergaard
+    - D Golechha
+    - L Ostergaard
+    - L Holmgaard
+    - S Ostergaard
+    - K Brock-Nielsen
+    - NP Dalgaard
+  registry:
+    people:
+      A Ostergaard: 36ffe914
+      AK Saini: 894ebe7e
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      Bilal Munir: c35c63b9
+      D Golechha: c2c12f2a
+      Farhat Afroz: f65e75df
+      K Brock-Nielsen: c14ba87c
+      L Holmgaard: 8ea1f4c4
+      L Leisner: ed614ded
+      L Ostergaard: 3a5160d9
+      Lopamudra: ff4509d5
+      ML Karlsen: 4302af3d
+      Mirab Razwan: 498031f9
+      Mirab Sajjad: 41db4d1f
+      NP Dalgaard: '40283617'
+      Prachi Kumari: dc4f97bf
+      Purvi Kumari: 68339baa
+      R Immadi: baeae6dd
+      S Ostergaard: a19e799b
+      TS Erichsen: 9894e7b9
+      VB Viyala: 228a747d
+  teams:
+  - Norway
+  - Denmark
+  toss:
+    winner: Norway
+    decision: bat
+  umpires:
+  - AK Saini
+  - Bilal Munir
+  venue: Albertslund Cricket Club
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.2:
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.3:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.4:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.5:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.6:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.7:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.1:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.4:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 1.5:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 1.6:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.7:
+        non_striker: Mirab Sajjad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 1.8:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 1.9:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 2.1:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mirab Sajjad
+    - 2.2:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+        wicket:
+          player_out: Mirab Sajjad
+          kind: bowled
+    - 2.3:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.4:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.5:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.6:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.1:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.2:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 3.3:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.4:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.5:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.6:
+        non_striker: Bijeyata Kumari
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 4.1:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - L Holmgaard
+          kind: run out
+    - 4.2:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 4.3:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 4.4:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 4.5:
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 4.6:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 4.7:
+        non_striker: AS Gorad
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.1:
+        non_striker: Ayesha Hasan
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 5.2:
+        non_striker: Ayesha Hasan
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Gorad
+    - 5.3:
+        non_striker: Ayesha Hasan
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AS Gorad
+    - 5.4:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.5:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 5.6:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.7:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 5.8:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 5.9:
+        non_striker: AS Gorad
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 6.1:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.2:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.3:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.4:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 7.1:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.2:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.3:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: caught and bowled
+    - 7.4:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 7.5:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 7.6:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 7.7:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 7.8:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 8.1:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Gorad
+    - 8.2:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 8.3:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 8.4:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 8.5:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 8.6:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 9.1:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 9.2:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 9.3:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 9.4:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 9.5:
+        non_striker: AS Gorad
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 9.6:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 10.1:
+        non_striker: Alina Aslam
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AS Gorad
+    - 10.2:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 10.3:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 10.4:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 10.5:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 10.6:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 10.7:
+        non_striker: AS Gorad
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Alina Aslam
+    - 11.1:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 11.2:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 11.3:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          kind: bowled
+    - 11.4:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 11.5:
+        non_striker: Alina Aslam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 11.6:
+        non_striker: R Immadi
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+        wicket:
+          player_out: Alina Aslam
+          kind: bowled
+    - 12.1:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: VB Viyala
+        batsman: R Immadi
+    - 12.2:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VB Viyala
+        batsman: R Immadi
+    - 12.3:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VB Viyala
+        batsman: R Immadi
+    - 12.4:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VB Viyala
+        batsman: R Immadi
+    - 12.5:
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VB Viyala
+        batsman: R Immadi
+    - 12.6:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 13.1:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.2:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 13.3:
+        non_striker: R Immadi
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 13.4:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.5:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 13.6:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 13.7:
+        non_striker: VB Viyala
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 14.1:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+        wicket:
+          player_out: R Immadi
+          kind: bowled
+    - 14.2:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.3:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 14.4:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 14.5:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.6:
+        non_striker: VB Viyala
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 14.7:
+        non_striker: Mirab Razwan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 14.8:
+        non_striker: Mirab Razwan
+        bowler: S Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 15.1:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.2:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.3:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB Viyala
+    - 15.4:
+        non_striker: VB Viyala
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 15.5:
+        non_striker: VB Viyala
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 15.6:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 15.7:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VB Viyala
+    - 16.1:
+        non_striker: VB Viyala
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: VB Viyala
+          fielders:
+          - ML Karlsen
+          - L Holmgaard
+          kind: run out
+    - 16.2:
+        non_striker: Mirab Razwan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 16.3:
+        non_striker: Mirab Razwan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 16.4:
+        non_striker: Mirab Razwan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 16.5:
+        non_striker: Mirab Razwan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 16.6:
+        non_striker: Mirab Razwan
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 17.1:
+        non_striker: Purvi Kumari
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 17.2:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 17.3:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 17.4:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 17.5:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 17.6:
+        non_striker: Mirab Razwan
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Purvi Kumari
+    - 18.1:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 18.2:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 18.3:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Mirab Razwan
+          fielders:
+          - TS Erichsen
+          - ML Karlsen
+          kind: run out
+    - 18.4:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.5:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 18.6:
+        non_striker: Purvi Kumari
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 19.1:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 19.2:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 19.3:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Purvi Kumari
+    - 19.4:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Purvi Kumari
+    - 19.5:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Purvi Kumari
+    - 19.6:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Purvi Kumari
+    - 19.7:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Purvi Kumari
+    - 19.8:
+        non_striker: Lopamudra
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Purvi Kumari
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        batsman: TS Erichsen
+    - 0.6:
+        non_striker: ML Karlsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.1:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 1.2:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 1.3:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: ML Karlsen
+    - 1.4:
+        non_striker: ML Karlsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Erichsen
+    - 1.5:
+        non_striker: ML Karlsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.6:
+        non_striker: ML Karlsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.7:
+        non_striker: ML Karlsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 2.1:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Karlsen
+    - 2.2:
+        non_striker: ML Karlsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 2.3:
+        non_striker: ML Karlsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 2.4:
+        non_striker: ML Karlsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 2.5:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+        wicket:
+          player_out: ML Karlsen
+          fielders:
+          - Mirab Razwan
+          kind: caught
+    - 2.6:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhat Afroz
+    - 3.1:
+        non_striker: Farhat Afroz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 3.2:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhat Afroz
+        wicket:
+          player_out: Farhat Afroz
+          fielders:
+          - Alina Aslam
+          kind: caught
+    - 3.3:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 3.4:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 3.5:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Leisner
+    - 3.6:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 4.1:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: L Leisner
+    - 4.2:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 4.3:
+        non_striker: L Leisner
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 4.4:
+        non_striker: L Leisner
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 4.5:
+        non_striker: L Leisner
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TS Erichsen
+    - 4.6:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 4.7:
+        non_striker: L Leisner
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 4.8:
+        non_striker: L Leisner
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 5.1:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 5.2:
+        non_striker: L Leisner
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 5.3:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Leisner
+    - 5.4:
+        non_striker: TS Erichsen
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 5.5:
+        non_striker: L Leisner
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 5.6:
+        non_striker: L Leisner
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 5.7:
+        non_striker: L Leisner
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 5.8:
+        non_striker: L Leisner
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 6.1:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Leisner
+    - 6.2:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 6.3:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 6.4:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 6.5:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 6.6:
+        non_striker: TS Erichsen
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 7.1:
+        non_striker: L Leisner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 7.2:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Leisner
+    - 7.3:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 7.4:
+        non_striker: L Leisner
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 7.5:
+        non_striker: L Leisner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 7.6:
+        non_striker: L Leisner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TS Erichsen
+    - 7.7:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 8.1:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+        wicket:
+          player_out: L Leisner
+          kind: bowled
+    - 8.2:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 8.3:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 8.4:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 8.5:
+        non_striker: A Ostergaard
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 8.6:
+        non_striker: A Ostergaard
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 9.1:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 9.2:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 9.3:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 9.4:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 9.5:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 9.6:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Ostergaard
+    - 9.7:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 10.1:
+        non_striker: A Ostergaard
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Erichsen
+    - 10.2:
+        non_striker: A Ostergaard
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Erichsen
+    - 10.3:
+        non_striker: A Ostergaard
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 10.4:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 10.5:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 10.6:
+        non_striker: TS Erichsen
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 11.1:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.2:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.3:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.4:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.5:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Ostergaard
+    - 11.6:
+        non_striker: A Ostergaard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Erichsen
+    - 12.1:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 12.2:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 12.3:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 12.4:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 12.5:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 12.6:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 12.7:
+        non_striker: TS Erichsen
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ostergaard
+    - 13.1:
+        non_striker: A Ostergaard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 13.2:
+        non_striker: A Ostergaard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 13.3:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 13.4:
+        non_striker: TS Erichsen
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ostergaard
+    - 13.5:
+        non_striker: A Ostergaard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 13.6:
+        non_striker: A Ostergaard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 14.1:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.2:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.3:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 14.4:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard
+    - 14.5:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ostergaard
+    - 14.6:
+        non_striker: TS Erichsen
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ostergaard

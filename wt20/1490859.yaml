@@ -1,0 +1,1966 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2025-07-08'
+  gender: female
+  match_type: T20
+  match_type_number: 2395
+  outcome:
+    winner: Turkey
+    by:
+      runs: 166
+  overs: 20
+  player_of_match:
+  - S Yildirim
+  players:
+    Turkey:
+    - M Bayram
+    - S Yildirim
+    - G Cengiz
+    - G Ayan
+    - Suzan Turan
+    - G Keles
+    - Ezgi Nur Kilic
+    - R Cenik
+    - D Tekyildirim
+    - H Celik
+    - H Kavasoglu
+    Bulgaria:
+    - S Galabova
+    - V Nikolova
+    - K Srandeva
+    - A Stoilova
+    - G Ilarionova
+    - D Ruynekova
+    - B Shotorova
+    - V Atanasova
+    - S Sarandeva
+    - T Dissanayake
+    - N Toleva
+  registry:
+    people:
+      A Stoilova: c602c725
+      B Shotorova: cbef9f64
+      D Ruynekova: c3890e1e
+      D Tekyildirim: ae5f7b63
+      Ezgi Nur Kilic: ec8132b2
+      G Ayan: 66d258e2
+      G Cengiz: be59ed3f
+      G Ilarionova: b56786e5
+      G Keles: 3e84a803
+      H Celik: 266f372c
+      H Kavasoglu: c4b792e5
+      K Srandeva: 38602b15
+      M Bayram: 4867ffbf
+      N Toleva: d381938d
+      R Cenik: '050009d9'
+      S Galabova: 21bcbbdd
+      S Sarandeva: dacecca3
+      S Yildirim: aae9b47b
+      Suzan Turan: fec8377a
+      T Dissanayake: 5fb4c015
+      V Atanasova: b97e474c
+      V Nikolova: '078d1eb5'
+  teams:
+  - Turkey
+  - Bulgaria
+  toss:
+    winner: Turkey
+    decision: bat
+  venue: Vassil Levski National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Yildirim
+        batsman: M Bayram
+    - 0.2:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Yildirim
+        batsman: M Bayram
+    - 0.3:
+        non_striker: M Bayram
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 0.4:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 0.5:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 0.6:
+        non_striker: M Bayram
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 0.7:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.1:
+        non_striker: M Bayram
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 1.2:
+        non_striker: M Bayram
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 1.3:
+        non_striker: M Bayram
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 1.4:
+        non_striker: S Yildirim
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.5:
+        non_striker: S Yildirim
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 1.6:
+        non_striker: M Bayram
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 2.1:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 2.2:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 2.3:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 2.4:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 2.5:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 2.6:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bayram
+    - 2.7:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 3.1:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bayram
+    - 3.2:
+        non_striker: M Bayram
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 3.3:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 3.4:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 3.5:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bayram
+    - 3.6:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 4.1:
+        non_striker: M Bayram
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 4.2:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+        wicket:
+          player_out: M Bayram
+          kind: bowled
+    - 4.3:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 4.4:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 4.5:
+        non_striker: G Cengiz
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 4.6:
+        non_striker: G Cengiz
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 4.7:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 5.1:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 5.2:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 5.3:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 5.4:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 5.5:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 5.6:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yildirim
+    - 5.7:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 5.8:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 6.1:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 6.2:
+        non_striker: G Cengiz
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Yildirim
+    - 6.3:
+        non_striker: G Cengiz
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 6.4:
+        non_striker: G Cengiz
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 6.5:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 6.6:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 6.7:
+        non_striker: S Yildirim
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 7.1:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 7.2:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 7.3:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Yildirim
+    - 7.4:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 7.5:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Yildirim
+    - 7.6:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 7.7:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 7.8:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 8.1:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 8.2:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 8.3:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 8.4:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yildirim
+    - 8.5:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 8.6:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 8.7:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 9.1:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 9.2:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 9.3:
+        non_striker: G Cengiz
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yildirim
+    - 9.4:
+        non_striker: G Cengiz
+        bowler: G Ilarionova
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Yildirim
+    - 9.5:
+        non_striker: G Cengiz
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yildirim
+    - 9.6:
+        non_striker: G Cengiz
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 9.7:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 9.8:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 9.9:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 9.10:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 9.11:
+        non_striker: S Yildirim
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Cengiz
+    - 10.1:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 10.2:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 10.3:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 10.4:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 10.5:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 10.6:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yildirim
+    - 10.7:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 11.1:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 11.2:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 11.3:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: G Cengiz
+    - 11.4:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 11.5:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 11.6:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 11.7:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Yildirim
+    - 11.8:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: S Yildirim
+    - 11.9:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Cengiz
+    - 11.10:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 12.1:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 12.2:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 12.3:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 12.4:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Cengiz
+    - 12.5:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 12.6:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Yildirim
+    - 13.1:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 13.2:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 13.3:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Yildirim
+    - 13.4:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 13.5:
+        non_striker: S Yildirim
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 13.6:
+        non_striker: G Cengiz
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 14.1:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 14.2:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 14.3:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 14.4:
+        non_striker: G Cengiz
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 14.5:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: G Cengiz
+    - 14.6:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Cengiz
+    - 14.7:
+        non_striker: S Yildirim
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 15.1:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 15.2:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 15.3:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Cengiz
+    - 15.4:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 15.5:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Cengiz
+    - 15.6:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 15.7:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 15.8:
+        non_striker: S Yildirim
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 16.1:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+    - 16.2:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 16.3:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.4:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.5:
+        non_striker: G Cengiz
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 16.6:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Cengiz
+    - 16.7:
+        non_striker: S Yildirim
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Cengiz
+        wicket:
+          player_out: S Yildirim
+          kind: retired out
+    - 17.1:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ayan
+        batsman: G Cengiz
+    - 17.2:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Ayan
+        batsman: G Cengiz
+    - 17.3:
+        non_striker: G Cengiz
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+        wicket:
+          player_out: G Ayan
+          fielders:
+          - V Nikolova
+          - G Ilarionova
+          kind: run out
+    - 17.4:
+        non_striker: G Cengiz
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Suzan Turan
+    - 17.5:
+        non_striker: G Cengiz
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 17.6:
+        non_striker: G Cengiz
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+        wicket:
+          player_out: G Cengiz
+          kind: retired out
+    - 18.1:
+        non_striker: Suzan Turan
+        bowler: A Stoilova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Keles
+    - 18.2:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Suzan Turan
+    - 18.3:
+        non_striker: Suzan Turan
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 18.4:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 18.5:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 18.6:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Suzan Turan
+    - 18.7:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Suzan Turan
+    - 18.8:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 18.9:
+        non_striker: G Keles
+        bowler: A Stoilova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 19.1:
+        non_striker: Suzan Turan
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Keles
+    - 19.2:
+        non_striker: G Keles
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 19.3:
+        non_striker: G Keles
+        bowler: B Shotorova
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: Suzan Turan
+    - 19.4:
+        non_striker: G Keles
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Suzan Turan
+    - 19.5:
+        non_striker: Suzan Turan
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 19.6:
+        non_striker: G Keles
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Suzan Turan
+    - 19.7:
+        non_striker: G Keles
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 19.8:
+        non_striker: Suzan Turan
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+- 2nd innings:
+    team: Bulgaria
+    absent_hurt:
+    - T Dissanayake
+    - N Toleva
+    deliveries:
+    - 0.1:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Nikolova
+        batsman: S Galabova
+    - 0.2:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Nikolova
+        batsman: S Galabova
+    - 0.3:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Nikolova
+        batsman: S Galabova
+    - 0.4:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          kind: bowled
+    - 0.5:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+        wicket:
+          player_out: K Srandeva
+          kind: hit wicket
+    - 0.6:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 1.1:
+        non_striker: A Stoilova
+        bowler: H Celik
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: V Nikolova
+    - 1.2:
+        non_striker: A Stoilova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 1.3:
+        non_striker: A Stoilova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 1.4:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 1.5:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 1.6:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 2.1:
+        non_striker: A Stoilova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 2.2:
+        non_striker: A Stoilova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nikolova
+    - 2.3:
+        non_striker: A Stoilova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 2.4:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+        wicket:
+          player_out: A Stoilova
+          kind: bowled
+    - 2.5:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 2.6:
+        non_striker: V Nikolova
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ilarionova
+    - 3.1:
+        non_striker: G Ilarionova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 3.2:
+        non_striker: G Ilarionova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 3.3:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+        wicket:
+          player_out: G Ilarionova
+          kind: bowled
+    - 3.4:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 3.5:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 3.6:
+        non_striker: V Nikolova
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Ruynekova
+    - 3.7:
+        non_striker: D Ruynekova
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 4.1:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 4.2:
+        non_striker: V Nikolova
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 4.3:
+        non_striker: V Nikolova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 4.4:
+        non_striker: V Nikolova
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 4.5:
+        non_striker: V Nikolova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 4.6:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 4.7:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 4.8:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 5.1:
+        non_striker: V Nikolova
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Ruynekova
+    - 5.2:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 5.3:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nikolova
+    - 5.4:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          kind: lbw
+    - 5.5:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 5.6:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Shotorova
+    - 5.7:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 6.1:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 6.2:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Shotorova
+    - 6.3:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 6.4:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 6.5:
+        non_striker: B Shotorova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 6.6:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 6.7:
+        non_striker: D Ruynekova
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.1:
+        non_striker: B Shotorova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ruynekova
+    - 7.2:
+        non_striker: B Shotorova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 7.3:
+        non_striker: B Shotorova
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 7.4:
+        non_striker: B Shotorova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 7.5:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.6:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.7:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.8:
+        non_striker: D Ruynekova
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 8.1:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ruynekova
+    - 8.2:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 8.3:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 8.4:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 8.5:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 8.6:
+        non_striker: B Shotorova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 8.7:
+        non_striker: D Ruynekova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+        wicket:
+          player_out: B Shotorova
+          fielders:
+          - G Keles
+          kind: caught
+    - 8.8:
+        non_striker: D Ruynekova
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Atanasova
+    - 9.1:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 9.2:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ruynekova
+    - 9.3:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          fielders:
+          - G Ayan
+          kind: caught
+    - 9.4:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.5:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.6:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.7:
+        non_striker: V Atanasova
+        bowler: D Tekyildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          fielders:
+          - Ezgi Nur Kilic
+          kind: caught

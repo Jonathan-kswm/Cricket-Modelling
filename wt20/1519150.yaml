@@ -1,0 +1,2014 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelephu
+  dates:
+  - '2026-01-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2647
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - NT Miles
+  players:
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Mas Elysa
+    - Mahirah Izzati Ismail
+    - Nur Arianna Natsya
+    - Irdina Beh Nabil
+    - Nur Dania Syuhada
+    - Aina Najwa
+    - Amalin Sorfina
+    - Musfirah Nur Ainaa
+    - Suabika Manivannan
+    Hong Kong:
+    - NT Miles
+    - M Hill
+    - Y Daswani
+    - Chan Sau Har
+    - KY Chan
+    - Hiu Ying Cheung
+    - WK Lai
+    - M Bibi
+    - Ruchitha Venkatesh
+    - M Wai Siu
+    - YS To
+  registry:
+    people:
+      AK Rai: 1d70834a
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Amalin Sorfina: 734cded2
+      Chan Sau Har: 3c567308
+      Hiu Ying Cheung: 9efce9fd
+      Irdina Beh Nabil: 59ace6d9
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Wai Siu: 74eecff4
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      Musfirah Nur Ainaa: acd1fec7
+      NT Miles: d27d0835
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      ON Pradhan: d41a08d6
+      Ruchitha Venkatesh: 106135f5
+      Suabika Manivannan: a044506e
+      Subas Lama: 0a0c48dc
+      U Dorji: 12bba2d4
+      WA Duraisingam: 7467fe01
+      WK Lai: 6ab99b17
+      Y Daswani: 2038a273
+      YS To: 73db1940
+  teams:
+  - Malaysia
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - ON Pradhan
+  - U Dorji
+  venue: Gelephu International Cricket Ground
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.3:
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.4:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.5:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.6:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: WA Duraisingam
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.2:
+        non_striker: WA Duraisingam
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.3:
+        non_striker: WA Duraisingam
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.4:
+        non_striker: WA Duraisingam
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 1.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          fielders:
+          - NT Miles
+          kind: caught
+    - 2.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mas Elysa
+        batsman: Ainna Hamizah Hashim
+    - 2.2:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mas Elysa
+        batsman: Ainna Hamizah Hashim
+    - 2.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 2.6:
+        non_striker: Mas Elysa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 3.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          kind: lbw
+    - 3.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 3.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 3.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 3.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 4.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 4.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 4.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 4.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 4.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 4.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 5.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 5.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 5.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 5.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 5.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 5.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 6.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 6.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mahirah Izzati Ismail
+    - 6.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 6.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 7.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 7.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 7.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 7.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 7.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 7.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 8.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 8.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 8.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 8.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 8.7:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 9.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 9.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 10.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 10.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 10.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 10.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 11.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 11.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 11.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 11.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 11.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 11.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 12.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 12.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 12.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 12.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 12.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 13.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 13.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 13.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 13.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 13.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 13.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 14.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 14.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 14.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 14.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 14.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 14.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 15.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 15.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+        wicket:
+          player_out: Mahirah Izzati Ismail
+          fielders:
+          - Ruchitha Venkatesh
+          kind: caught
+    - 15.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Nur Arianna Natsya
+    - 15.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 15.5:
+        non_striker: Nur Arianna Natsya
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 15.6:
+        non_striker: Nur Arianna Natsya
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 15.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 16.1:
+        non_striker: Nur Arianna Natsya
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ainna Hamizah Hashim
+    - 16.2:
+        non_striker: Nur Arianna Natsya
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ainna Hamizah Hashim
+    - 16.3:
+        non_striker: Nur Arianna Natsya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 16.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 16.5:
+        non_striker: Nur Arianna Natsya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 16.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nur Arianna Natsya
+    - 16.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 16.8:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          kind: lbw
+    - 16.9:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.1:
+        non_striker: Irdina Beh Nabil
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 17.2:
+        non_striker: Irdina Beh Nabil
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 17.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 17.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irdina Beh Nabil
+    - 17.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+        wicket:
+          player_out: Irdina Beh Nabil
+          kind: caught and bowled
+    - 17.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          fielders:
+          - Chan Sau Har
+          kind: run out
+    - 18.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Aina Najwa
+        batsman: Nur Dania Syuhada
+    - 18.2:
+        non_striker: Nur Dania Syuhada
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 18.3:
+        non_striker: Aina Najwa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nur Dania Syuhada
+    - 18.4:
+        non_striker: Aina Najwa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 18.5:
+        non_striker: Aina Najwa
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 18.6:
+        non_striker: Nur Dania Syuhada
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 19.1:
+        non_striker: Aina Najwa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 19.2:
+        non_striker: Aina Najwa
+        bowler: Chan Sau Har
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nur Dania Syuhada
+    - 19.3:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 19.4:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.5:
+        non_striker: Aina Najwa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 19.6:
+        non_striker: Nur Dania Syuhada
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.7:
+        non_striker: Aina Najwa
+        bowler: Chan Sau Har
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+        wicket:
+          player_out: Nur Dania Syuhada
+          fielders:
+          - Hiu Ying Cheung
+          kind: stumped
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.2:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.3:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.4:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 0.5:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 0.6:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.1:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.2:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.3:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.4:
+        non_striker: NT Miles
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.5:
+        non_striker: NT Miles
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 1.6:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.1:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 2.2:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 2.3:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.4:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 2.5:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 2.6:
+        non_striker: NT Miles
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 2.7:
+        non_striker: M Hill
+        bowler: Suabika Manivannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.1:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.2:
+        non_striker: M Hill
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.3:
+        non_striker: NT Miles
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - Musfirah Nur Ainaa
+          kind: caught
+    - 3.4:
+        non_striker: NT Miles
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 3.5:
+        non_striker: NT Miles
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 3.6:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.1:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 4.2:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 4.3:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 4.4:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.5:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.6:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 5.1:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.2:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.3:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.4:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 5.5:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.6:
+        non_striker: Y Daswani
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 6.1:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 6.2:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.3:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 6.4:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 6.5:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.6:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 7.1:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 7.2:
+        non_striker: Y Daswani
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.3:
+        non_striker: Y Daswani
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.4:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.5:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.6:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 8.1:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 8.2:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NT Miles
+    - 8.3:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 8.4:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 8.5:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.6:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.7:
+        non_striker: NT Miles
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 9.1:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 9.2:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 9.3:
+        non_striker: Y Daswani
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.4:
+        non_striker: Y Daswani
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.5:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 9.6:
+        non_striker: NT Miles
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 10.1:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.2:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 10.3:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.4:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.5:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.6:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.1:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 11.2:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.3:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.4:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.5:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.6:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 12.1:
+        non_striker: NT Miles
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 12.2:
+        non_striker: NT Miles
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 12.3:
+        non_striker: NT Miles
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 12.4:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 12.5:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 12.6:
+        non_striker: Y Daswani
+        bowler: Musfirah Nur Ainaa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 13.1:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.2:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 13.3:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 13.4:
+        non_striker: Y Daswani
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.5:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.6:
+        non_striker: NT Miles
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 14.1:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 14.2:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 14.3:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 14.4:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 14.5:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 14.6:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 15.1:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.2:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.3:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 15.4:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 15.5:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.6:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 15.7:
+        non_striker: Y Daswani
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 16.1:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 16.2:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 16.3:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 16.4:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NT Miles
+    - 16.5:
+        non_striker: Y Daswani
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 16.6:
+        non_striker: NT Miles
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani

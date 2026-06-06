@@ -1,0 +1,2251 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2428
+  outcome:
+    winner: Cameroon
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - O Ranedoumoun
+  players:
+    Mozambique:
+    - O Mondlane
+    - AL Mundundo
+    - C Magaia
+    - I Chuma
+    - P Cuinica
+    - WNA Bucuane
+    - IE Mulhovo
+    - R Haiong
+    - A Salomao
+    - O Matsolo
+    - YM Murrure
+    Cameroon:
+    - MLN Sissako
+    - CSN Mbelel
+    - B Waluma
+    - BMA Mbida
+    - E Guehoada
+    - ME Bessala
+    - CI Manidom
+    - EGS Kana
+    - O Ranedoumoun
+    - MFD Douma
+    - NB Diom
+  registry:
+    people:
+      A Salomao: 04e145f4
+      AL Mundundo: c1edced9
+      B Waluma: fb56dda6
+      BMA Mbida: e3c23cef
+      C Magaia: bb4d1237
+      CI Manidom: f0396c01
+      CSN Mbelel: 1669ba8a
+      E Guehoada: 8c03f3b8
+      EGS Kana: 8a91d0f1
+      I Chuma: b1021056
+      IE Mulhovo: ab750f1f
+      J Chibhabha: 4c5c47a4
+      Lauren Agenbag: 40849abd
+      ME Bessala: a8301fdc
+      MFD Douma: 88bcd8da
+      MLN Sissako: 52a0e81d
+      NB Diom: f7b100e8
+      O Matsolo: 3c4a62c4
+      O Mondlane: 7f97139f
+      O Ranedoumoun: 71ee8c8d
+      P Cuinica: efca38df
+      Patric Makumbi: e4c69c16
+      R Haiong: 2832fbba
+      VR Angara: 5b7b706f
+      WNA Bucuane: eea3be2e
+      YM Murrure: 308ac7cb
+  teams:
+  - Mozambique
+  - Cameroon
+  toss:
+    winner: Mozambique
+    decision: bat
+  umpires:
+  - Lauren Agenbag
+  - Patric Makumbi
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Mundundo
+        batsman: O Mondlane
+    - 0.2:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AL Mundundo
+        batsman: O Mondlane
+    - 0.3:
+        non_striker: O Mondlane
+        bowler: O Ranedoumoun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 0.4:
+        non_striker: O Mondlane
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 0.5:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 0.6:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 0.7:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+    - 1.1:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.2:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.3:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.4:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.5:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 1.6:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 1.7:
+        non_striker: O Mondlane
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.1:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Mondlane
+        wicket:
+          player_out: O Mondlane
+          fielders:
+          - EGS Kana
+          kind: caught
+    - 2.2:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 2.3:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 2.4:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 2.5:
+        non_striker: C Magaia
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 2.6:
+        non_striker: C Magaia
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 3.1:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 3.2:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 3.3:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 3.4:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Magaia
+    - 3.5:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 3.6:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 4.1:
+        non_striker: C Magaia
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 4.2:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 4.3:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 4.4:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Magaia
+    - 4.5:
+        non_striker: C Magaia
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 4.6:
+        non_striker: AL Mundundo
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 5.1:
+        non_striker: C Magaia
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 5.2:
+        non_striker: C Magaia
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Mundundo
+    - 5.3:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 5.4:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+    - 5.5:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Magaia
+        wicket:
+          player_out: C Magaia
+          kind: lbw
+    - 5.6:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 5.7:
+        non_striker: AL Mundundo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 6.1:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.2:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Mundundo
+    - 6.3:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.4:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.5:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+    - 6.6:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Mundundo
+    - 6.7:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Mundundo
+        wicket:
+          player_out: AL Mundundo
+          kind: bowled
+    - 7.1:
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Cuinica
+        batsman: I Chuma
+    - 7.2:
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: I Chuma
+    - 7.3:
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: I Chuma
+    - 7.4:
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: I Chuma
+    - 7.5:
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Cuinica
+        batsman: I Chuma
+    - 7.6:
+        non_striker: P Cuinica
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 8.1:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 8.2:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chuma
+    - 8.3:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 8.4:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 8.5:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 8.6:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.1:
+        non_striker: P Cuinica
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 9.2:
+        non_striker: P Cuinica
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 9.3:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cuinica
+    - 9.4:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+    - 9.5:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 9.6:
+        non_striker: P Cuinica
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 9.7:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.1:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.2:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 10.3:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 10.4:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cuinica
+    - 10.5:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 10.6:
+        non_striker: P Cuinica
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chuma
+    - 11.1:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cuinica
+        wicket:
+          player_out: P Cuinica
+          fielders:
+          - MLN Sissako
+          kind: caught
+    - 11.2:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 11.3:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 11.4:
+        non_striker: WNA Bucuane
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 11.5:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 11.6:
+        non_striker: I Chuma
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 11.7:
+        non_striker: WNA Bucuane
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 11.8:
+        non_striker: WNA Bucuane
+        bowler: CI Manidom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 11.9:
+        non_striker: WNA Bucuane
+        bowler: CI Manidom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 12.1:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+    - 12.2:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 12.3:
+        non_striker: WNA Bucuane
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 12.4:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 12.5:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 12.6:
+        non_striker: WNA Bucuane
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 12.7:
+        non_striker: I Chuma
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WNA Bucuane
+    - 13.1:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WNA Bucuane
+    - 13.2:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WNA Bucuane
+        wicket:
+          player_out: WNA Bucuane
+          kind: bowled
+    - 13.3:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IE Mulhovo
+    - 13.4:
+        non_striker: IE Mulhovo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 13.5:
+        non_striker: IE Mulhovo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 13.6:
+        non_striker: IE Mulhovo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 13.7:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 14.1:
+        non_striker: IE Mulhovo
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 14.2:
+        non_striker: IE Mulhovo
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 14.3:
+        non_striker: IE Mulhovo
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chuma
+    - 14.4:
+        non_striker: I Chuma
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IE Mulhovo
+    - 14.5:
+        non_striker: I Chuma
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IE Mulhovo
+    - 14.6:
+        non_striker: IE Mulhovo
+        bowler: ME Bessala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chuma
+    - 14.7:
+        non_striker: IE Mulhovo
+        bowler: ME Bessala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+    - 15.1:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 15.2:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IE Mulhovo
+    - 15.3:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 15.4:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+    - 15.5:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IE Mulhovo
+        wicket:
+          player_out: IE Mulhovo
+          fielders:
+          - CSN Mbelel
+          kind: caught
+    - 15.6:
+        non_striker: I Chuma
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 16.1:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chuma
+        wicket:
+          player_out: I Chuma
+          fielders:
+          - ME Bessala
+          kind: caught
+    - 16.2:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+    - 16.3:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Salomao
+    - 16.4:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Salomao
+    - 16.5:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Salomao
+    - 16.6:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+    - 16.7:
+        non_striker: R Haiong
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Salomao
+    - 17.1:
+        non_striker: A Salomao
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Haiong
+    - 17.2:
+        non_striker: R Haiong
+        bowler: BMA Mbida
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Salomao
+    - 17.3:
+        non_striker: A Salomao
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Haiong
+    - 17.4:
+        non_striker: R Haiong
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Salomao
+    - 17.5:
+        non_striker: A Salomao
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 17.6:
+        non_striker: A Salomao
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 17.7:
+        non_striker: A Salomao
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 18.1:
+        non_striker: R Haiong
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+    - 18.2:
+        non_striker: R Haiong
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Salomao
+        wicket:
+          player_out: A Salomao
+          kind: bowled
+    - 18.3:
+        non_striker: R Haiong
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Matsolo
+    - 18.4:
+        non_striker: O Matsolo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 18.5:
+        non_striker: O Matsolo
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Haiong
+    - 18.6:
+        non_striker: R Haiong
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Matsolo
+    - 19.1:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 19.2:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Haiong
+    - 19.3:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Haiong
+    - 19.4:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 19.5:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+    - 19.6:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Haiong
+    - 19.7:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Haiong
+    - 19.8:
+        non_striker: O Matsolo
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Haiong
+- 2nd innings:
+    team: Cameroon
+    deliveries:
+    - 0.1:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.2:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.3:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.4:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.5:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.6:
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CSN Mbelel
+        batsman: MLN Sissako
+    - 0.7:
+        non_striker: CSN Mbelel
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 1.1:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CSN Mbelel
+    - 1.2:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 1.3:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CSN Mbelel
+    - 1.4:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 1.5:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 1.6:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 1.7:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 2.1:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 2.2:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 2.3:
+        non_striker: CSN Mbelel
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 2.4:
+        non_striker: CSN Mbelel
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 2.5:
+        non_striker: CSN Mbelel
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 2.6:
+        non_striker: CSN Mbelel
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 3.1:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 3.2:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 3.3:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 3.4:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 3.5:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 3.6:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 4.1:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.2:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.3:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.4:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.5:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.6:
+        non_striker: MLN Sissako
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 5.1:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 5.2:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 5.3:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 5.4:
+        non_striker: CSN Mbelel
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 5.5:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CSN Mbelel
+    - 5.6:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 5.7:
+        non_striker: MLN Sissako
+        bowler: P Cuinica
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 6.1:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 6.2:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 6.3:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.4:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.5:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 6.6:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 6.7:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MLN Sissako
+    - 6.8:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 6.9:
+        non_striker: CSN Mbelel
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 7.1:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.2:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.3:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.4:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.5:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 7.6:
+        non_striker: CSN Mbelel
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLN Sissako
+    - 8.1:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 8.2:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 8.3:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+        wicket:
+          player_out: CSN Mbelel
+          kind: bowled
+    - 8.4:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: B Waluma
+          kind: caught and bowled
+    - 8.5:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 8.6:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 9.1:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 9.2:
+        non_striker: BMA Mbida
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 9.3:
+        non_striker: BMA Mbida
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 9.4:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+        wicket:
+          player_out: BMA Mbida
+          fielders:
+          - WNA Bucuane
+          kind: caught
+    - 9.5:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 9.6:
+        non_striker: MLN Sissako
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 10.1:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.2:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 10.3:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 10.4:
+        non_striker: MLN Sissako
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 10.5:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 10.6:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 11.1:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 11.2:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+        wicket:
+          player_out: MLN Sissako
+          fielders:
+          - WNA Bucuane
+          kind: caught
+    - 11.3:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bessala
+    - 11.4:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+        wicket:
+          player_out: ME Bessala
+          fielders:
+          - C Magaia
+          kind: caught
+    - 11.5:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 11.6:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 12.1:
+        non_striker: CI Manidom
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Guehoada
+    - 12.2:
+        non_striker: CI Manidom
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Guehoada
+    - 12.3:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 12.4:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 12.5:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CI Manidom
+    - 12.6:
+        non_striker: CI Manidom
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 12.7:
+        non_striker: E Guehoada
+        bowler: YM Murrure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CI Manidom
+    - 13.1:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 13.2:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+        wicket:
+          player_out: CI Manidom
+          kind: bowled
+    - 13.3:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 13.4:
+        non_striker: EGS Kana
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 13.5:
+        non_striker: EGS Kana
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 13.6:
+        non_striker: E Guehoada
+        bowler: O Matsolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 14.1:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Guehoada
+    - 14.2:
+        non_striker: E Guehoada
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 14.3:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 14.4:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: E Guehoada
+    - 14.5:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 14.6:
+        non_striker: E Guehoada
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 14.7:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 14.8:
+        non_striker: EGS Kana
+        bowler: O Mondlane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 15.1:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Guehoada
+    - 15.2:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 15.3:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Guehoada
+    - 15.4:
+        non_striker: E Guehoada
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EGS Kana
+    - 15.5:
+        non_striker: E Guehoada
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 15.6:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Guehoada
+    - 15.7:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+        wicket:
+          player_out: E Guehoada
+          kind: bowled
+    - 16.1:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Ranedoumoun
+        batsman: EGS Kana
+    - 16.2:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Ranedoumoun
+        batsman: EGS Kana
+    - 16.3:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: O Ranedoumoun
+        batsman: EGS Kana
+    - 16.4:
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Ranedoumoun
+        batsman: EGS Kana
+    - 16.5:
+        non_striker: EGS Kana
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: O Ranedoumoun
+    - 16.6:
+        non_striker: EGS Kana
+        bowler: A Salomao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Ranedoumoun
+    - 16.7:
+        non_striker: EGS Kana
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Ranedoumoun
+    - 16.8:
+        non_striker: EGS Kana
+        bowler: A Salomao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Ranedoumoun
+    - 17.1:
+        non_striker: O Ranedoumoun
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EGS Kana
+    - 17.2:
+        non_striker: EGS Kana
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Ranedoumoun
+    - 17.3:
+        non_striker: O Ranedoumoun
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EGS Kana
+    - 17.4:
+        non_striker: O Ranedoumoun
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+        wicket:
+          player_out: EGS Kana
+          kind: bowled
+    - 17.5:
+        non_striker: O Ranedoumoun
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFD Douma
+    - 17.6:
+        non_striker: O Ranedoumoun
+        bowler: AL Mundundo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFD Douma

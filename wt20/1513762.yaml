@@ -1,0 +1,1983 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-18'
+  gender: female
+  match_type: T20
+  match_type_number: 2613
+  outcome:
+    winner: Malaysia
+    by:
+      runs: 89
+  overs: 20
+  players:
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Mas Elysa
+    - Siow Tzin Yee
+    - Mahirah Izzati Ismail
+    - Nur Arianna Natsya
+    - Aina Najwa
+    - Aisya Eleesa
+    - SM Dhanusri
+    - Irdina Beh Nabil
+    - Nur Dania Syuhada
+    Myanmar:
+    - TT Soe
+    - ZL Win
+    - HH Aung
+    - Zon Lin
+    - LL Htun
+    - TT Aung
+    - ZT Kyaw
+    - Thae Thae Po
+    - MPP San
+    - TS Shwe
+    - Pan Ei Phyu
+  registry:
+    people:
+      AK Rana: 562d74d0
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      Anwesh Bose: 3bdae121
+      HH Aung: 860042f6
+      Hitesh Sharma: 2085a934
+      Irdina Beh Nabil: 59ace6d9
+      LL Htun: ec687c3a
+      MPP San: 5bc290a2
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Pan Ei Phyu: 9fcaeb60
+      SM Dhanusri: 4e4d2c20
+      Samad Akbar: f05bd21b
+      Siow Tzin Yee: 686b7194
+      Suresh Singh: 073de6f9
+      TS Shwe: 9e9d50b9
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      Thae Thae Po: 48a372a4
+      WA Duraisingam: 7467fe01
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zon Lin: 3b492b8d
+  teams:
+  - Malaysia
+  - Myanmar
+  toss:
+    winner: Malaysia
+    decision: bat
+  umpires:
+  - Anwesh Bose
+  - Samad Akbar
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.3:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.4:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          kind: lbw
+    - 0.5:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 0.6:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.1:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 1.2:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 1.3:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 1.4:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mas Elysa
+    - 1.6:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 1.7:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.8:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 2.1:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.2:
+        non_striker: Mas Elysa
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 2.3:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 2.4:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.6:
+        non_striker: WA Duraisingam
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 3.2:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.3:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 3.4:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 3.5:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 3.6:
+        non_striker: WA Duraisingam
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.1:
+        non_striker: Mas Elysa
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 4.2:
+        non_striker: Mas Elysa
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 4.3:
+        non_striker: WA Duraisingam
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 4.4:
+        non_striker: WA Duraisingam
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.5:
+        non_striker: WA Duraisingam
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 4.6:
+        non_striker: WA Duraisingam
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 4.7:
+        non_striker: Mas Elysa
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 5.1:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: bowled
+    - 5.2:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 5.3:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.4:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Siow Tzin Yee
+    - 5.5:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 5.6:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Siow Tzin Yee
+    - 5.7:
+        non_striker: Siow Tzin Yee
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.8:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.9:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 6.1:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 6.2:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 6.3:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.4:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.5:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.6:
+        non_striker: Siow Tzin Yee
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.1:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 7.2:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 7.3:
+        non_striker: Siow Tzin Yee
+        bowler: Zon Lin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mas Elysa
+    - 7.4:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 7.5:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 7.6:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 7.7:
+        non_striker: Mas Elysa
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 8.1:
+        non_striker: Siow Tzin Yee
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.2:
+        non_striker: Mas Elysa
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 8.3:
+        non_striker: Siow Tzin Yee
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.4:
+        non_striker: Siow Tzin Yee
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.5:
+        non_striker: Siow Tzin Yee
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.6:
+        non_striker: Siow Tzin Yee
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 9.1:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 9.2:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 9.3:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.4:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 9.5:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 9.6:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 10.1:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 10.2:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 10.3:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.4:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 10.5:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 10.6:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.7:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 11.1:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.2:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.3:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.4:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.5:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.6:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.1:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.2:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 12.3:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 12.4:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.5:
+        non_striker: Mas Elysa
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 12.6:
+        non_striker: Siow Tzin Yee
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 13.1:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 13.2:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 13.3:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 13.4:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 13.5:
+        non_striker: Siow Tzin Yee
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 13.6:
+        non_striker: Mas Elysa
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 14.1:
+        non_striker: Mas Elysa
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 14.2:
+        non_striker: Mas Elysa
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 14.3:
+        non_striker: Siow Tzin Yee
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 14.4:
+        non_striker: Siow Tzin Yee
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 14.5:
+        non_striker: Mas Elysa
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 14.6:
+        non_striker: Mas Elysa
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 15.1:
+        non_striker: Mas Elysa
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 15.2:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 15.3:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 15.4:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          fielders:
+          - Thae Thae Po
+          kind: run out
+    - 15.5:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 15.6:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 16.1:
+        non_striker: Siow Tzin Yee
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mahirah Izzati Ismail
+    - 16.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 16.3:
+        non_striker: Siow Tzin Yee
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 16.4:
+        non_striker: Siow Tzin Yee
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 16.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 16.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Siow Tzin Yee
+    - 17.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 17.2:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahirah Izzati Ismail
+    - 17.3:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 17.4:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 17.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 17.6:
+        non_striker: Siow Tzin Yee
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 17.7:
+        non_striker: Mahirah Izzati Ismail
+        bowler: HH Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 17.8:
+        non_striker: Mahirah Izzati Ismail
+        bowler: HH Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+        wicket:
+          player_out: Siow Tzin Yee
+          fielders:
+          - Zon Lin
+          kind: caught
+    - 18.1:
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nur Arianna Natsya
+        batsman: Mahirah Izzati Ismail
+    - 18.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 18.3:
+        non_striker: Nur Arianna Natsya
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 18.4:
+        non_striker: Nur Arianna Natsya
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 18.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nur Arianna Natsya
+    - 18.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 19.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nur Arianna Natsya
+    - 19.2:
+        non_striker: Nur Arianna Natsya
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 19.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 19.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 19.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 19.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nur Arianna Natsya
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ZL Win
+        batsman: TT Soe
+    - 0.2:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ZL Win
+        batsman: TT Soe
+    - 0.3:
+        non_striker: TT Soe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 0.4:
+        non_striker: TT Soe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 0.5:
+        non_striker: TT Soe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ZL Win
+    - 0.6:
+        non_striker: ZL Win
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 0.7:
+        non_striker: ZL Win
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 1.1:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 1.2:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+        wicket:
+          player_out: TT Soe
+          fielders:
+          - Mahirah Izzati Ismail
+          kind: caught
+    - 1.3:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Aung
+    - 1.4:
+        non_striker: HH Aung
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Win
+    - 1.5:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+    - 1.6:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Aung
+    - 2.1:
+        non_striker: HH Aung
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 2.2:
+        non_striker: HH Aung
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZL Win
+    - 2.3:
+        non_striker: HH Aung
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZL Win
+    - 2.4:
+        non_striker: HH Aung
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Win
+    - 2.5:
+        non_striker: ZL Win
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+    - 2.6:
+        non_striker: ZL Win
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+    - 2.7:
+        non_striker: ZL Win
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+        wicket:
+          player_out: HH Aung
+          kind: lbw
+    - 3.1:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zon Lin
+        batsman: ZL Win
+    - 3.2:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.3:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 3.4:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.5:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.6:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 4.1:
+        non_striker: ZL Win
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 4.2:
+        non_striker: ZL Win
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.3:
+        non_striker: ZL Win
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.4:
+        non_striker: ZL Win
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 4.5:
+        non_striker: ZL Win
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 4.6:
+        non_striker: Zon Lin
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 5.1:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 5.2:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Win
+    - 5.3:
+        non_striker: ZL Win
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 5.4:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZL Win
+    - 5.5:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZL Win
+    - 5.6:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Win
+    - 6.1:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZL Win
+    - 6.2:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 6.3:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Win
+    - 6.4:
+        non_striker: ZL Win
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.5:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+        wicket:
+          player_out: ZL Win
+          fielders:
+          - Mas Elysa
+          kind: run out
+    - 6.6:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 7.1:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 7.2:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 7.3:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 7.4:
+        non_striker: LL Htun
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 7.5:
+        non_striker: LL Htun
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 7.6:
+        non_striker: Zon Lin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 8.1:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 8.2:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 8.3:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 8.4:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 8.5:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 8.6:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 9.1:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 9.2:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 9.3:
+        non_striker: LL Htun
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 9.4:
+        non_striker: LL Htun
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 9.5:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 9.6:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Htun
+    - 10.1:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 10.2:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 10.3:
+        non_striker: LL Htun
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 10.4:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 10.5:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 10.6:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 11.1:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+        wicket:
+          player_out: LL Htun
+          kind: bowled
+    - 11.2:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.3:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 11.4:
+        non_striker: TT Aung
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 11.5:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+        wicket:
+          player_out: TT Aung
+          kind: bowled
+    - 11.6:
+        non_striker: Zon Lin
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 12.1:
+        non_striker: ZT Kyaw
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 12.2:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 12.3:
+        non_striker: ZT Kyaw
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 12.4:
+        non_striker: ZT Kyaw
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+        wicket:
+          player_out: ZT Kyaw
+          fielders:
+          - Siow Tzin Yee
+          kind: run out
+    - 12.5:
+        non_striker: Zon Lin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thae Thae Po
+    - 12.6:
+        non_striker: Thae Thae Po
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+        wicket:
+          player_out: Zon Lin
+          fielders:
+          - Nur Arianna Natsya
+          kind: caught
+    - 13.1:
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPP San
+        batsman: Thae Thae Po
+    - 13.2:
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPP San
+        batsman: Thae Thae Po
+    - 13.3:
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MPP San
+        batsman: Thae Thae Po
+    - 13.4:
+        non_striker: MPP San
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thae Thae Po
+        wicket:
+          player_out: Thae Thae Po
+          fielders:
+          - Aina Najwa
+          kind: stumped
+    - 13.5:
+        non_striker: MPP San
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Shwe
+    - 13.6:
+        non_striker: MPP San
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Shwe
+    - 13.7:
+        non_striker: MPP San
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Shwe
+    - 14.1:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 14.2:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 14.3:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 14.4:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 14.5:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 14.6:
+        non_striker: TS Shwe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+        wicket:
+          player_out: TS Shwe
+          fielders:
+          - Siow Tzin Yee
+          kind: run out
+    - 15.1:
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pan Ei Phyu
+        batsman: MPP San
+    - 15.2:
+        non_striker: Pan Ei Phyu
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+        wicket:
+          player_out: MPP San
+          kind: bowled

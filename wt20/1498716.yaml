@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2025-09-03'
+  gender: female
+  match_type: T20
+  match_type_number: 2473
+  outcome:
+    winner: Namibia
+    by:
+      runs: 152
+  overs: 20
+  player_of_match:
+  - KA Green
+  players:
+    Namibia:
+    - SA Wittmann
+    - KA Green
+    - Yasmeen Khan
+    - M Mwatile
+    - E Van Zyl
+    - W Mwatile
+    - M Gorases
+    - JA Diergaardt
+    - SN Shihepo
+    - EU Kejarukua
+    - S Tuhadeleni
+    Sierra Leone:
+    - F Conteh
+    - Aminata Kamara
+    - C Bull
+    - E Kamara
+    - H Sawaneh
+    - AK Bangura
+    - A Fillie
+    - M Turay
+    - AM Kamara
+    - P Pratt
+    - H Sawanneh
+  registry:
+    people:
+      A Fillie: '67412324'
+      AK Bangura: 36c0228f
+      AM Kamara: 4ca3d67d
+      Aminata Kamara: f7aca3b3
+      C Bull: a7b3bd26
+      D Odhiambo: '45994517'
+      E Kamara: 3f8915a0
+      E Van Zyl: 79ff52b5
+      EU Kejarukua: e7068bfd
+      F Conteh: 1dac0c4a
+      H Sawaneh: '09bea436'
+      H Sawanneh: '89372586'
+      JA Diergaardt: b72a8938
+      KA Green: fa9fdefa
+      Lauren Agenbag: 40849abd
+      M Gorases: d034d60a
+      M Mwatile: 92b9e9af
+      M Turay: 1eec6a0f
+      P Pratt: ccac9ed0
+      S Dambanevana: '039923bd'
+      S Tuhadeleni: 13f7c5f4
+      SA Fritz: d15e60c8
+      SA Wittmann: 531aef3b
+      SN Shihepo: 1b3f7dbb
+      W Mwatile: 5728635a
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Namibia
+  - Sierra Leone
+  toss:
+    winner: Namibia
+    decision: bat
+  umpires:
+  - D Odhiambo
+  - S Dambanevana
+  venue: High Performance Oval, Windhoek
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.2:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.3:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KA Green
+        batsman: SA Wittmann
+    - 0.4:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 0.5:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 0.6:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 1.1:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wittmann
+    - 1.2:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 1.3:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 1.4:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Wittmann
+    - 1.5:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 1.6:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 2.1:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 2.2:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 2.3:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 2.4:
+        non_striker: SA Wittmann
+        bowler: AM Kamara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KA Green
+    - 2.5:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wittmann
+    - 2.6:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 2.7:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wittmann
+    - 3.1:
+        non_striker: SA Wittmann
+        bowler: Aminata Kamara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KA Green
+    - 3.2:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 3.3:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 3.4:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 3.5:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 3.6:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 3.7:
+        non_striker: KA Green
+        bowler: Aminata Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 4.1:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.2:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 4.3:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 4.4:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 4.5:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Wittmann
+    - 4.6:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 5.1:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 5.2:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 5.3:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 5.4:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 5.5:
+        non_striker: KA Green
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 5.6:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.1:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.2:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 6.3:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 6.4:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.5:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.6:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 7.1:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 7.2:
+        non_striker: KA Green
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 7.3:
+        non_striker: KA Green
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 7.4:
+        non_striker: KA Green
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 7.5:
+        non_striker: SA Wittmann
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 7.6:
+        non_striker: KA Green
+        bowler: E Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wittmann
+    - 8.1:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 8.2:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 8.3:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 8.4:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 8.5:
+        non_striker: SA Wittmann
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 8.6:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+        wicket:
+          player_out: SA Wittmann
+          kind: bowled
+    - 9.1:
+        bowler: AK Bangura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.2:
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.3:
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.4:
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.5:
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.6:
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasmeen Khan
+        batsman: KA Green
+    - 9.7:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.1:
+        non_striker: KA Green
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 10.2:
+        non_striker: Yasmeen Khan
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.3:
+        non_striker: Yasmeen Khan
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.4:
+        non_striker: Yasmeen Khan
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 10.5:
+        non_striker: Yasmeen Khan
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.6:
+        non_striker: Yasmeen Khan
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 11.1:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.2:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 11.3:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 11.4:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 11.5:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 11.6:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 12.1:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 12.2:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 12.3:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 12.4:
+        non_striker: Yasmeen Khan
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 12.5:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasmeen Khan
+    - 12.6:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasmeen Khan
+    - 12.7:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 12.8:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 13.1:
+        non_striker: Yasmeen Khan
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 13.2:
+        non_striker: Yasmeen Khan
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 13.3:
+        non_striker: Yasmeen Khan
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 13.4:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 13.5:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.6:
+        non_striker: Yasmeen Khan
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 14.1:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 14.2:
+        non_striker: Yasmeen Khan
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 14.3:
+        non_striker: Yasmeen Khan
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 14.4:
+        non_striker: Yasmeen Khan
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 14.5:
+        non_striker: KA Green
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 14.6:
+        non_striker: Yasmeen Khan
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 15.1:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 15.2:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 15.3:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 15.4:
+        non_striker: Yasmeen Khan
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 15.5:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 15.6:
+        non_striker: KA Green
+        bowler: H Sawaneh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 16.1:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 16.2:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 16.3:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 16.4:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 16.5:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 16.6:
+        non_striker: KA Green
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 17.1:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KA Green
+    - 17.2:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasmeen Khan
+    - 17.3:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 17.4:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 17.5:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 17.6:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 18.1:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 18.2:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 18.3:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 18.4:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 18.5:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 18.6:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Green
+    - 18.7:
+        non_striker: Yasmeen Khan
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 19.1:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 19.2:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 19.3:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 19.4:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 19.5:
+        non_striker: Yasmeen Khan
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 19.6:
+        non_striker: KA Green
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+- 2nd innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.2:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.3:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.4:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.5:
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.6:
+        bowler: EU Kejarukua
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: Aminata Kamara
+        batsman: F Conteh
+    - 0.7:
+        non_striker: F Conteh
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminata Kamara
+    - 1.1:
+        non_striker: Aminata Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 1.2:
+        non_striker: Aminata Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 1.3:
+        non_striker: Aminata Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 1.4:
+        non_striker: Aminata Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+        wicket:
+          player_out: Aminata Kamara
+          fielders:
+          - Yasmeen Khan
+          - M Gorases
+          kind: run out
+    - 1.5:
+        non_striker: F Conteh
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+        wicket:
+          player_out: C Bull
+          kind: bowled
+    - 1.6:
+        non_striker: F Conteh
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 2.1:
+        non_striker: F Conteh
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 2.2:
+        non_striker: E Kamara
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Conteh
+    - 2.3:
+        non_striker: E Kamara
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Conteh
+    - 2.4:
+        non_striker: F Conteh
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 2.5:
+        non_striker: F Conteh
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 2.6:
+        non_striker: F Conteh
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 3.1:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.2:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Conteh
+    - 3.3:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.4:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.5:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.6:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 4.1:
+        non_striker: F Conteh
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+        wicket:
+          player_out: F Conteh
+          fielders:
+          - M Mwatile
+          - M Gorases
+          kind: run out
+    - 4.2:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawaneh
+    - 4.3:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawaneh
+    - 4.4:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Sawaneh
+    - 4.5:
+        non_striker: H Sawaneh
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 4.6:
+        non_striker: H Sawaneh
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 5.1:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawaneh
+    - 5.2:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawaneh
+        wicket:
+          player_out: H Sawaneh
+          kind: bowled
+    - 5.3:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 5.4:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 5.5:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 5.6:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 6.1:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.2:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 6.3:
+        non_striker: AK Bangura
+        bowler: SA Wittmann
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Kamara
+    - 6.4:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.5:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.6:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.7:
+        non_striker: E Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 7.1:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.2:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.3:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.4:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.5:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 7.6:
+        non_striker: AK Bangura
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 8.1:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        replacements:
+          role:
+          - in: A Fillie
+            out: E Kamara
+            reason: injury
+            role: batter
+        batsman: AK Bangura
+    - 8.2:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 8.3:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Bangura
+    - 8.4:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+        wicket:
+          player_out: AK Bangura
+          fielders:
+          - M Mwatile
+          kind: caught
+    - 8.5:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 8.6:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 8.7:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 8.8:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 9.1:
+        non_striker: A Fillie
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 9.2:
+        non_striker: M Turay
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+    - 9.3:
+        non_striker: M Turay
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+    - 9.4:
+        non_striker: M Turay
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Fillie
+    - 9.5:
+        non_striker: M Turay
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+    - 9.6:
+        non_striker: M Turay
+        bowler: M Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Fillie
+    - 10.1:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 10.2:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 10.3:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 10.4:
+        non_striker: A Fillie
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 10.5:
+        non_striker: M Turay
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+    - 10.6:
+        non_striker: M Turay
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+    - 10.7:
+        non_striker: M Turay
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fillie
+        wicket:
+          player_out: A Fillie
+          kind: lbw
+    - 10.8:
+        non_striker: M Turay
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 11.1:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 11.2:
+        non_striker: M Turay
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 11.3:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 11.4:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 11.5:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 11.6:
+        non_striker: E Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 12.1:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 12.2:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 12.3:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 12.4:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 12.5:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 12.6:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 13.1:
+        non_striker: M Turay
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 13.2:
+        non_striker: M Turay
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 13.3:
+        non_striker: M Turay
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 13.4:
+        non_striker: M Turay
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 13.5:
+        non_striker: E Kamara
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 13.6:
+        non_striker: E Kamara
+        bowler: EU Kejarukua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 14.1:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 14.2:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 14.3:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 14.4:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 14.5:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turay
+    - 14.6:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 14.7:
+        non_striker: M Turay
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 15.1:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+        wicket:
+          player_out: M Turay
+          kind: bowled
+    - 15.2:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 15.3:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 15.4:
+        non_striker: E Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 15.5:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 15.6:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 16.1:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 16.2:
+        non_striker: E Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 16.3:
+        non_striker: AM Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 16.4:
+        non_striker: AM Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+    - 16.5:
+        non_striker: AM Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kamara
+    - 16.6:
+        non_striker: AM Kamara
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kamara
+    - 17.1:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+        wicket:
+          player_out: E Kamara
+          fielders:
+          - JA Diergaardt
+          kind: run out
+    - 17.2:
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Pratt
+        batsman: AM Kamara
+    - 17.3:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pratt
+    - 17.4:
+        non_striker: P Pratt
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 17.5:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 17.6:
+        non_striker: AM Kamara
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 18.1:
+        non_striker: P Pratt
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 18.2:
+        non_striker: AM Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pratt
+    - 18.3:
+        non_striker: AM Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 18.4:
+        non_striker: AM Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pratt
+    - 18.5:
+        non_striker: P Pratt
+        bowler: SA Wittmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Kamara
+    - 18.6:
+        non_striker: P Pratt
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kamara
+    - 18.7:
+        non_striker: AM Kamara
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pratt
+    - 19.1:
+        non_striker: AM Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 19.2:
+        non_striker: AM Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pratt
+    - 19.3:
+        non_striker: AM Kamara
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pratt
+    - 19.4:
+        non_striker: P Pratt
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Kamara
+    - 19.5:
+        non_striker: P Pratt
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+        wicket:
+          player_out: AM Kamara
+          kind: bowled
+    - 19.6:
+        non_striker: P Pratt
+        bowler: S Tuhadeleni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+        wicket:
+          player_out: H Sawanneh
+          kind: bowled

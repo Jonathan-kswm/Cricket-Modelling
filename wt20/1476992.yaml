@@ -1,0 +1,2147 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  dates:
+  - '2025-08-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2433
+  outcome:
+    winner: Ireland
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - O Prendergast
+  players:
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - L Paul
+    - L Delany
+    - R Stokell
+    - A Canning
+    - J Maguire
+    - AN Kelly
+    - C Murray
+    - LA McBride
+    Pakistan:
+    - Gull Feroza
+    - Muneeba Ali
+    - Sidra Ameen
+    - Aliya Riaz
+    - Eyman Fatima
+    - Natalia Pervaiz
+    - Fatima Sana
+    - Rameen Shamim
+    - Diana Baig
+    - Nashra Sandhu
+    - Sadia Iqbal
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      AN Kelly: 397369e0
+      Aidan Seaver: 862c0b16
+      Aliya Riaz: 2904b4b6
+      C Murray: 5a50471c
+      Diana Baig: a51e6c6e
+      Eyman Fatima: 4357f6f8
+      Fatima Sana: ea9c54de
+      G McCrea: 46f4a901
+      G Morrisey: f442110f
+      GH Lewis: 1b9d1579
+      Gull Feroza: 9ff1e91e
+      J Maguire: 1b1c23bb
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      LA McBride: 9bd0d19d
+      Muneeba Ali: 86fdf668
+      Nashra Sandhu: c981d3c2
+      Natalia Pervaiz: fa8a3eb0
+      O Prendergast: d8f20ba5
+      R Black: 156c8fb1
+      R Stokell: def7b1bb
+      Rameen Shamim: 0b78b7c1
+      Sadia Iqbal: 53bb50f0
+      Sidra Ameen: 72c9ad99
+  teams:
+  - Ireland
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - G Morrisey
+  - R Black
+  venue: Clontarf Cricket Club Ground, Dublin
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 0.2:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 0.3:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 0.5:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Hunter
+    - 1.3:
+        non_striker: A Hunter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: A Hunter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.5:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: bowled
+    - 2.7:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 3.1:
+        non_striker: O Prendergast
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 3.2:
+        non_striker: O Prendergast
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 3.3:
+        non_striker: O Prendergast
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.4:
+        non_striker: A Hunter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 3.5:
+        non_striker: O Prendergast
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 3.6:
+        non_striker: O Prendergast
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.1:
+        non_striker: O Prendergast
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.2:
+        non_striker: A Hunter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 4.3:
+        non_striker: O Prendergast
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 4.4:
+        non_striker: O Prendergast
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.5:
+        non_striker: O Prendergast
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.6:
+        non_striker: O Prendergast
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 5.1:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.2:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 5.3:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 5.4:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.5:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 5.6:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.1:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 6.2:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.3:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 6.4:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 6.5:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.6:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 7.1:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 7.2:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 7.3:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 7.4:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 7.5:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 7.6:
+        non_striker: A Hunter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 8.1:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 8.2:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.3:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.4:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 8.5:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          kind: bowled
+    - 8.6:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 9.1:
+        non_striker: L Paul
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 9.2:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 9.3:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 9.4:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 9.5:
+        non_striker: L Paul
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 9.6:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 10.1:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 10.2:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 10.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 10.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 10.5:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 10.6:
+        non_striker: O Prendergast
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.1:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.2:
+        non_striker: L Paul
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 11.3:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Paul
+    - 11.4:
+        non_striker: L Paul
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 11.5:
+        non_striker: O Prendergast
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.6:
+        non_striker: L Paul
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 12.1:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 12.2:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 12.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.6:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 13.1:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: L Paul
+    - 13.2:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 13.3:
+        non_striker: L Paul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 13.4:
+        non_striker: L Paul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 13.5:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.6:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 13.7:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 14.1:
+        non_striker: L Paul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 14.2:
+        non_striker: L Paul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 14.3:
+        non_striker: L Delany
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 14.4:
+        non_striker: L Delany
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - Sidra Ameen
+          kind: caught
+    - 14.5:
+        non_striker: L Delany
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 14.6:
+        non_striker: R Stokell
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 15.1:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 15.2:
+        non_striker: R Stokell
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 15.3:
+        non_striker: L Delany
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 15.4:
+        non_striker: R Stokell
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 15.5:
+        non_striker: R Stokell
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Delany
+    - 15.6:
+        non_striker: R Stokell
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 16.1:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 16.2:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - Gull Feroza
+          kind: caught
+    - 16.3:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 16.4:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 16.5:
+        non_striker: A Canning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 16.6:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+        wicket:
+          player_out: A Canning
+          fielders:
+          - Rameen Shamim
+          kind: caught
+    - 17.1:
+        non_striker: J Maguire
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 17.2:
+        non_striker: R Stokell
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+    - 17.3:
+        non_striker: J Maguire
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 17.4:
+        non_striker: R Stokell
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Maguire
+    - 17.5:
+        non_striker: R Stokell
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+    - 17.6:
+        non_striker: J Maguire
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 18.1:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 18.2:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 18.3:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Maguire
+    - 18.4:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Maguire
+        wicket:
+          player_out: J Maguire
+          kind: bowled
+    - 18.5:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Kelly
+    - 18.6:
+        non_striker: R Stokell
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 19.1:
+        non_striker: AN Kelly
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 19.2:
+        non_striker: AN Kelly
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - Fatima Sana
+          kind: run out
+    - 19.3:
+        non_striker: LA McBride
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+    - 19.4:
+        non_striker: LA McBride
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+        wicket:
+          player_out: C Murray
+          fielders:
+          - Muneeba Ali
+          - Aliya Riaz
+          - Diana Baig
+          kind: run out
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 0.2:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gull Feroza
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.6:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.7:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.1:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.2:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 1.3:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 1.4:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.7:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.8:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 2.2:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 2.6:
+        non_striker: Gull Feroza
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 3.2:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Gull Feroza
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          kind: bowled
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 4.1:
+        non_striker: Aliya Riaz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Aliya Riaz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 4.5:
+        non_striker: Aliya Riaz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 5.5:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.6:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.5:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.1:
+        non_striker: Aliya Riaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.2:
+        non_striker: Sidra Ameen
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.3:
+        non_striker: Sidra Ameen
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.4:
+        non_striker: Sidra Ameen
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 7.5:
+        non_striker: Aliya Riaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.6:
+        non_striker: Sidra Ameen
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 8.1:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.2:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.3:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.4:
+        non_striker: Sidra Ameen
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 8.5:
+        non_striker: Aliya Riaz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 8.6:
+        non_striker: Aliya Riaz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 9.1:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 9.2:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 9.3:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 9.4:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 9.5:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eyman Fatima
+    - 9.6:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 10.1:
+        non_striker: Natalia Pervaiz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 10.2:
+        non_striker: Eyman Fatima
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 10.3:
+        non_striker: Eyman Fatima
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 10.4:
+        non_striker: Natalia Pervaiz
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eyman Fatima
+    - 10.5:
+        non_striker: Eyman Fatima
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 10.6:
+        non_striker: Eyman Fatima
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 11.1:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 11.2:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 11.3:
+        non_striker: Eyman Fatima
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Eyman Fatima
+          fielders:
+          - C Murray
+          kind: run out
+    - 11.4:
+        non_striker: Fatima Sana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 11.5:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 11.6:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 12.1:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 12.2:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 12.3:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 12.4:
+        non_striker: Fatima Sana
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 12.5:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 12.6:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - A Hunter
+          kind: caught
+    - 13.1:
+        non_striker: Rameen Shamim
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 13.2:
+        non_striker: Rameen Shamim
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 13.3:
+        non_striker: Rameen Shamim
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Natalia Pervaiz
+    - 13.4:
+        non_striker: Rameen Shamim
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 13.5:
+        non_striker: Natalia Pervaiz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 13.6:
+        non_striker: Rameen Shamim
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 14.1:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameen Shamim
+    - 14.2:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 14.3:
+        non_striker: Rameen Shamim
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 14.4:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rameen Shamim
+    - 14.5:
+        non_striker: Rameen Shamim
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 14.6:
+        non_striker: Natalia Pervaiz
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 15.1:
+        non_striker: Natalia Pervaiz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rameen Shamim
+    - 15.2:
+        non_striker: Natalia Pervaiz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameen Shamim
+    - 15.3:
+        non_striker: Natalia Pervaiz
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rameen Shamim
+    - 15.4:
+        non_striker: Rameen Shamim
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 15.5:
+        non_striker: Rameen Shamim
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 15.6:
+        non_striker: Rameen Shamim
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 16.1:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 16.2:
+        non_striker: Natalia Pervaiz
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rameen Shamim
+    - 16.3:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Natalia Pervaiz
+          fielders:
+          - C Murray
+          kind: caught
+    - 16.4:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 16.5:
+        non_striker: Diana Baig
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameen Shamim
+    - 16.6:
+        non_striker: Diana Baig
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameen Shamim
+    - 17.1:
+        non_striker: Rameen Shamim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 17.2:
+        non_striker: Diana Baig
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 17.3:
+        non_striker: Rameen Shamim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 17.4:
+        non_striker: Diana Baig
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Rameen Shamim
+    - 17.5:
+        non_striker: Rameen Shamim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 17.6:
+        non_striker: Diana Baig
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 18.1:
+        non_striker: Diana Baig
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 18.2:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 18.3:
+        non_striker: Diana Baig
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 18.4:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+        wicket:
+          player_out: Diana Baig
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 18.5:
+        non_striker: Rameen Shamim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 18.6:
+        non_striker: Nashra Sandhu
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 19.1:
+        non_striker: Nashra Sandhu
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 19.2:
+        non_striker: Rameen Shamim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 19.3:
+        non_striker: Rameen Shamim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 19.4:
+        non_striker: Nashra Sandhu
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rameen Shamim
+    - 19.5:
+        non_striker: Nashra Sandhu
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameen Shamim
+        wicket:
+          player_out: Rameen Shamim
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 19.6:
+        non_striker: Nashra Sandhu
+        bowler: J Maguire
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Sadia Iqbal

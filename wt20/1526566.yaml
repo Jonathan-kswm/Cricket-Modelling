@@ -1,0 +1,1673 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kingstown
+  dates:
+  - '2026-03-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2691
+  outcome:
+    winner: Australia
+    by:
+      runs: 40
+    method: D/L
+  overs: 20
+  player_of_match:
+  - G Voll
+  players:
+    Australia:
+    - BL Mooney
+    - G Voll
+    - P Litchfield
+    - EA Perry
+    - TM McGrath
+    - NJ Carey
+    - G Wareham
+    - S Molineux
+    - LK Hamilton
+    - A King
+    - ML Schutt
+    West Indies:
+    - Q Joseph
+    - HK Matthews
+    - E Brathwaite
+    - J Glasgow
+    - DJS Dottin
+    - JKC Claxton
+    - AA Alleyne
+    - Z James
+    - S Hector
+    - ASS Fletcher
+    - M Mangru
+  registry:
+    people:
+      A King: '83558266'
+      AA Alleyne: 4b0e3049
+      ASS Fletcher: 42d9dd09
+      BL Mooney: 52d1dbc8
+      C La Borde: 32157f67
+      DJS Dottin: 53bee17f
+      E Brathwaite: 3d42a82b
+      EA Perry: be150fc8
+      G Voll: 5c30d455
+      G Wareham: f0b4e47d
+      HK Matthews: d32cf49a
+      J Glasgow: a2632c7c
+      JKC Claxton: e22f8ec1
+      JM Williams: b61d9d70
+      LK Hamilton: c347ffe6
+      Lauren Agenbag: 40849abd
+      M Abbott: 3e5f0c04
+      M Mangru: b9fec7a5
+      ML Schutt: 17608a6f
+      NJ Carey: dff806f4
+      P Litchfield: 4e6ef14f
+      Q Joseph: d6164dc0
+      Reon King: 20fbf68c
+      S Hector: 3faa312e
+      S Molineux: 99e23670
+      TM McGrath: ca5acfa4
+      Z James: 816af623
+  teams:
+  - Australia
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - C La Borde
+  - Lauren Agenbag
+  venue: Arnos Vale Ground, Kingstown, St Vincent
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.2:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 0.4:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 0.5:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.6:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.1:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.3:
+        non_striker: BL Mooney
+        bowler: JKC Claxton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Voll
+    - 1.4:
+        non_striker: BL Mooney
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 1.5:
+        non_striker: BL Mooney
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.6:
+        non_striker: BL Mooney
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 1.7:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - AA Alleyne
+          kind: caught
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 2.2:
+        non_striker: P Litchfield
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 2.3:
+        non_striker: P Litchfield
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 2.4:
+        non_striker: G Voll
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: G Voll
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: G Voll
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: P Litchfield
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: JKC Claxton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Voll
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 3.5:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 3.6:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 3.7:
+        non_striker: G Voll
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 4.2:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 5.1:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - Q Joseph
+          kind: caught
+    - 5.2:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.3:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 5.4:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.5:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.6:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 6.1:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 6.2:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 6.3:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 6.4:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.5:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 6.6:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 7.1:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 7.2:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 7.3:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 7.5:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 7.6:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.7:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 8.1:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.2:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.3:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 8.4:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 8.5:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.6:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 9.1:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 9.2:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 9.3:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 9.4:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 9.5:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 9.6:
+        non_striker: G Voll
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.1:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - M Mangru
+          kind: caught
+    - 10.2:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.3:
+        non_striker: TM McGrath
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 10.4:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.5:
+        non_striker: TM McGrath
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 11.1:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 11.2:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: bowled
+    - 11.3:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 11.4:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 11.5:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 11.6:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.1:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.2:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 12.3:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 12.4:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 12.5:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.6:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 13.1:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 13.2:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.3:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 13.4:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 13.5:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 13.6:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 14.1:
+        non_striker: G Voll
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 14.2:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 14.3:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 14.4:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 14.5:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 14.6:
+        non_striker: NJ Carey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 15.1:
+        non_striker: NJ Carey
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 15.2:
+        non_striker: NJ Carey
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 15.3:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.4:
+        non_striker: NJ Carey
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 15.5:
+        non_striker: NJ Carey
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 15.6:
+        non_striker: G Voll
+        bowler: Z James
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NJ Carey
+    - 15.7:
+        non_striker: NJ Carey
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 16.1:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Carey
+    - 16.2:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 16.3:
+        non_striker: NJ Carey
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Voll
+    - 16.4:
+        non_striker: NJ Carey
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 16.5:
+        non_striker: NJ Carey
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Voll
+    - 16.6:
+        non_striker: NJ Carey
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 16.7:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NJ Carey
+    - 16.8:
+        non_striker: NJ Carey
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 17.1:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 17.2:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          kind: bowled
+    - 17.3:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 17.4:
+        non_striker: G Wareham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 17.5:
+        non_striker: G Wareham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 17.6:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+        wicket:
+          player_out: G Wareham
+          kind: bowled
+    - 18.1:
+        non_striker: S Molineux
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 18.2:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 18.3:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 18.4:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Molineux
+    - 18.5:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 18.6:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Molineux
+    - 18.7:
+        non_striker: NJ Carey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 19.1:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: S Molineux
+    - 19.2:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Molineux
+    - 19.3:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 19.4:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Molineux
+    - 19.5:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Molineux
+    - 19.6:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Molineux
+    - 19.7:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 19.8:
+        non_striker: NJ Carey
+        bowler: JKC Claxton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+        wicket:
+          player_out: S Molineux
+          kind: bowled
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+        wicket:
+          player_out: Q Joseph
+          kind: bowled
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 1.1:
+        non_striker: E Brathwaite
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Brathwaite
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Brathwaite
+    - 2.1:
+        non_striker: E Brathwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Brathwaite
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Brathwaite
+    - 3.1:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: E Brathwaite
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Brathwaite
+    - 4.2:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+    - 4.3:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Brathwaite
+        wicket:
+          player_out: E Brathwaite
+          kind: caught and bowled
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Glasgow
+    - 4.5:
+        non_striker: J Glasgow
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.6:
+        non_striker: J Glasgow
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.1:
+        non_striker: J Glasgow
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Glasgow
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Glasgow
+    - 5.4:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Glasgow
+        wicket:
+          player_out: J Glasgow
+          fielders:
+          - P Litchfield
+          kind: caught
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.1:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.4:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.1:
+        non_striker: DJS Dottin
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: HK Matthews
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.3:
+        non_striker: HK Matthews
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 7.4:
+        non_striker: DJS Dottin
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 7.5:
+        non_striker: DJS Dottin
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.6:
+        non_striker: HK Matthews
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 7.7:
+        non_striker: HK Matthews
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 8.1:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 8.2:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 8.3:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 8.4:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 8.6:
+        non_striker: HK Matthews
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.1:
+        non_striker: DJS Dottin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 9.3:
+        non_striker: DJS Dottin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.4:
+        non_striker: DJS Dottin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.5:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.6:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin

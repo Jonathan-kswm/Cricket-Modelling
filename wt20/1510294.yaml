@@ -1,0 +1,2189 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-11-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2565
+  outcome:
+    winner: Uganda
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - J Mbabazi
+  players:
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - R Musamali
+    - S Nampiina
+    - P Alako
+    - C Aweko
+    - K Amuge
+    - K Awino
+    - M Ariokot
+    - S Akiteng
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - HJ Thomas
+    - H Doriga
+    - P Siaka
+    - I Toua
+    - Miria Raio
+    - E Pokana
+    - HL Tau
+    - D Lohia
+    - GP Tom
+  registry:
+    people:
+      AS Guha: c21b184d
+      B Tau: 3a6cbb8e
+      C Aweko: 01c1b96c
+      D Lohia: '01341439'
+      Dolly Rani: 2821c99e
+      E Iloku: f1fa1c6b
+      E Pokana: 95d9f74c
+      GP Tom: 88bcd09d
+      H Doriga: 5aa874da
+      HJ Thomas: a3034d3d
+      HL Tau: ace63b7f
+      I Nakisuuyi: 2f145a4f
+      I Toua: 83cde44d
+      J Mbabazi: aaa6e84c
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      M Ariokot: c328bc6c
+      Miria Raio: 1af5cef2
+      N Vare: 20ace887
+      P Alako: fcf37e14
+      P Siaka: 595433d2
+      R Musamali: 017cadb2
+      Rokeya Sultana: 20abf9b9
+      S Akiteng: cf92d76b
+      S Nampiina: 91d9aa26
+      SM Bartlett: 7ba18406
+  teams:
+  - Uganda
+  - Papua New Guinea
+  toss:
+    winner: Uganda
+    decision: bat
+  umpires:
+  - AS Guha
+  - Rokeya Sultana
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.3:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 0.4:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Iloku
+    - 0.5:
+        non_striker: E Iloku
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 0.6:
+        non_striker: E Iloku
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 1.1:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.2:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.3:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: J Mbabazi
+    - 1.4:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.5:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.6:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.7:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.1:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.2:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 2.3:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.4:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.5:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.6:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.1:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 3.2:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.3:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 3.4:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Mbabazi
+    - 3.5:
+        non_striker: J Mbabazi
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 3.6:
+        non_striker: J Mbabazi
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Iloku
+    - 3.7:
+        non_striker: E Iloku
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 4.1:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.2:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.3:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.4:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          kind: bowled
+    - 4.5:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.6:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 4.7:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 5.1:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.2:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.3:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.5:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 5.6:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 6.1:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: I Nakisuuyi
+    - 6.2:
+        non_striker: I Nakisuuyi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.3:
+        non_striker: I Nakisuuyi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.4:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.5:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.6:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.7:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Nakisuuyi
+    - 6.8:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 6.9:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.1:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.2:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 7.3:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.4:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.5:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.6:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.1:
+        non_striker: I Nakisuuyi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 8.2:
+        non_striker: I Nakisuuyi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.3:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.4:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 8.5:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.6:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 9.1:
+        non_striker: I Nakisuuyi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.2:
+        non_striker: I Nakisuuyi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 9.3:
+        non_striker: I Nakisuuyi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.4:
+        non_striker: I Nakisuuyi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 9.5:
+        non_striker: J Mbabazi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 9.6:
+        non_striker: I Nakisuuyi
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 10.1:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 10.2:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 10.3:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 10.4:
+        non_striker: I Nakisuuyi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 10.5:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 10.6:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.1:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mbabazi
+    - 11.2:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 11.3:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.4:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 11.5:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.6:
+        non_striker: J Mbabazi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 11.7:
+        non_striker: I Nakisuuyi
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 12.1:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 12.2:
+        non_striker: I Nakisuuyi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 12.3:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 12.4:
+        non_striker: I Nakisuuyi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 12.5:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - HJ Thomas
+          kind: caught
+    - 12.6:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.1:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 13.2:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 13.3:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 13.4:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 13.5:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 13.6:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 13.7:
+        non_striker: J Mbabazi
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.8:
+        non_striker: J Mbabazi
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 14.1:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Musamali
+    - 14.2:
+        non_striker: R Musamali
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 14.3:
+        non_striker: R Musamali
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 14.4:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 14.5:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 14.6:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 15.1:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.2:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.3:
+        non_striker: R Musamali
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 15.4:
+        non_striker: J Mbabazi
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: caught and bowled
+    - 15.5:
+        non_striker: J Mbabazi
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 15.6:
+        non_striker: S Nampiina
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 16.1:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 16.2:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 16.3:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 16.4:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 16.5:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 16.6:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 17.1:
+        non_striker: S Nampiina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 17.2:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 17.3:
+        non_striker: S Nampiina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 17.4:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 17.5:
+        non_striker: S Nampiina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 17.6:
+        non_striker: J Mbabazi
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 18.1:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 18.2:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 18.3:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 18.4:
+        non_striker: J Mbabazi
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 18.5:
+        non_striker: S Nampiina
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: S Nampiina
+          fielders:
+          - HL Tau
+          kind: run out
+    - 18.6:
+        non_striker: P Alako
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 19.1:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 19.2:
+        non_striker: P Alako
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 19.3:
+        non_striker: P Alako
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 19.4:
+        non_striker: P Alako
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 19.5:
+        non_striker: J Mbabazi
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 19.6:
+        non_striker: P Alako
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.3:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.4:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.5:
+        non_striker: N Vare
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.6:
+        non_striker: N Vare
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.7:
+        non_striker: N Vare
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.1:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.2:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 1.3:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.4:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.5:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.6:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.1:
+        non_striker: N Vare
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 2.2:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 2.3:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.4:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.5:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.6:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.7:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.1:
+        non_striker: N Vare
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.2:
+        non_striker: N Vare
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.3:
+        non_striker: N Vare
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.4:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.5:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 3.6:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          fielders:
+          - K Awino
+          kind: caught
+    - 4.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Thomas
+        batsman: B Tau
+    - 4.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Thomas
+        batsman: B Tau
+    - 4.3:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Thomas
+        batsman: B Tau
+    - 4.4:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 4.5:
+        non_striker: B Tau
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 4.6:
+        non_striker: HJ Thomas
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.1:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.2:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.3:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.4:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.5:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.6:
+        non_striker: B Tau
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Thomas
+    - 6.1:
+        non_striker: HJ Thomas
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.2:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 6.3:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 6.4:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 6.5:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 6.6:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 7.1:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.2:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 7.3:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.4:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.5:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 7.6:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 8.1:
+        non_striker: HJ Thomas
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.2:
+        non_striker: HJ Thomas
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.3:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 8.4:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 8.5:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 8.6:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 9.1:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 9.2:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.3:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 9.4:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 9.5:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 9.6:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 10.1:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Thomas
+    - 10.2:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 10.3:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 10.4:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 10.5:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 10.6:
+        non_striker: B Tau
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 11.1:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 11.2:
+        non_striker: HJ Thomas
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 11.3:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          fielders:
+          - J Mbabazi
+          kind: caught
+    - 11.4:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 11.5:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 11.6:
+        non_striker: H Doriga
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 12.1:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 12.2:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+        wicket:
+          player_out: H Doriga
+          fielders:
+          - C Aweko
+          kind: caught
+    - 12.3:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 12.4:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 12.5:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 12.6:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 12.7:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 12.8:
+        non_striker: B Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Siaka
+    - 13.1:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 13.2:
+        non_striker: P Siaka
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.3:
+        non_striker: P Siaka
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.4:
+        non_striker: P Siaka
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 13.5:
+        non_striker: P Siaka
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 13.6:
+        non_striker: B Tau
+        bowler: I Nakisuuyi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 14.1:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.2:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.3:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.4:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Siaka
+    - 14.5:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Siaka
+    - 14.6:
+        non_striker: B Tau
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 15.1:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 15.2:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 15.3:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 15.4:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 15.5:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 15.6:
+        non_striker: P Siaka
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 16.1:
+        non_striker: P Siaka
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          kind: bowled
+    - 16.2:
+        non_striker: P Siaka
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 16.3:
+        non_striker: P Siaka
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          kind: bowled
+    - 16.4:
+        non_striker: P Siaka
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Miria Raio
+    - 16.5:
+        non_striker: P Siaka
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Miria Raio
+    - 16.6:
+        non_striker: Miria Raio
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 17.1:
+        non_striker: P Siaka
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Miria Raio
+        wicket:
+          player_out: Miria Raio
+          kind: bowled
+    - 17.2:
+        non_striker: P Siaka
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Pokana
+    - 17.3:
+        non_striker: E Pokana
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.4:
+        non_striker: E Pokana
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.5:
+        non_striker: E Pokana
+        bowler: M Ariokot
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Siaka
+    - 17.6:
+        non_striker: P Siaka
+        bowler: M Ariokot
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Pokana
+    - 18.1:
+        non_striker: E Pokana
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 18.2:
+        non_striker: E Pokana
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 18.3:
+        non_striker: E Pokana
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 18.4:
+        non_striker: P Siaka
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Pokana
+    - 18.5:
+        non_striker: E Pokana
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 18.6:
+        non_striker: P Siaka
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Pokana
+    - 19.1:
+        non_striker: E Pokana
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 19.2:
+        non_striker: E Pokana
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 19.3:
+        non_striker: E Pokana
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: lbw
+    - 19.4:
+        non_striker: E Pokana
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 19.5:
+        non_striker: HL Tau
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Pokana
+    - 19.6:
+        non_striker: E Pokana
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau

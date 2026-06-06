@@ -1,0 +1,2374 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2025-07-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2390
+  outcome:
+    winner: Turkey
+    by:
+      runs: 2
+  overs: 20
+  player_of_match:
+  - Ezgi Nur Kilic
+  players:
+    Turkey:
+    - M Bayram
+    - G Cengiz
+    - G Ayan
+    - Ezgi Nur Kilic
+    - Suzan Turan
+    - G Keles
+    - Z Akpinar
+    - R Cenik
+    - S Yildirim
+    - H Celik
+    - S Ozkunduz
+    Greece:
+    - A Makri
+    - M Syrioti
+    - A Argyropoulou
+    - A Savvani
+    - S Georgota
+    - M Polimeri
+    - K Tereza
+    - T Parisi-mesimeri
+    - M Vervitsioti
+    - E Kallous
+    - A Kourkoulou
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Kourkoulou: 637f6ae5
+      A Makri: 98affc04
+      A Savvani: 5d006a1a
+      E Kallous: '0680ff7f'
+      Ezgi Nur Kilic: ec8132b2
+      G Ayan: 66d258e2
+      G Cengiz: be59ed3f
+      G Keles: 3e84a803
+      H Celik: 266f372c
+      K Tereza: 1314d6f8
+      M Bayram: 4867ffbf
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      R Cenik: '050009d9'
+      S Georgota: d07b6842
+      S Ozkunduz: 25850e31
+      S Yildirim: aae9b47b
+      Suzan Turan: fec8377a
+      T Parisi-mesimeri: c002a904
+      Z Akpinar: e2619bcc
+  teams:
+  - Turkey
+  - Greece
+  toss:
+    winner: Turkey
+    decision: bat
+  venue: Vassil Levski National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        non_striker: G Cengiz
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+        wicket:
+          player_out: G Cengiz
+          fielders:
+          - A Makri
+          - T Parisi-mesimeri
+          kind: run out
+    - 0.2:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+    - 0.3:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+    - 0.4:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ayan
+    - 0.5:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+    - 0.6:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: G Ayan
+    - 0.7:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ayan
+    - 1.1:
+        non_striker: M Bayram
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ayan
+        wicket:
+          player_out: G Ayan
+          kind: bowled
+    - 1.2:
+        non_striker: M Bayram
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 1.3:
+        non_striker: M Bayram
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 1.4:
+        non_striker: M Bayram
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 1.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+    - 1.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 2.1:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ezgi Nur Kilic
+    - 2.2:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 2.3:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ezgi Nur Kilic
+    - 2.4:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 2.5:
+        non_striker: M Bayram
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 2.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bayram
+    - 2.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bayram
+    - 2.8:
+        non_striker: Ezgi Nur Kilic
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bayram
+        wicket:
+          player_out: M Bayram
+          kind: bowled
+    - 3.1:
+        bowler: S Georgota
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Suzan Turan
+        batsman: Ezgi Nur Kilic
+    - 3.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 3.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 3.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 3.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 3.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 3.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 4.1:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.2:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.3:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 4.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Suzan Turan
+    - 4.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.6:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 4.7:
+        non_striker: Ezgi Nur Kilic
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 5.1:
+        non_striker: Suzan Turan
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ezgi Nur Kilic
+    - 5.2:
+        non_striker: Suzan Turan
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+    - 5.3:
+        non_striker: Suzan Turan
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ezgi Nur Kilic
+    - 5.4:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 5.5:
+        non_striker: Ezgi Nur Kilic
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suzan Turan
+    - 5.6:
+        non_striker: Suzan Turan
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ezgi Nur Kilic
+        wicket:
+          player_out: Ezgi Nur Kilic
+          kind: lbw
+    - 6.1:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Keles
+        batsman: Suzan Turan
+    - 6.2:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Keles
+        batsman: Suzan Turan
+    - 6.3:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Keles
+        batsman: Suzan Turan
+    - 6.4:
+        non_striker: Suzan Turan
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 6.5:
+        non_striker: Suzan Turan
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 6.6:
+        non_striker: Suzan Turan
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 7.1:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suzan Turan
+    - 7.2:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 7.3:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 7.4:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+    - 7.5:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suzan Turan
+        wicket:
+          player_out: Suzan Turan
+          kind: bowled
+    - 7.6:
+        non_striker: G Keles
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Akpinar
+    - 8.1:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+    - 8.2:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+    - 8.3:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Z Akpinar
+    - 8.4:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+    - 8.5:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+    - 8.6:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+    - 8.7:
+        non_striker: G Keles
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Akpinar
+    - 9.1:
+        non_striker: Z Akpinar
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 9.2:
+        non_striker: Z Akpinar
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 9.3:
+        non_striker: Z Akpinar
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Keles
+    - 9.4:
+        non_striker: G Keles
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Akpinar
+        wicket:
+          player_out: Z Akpinar
+          kind: bowled
+    - 9.5:
+        non_striker: G Keles
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 9.6:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 10.1:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 10.2:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 10.3:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 10.4:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 10.5:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 10.6:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 10.7:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 11.1:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 11.2:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 11.3:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 11.4:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 11.5:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 11.6:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 12.1:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 12.2:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 12.3:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 12.4:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 12.5:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 12.6:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Cenik
+    - 12.7:
+        non_striker: G Keles
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Cenik
+    - 13.1:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 13.2:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Keles
+    - 13.3:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 13.4:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+    - 13.5:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Keles
+        wicket:
+          player_out: G Keles
+          kind: bowled
+    - 13.6:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 14.1:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 14.2:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 14.3:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 14.4:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Cenik
+    - 14.5:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 14.6:
+        non_striker: R Cenik
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 15.1:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 15.2:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 15.3:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 15.4:
+        non_striker: S Yildirim
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 15.5:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 15.6:
+        non_striker: R Cenik
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.1:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Cenik
+    - 16.2:
+        non_striker: S Yildirim
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 16.3:
+        non_striker: R Cenik
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.4:
+        non_striker: R Cenik
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.5:
+        non_striker: R Cenik
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 16.6:
+        non_striker: R Cenik
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 17.1:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 17.2:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 17.3:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 17.4:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 17.5:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 17.6:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Cenik
+    - 17.7:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yildirim
+    - 18.1:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 18.2:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Cenik
+    - 18.3:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Cenik
+    - 18.4:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 18.5:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 18.6:
+        non_striker: R Cenik
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 18.7:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+    - 18.8:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Cenik
+    - 18.9:
+        non_striker: S Yildirim
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Cenik
+    - 19.1:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 19.2:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Cenik
+    - 19.3:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Cenik
+    - 19.4:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yildirim
+    - 19.5:
+        non_striker: R Cenik
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yildirim
+    - 19.6:
+        non_striker: S Yildirim
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Cenik
+- 2nd innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Syrioti
+        batsman: A Makri
+    - 0.2:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Syrioti
+    - 0.3:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 0.4:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 0.5:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 0.6:
+        non_striker: M Syrioti
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 0.7:
+        non_striker: M Syrioti
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 0.8:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 0.9:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+        wicket:
+          player_out: M Syrioti
+          kind: lbw
+    - 1.1:
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Argyropoulou
+        batsman: A Makri
+    - 1.2:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Argyropoulou
+    - 1.3:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 1.4:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 1.5:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 1.6:
+        non_striker: A Argyropoulou
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 1.7:
+        non_striker: A Argyropoulou
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.1:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 2.2:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 2.3:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.4:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 2.5:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 2.6:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 2.7:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 3.1:
+        non_striker: A Argyropoulou
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 3.2:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.3:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 3.4:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.5:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.6:
+        non_striker: A Makri
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 3.7:
+        non_striker: A Argyropoulou
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 4.1:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 4.2:
+        non_striker: A Argyropoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 4.3:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 4.4:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: A Argyropoulou
+          kind: bowled
+    - 4.5:
+        non_striker: A Makri
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 4.6:
+        non_striker: A Savvani
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 4.7:
+        non_striker: A Savvani
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 5.1:
+        non_striker: A Makri
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 5.2:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 5.3:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 5.4:
+        non_striker: A Makri
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 5.5:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Makri
+    - 5.6:
+        non_striker: A Makri
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 6.1:
+        non_striker: A Savvani
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: A Makri
+    - 6.2:
+        non_striker: A Makri
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Savvani
+    - 6.3:
+        non_striker: A Makri
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 6.4:
+        non_striker: A Makri
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+        wicket:
+          player_out: A Makri
+          fielders:
+          - G Keles
+          - R Cenik
+          kind: run out
+    - 6.5:
+        non_striker: A Savvani
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 6.6:
+        non_striker: A Savvani
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Georgota
+    - 6.7:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 7.1:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.2:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.3:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.4:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.5:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.6:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 8.1:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 8.2:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 8.3:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 8.4:
+        non_striker: A Savvani
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 8.5:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 8.6:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Savvani
+    - 8.7:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 8.8:
+        non_striker: S Georgota
+        bowler: G Cengiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 9.1:
+        non_striker: S Georgota
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 9.2:
+        non_striker: S Georgota
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 9.3:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 9.4:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 9.5:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+        wicket:
+          player_out: S Georgota
+          fielders:
+          - R Cenik
+          - S Ozkunduz
+          kind: run out
+    - 9.6:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Polimeri
+    - 10.1:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Polimeri
+    - 10.2:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.3:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 10.4:
+        non_striker: M Polimeri
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 10.5:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 10.6:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 11.1:
+        non_striker: M Polimeri
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 11.2:
+        non_striker: A Savvani
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 11.3:
+        non_striker: A Savvani
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 11.4:
+        non_striker: M Polimeri
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 11.5:
+        non_striker: A Savvani
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Polimeri
+    - 11.6:
+        non_striker: A Savvani
+        bowler: S Yildirim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 12.1:
+        non_striker: A Savvani
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 12.2:
+        non_striker: M Polimeri
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 12.3:
+        non_striker: M Polimeri
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 12.4:
+        non_striker: A Savvani
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 12.5:
+        non_striker: M Polimeri
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 12.6:
+        non_striker: A Savvani
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+        wicket:
+          player_out: M Polimeri
+          fielders:
+          - G Cengiz
+          - Suzan Turan
+          kind: run out
+    - 13.1:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tereza
+    - 13.2:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 13.3:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 13.4:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Savvani
+    - 13.5:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+    - 13.6:
+        non_striker: A Savvani
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tereza
+    - 13.7:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 14.1:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Tereza
+    - 14.2:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+    - 14.3:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Savvani
+    - 14.4:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Savvani
+    - 14.5:
+        non_striker: A Savvani
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Tereza
+    - 14.6:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+        wicket:
+          player_out: A Savvani
+          kind: bowled
+    - 14.7:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parisi-mesimeri
+    - 15.1:
+        non_striker: T Parisi-mesimeri
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K Tereza
+    - 15.2:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Parisi-mesimeri
+    - 15.3:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.4:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.5:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.6:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 15.7:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 16.1:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parisi-mesimeri
+    - 16.2:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 16.3:
+        non_striker: T Parisi-mesimeri
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tereza
+    - 16.4:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 16.5:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+        wicket:
+          player_out: T Parisi-mesimeri
+          fielders:
+          - G Cengiz
+          kind: caught
+    - 16.6:
+        non_striker: K Tereza
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 16.7:
+        non_striker: M Vervitsioti
+        bowler: G Ayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+    - 17.1:
+        non_striker: K Tereza
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Vervitsioti
+    - 17.2:
+        non_striker: M Vervitsioti
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+        wicket:
+          player_out: M Vervitsioti
+          fielders:
+          - G Cengiz
+          - H Celik
+          kind: run out
+    - 17.3:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: K Tereza
+    - 17.4:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: K Tereza
+    - 17.5:
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kallous
+        batsman: K Tereza
+    - 17.6:
+        non_striker: E Kallous
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+    - 18.1:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 18.2:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: K Tereza
+    - 18.3:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Tereza
+    - 18.4:
+        non_striker: K Tereza
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 18.5:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tereza
+    - 18.6:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+        wicket:
+          player_out: K Tereza
+          kind: bowled
+    - 18.7:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 18.8:
+        non_striker: E Kallous
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kourkoulou
+    - 19.1:
+        non_striker: E Kallous
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kourkoulou
+    - 19.2:
+        non_striker: E Kallous
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kourkoulou
+    - 19.3:
+        non_striker: A Kourkoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 19.4:
+        non_striker: A Kourkoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 19.5:
+        non_striker: E Kallous
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kourkoulou
+    - 19.6:
+        non_striker: A Kourkoulou
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 19.7:
+        non_striker: E Kallous
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kourkoulou

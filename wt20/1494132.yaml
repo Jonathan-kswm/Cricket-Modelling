@@ -1,0 +1,2088 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2025-07-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2417
+  outcome:
+    winner: Malawi
+    by:
+      runs: 106
+  overs: 20
+  player_of_match:
+  - F Malefula
+  players:
+    Malawi:
+    - LL Dimba
+    - A Lumbe
+    - T Luka
+    - L Bigula
+    - F Malefula
+    - P Maziya
+    - KM Chingaipe
+    - C Bwanali
+    - E Richard
+    - E Kabwere
+    - L Malino
+    Lesotho:
+    - KM Molapo
+    - T Khabo
+    - B Tlali
+    - P Pheko
+    - MA Nyabela
+    - B Phelenyane
+    - MM Mabathoana
+    - TJ Mahe
+    - T Ramabitsa
+    - MA Tsemane
+    - R Limema
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Lumbe: 7e421645
+      B Phelenyane: c982ad6f
+      B Tlali: a42cdf67
+      C Bwanali: b26a30f9
+      D Odhiambo: '45994517'
+      E Kabwere: b6358ee8
+      E Richard: 8d76816e
+      F Malefula: 6a405883
+      J Chibhabha: 4c5c47a4
+      KM Chingaipe: db32d60a
+      KM Molapo: dc5934a6
+      L Bigula: 9b2e971a
+      L Malino: 7a81836e
+      LL Dimba: 53f88bf1
+      MA Nyabela: 261fddca
+      MA Tsemane: 71eb9780
+      MM Mabathoana: fb432bd3
+      P Maziya: 4f85f02c
+      P Pheko: 24e0b90f
+      R Limema: 95fdfe7e
+      S Dambanevana: '039923bd'
+      T Khabo: 7be9cb29
+      T Luka: 44e008a5
+      T Ramabitsa: 3a341948
+      TJ Mahe: 3c5b2e9e
+  teams:
+  - Malawi
+  - Lesotho
+  toss:
+    winner: Malawi
+    decision: bat
+  umpires:
+  - A Jacobs
+  - D Odhiambo
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Lumbe
+        batsman: LL Dimba
+    - 0.2:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lumbe
+        batsman: LL Dimba
+    - 0.3:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lumbe
+        batsman: LL Dimba
+    - 0.4:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lumbe
+        batsman: LL Dimba
+    - 0.5:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Lumbe
+        batsman: LL Dimba
+    - 0.6:
+        non_striker: A Lumbe
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 1.1:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lumbe
+    - 1.2:
+        non_striker: A Lumbe
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 1.3:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lumbe
+        wicket:
+          player_out: A Lumbe
+          kind: lbw
+    - 1.4:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 1.5:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Luka
+    - 1.6:
+        non_striker: T Luka
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 2.1:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.2:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.3:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.4:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.5:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 2.6:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Luka
+    - 3.1:
+        non_striker: T Luka
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 3.2:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: T Luka
+    - 3.3:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 3.4:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 3.5:
+        non_striker: LL Dimba
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Luka
+    - 3.6:
+        non_striker: T Luka
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 3.7:
+        non_striker: T Luka
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 4.1:
+        non_striker: T Luka
+        bowler: MA Tsemane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 4.2:
+        non_striker: T Luka
+        bowler: MA Tsemane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 4.3:
+        non_striker: T Luka
+        bowler: MA Tsemane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 4.4:
+        non_striker: T Luka
+        bowler: MA Tsemane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 4.5:
+        non_striker: T Luka
+        bowler: MA Tsemane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LL Dimba
+    - 4.6:
+        non_striker: LL Dimba
+        bowler: MA Tsemane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 4.7:
+        non_striker: LL Dimba
+        bowler: MA Tsemane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 4.8:
+        non_striker: LL Dimba
+        bowler: MA Tsemane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Luka
+    - 4.9:
+        non_striker: LL Dimba
+        bowler: MA Tsemane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 5.1:
+        non_striker: T Luka
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 5.2:
+        non_striker: T Luka
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 5.3:
+        non_striker: T Luka
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 5.4:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Luka
+    - 5.5:
+        non_striker: T Luka
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 5.6:
+        non_striker: T Luka
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 6.1:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+        wicket:
+          player_out: T Luka
+          kind: lbw
+    - 6.2:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 6.3:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 6.4:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 6.5:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bigula
+    - 6.6:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 7.1:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: LL Dimba
+    - 7.2:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 7.3:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 7.4:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bigula
+    - 7.5:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 7.6:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 7.7:
+        non_striker: LL Dimba
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 8.1:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 8.2:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 8.3:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 8.4:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 8.5:
+        non_striker: LL Dimba
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 8.6:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 9.1:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 9.2:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 9.3:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 9.4:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 9.5:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 9.6:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 10.1:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 10.2:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 10.3:
+        non_striker: LL Dimba
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 10.4:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 10.5:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 10.6:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 11.1:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 11.2:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bigula
+    - 11.3:
+        non_striker: LL Dimba
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 11.4:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+        wicket:
+          player_out: LL Dimba
+          fielders:
+          - MA Nyabela
+          kind: caught
+    - 11.5:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 11.6:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 11.7:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 11.8:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 11.9:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Malefula
+    - 12.1:
+        non_striker: F Malefula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bigula
+    - 12.2:
+        non_striker: F Malefula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 12.3:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 12.4:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 12.5:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 12.6:
+        non_striker: F Malefula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 12.7:
+        non_striker: L Bigula
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 13.1:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 13.2:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 13.3:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bigula
+    - 13.4:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 13.5:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 13.6:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 14.1:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 14.2:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 14.3:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Malefula
+    - 14.4:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 14.5:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 14.6:
+        non_striker: L Bigula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 14.7:
+        non_striker: F Malefula
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 15.1:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: F Malefula
+    - 15.2:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 15.3:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 15.4:
+        non_striker: F Malefula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bigula
+    - 15.5:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 15.6:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 15.7:
+        non_striker: L Bigula
+        bowler: R Limema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 16.1:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 16.2:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 16.3:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 16.4:
+        non_striker: F Malefula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 16.5:
+        non_striker: F Malefula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 16.6:
+        non_striker: F Malefula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bigula
+    - 16.7:
+        non_striker: F Malefula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bigula
+    - 17.1:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Malefula
+    - 17.2:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 17.3:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: F Malefula
+    - 17.4:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 17.5:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 17.6:
+        non_striker: L Bigula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 17.7:
+        non_striker: F Malefula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bigula
+    - 18.1:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Malefula
+    - 18.2:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 18.3:
+        non_striker: L Bigula
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+        wicket:
+          player_out: L Bigula
+          fielders:
+          - B Tlali
+          - MA Nyabela
+          kind: run out
+    - 18.4:
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Maziya
+        batsman: F Malefula
+    - 18.5:
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Maziya
+        batsman: F Malefula
+    - 18.6:
+        non_striker: P Maziya
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 19.1:
+        non_striker: P Maziya
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Malefula
+    - 19.2:
+        non_striker: P Maziya
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 19.3:
+        non_striker: F Malefula
+        bowler: T Ramabitsa
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: P Maziya
+    - 19.4:
+        non_striker: F Malefula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 19.5:
+        non_striker: F Malefula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+        wicket:
+          player_out: P Maziya
+          fielders:
+          - MA Tsemane
+          kind: caught
+    - 19.6:
+        non_striker: F Malefula
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Chingaipe
+    - 19.7:
+        non_striker: KM Chingaipe
+        bowler: T Ramabitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+- 2nd innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: KM Chingaipe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: T Khabo
+        batsman: KM Molapo
+    - 0.2:
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: KM Molapo
+    - 0.3:
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Khabo
+        batsman: KM Molapo
+    - 0.4:
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Khabo
+        batsman: KM Molapo
+    - 0.5:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+    - 0.6:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Khabo
+        wicket:
+          player_out: T Khabo
+          kind: bowled
+    - 0.7:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 1.1:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.2:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Molapo
+    - 1.3:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Molapo
+    - 1.4:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.5:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.6:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.7:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 1.8:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 2.1:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 2.2:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 2.3:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 2.4:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 2.5:
+        non_striker: KM Molapo
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tlali
+    - 2.6:
+        non_striker: B Tlali
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 2.7:
+        non_striker: B Tlali
+        bowler: KM Chingaipe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Molapo
+    - 3.1:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 3.2:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Molapo
+    - 3.3:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+    - 3.4:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+        wicket:
+          player_out: KM Molapo
+          fielders:
+          - A Lumbe
+          kind: caught
+    - 3.5:
+        non_striker: B Tlali
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 3.6:
+        non_striker: P Pheko
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 4.1:
+        non_striker: B Tlali
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 4.2:
+        non_striker: B Tlali
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 4.3:
+        non_striker: P Pheko
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 4.4:
+        non_striker: P Pheko
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tlali
+    - 4.5:
+        non_striker: B Tlali
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 4.6:
+        non_striker: P Pheko
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 5.1:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 5.2:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.3:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.4:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+        wicket:
+          player_out: P Pheko
+          kind: lbw
+    - 5.5:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 5.6:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 5.7:
+        non_striker: B Tlali
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 6.1:
+        non_striker: MA Nyabela
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tlali
+    - 6.2:
+        non_striker: B Tlali
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 6.3:
+        non_striker: B Tlali
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 6.4:
+        non_striker: MA Nyabela
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tlali
+    - 6.5:
+        non_striker: MA Nyabela
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 6.6:
+        non_striker: MA Nyabela
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tlali
+    - 7.1:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 7.2:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 7.3:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+        wicket:
+          player_out: B Tlali
+          kind: bowled
+    - 7.4:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.5:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Phelenyane
+    - 7.6:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.7:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.8:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.9:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Phelenyane
+    - 7.10:
+        non_striker: MA Nyabela
+        bowler: E Richard
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: B Phelenyane
+    - 8.1:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Nyabela
+    - 8.2:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 8.3:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 8.4:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 8.5:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 8.6:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Nyabela
+    - 8.7:
+        non_striker: B Phelenyane
+        bowler: L Bigula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 9.1:
+        non_striker: B Phelenyane
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 9.2:
+        non_striker: B Phelenyane
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 9.3:
+        non_striker: MA Nyabela
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Phelenyane
+    - 9.4:
+        non_striker: B Phelenyane
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 9.5:
+        non_striker: MA Nyabela
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+        wicket:
+          player_out: B Phelenyane
+          kind: bowled
+    - 9.6:
+        non_striker: MA Nyabela
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 10.1:
+        non_striker: MM Mabathoana
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Nyabela
+    - 10.2:
+        non_striker: MM Mabathoana
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Nyabela
+    - 10.3:
+        non_striker: MM Mabathoana
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 10.4:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 10.5:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 10.6:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Mabathoana
+    - 10.7:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Mabathoana
+    - 10.8:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 10.9:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+        wicket:
+          player_out: MM Mabathoana
+          fielders:
+          - F Malefula
+          kind: caught
+    - 11.1:
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TJ Mahe
+        batsman: MA Nyabela
+    - 11.2:
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TJ Mahe
+        batsman: MA Nyabela
+    - 11.3:
+        non_striker: MA Nyabela
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Mahe
+    - 11.4:
+        non_striker: TJ Mahe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 11.5:
+        non_striker: TJ Mahe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 11.6:
+        non_striker: TJ Mahe
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 12.1:
+        non_striker: TJ Mahe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Nyabela
+    - 12.2:
+        non_striker: TJ Mahe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 12.3:
+        non_striker: TJ Mahe
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 12.4:
+        non_striker: MA Nyabela
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Mahe
+        wicket:
+          player_out: TJ Mahe
+          fielders:
+          - L Malino
+          kind: run out
+    - 12.5:
+        non_striker: T Ramabitsa
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+        wicket:
+          player_out: MA Nyabela
+          fielders:
+          - F Malefula
+          kind: caught
+    - 12.6:
+        non_striker: T Ramabitsa
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Tsemane
+    - 13.1:
+        non_striker: T Ramabitsa
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Tsemane
+    - 13.2:
+        non_striker: MA Tsemane
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+    - 13.3:
+        non_striker: MA Tsemane
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+    - 13.4:
+        non_striker: MA Tsemane
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+    - 13.5:
+        non_striker: MA Tsemane
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ramabitsa
+    - 13.6:
+        non_striker: T Ramabitsa
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Tsemane
+    - 14.1:
+        non_striker: MA Tsemane
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ramabitsa
+    - 14.2:
+        non_striker: T Ramabitsa
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Tsemane
+        wicket:
+          player_out: MA Tsemane
+          kind: lbw
+    - 14.3:
+        non_striker: T Ramabitsa
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Limema
+    - 14.4:
+        non_striker: R Limema
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramabitsa
+        wicket:
+          player_out: T Ramabitsa
+          kind: caught and bowled

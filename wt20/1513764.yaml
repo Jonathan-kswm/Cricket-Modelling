@@ -1,0 +1,1612 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-19'
+  gender: female
+  match_type: T20
+  match_type_number: 2617
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Mas Elysa
+    - Siow Tzin Yee
+    - Mahirah Izzati Ismail
+    - Nur Dania Syuhada
+    - Nur Arianna Natsya
+    - Irdina Beh Nabil
+    - SM Dhanusri
+    - Aina Najwa
+    - Aisya Eleesa
+    Thailand:
+    - N Boochatham
+    - N Chantam
+    - N Koncharoenkai
+    - N Chaiwai
+    - R Kanoh
+    - C Sutthiruang
+    - O Kamchomphu
+    - P Maya
+    - S Laomi
+    - S Chaturongrattana
+    - T Putthawong
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      C Sutthiruang: f6ddfe08
+      Hardeep Jadeja: 552cf5a2
+      Irdina Beh Nabil: 59ace6d9
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      N Boochatham: 58acb320
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Koncharoenkai: 82c78412
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      O Kamchomphu: 519b872a
+      P Maya: 72eada4c
+      R Kanoh: 5959370f
+      S Chaturongrattana: bd36bc39
+      S Laomi: 4b15618c
+      SM Dhanusri: 4e4d2c20
+      Samad Akbar: f05bd21b
+      Sarika Prasad: 8ff397fa
+      Siow Tzin Yee: 686b7194
+      T Putthawong: 23e3f2d6
+      T Senthil Kumar: 961ddfac
+      WA Duraisingam: 7467fe01
+  teams:
+  - Malaysia
+  - Thailand
+  toss:
+    winner: Thailand
+    decision: field
+  umpires:
+  - A Natarajan
+  - Hardeep Jadeja
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.3:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.4:
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 0.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.2:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 1.3:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.4:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          fielders:
+          - O Kamchomphu
+          kind: caught
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          fielders:
+          - N Chaiwai
+          kind: caught
+    - 1.6:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 2.1:
+        non_striker: Siow Tzin Yee
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 2.2:
+        non_striker: WA Duraisingam
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 2.3:
+        non_striker: WA Duraisingam
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 2.4:
+        non_striker: WA Duraisingam
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 2.5:
+        non_striker: WA Duraisingam
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 2.6:
+        non_striker: Siow Tzin Yee
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 3.1:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.2:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.3:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.4:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.5:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.6:
+        non_striker: Siow Tzin Yee
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.1:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 4.2:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 4.3:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 4.4:
+        non_striker: Siow Tzin Yee
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.5:
+        non_striker: Siow Tzin Yee
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.6:
+        non_striker: Siow Tzin Yee
+        bowler: S Chaturongrattana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: WA Duraisingam
+    - 5.1:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.2:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+        wicket:
+          player_out: Siow Tzin Yee
+          fielders:
+          - N Koncharoenkai
+          kind: stumped
+    - 5.3:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 5.4:
+        non_striker: WA Duraisingam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 5.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 5.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 6.1:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.2:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.3:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.4:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.5:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.6:
+        non_striker: WA Duraisingam
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 7.1:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahirah Izzati Ismail
+    - 7.2:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 7.3:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 7.4:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 7.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 7.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 7.7:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 8.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 8.2:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 8.3:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 8.4:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 8.6:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 9.2:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 9.3:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.4:
+        non_striker: WA Duraisingam
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 9.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 9.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 10.1:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WA Duraisingam
+    - 10.2:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.3:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.4:
+        non_striker: WA Duraisingam
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 10.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 10.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: lbw
+    - 11.1:
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nur Dania Syuhada
+        batsman: Mahirah Izzati Ismail
+    - 11.2:
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Nur Dania Syuhada
+        batsman: Mahirah Izzati Ismail
+    - 11.3:
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nur Dania Syuhada
+        batsman: Mahirah Izzati Ismail
+    - 11.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 11.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 11.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 12.1:
+        non_striker: Nur Dania Syuhada
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.2:
+        non_striker: Nur Dania Syuhada
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.3:
+        non_striker: Nur Dania Syuhada
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.4:
+        non_striker: Nur Dania Syuhada
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 12.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 12.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.1:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 13.2:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 13.3:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 13.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 14.1:
+        non_striker: Nur Dania Syuhada
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 14.2:
+        non_striker: Nur Dania Syuhada
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 14.3:
+        non_striker: Nur Dania Syuhada
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 14.4:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 14.5:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 14.6:
+        non_striker: Mahirah Izzati Ismail
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 15.1:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+        wicket:
+          player_out: Mahirah Izzati Ismail
+          fielders:
+          - N Koncharoenkai
+          kind: stumped
+    - 15.2:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 15.3:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 15.4:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 15.5:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 15.6:
+        non_striker: Nur Dania Syuhada
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 16.1:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+        wicket:
+          player_out: Nur Dania Syuhada
+          kind: caught and bowled
+    - 16.2:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 16.3:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Irdina Beh Nabil
+    - 16.4:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 16.5:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irdina Beh Nabil
+    - 16.6:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irdina Beh Nabil
+        wicket:
+          player_out: Irdina Beh Nabil
+          fielders:
+          - N Chantam
+          kind: run out
+    - 16.7:
+        non_striker: Nur Arianna Natsya
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 17.1:
+        non_striker: SM Dhanusri
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 17.2:
+        non_striker: SM Dhanusri
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 17.3:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 17.4:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 17.5:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Dhanusri
+    - 17.6:
+        non_striker: Nur Arianna Natsya
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 18.1:
+        non_striker: Nur Arianna Natsya
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 18.2:
+        non_striker: Nur Arianna Natsya
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 18.3:
+        non_striker: SM Dhanusri
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 18.4:
+        non_striker: Nur Arianna Natsya
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 18.5:
+        non_striker: SM Dhanusri
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          fielders:
+          - O Kamchomphu
+          kind: caught
+    - 18.6:
+        non_striker: SM Dhanusri
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.1:
+        non_striker: SM Dhanusri
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 19.2:
+        non_striker: SM Dhanusri
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 19.3:
+        non_striker: SM Dhanusri
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 19.4:
+        non_striker: SM Dhanusri
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.5:
+        non_striker: Aina Najwa
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 19.6:
+        non_striker: Aina Najwa
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.2:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.3:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.4:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.5:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.6:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: N Boochatham
+    - 0.7:
+        non_striker: N Chantam
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 1.1:
+        non_striker: N Boochatham
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 1.2:
+        non_striker: N Chantam
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 1.3:
+        non_striker: N Chantam
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 1.4:
+        non_striker: N Chantam
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+        wicket:
+          player_out: N Boochatham
+          kind: bowled
+    - 1.5:
+        non_striker: N Chantam
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 1.6:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.1:
+        non_striker: N Chantam
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.2:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          kind: bowled
+    - 2.3:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 2.4:
+        non_striker: N Chaiwai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 2.5:
+        non_striker: N Chaiwai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.6:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 3.1:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 3.2:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 3.3:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          fielders:
+          - Nur Arianna Natsya
+          kind: caught
+    - 3.4:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 3.5:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Kanoh
+    - 3.6:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 4.1:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.2:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.3:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.4:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 4.5:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 4.6:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kanoh
+    - 5.1:
+        non_striker: N Koncharoenkai
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kanoh
+    - 5.2:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 5.3:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.4:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.5:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.6:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 6.1:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 6.2:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 6.3:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 6.4:
+        non_striker: N Koncharoenkai
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kanoh
+    - 6.5:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 6.6:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: N Koncharoenkai
+    - 6.7:
+        non_striker: R Kanoh
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 7.1:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kanoh
+    - 7.2:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 7.3:
+        non_striker: R Kanoh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 7.4:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 7.5:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 7.6:
+        non_striker: N Koncharoenkai
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Kanoh
+    - 8.1:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.2:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.3:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.4:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.5:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.6:
+        non_striker: R Kanoh
+        bowler: Siow Tzin Yee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 9.1:
+        non_striker: N Koncharoenkai
+        bowler: SM Dhanusri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Kanoh
+    - 9.2:
+        non_striker: N Koncharoenkai
+        bowler: SM Dhanusri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 9.3:
+        non_striker: N Koncharoenkai
+        bowler: SM Dhanusri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+    - 9.4:
+        non_striker: N Koncharoenkai
+        bowler: SM Dhanusri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Kanoh
+    - 9.5:
+        non_striker: N Koncharoenkai
+        bowler: SM Dhanusri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kanoh

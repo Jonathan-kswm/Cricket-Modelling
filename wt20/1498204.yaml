@@ -1,0 +1,2009 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-08-14'
+  gender: female
+  match_type: T20
+  match_type_number: 2437
+  outcome:
+    winner: Singapore
+    by:
+      runs: 114
+  overs: 20
+  player_of_match:
+  - LAR Bommareddy
+  players:
+    Singapore:
+    - Shafina Mahesh
+    - DA Galia
+    - Vinu Kumar
+    - RR Seth
+    - GK Diviya
+    - PSR Gurusinghe
+    - Ananya Sarma
+    - NL Jacinta Si Ping
+    - LAR Bommareddy
+    - H Dhavina
+    - Jenissa Jain
+    Cambodia:
+    - Ly Saomakara
+    - Pech Pisa
+    - Pen Samon
+    - Dok Da Nit
+    - N Vichara
+    - Heal Theara
+    - Phoup Srey Pheak
+    - Hor Siv na
+    - LY Loch Srey
+    - Em Rotana
+    - Sok Srey Maov
+  registry:
+    people:
+      A Narayanapillai: 4eea28b2
+      Ananya Sarma: 0bb03efc
+      DA Galia: ae0b5b95
+      Dok Da Nit: d6ca2714
+      Em Rotana: 196ccd33
+      GK Diviya: 992979fa
+      H Dhavina: cd12f384
+      Heal Theara: aae7b7f0
+      Hor Siv na: 05d1964e
+      Jenissa Jain: e6282830
+      KSVP Venu Madhav: 8c7fb752
+      LAR Bommareddy: 3da8cd3a
+      LY Loch Srey: a994e18f
+      Ly Saomakara: a9668b5f
+      N Vichara: 2641de7a
+      NL Jacinta Si Ping: 68c9a36f
+      PSR Gurusinghe: 591a7004
+      Pech Pisa: c7eb3b9c
+      Pen Samon: caa4444c
+      Phoup Srey Pheak: 8c73dff5
+      RR Seth: 7ccc0a38
+      Shafina Mahesh: 0c40b02d
+      Shriya Kumari: 5e452781
+      Sok Srey Maov: c5e3fe3c
+      T Senthil Kumar: 961ddfac
+      Vinu Kumar: 3775b9f9
+  teams:
+  - Singapore
+  - Cambodia
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - A Narayanapillai
+  - KSVP Venu Madhav
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Galia
+        batsman: Shafina Mahesh
+    - 0.2:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 0.3:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 0.4:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 0.5:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 0.6:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 0.7:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.1:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 1.2:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 1.3:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 1.4:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 1.5:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 1.6:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 2.1:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          kind: bowled
+    - 2.2:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.3:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 2.4:
+        non_striker: Vinu Kumar
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 2.5:
+        non_striker: Vinu Kumar
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 2.6:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.1:
+        non_striker: Vinu Kumar
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 3.2:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 3.3:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 3.4:
+        non_striker: Vinu Kumar
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 3.5:
+        non_striker: Vinu Kumar
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 3.6:
+        non_striker: Vinu Kumar
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 3.7:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 4.1:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.2:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 4.3:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Vinu Kumar
+    - 4.4:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 4.5:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 4.6:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 4.7:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Galia
+    - 5.1:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 5.2:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Vinu Kumar
+    - 5.3:
+        non_striker: Vinu Kumar
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 5.4:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Vinu Kumar
+    - 5.5:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - Pen Samon
+          kind: run out
+    - 5.6:
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RR Seth
+        batsman: DA Galia
+    - 5.7:
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RR Seth
+        batsman: DA Galia
+    - 5.8:
+        non_striker: RR Seth
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 6.1:
+        non_striker: RR Seth
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 6.2:
+        non_striker: RR Seth
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 6.3:
+        non_striker: RR Seth
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 6.4:
+        non_striker: RR Seth
+        bowler: Heal Theara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DA Galia
+    - 6.5:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.6:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 6.7:
+        non_striker: RR Seth
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Galia
+    - 7.1:
+        non_striker: RR Seth
+        bowler: Dok Da Nit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 7.2:
+        non_striker: RR Seth
+        bowler: Dok Da Nit
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DA Galia
+    - 7.3:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 7.4:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 7.5:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: RR Seth
+          fielders:
+          - Hor Siv na
+          kind: caught
+    - 7.6:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 7.7:
+        non_striker: GK Diviya
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 7.8:
+        non_striker: GK Diviya
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 8.1:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 8.2:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 8.3:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Diviya
+    - 8.4:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 8.5:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 8.6:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 8.7:
+        non_striker: GK Diviya
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 9.1:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GK Diviya
+    - 9.2:
+        non_striker: GK Diviya
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 9.3:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 9.4:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 9.5:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 9.6:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 9.7:
+        non_striker: GK Diviya
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 10.1:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 10.2:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 10.3:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GK Diviya
+    - 10.4:
+        non_striker: GK Diviya
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 10.5:
+        non_striker: GK Diviya
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 10.6:
+        non_striker: GK Diviya
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 10.7:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GK Diviya
+    - 10.8:
+        non_striker: DA Galia
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 11.1:
+        non_striker: GK Diviya
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Galia
+    - 11.2:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 11.3:
+        non_striker: GK Diviya
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.4:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 11.5:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 11.6:
+        non_striker: GK Diviya
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 12.1:
+        non_striker: GK Diviya
+        bowler: Heal Theara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DA Galia
+    - 12.2:
+        non_striker: GK Diviya
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 12.3:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          kind: caught and bowled
+    - 12.4:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 12.5:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 12.6:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 12.7:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.8:
+        non_striker: DA Galia
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.1:
+        non_striker: PSR Gurusinghe
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 13.2:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 13.3:
+        non_striker: PSR Gurusinghe
+        bowler: Dok Da Nit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 13.4:
+        non_striker: PSR Gurusinghe
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 13.5:
+        non_striker: DA Galia
+        bowler: Dok Da Nit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PSR Gurusinghe
+    - 13.6:
+        non_striker: PSR Gurusinghe
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 13.7:
+        non_striker: PSR Gurusinghe
+        bowler: Dok Da Nit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 14.1:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 14.2:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 14.3:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 14.4:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PSR Gurusinghe
+    - 14.5:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 14.6:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Galia
+    - 14.7:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 15.1:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 15.2:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 15.3:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Galia
+    - 15.4:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 15.5:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PSR Gurusinghe
+    - 15.6:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 15.7:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 15.8:
+        non_striker: DA Galia
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 16.1:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 16.2:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 16.3:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 16.4:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSR Gurusinghe
+    - 16.5:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 16.6:
+        non_striker: DA Galia
+        bowler: Ly Saomakara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PSR Gurusinghe
+    - 17.1:
+        non_striker: DA Galia
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PSR Gurusinghe
+    - 17.2:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+        wicket:
+          player_out: DA Galia
+          kind: bowled
+    - 17.3:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 17.4:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+    - 17.5:
+        non_striker: PSR Gurusinghe
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ananya Sarma
+    - 17.6:
+        non_striker: Ananya Sarma
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 18.1:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ananya Sarma
+        wicket:
+          player_out: Ananya Sarma
+          kind: bowled
+    - 18.2:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Jacinta Si Ping
+        wicket:
+          player_out: NL Jacinta Si Ping
+          kind: lbw
+    - 18.3:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 18.4:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: LAR Bommareddy
+    - 18.5:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 18.6:
+        non_striker: PSR Gurusinghe
+        bowler: Ly Saomakara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 19.1:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 19.2:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LAR Bommareddy
+    - 19.3:
+        non_striker: LAR Bommareddy
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 19.4:
+        non_striker: LAR Bommareddy
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 19.5:
+        non_striker: PSR Gurusinghe
+        bowler: Sok Srey Maov
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LAR Bommareddy
+    - 19.6:
+        non_striker: LAR Bommareddy
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 19.7:
+        non_striker: LAR Bommareddy
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+- 2nd innings:
+    team: Cambodia
+    deliveries:
+    - 0.1:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pech Pisa
+        batsman: Ly Saomakara
+    - 0.2:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ly Saomakara
+        wicket:
+          player_out: Ly Saomakara
+          fielders:
+          - NL Jacinta Si Ping
+          kind: caught
+    - 0.3:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 0.4:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 0.5:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 0.6:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 1.1:
+        non_striker: Pech Pisa
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 1.2:
+        non_striker: Pech Pisa
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 1.3:
+        non_striker: Pech Pisa
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 1.4:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pech Pisa
+    - 1.5:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+        wicket:
+          player_out: Pech Pisa
+          kind: bowled
+    - 1.6:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dok Da Nit
+    - 1.7:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dok Da Nit
+    - 2.1:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dok Da Nit
+    - 2.2:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dok Da Nit
+    - 2.3:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dok Da Nit
+        wicket:
+          player_out: Dok Da Nit
+          kind: bowled
+    - 2.4:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vichara
+    - 2.5:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vichara
+    - 2.6:
+        non_striker: N Vichara
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 3.1:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vichara
+    - 3.2:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vichara
+    - 3.3:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vichara
+    - 3.4:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vichara
+        wicket:
+          player_out: N Vichara
+          fielders:
+          - NL Jacinta Si Ping
+          kind: caught
+    - 3.5:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 3.6:
+        non_striker: Pen Samon
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+        wicket:
+          player_out: Heal Theara
+          kind: caught and bowled
+    - 4.1:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Phoup Srey Pheak
+        batsman: Pen Samon
+    - 4.2:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Phoup Srey Pheak
+        batsman: Pen Samon
+    - 4.3:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Phoup Srey Pheak
+        batsman: Pen Samon
+    - 4.4:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Phoup Srey Pheak
+    - 4.5:
+        non_striker: Phoup Srey Pheak
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Pen Samon
+    - 4.6:
+        non_striker: Phoup Srey Pheak
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 4.7:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 5.1:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pen Samon
+    - 5.2:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pen Samon
+    - 5.3:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 5.4:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pen Samon
+    - 5.5:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+        wicket:
+          player_out: Pen Samon
+          kind: bowled
+    - 5.6:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 5.7:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 5.8:
+        non_striker: Phoup Srey Pheak
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hor Siv na
+    - 6.1:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 6.2:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 6.3:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hor Siv na
+    - 6.4:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 6.5:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 6.6:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 7.1:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 7.2:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Phoup Srey Pheak
+    - 7.3:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 7.4:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 7.5:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 7.6:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hor Siv na
+    - 8.1:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 8.2:
+        non_striker: Phoup Srey Pheak
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hor Siv na
+    - 8.3:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 8.4:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 8.5:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+        wicket:
+          player_out: Phoup Srey Pheak
+          kind: bowled
+    - 8.6:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LY Loch Srey
+        wicket:
+          player_out: LY Loch Srey
+          kind: bowled
+    - 9.1:
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Em Rotana
+        batsman: Hor Siv na
+    - 9.2:
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Em Rotana
+        batsman: Hor Siv na
+    - 9.3:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Em Rotana
+    - 9.4:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Em Rotana
+        wicket:
+          player_out: Em Rotana
+          fielders:
+          - Shafina Mahesh
+          kind: caught
+    - 9.5:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 9.6:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 10.1:
+        non_striker: Sok Srey Maov
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 10.2:
+        non_striker: Sok Srey Maov
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hor Siv na
+    - 10.3:
+        non_striker: Hor Siv na
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 10.4:
+        non_striker: Hor Siv na
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 10.5:
+        non_striker: Hor Siv na
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sok Srey Maov
+    - 10.6:
+        non_striker: Hor Siv na
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 10.7:
+        non_striker: Hor Siv na
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 11.1:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 11.2:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 11.3:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 11.4:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 11.5:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 11.6:
+        non_striker: Sok Srey Maov
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 12.1:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 12.2:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 12.3:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 12.4:
+        non_striker: Hor Siv na
+        bowler: RR Seth
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sok Srey Maov
+    - 12.5:
+        non_striker: Sok Srey Maov
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 12.6:
+        non_striker: Sok Srey Maov
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 12.7:
+        non_striker: Sok Srey Maov
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 13.1:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 13.2:
+        non_striker: Hor Siv na
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+        wicket:
+          player_out: Sok Srey Maov
+          kind: lbw

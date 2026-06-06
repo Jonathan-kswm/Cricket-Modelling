@@ -1,0 +1,1940 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2025-09-01'
+  gender: female
+  match_type: T20
+  match_type_number: 2468
+  outcome:
+    winner: Brazil
+    by:
+      runs: 105
+  overs: 20
+  players:
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - RMAM Avery
+    - L Cardoso
+    - AC Sabino
+    - MLG Silva
+    - CS Nascimento
+    - NC Monteiro
+    - MB dos Santos
+    - CV Fernandes Torres
+    - L Moises
+    Isle of Man:
+    - L Barnett
+    - L Moore
+    - C Henery
+    - C Crowe
+    - R Overman
+    - C Perry
+    - A Thorpe
+    - G Ford
+    - J Pullen
+    - J Hicks
+    - L Hornby-Wheeler
+  registry:
+    people:
+      A Thorpe: 6c54bd7a
+      AC Sabino: dd45b04b
+      C Crowe: 9b671b41
+      C Henery: 03d9e80f
+      C Perry: 152d3c9d
+      CS Nascimento: df997334
+      CV Fernandes Torres: d1f0c1ce
+      G Ford: c569a574
+      J Hicks: 802febe2
+      J Pullen: b3b97956
+      L Agatha: 1aebb2fa
+      L Barnett: d9a2345a
+      L Cardoso: 5777d460
+      L Hornby-Wheeler: a5ce3e4d
+      L Moises: b27f9716
+      L Moore: da50a075
+      LV Boas: 3a00d34f
+      MB dos Santos: 8ba8dd7a
+      MLG Silva: 3b62a6b4
+      NC Monteiro: 752af5a4
+      R Overman: 2ec52460
+      RMAM Avery: 4cf645c9
+  teams:
+  - Brazil
+  - Isle of Man
+  toss:
+    winner: Brazil
+    decision: bat
+  venue: New Farnley CC, Leeds
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.2:
+        non_striker: LV Boas
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.3:
+        non_striker: LV Boas
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 0.4:
+        non_striker: LV Boas
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.5:
+        non_striker: LV Boas
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 0.6:
+        non_striker: L Agatha
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 1.1:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 1.2:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 1.3:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 1.4:
+        non_striker: LV Boas
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 1.5:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LV Boas
+    - 1.6:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          kind: bowled
+    - 1.7:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 2.1:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.2:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.3:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.4:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 2.5:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.6:
+        non_striker: L Agatha
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.1:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.2:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.3:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.4:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.5:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.6:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 3.7:
+        non_striker: L Agatha
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 4.1:
+        non_striker: L Agatha
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 4.2:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - A Thorpe
+          kind: caught
+    - 4.3:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.4:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.5:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.6:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.1:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.2:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.3:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 5.4:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 5.5:
+        non_striker: L Cardoso
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 5.6:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          kind: bowled
+    - 6.1:
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Sabino
+        batsman: RMAM Avery
+    - 6.2:
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Sabino
+        batsman: RMAM Avery
+    - 6.3:
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AC Sabino
+        batsman: RMAM Avery
+    - 6.4:
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Sabino
+        batsman: RMAM Avery
+    - 6.5:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 6.6:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 7.1:
+        non_striker: AC Sabino
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 7.2:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 7.3:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 7.4:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 7.5:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Sabino
+    - 7.6:
+        non_striker: RMAM Avery
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 8.1:
+        non_striker: AC Sabino
+        bowler: A Thorpe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: RMAM Avery
+    - 8.2:
+        non_striker: AC Sabino
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 8.3:
+        non_striker: AC Sabino
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 8.4:
+        non_striker: AC Sabino
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 8.5:
+        non_striker: AC Sabino
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.6:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+        wicket:
+          player_out: AC Sabino
+          fielders:
+          - C Henery
+          kind: caught
+    - 8.7:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 9.1:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLG Silva
+    - 9.2:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 9.3:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLG Silva
+    - 9.4:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MLG Silva
+    - 9.5:
+        non_striker: MLG Silva
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 9.6:
+        non_striker: MLG Silva
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 9.7:
+        non_striker: MLG Silva
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.1:
+        non_striker: MLG Silva
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 10.2:
+        non_striker: MLG Silva
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MLG Silva
+    - 10.4:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 10.5:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 10.6:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 10.7:
+        non_striker: RMAM Avery
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 11.1:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLG Silva
+    - 11.2:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 11.4:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLG Silva
+    - 11.5:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 11.6:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 11.7:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 11.8:
+        non_striker: RMAM Avery
+        bowler: G Ford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 12.1:
+        non_striker: MLG Silva
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 12.2:
+        non_striker: MLG Silva
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 12.3:
+        non_striker: MLG Silva
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 12.4:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 12.5:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 12.6:
+        non_striker: MLG Silva
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 13.1:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 13.2:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLG Silva
+    - 13.3:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 13.4:
+        non_striker: MLG Silva
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.5:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 13.6:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLG Silva
+    - 13.7:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 14.1:
+        non_striker: MLG Silva
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 14.2:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 14.3:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 14.4:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLG Silva
+    - 14.5:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 14.6:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          fielders:
+          - J Pullen
+          kind: caught
+    - 15.1:
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CS Nascimento
+        batsman: RMAM Avery
+    - 15.2:
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Nascimento
+        batsman: RMAM Avery
+    - 15.3:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Nascimento
+    - 15.4:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CS Nascimento
+    - 15.5:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 15.6:
+        non_striker: CS Nascimento
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.7:
+        non_striker: RMAM Avery
+        bowler: L Hornby-Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 16.1:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 16.2:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 16.3:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 16.4:
+        non_striker: CS Nascimento
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 16.5:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 16.6:
+        non_striker: RMAM Avery
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 17.1:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 17.2:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 17.3:
+        non_striker: CS Nascimento
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.4:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: CS Nascimento
+    - 17.5:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CS Nascimento
+    - 17.6:
+        non_striker: CS Nascimento
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 17.7:
+        non_striker: CS Nascimento
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.8:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 18.1:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 18.2:
+        non_striker: CS Nascimento
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 18.3:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 18.4:
+        non_striker: CS Nascimento
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 18.5:
+        non_striker: RMAM Avery
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 18.6:
+        non_striker: CS Nascimento
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 19.1:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 19.2:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 19.3:
+        non_striker: CS Nascimento
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 19.4:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 19.5:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 19.6:
+        non_striker: RMAM Avery
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+        wicket:
+          player_out: CS Nascimento
+          fielders:
+          - C Perry
+          kind: caught
+- 2nd innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.2:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.3:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.4:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.5:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.6:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        batsman: L Barnett
+    - 0.7:
+        non_striker: L Moore
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+        wicket:
+          player_out: L Barnett
+          fielders:
+          - LV Boas
+          kind: caught
+    - 1.1:
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Henery
+        batsman: L Moore
+    - 1.2:
+        non_striker: L Moore
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 1.3:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+    - 1.4:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moore
+        wicket:
+          player_out: L Moore
+          kind: caught and bowled
+    - 1.5:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Crowe
+        wicket:
+          player_out: C Crowe
+          kind: caught and bowled
+    - 1.6:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Overman
+    - 2.1:
+        non_striker: R Overman
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.2:
+        non_striker: R Overman
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.3:
+        non_striker: R Overman
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 2.4:
+        non_striker: C Henery
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 2.5:
+        non_striker: C Henery
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 2.6:
+        non_striker: R Overman
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 3.1:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+        wicket:
+          player_out: R Overman
+          kind: bowled
+    - 3.2:
+        non_striker: C Henery
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 3.3:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Henery
+    - 3.4:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+        wicket:
+          player_out: C Henery
+          kind: bowled
+    - 3.5:
+        non_striker: C Perry
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 4.1:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 4.2:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 4.3:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 4.4:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 4.5:
+        non_striker: C Perry
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 4.6:
+        non_striker: C Perry
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 5.1:
+        non_striker: A Thorpe
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Perry
+    - 5.2:
+        non_striker: C Perry
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 5.3:
+        non_striker: C Perry
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Thorpe
+    - 5.4:
+        non_striker: C Perry
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 5.5:
+        non_striker: C Perry
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Thorpe
+    - 5.6:
+        non_striker: A Thorpe
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 5.7:
+        non_striker: A Thorpe
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Perry
+    - 5.8:
+        non_striker: A Thorpe
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+        wicket:
+          player_out: C Perry
+          fielders:
+          - LV Boas
+          kind: caught
+    - 6.1:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ford
+        batsman: A Thorpe
+    - 6.2:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ford
+        batsman: A Thorpe
+    - 6.3:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Ford
+        batsman: A Thorpe
+    - 6.4:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 6.5:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 6.6:
+        non_striker: A Thorpe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 7.1:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Thorpe
+    - 7.2:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+    - 7.3:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Thorpe
+        wicket:
+          player_out: A Thorpe
+          kind: bowled
+    - 7.4:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 7.5:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pullen
+    - 7.6:
+        non_striker: J Pullen
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 7.7:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 8.1:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.2:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.3:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.4:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ford
+    - 8.5:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.6:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.7:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ford
+    - 8.8:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ford
+    - 8.9:
+        non_striker: J Pullen
+        bowler: CV Fernandes Torres
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 9.1:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 9.2:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 9.3:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pullen
+    - 9.4:
+        non_striker: J Pullen
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ford
+    - 9.5:
+        non_striker: J Pullen
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 9.6:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 9.7:
+        non_striker: G Ford
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pullen
+    - 10.1:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 10.2:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 10.3:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 10.4:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 10.5:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 10.6:
+        non_striker: J Pullen
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+        wicket:
+          player_out: G Ford
+          kind: bowled
+    - 11.1:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Hicks
+        batsman: J Pullen
+    - 11.2:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Hicks
+        batsman: J Pullen
+    - 11.3:
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Hicks
+        batsman: J Pullen
+    - 11.4:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Hicks
+        batsman: J Pullen
+    - 11.5:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Hicks
+        batsman: J Pullen
+    - 11.6:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Hicks
+        batsman: J Pullen
+        wicket:
+          player_out: J Pullen
+          fielders:
+          - RMAM Avery
+          - L Cardoso
+          kind: run out
+    - 11.7:
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Hornby-Wheeler
+        batsman: J Hicks
+    - 11.8:
+        non_striker: L Hornby-Wheeler
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+    - 12.1:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Hornby-Wheeler
+    - 12.2:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+    - 12.3:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+    - 12.4:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+    - 12.5:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+    - 12.6:
+        non_striker: J Hicks
+        bowler: MLG Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Hornby-Wheeler
+        wicket:
+          player_out: L Hornby-Wheeler
+          fielders:
+          - L Cardoso
+          kind: caught

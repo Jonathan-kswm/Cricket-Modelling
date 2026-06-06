@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Suva
+  dates:
+  - '2025-09-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2502
+  outcome:
+    winner: Samoa
+    by:
+      runs: 13
+  overs: 20
+  player_of_match:
+  - RSM Lili'i
+  players:
+    Samoa:
+    - A Sootaga
+    - C Agafili
+    - RSM Lili'i
+    - F Sisifo
+    - T Iosefo
+    - AF Mapu
+    - O Lefaga
+    - TH Semau
+    - AF Aoina
+    - Leitu Leong
+    - JT Manase
+    Papua New Guinea:
+    - K Oala
+    - N Vare
+    - B Tau
+    - HJ Thomas
+    - P Siaka
+    - Melanie Ani
+    - H Doriga
+    - I Toua
+    - HL Tau
+    - D Lohia
+    - M Tom
+  registry:
+    people:
+      A Minati: 7d1c9e3f
+      A Sootaga: 967984d0
+      AF Aoina: 217f5194
+      AF Mapu: d9238aee
+      B Tau: 3a6cbb8e
+      C Agafili: b9bb76c8
+      D Lohia: '01341439'
+      F Sisifo: eff8319a
+      H Doriga: 5aa874da
+      HJ Thomas: a3034d3d
+      HL Tau: ace63b7f
+      I Toua: 83cde44d
+      JT Manase: 524d2019
+      K Oala: df70c3f2
+      Kim Cotton: 67a7c2ee
+      Leitu Leong: 672e1aea
+      M Kenni: 1feb0d3c
+      M Tom: cebc1351
+      Melanie Ani: ff05f9f8
+      N Vare: 20ace887
+      O Lefaga: 540fb139
+      P Siaka: 595433d2
+      RSM Lili'i: ba3a1359
+      Suresh Subramanian: 4e869e23
+      T Iosefo: 335b2768
+      TH Semau: 175d59dd
+      TL Anderson: f52ddf8d
+  teams:
+  - Samoa
+  - Papua New Guinea
+  toss:
+    winner: Samoa
+    decision: bat
+  umpires:
+  - Kim Cotton
+  - Suresh Subramanian
+  venue: Albert Park 2, Suva
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: M Tom
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: C Agafili
+        batsman: A Sootaga
+    - 0.2:
+        non_striker: A Sootaga
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 0.3:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sootaga
+    - 0.4:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 0.5:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 0.6:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 0.7:
+        non_striker: A Sootaga
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 1.1:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 1.2:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sootaga
+    - 1.3:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 1.4:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 1.5:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sootaga
+    - 1.6:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 2.1:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+        wicket:
+          player_out: A Sootaga
+          kind: lbw
+    - 2.2:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 2.3:
+        non_striker: C Agafili
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 2.4:
+        non_striker: RSM Lili'i
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 2.5:
+        non_striker: RSM Lili'i
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 2.6:
+        non_striker: RSM Lili'i
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 3.1:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 3.2:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 3.3:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 3.4:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 3.5:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 3.6:
+        non_striker: C Agafili
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 4.1:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 4.2:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 4.3:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 4.4:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: RSM Lili'i
+    - 4.5:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 4.6:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 5.1:
+        non_striker: C Agafili
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 5.2:
+        non_striker: RSM Lili'i
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 5.3:
+        non_striker: RSM Lili'i
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 5.4:
+        non_striker: RSM Lili'i
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 5.5:
+        non_striker: RSM Lili'i
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 5.6:
+        non_striker: C Agafili
+        bowler: H Doriga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RSM Lili'i
+    - 5.7:
+        non_striker: C Agafili
+        bowler: H Doriga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 6.1:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 6.2:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 6.3:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 6.4:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 6.5:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 6.6:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 7.1:
+        non_striker: RSM Lili'i
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 7.2:
+        non_striker: RSM Lili'i
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 7.3:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 7.4:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 7.5:
+        non_striker: RSM Lili'i
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 7.6:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 8.1:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 8.2:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 8.3:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 8.4:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 8.5:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 8.6:
+        non_striker: C Agafili
+        bowler: D Lohia
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RSM Lili'i
+    - 8.7:
+        non_striker: RSM Lili'i
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 9.1:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 9.2:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 9.3:
+        non_striker: RSM Lili'i
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 9.4:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RSM Lili'i
+    - 9.5:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 9.6:
+        non_striker: C Agafili
+        bowler: HL Tau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 10.1:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 10.2:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 10.3:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Agafili
+    - 10.4:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 10.5:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 10.6:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 10.7:
+        non_striker: C Agafili
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 11.1:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 11.2:
+        non_striker: C Agafili
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 11.3:
+        non_striker: C Agafili
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 11.4:
+        non_striker: C Agafili
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 11.5:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 11.6:
+        non_striker: C Agafili
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 12.1:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 12.2:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+        wicket:
+          player_out: C Agafili
+          kind: bowled
+    - 12.3:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 12.4:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 12.5:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 12.6:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 13.1:
+        non_striker: F Sisifo
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 13.2:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 13.3:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 13.4:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 13.5:
+        non_striker: F Sisifo
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 13.6:
+        non_striker: F Sisifo
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RSM Lili'i
+    - 14.1:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 14.2:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 14.3:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 14.4:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 14.5:
+        non_striker: RSM Lili'i
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 14.6:
+        non_striker: F Sisifo
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RSM Lili'i
+    - 15.1:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 15.2:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+        wicket:
+          player_out: F Sisifo
+          kind: bowled
+    - 15.3:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Iosefo
+    - 15.4:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+    - 15.5:
+        non_striker: RSM Lili'i
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 15.6:
+        non_striker: T Iosefo
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+    - 16.1:
+        non_striker: RSM Lili'i
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+        wicket:
+          player_out: RSM Lili'i
+          fielders:
+          - P Siaka
+          kind: run out
+    - 16.2:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Mapu
+        batsman: T Iosefo
+    - 16.3:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Mapu
+        batsman: T Iosefo
+    - 16.4:
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AF Mapu
+        batsman: T Iosefo
+    - 16.5:
+        non_striker: T Iosefo
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+    - 16.6:
+        non_striker: T Iosefo
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+    - 17.1:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+    - 17.2:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Iosefo
+    - 17.3:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+        wicket:
+          player_out: T Iosefo
+          fielders:
+          - H Doriga
+          kind: caught
+    - 17.4:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 17.5:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Lefaga
+    - 17.6:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 18.1:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Lefaga
+    - 18.2:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Lefaga
+    - 18.3:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 18.4:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+        wicket:
+          player_out: O Lefaga
+          kind: bowled
+    - 18.5:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+    - 18.6:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+        wicket:
+          player_out: TH Semau
+          kind: bowled
+    - 18.7:
+        non_striker: AF Mapu
+        bowler: M Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AF Aoina
+    - 19.1:
+        non_striker: AF Aoina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Mapu
+    - 19.2:
+        non_striker: AF Mapu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 19.3:
+        non_striker: AF Aoina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AF Mapu
+    - 19.4:
+        non_striker: AF Aoina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+        wicket:
+          player_out: AF Mapu
+          kind: bowled
+    - 19.5:
+        non_striker: AF Aoina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 19.6:
+        non_striker: AF Aoina
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+        wicket:
+          player_out: Leitu Leong
+          kind: bowled
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Vare
+        batsman: K Oala
+    - 0.2:
+        non_striker: K Oala
+        bowler: T Iosefo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 0.3:
+        non_striker: K Oala
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 0.4:
+        non_striker: K Oala
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 0.5:
+        non_striker: N Vare
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Oala
+    - 0.6:
+        non_striker: N Vare
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Oala
+    - 0.7:
+        non_striker: K Oala
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.1:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 1.2:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 1.3:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Oala
+    - 1.4:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 1.5:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+    - 1.6:
+        non_striker: N Vare
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Oala
+    - 2.1:
+        non_striker: K Oala
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.2:
+        non_striker: K Oala
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.3:
+        non_striker: K Oala
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.4:
+        non_striker: K Oala
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 2.5:
+        non_striker: N Vare
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Oala
+        wicket:
+          player_out: K Oala
+          fielders:
+          - T Iosefo
+          kind: caught
+    - 2.6:
+        non_striker: N Vare
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.1:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          kind: lbw
+    - 3.2:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 3.3:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 3.4:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 3.5:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 3.6:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 4.1:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.2:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Tau
+    - 4.3:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.4:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.5:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Tau
+    - 4.6:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.7:
+        non_striker: HJ Thomas
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.1:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.2:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 5.3:
+        non_striker: B Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 5.4:
+        non_striker: HJ Thomas
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.5:
+        non_striker: HJ Thomas
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.6:
+        non_striker: HJ Thomas
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.1:
+        non_striker: B Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          kind: caught and bowled
+    - 6.2:
+        non_striker: B Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 6.3:
+        non_striker: B Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 6.4:
+        non_striker: B Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 6.5:
+        non_striker: P Siaka
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.6:
+        non_striker: B Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 7.1:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          fielders:
+          - A Sootaga
+          kind: caught
+    - 7.2:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Melanie Ani
+    - 7.3:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Melanie Ani
+    - 7.4:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Melanie Ani
+    - 7.5:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Melanie Ani
+    - 7.6:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Melanie Ani
+    - 7.7:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Melanie Ani
+    - 7.8:
+        non_striker: P Siaka
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Melanie Ani
+    - 8.1:
+        non_striker: P Siaka
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Melanie Ani
+    - 8.2:
+        non_striker: Melanie Ani
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: bowled
+    - 8.3:
+        non_striker: Melanie Ani
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 8.4:
+        non_striker: Melanie Ani
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 8.5:
+        non_striker: Melanie Ani
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 8.6:
+        non_striker: Melanie Ani
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 9.1:
+        non_striker: H Doriga
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Melanie Ani
+        wicket:
+          player_out: Melanie Ani
+          kind: bowled
+    - 9.2:
+        non_striker: H Doriga
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 9.3:
+        non_striker: H Doriga
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Toua
+    - 9.4:
+        non_striker: H Doriga
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Toua
+    - 9.5:
+        non_striker: H Doriga
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 9.6:
+        non_striker: I Toua
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 9.7:
+        non_striker: I Toua
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 10.1:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Toua
+    - 10.2:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 10.3:
+        non_striker: I Toua
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 10.4:
+        non_striker: I Toua
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 10.5:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: I Toua
+    - 10.6:
+        non_striker: I Toua
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 11.1:
+        non_striker: I Toua
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Doriga
+    - 11.2:
+        non_striker: I Toua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Doriga
+    - 11.3:
+        non_striker: I Toua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Doriga
+    - 11.4:
+        non_striker: H Doriga
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          kind: bowled
+    - 11.5:
+        non_striker: H Doriga
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HL Tau
+    - 11.6:
+        non_striker: HL Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Doriga
+    - 11.7:
+        non_striker: HL Tau
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Doriga
+    - 12.1:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 12.2:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 12.3:
+        non_striker: H Doriga
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+        wicket:
+          player_out: H Doriga
+          fielders:
+          - O Lefaga
+          kind: run out
+    - 12.4:
+        non_striker: HL Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 12.5:
+        non_striker: HL Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Lohia
+    - 12.6:
+        non_striker: HL Tau
+        bowler: RSM Lili'i
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 13.1:
+        non_striker: D Lohia
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HL Tau
+    - 13.2:
+        non_striker: D Lohia
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 13.3:
+        non_striker: HL Tau
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lohia
+    - 13.4:
+        non_striker: D Lohia
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 13.5:
+        non_striker: D Lohia
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 13.6:
+        non_striker: HL Tau
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Lohia
+    - 14.1:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 14.2:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Tau
+    - 14.3:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 14.4:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Lohia
+    - 14.5:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 14.6:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lohia
+    - 15.1:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 15.2:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 15.3:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Lohia
+    - 15.4:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 15.5:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 15.6:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 16.1:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HL Tau
+    - 16.2:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 16.3:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lohia
+    - 16.4:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 16.5:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 16.6:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 16.7:
+        non_striker: D Lohia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Tau
+    - 17.1:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 17.2:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Lohia
+    - 17.3:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 17.4:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lohia
+    - 17.5:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 17.6:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+        wicket:
+          player_out: D Lohia
+          kind: bowled
+    - 17.7:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Tom
+    - 17.8:
+        non_striker: HL Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tom
+    - 18.1:
+        non_striker: M Tom
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 18.2:
+        non_striker: M Tom
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+    - 18.3:
+        non_striker: M Tom
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Tau
+    - 18.4:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Tom
+    - 18.5:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Tom
+    - 18.6:
+        non_striker: HL Tau
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tom
+    - 19.1:
+        non_striker: M Tom
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Tau
+    - 19.2:
+        non_striker: M Tom
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Tau
+    - 19.3:
+        non_striker: M Tom
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Tau
+        wicket:
+          player_out: M Tom
+          fielders:
+          - A Minati (sub)
+          - Leitu Leong
+          kind: run out

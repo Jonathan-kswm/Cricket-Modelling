@@ -1,0 +1,2211 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2026-01-24'
+  gender: female
+  match_type: T20
+  match_type_number: 2642
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Puja Mahato
+  players:
+    Zimbabwe:
+    - CS Mugeri-Tiripano
+    - B Biza
+    - M Mupachikwa
+    - K Ndlovu
+    - L Tshuma
+    - J Nkomo
+    - CT Dhururu
+    - C Chatonzwa
+    - L Mabhero
+    - K Chigora
+    - N Sibanda
+    Nepal:
+    - B Rawal
+    - Samjhana Khadka
+    - Puja Mahato
+    - I Barma
+    - K Joshi
+    - SR Magar
+    - RC Belbashi
+    - Roma Thapa
+    - K Kunwar
+    - Riya Sharma
+    - S Bist
+  registry:
+    people:
+      B Biza: 8a522c6c
+      B Rawal: 4d1cc284
+      C Chatonzwa: da61a9af
+      CS Mugeri-Tiripano: 99c86133
+      CT Dhururu: 8d7fba79
+      H Pack: fed53c91
+      I Barma: 521abce2
+      J Nkomo: 36dfa62e
+      Jonathan Kennedy: f7ad4494
+      K Chigora: 5f311f1a
+      K Joshi: 0cd297b9
+      K Klaaste: 6cc1d918
+      K Kunwar: 97e6e41a
+      K Ndlovu: 8d25271a
+      L Mabhero: 37f9eb59
+      L Tshuma: f281dd00
+      M Mupachikwa: 6657b319
+      N Sibanda: edf62a25
+      Puja Mahato: 4b95058b
+      RC Belbashi: dfdaca74
+      Riya Sharma: 8b7cda26
+      Rizwan Akram: b5346f1e
+      Roma Thapa: 05d9faac
+      S Bist: ec05df4e
+      SR Magar: 61c22ad0
+      Samjhana Khadka: 765a2354
+  teams:
+  - Zimbabwe
+  - Nepal
+  toss:
+    winner: Nepal
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - K Klaaste
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.2:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.3:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Biza
+        batsman: CS Mugeri-Tiripano
+    - 0.4:
+        non_striker: B Biza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          kind: bowled
+    - 0.5:
+        non_striker: B Biza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 0.6:
+        non_striker: B Biza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 0.7:
+        non_striker: B Biza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 1.1:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.2:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.3:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 1.4:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.5:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 1.6:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Mupachikwa
+    - 1.7:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.8:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.1:
+        non_striker: M Mupachikwa
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Biza
+    - 2.2:
+        non_striker: M Mupachikwa
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 2.3:
+        non_striker: M Mupachikwa
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 2.4:
+        non_striker: M Mupachikwa
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 2.5:
+        non_striker: M Mupachikwa
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 2.6:
+        non_striker: B Biza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 3.1:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.2:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 3.3:
+        non_striker: M Mupachikwa
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 3.5:
+        non_striker: M Mupachikwa
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 3.6:
+        non_striker: B Biza
+        bowler: S Bist
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 4.2:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: B Biza
+    - 4.3:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 4.4:
+        non_striker: B Biza
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 4.5:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 4.6:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 4.7:
+        non_striker: B Biza
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 5.1:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.2:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 5.3:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 5.4:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 5.5:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.6:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.1:
+        non_striker: B Biza
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.2:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 6.3:
+        non_striker: B Biza
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.4:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 6.5:
+        non_striker: B Biza
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.6:
+        non_striker: M Mupachikwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 7.1:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 7.2:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Biza
+    - 7.3:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Biza
+    - 7.4:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 7.5:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 7.6:
+        non_striker: M Mupachikwa
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 8.1:
+        non_striker: M Mupachikwa
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 8.2:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 8.3:
+        non_striker: M Mupachikwa
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 8.4:
+        non_striker: M Mupachikwa
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 8.5:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.6:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+        wicket:
+          player_out: M Mupachikwa
+          kind: lbw
+    - 9.1:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Ndlovu
+        batsman: B Biza
+    - 9.2:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: B Biza
+    - 9.3:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: B Biza
+    - 9.4:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Ndlovu
+        batsman: B Biza
+    - 9.5:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Ndlovu
+        batsman: B Biza
+    - 9.6:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 10.1:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 10.2:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.3:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.4:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.5:
+        non_striker: B Biza
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 10.6:
+        non_striker: K Ndlovu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 11.1:
+        non_striker: B Biza
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 11.2:
+        non_striker: K Ndlovu
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Biza
+    - 11.3:
+        non_striker: K Ndlovu
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+        wicket:
+          player_out: B Biza
+          fielders:
+          - Riya Sharma
+          kind: caught
+    - 11.4:
+        non_striker: K Ndlovu
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 11.5:
+        non_striker: K Ndlovu
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 11.6:
+        non_striker: K Ndlovu
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 12.1:
+        non_striker: L Tshuma
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 12.2:
+        non_striker: L Tshuma
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 12.3:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 12.4:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 12.5:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 12.6:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+        wicket:
+          player_out: L Tshuma
+          fielders:
+          - Puja Mahato
+          kind: caught
+    - 13.1:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.2:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.3:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.4:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.5:
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.6:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Nkomo
+        batsman: K Ndlovu
+    - 13.7:
+        non_striker: J Nkomo
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 14.1:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 14.2:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 14.3:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 14.4:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 14.5:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 14.6:
+        non_striker: J Nkomo
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 15.1:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 15.2:
+        non_striker: J Nkomo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 15.3:
+        non_striker: J Nkomo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 15.4:
+        non_striker: J Nkomo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Ndlovu
+    - 15.5:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 15.6:
+        non_striker: K Ndlovu
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Nkomo
+    - 16.1:
+        non_striker: K Ndlovu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 16.2:
+        non_striker: J Nkomo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 16.3:
+        non_striker: J Nkomo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 16.4:
+        non_striker: K Ndlovu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 16.5:
+        non_striker: J Nkomo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 16.6:
+        non_striker: J Nkomo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 17.1:
+        non_striker: J Nkomo
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 17.2:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+        wicket:
+          player_out: J Nkomo
+          kind: lbw
+    - 17.3:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 17.4:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 17.5:
+        non_striker: CT Dhururu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 17.6:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 18.1:
+        non_striker: K Ndlovu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 18.2:
+        non_striker: CT Dhururu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 18.3:
+        non_striker: CT Dhururu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 18.4:
+        non_striker: K Ndlovu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 18.5:
+        non_striker: CT Dhururu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 18.6:
+        non_striker: CT Dhururu
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 19.1:
+        non_striker: CT Dhururu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 19.2:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+        wicket:
+          player_out: CT Dhururu
+          kind: lbw
+    - 19.3:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 19.4:
+        non_striker: K Ndlovu
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 19.5:
+        non_striker: C Chatonzwa
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 19.6:
+        non_striker: C Chatonzwa
+        bowler: Riya Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ndlovu
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Samjhana Khadka
+        batsman: B Rawal
+    - 0.2:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 0.3:
+        non_striker: Samjhana Khadka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.4:
+        non_striker: Samjhana Khadka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.5:
+        non_striker: Samjhana Khadka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.6:
+        non_striker: Samjhana Khadka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Rawal
+    - 1.1:
+        non_striker: B Rawal
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 1.2:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Rawal
+    - 1.3:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Rawal
+    - 1.4:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 1.5:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Rawal
+    - 1.6:
+        non_striker: B Rawal
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 1.7:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 1.8:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Rawal
+    - 1.9:
+        non_striker: Samjhana Khadka
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 2.1:
+        non_striker: Samjhana Khadka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 2.2:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Samjhana Khadka
+    - 2.3:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+    - 2.4:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Samjhana Khadka
+    - 2.5:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+        wicket:
+          player_out: Samjhana Khadka
+          fielders:
+          - CT Dhururu
+          kind: caught
+    - 2.6:
+        non_striker: B Rawal
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.1:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Rawal
+    - 3.2:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 3.3:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.4:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.5:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato
+    - 3.6:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puja Mahato
+    - 3.7:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 4.1:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Rawal
+    - 4.2:
+        non_striker: B Rawal
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Puja Mahato
+    - 4.3:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 4.4:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Rawal
+    - 4.5:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Rawal
+    - 4.6:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 4.7:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Rawal
+    - 4.8:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 4.9:
+        non_striker: B Rawal
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puja Mahato
+    - 4.10:
+        non_striker: B Rawal
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puja Mahato
+    - 4.11:
+        non_striker: B Rawal
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 4.12:
+        non_striker: B Rawal
+        bowler: K Chigora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Puja Mahato
+    - 5.1:
+        non_striker: B Rawal
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 5.2:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 5.3:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+        wicket:
+          player_out: B Rawal
+          kind: lbw
+    - 5.4:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 5.5:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 5.6:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 6.1:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puja Mahato
+    - 6.2:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 6.3:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 6.4:
+        non_striker: Puja Mahato
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 6.5:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 6.6:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puja Mahato
+    - 6.7:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 7.1:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 7.2:
+        non_striker: I Barma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato
+    - 7.3:
+        non_striker: I Barma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 7.4:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 7.5:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 7.6:
+        non_striker: I Barma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 8.1:
+        non_striker: Puja Mahato
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 8.2:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 8.3:
+        non_striker: Puja Mahato
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 8.4:
+        non_striker: Puja Mahato
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 8.5:
+        non_striker: Puja Mahato
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 8.6:
+        non_striker: I Barma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.1:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 9.2:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Barma
+    - 9.3:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 9.4:
+        non_striker: I Barma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 9.5:
+        non_striker: I Barma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 9.6:
+        non_striker: Puja Mahato
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 10.1:
+        non_striker: Puja Mahato
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 10.2:
+        non_striker: Puja Mahato
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Barma
+    - 10.3:
+        non_striker: Puja Mahato
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 10.4:
+        non_striker: I Barma
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 10.5:
+        non_striker: I Barma
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puja Mahato
+    - 10.6:
+        non_striker: I Barma
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 11.1:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.2:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.3:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.4:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 11.5:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+        wicket:
+          player_out: I Barma
+          kind: bowled
+    - 11.6:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+    - 12.1:
+        non_striker: K Joshi
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 12.2:
+        non_striker: K Joshi
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 12.3:
+        non_striker: Puja Mahato
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Joshi
+    - 12.4:
+        non_striker: K Joshi
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Puja Mahato
+    - 12.5:
+        non_striker: K Joshi
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 12.6:
+        non_striker: K Joshi
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 13.1:
+        non_striker: K Joshi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 13.2:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Joshi
+        wicket:
+          player_out: K Joshi
+          kind: bowled
+    - 13.3:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 13.4:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Magar
+    - 13.5:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar
+    - 13.6:
+        non_striker: Puja Mahato
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 13.7:
+        non_striker: SR Magar
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 14.1:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Magar
+    - 14.2:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 14.3:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 14.4:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 14.5:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 14.6:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 14.7:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 15.1:
+        non_striker: SR Magar
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 15.2:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 15.3:
+        non_striker: SR Magar
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 15.4:
+        non_striker: SR Magar
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 15.5:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 15.6:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 16.1:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 16.2:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 16.3:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 16.4:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 16.5:
+        non_striker: Puja Mahato
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 16.6:
+        non_striker: SR Magar
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Puja Mahato
+    - 17.1:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 17.2:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 17.3:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+        wicket:
+          player_out: SR Magar
+          kind: retired hurt
+    - 17.4:
+        non_striker: RC Belbashi
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 17.5:
+        non_striker: Puja Mahato
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 17.6:
+        non_striker: RC Belbashi
+        bowler: K Chigora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 18.1:
+        non_striker: RC Belbashi
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 18.2:
+        non_striker: RC Belbashi
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 18.3:
+        non_striker: Puja Mahato
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 18.4:
+        non_striker: RC Belbashi
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato
+    - 18.5:
+        non_striker: RC Belbashi
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 18.6:
+        non_striker: RC Belbashi
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 19.1:
+        non_striker: RC Belbashi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puja Mahato
+    - 19.2:
+        non_striker: RC Belbashi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 19.3:
+        non_striker: RC Belbashi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puja Mahato

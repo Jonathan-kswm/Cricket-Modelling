@@ -1,0 +1,2164 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2025-07-19'
+  gender: female
+  match_type: T20
+  match_type_number: 2403
+  outcome:
+    winner: Switzerland
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - F Kuenburg
+  players:
+    Finland:
+    - S Sheridan
+    - R Khullar
+    - D Unhale
+    - T Mulepati
+    - L Martin
+    - H Nguyen
+    - M Stolt
+    - M Saastamoinen
+    - A Khullar
+    - P Bhandari
+    - T Leskinen
+    Switzerland:
+    - L Pickard
+    - F Kuenburg
+    - S Divya
+    - D Medagoda
+    - Saranya Kotha
+    - Meghna Rajan
+    - Metty Fernandes
+    - Naina Saju
+    - M Parinitha
+    - S Dabholkatr
+    - F Elizabet
+  registry:
+    people:
+      A Khullar: 9efc1ea4
+      D Medagoda: 77b49bd9
+      D Unhale: efea55e5
+      F Elizabet: 3abdaac1
+      F Kuenburg: 07c1fd15
+      H Nguyen: 8047ca8c
+      L Martin: 1c19e5eb
+      L Pickard: bfe58c8a
+      M Parinitha: '28615668'
+      M Saastamoinen: 5b1a4ff7
+      M Stolt: e7cae029
+      Meghna Rajan: 97ae78b7
+      Metty Fernandes: 17881e49
+      Naina Saju: 756989cf
+      P Bhandari: ddd411e0
+      R Khullar: 76a5e857
+      S Dabholkatr: 280dc48c
+      S Divya: '09d1cf95'
+      S Sheridan: 2d093c80
+      SB Ravindra: 394ba7a8
+      Saranya Kotha: d27caa9c
+      T Koralage: f81e1875
+      T Leskinen: 9fd62e40
+      T Mulepati: cb83a7df
+      VR Seeshadri: 2dcfdef1
+  teams:
+  - Finland
+  - Switzerland
+  toss:
+    winner: Switzerland
+    decision: field
+  umpires:
+  - SB Ravindra
+  - T Koralage
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Khullar
+        batsman: S Sheridan
+    - 0.2:
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Khullar
+        batsman: S Sheridan
+    - 0.3:
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Khullar
+        batsman: S Sheridan
+    - 0.4:
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Khullar
+        batsman: S Sheridan
+    - 0.5:
+        non_striker: S Sheridan
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 0.6:
+        non_striker: S Sheridan
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 0.7:
+        non_striker: S Sheridan
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 0.8:
+        non_striker: S Sheridan
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 1.1:
+        non_striker: R Khullar
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sheridan
+        wicket:
+          player_out: S Sheridan
+          kind: bowled
+    - 1.2:
+        non_striker: R Khullar
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.3:
+        non_striker: R Khullar
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 1.4:
+        non_striker: R Khullar
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 1.5:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Khullar
+    - 1.6:
+        non_striker: R Khullar
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 2.1:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.2:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.3:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 2.4:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.5:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.6:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Khullar
+    - 2.7:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+    - 2.8:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Khullar
+        wicket:
+          player_out: R Khullar
+          fielders:
+          - S Dabholkatr
+          kind: caught
+    - 3.1:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 3.2:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 3.3:
+        bowler: Meghna Rajan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 3.4:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 3.5:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Mulepati
+        batsman: D Unhale
+    - 3.6:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 3.7:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 4.1:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 4.2:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 4.3:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 4.4:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 4.5:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 4.6:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Mulepati
+    - 5.1:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 5.2:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.3:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mulepati
+    - 5.4:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.5:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 5.6:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: T Mulepati
+    - 5.7:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 5.8:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.1:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 6.2:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 6.3:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.4:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.5:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 6.6:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 6.7:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 7.1:
+        non_striker: T Mulepati
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 7.2:
+        non_striker: T Mulepati
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 7.3:
+        non_striker: T Mulepati
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 7.4:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 7.5:
+        non_striker: T Mulepati
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 7.6:
+        non_striker: T Mulepati
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 8.1:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 8.2:
+        non_striker: T Mulepati
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 8.3:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.4:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.5:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 8.6:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.7:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.8:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 8.9:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 9.1:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 9.2:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: D Unhale
+    - 9.3:
+        non_striker: D Unhale
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mulepati
+    - 9.4:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.5:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.6:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 9.7:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 9.8:
+        non_striker: T Mulepati
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 10.1:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 10.2:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mulepati
+    - 10.3:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+    - 10.4:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mulepati
+        wicket:
+          player_out: T Mulepati
+          kind: lbw
+    - 10.5:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Martin
+    - 10.6:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 10.7:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 10.8:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 10.9:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 11.1:
+        non_striker: L Martin
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.2:
+        non_striker: L Martin
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 11.3:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Martin
+    - 11.4:
+        non_striker: L Martin
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.5:
+        non_striker: L Martin
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 11.6:
+        non_striker: L Martin
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 12.1:
+        non_striker: L Martin
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 12.2:
+        non_striker: L Martin
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 12.3:
+        non_striker: L Martin
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 12.4:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Martin
+    - 12.5:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+    - 12.6:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Martin
+    - 12.7:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Martin
+    - 12.8:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Martin
+        wicket:
+          player_out: L Martin
+          fielders:
+          - F Kuenburg
+          kind: caught
+    - 12.9:
+        non_striker: D Unhale
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Nguyen
+    - 13.1:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+    - 13.2:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Nguyen
+        wicket:
+          player_out: H Nguyen
+          fielders:
+          - S Dabholkatr
+          kind: caught
+    - 13.3:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stolt
+    - 13.4:
+        non_striker: M Stolt
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 13.5:
+        non_striker: M Stolt
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 13.6:
+        non_striker: D Unhale
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 14.1:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 14.2:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 14.3:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 14.4:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 14.5:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 14.6:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 14.7:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 14.8:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 14.9:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Unhale
+    - 14.10:
+        non_striker: M Stolt
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 15.1:
+        non_striker: M Stolt
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Unhale
+    - 15.2:
+        non_striker: D Unhale
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 15.3:
+        non_striker: D Unhale
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stolt
+    - 15.4:
+        non_striker: M Stolt
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Unhale
+    - 15.5:
+        non_striker: M Stolt
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 15.6:
+        non_striker: M Stolt
+        bowler: Saranya Kotha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 15.7:
+        non_striker: M Stolt
+        bowler: Saranya Kotha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 16.1:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Stolt
+    - 16.2:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 16.3:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stolt
+    - 16.4:
+        non_striker: D Unhale
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stolt
+    - 16.5:
+        non_striker: M Stolt
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+    - 16.6:
+        non_striker: M Stolt
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Unhale
+    - 16.7:
+        non_striker: M Stolt
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Unhale
+        wicket:
+          player_out: M Stolt
+          fielders:
+          - F Kuenburg
+          - F Elizabet
+          kind: run out
+    - 17.1:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Saastamoinen
+        batsman: D Unhale
+    - 17.2:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Saastamoinen
+        batsman: D Unhale
+    - 17.3:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 17.4:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 17.5:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 17.6:
+        non_striker: D Unhale
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Saastamoinen
+    - 18.1:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Saastamoinen
+    - 18.2:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+    - 18.3:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Saastamoinen
+        wicket:
+          player_out: M Saastamoinen
+          fielders:
+          - Saranya Kotha
+          kind: caught
+    - 18.4:
+        non_striker: D Unhale
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+        wicket:
+          player_out: D Unhale
+          fielders:
+          - S Divya
+          kind: run out
+    - 18.5:
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Bhandari
+        batsman: A Khullar
+    - 18.6:
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Bhandari
+        batsman: A Khullar
+    - 18.7:
+        non_striker: P Bhandari
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+    - 19.1:
+        non_striker: A Khullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bhandari
+    - 19.2:
+        non_striker: A Khullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Bhandari
+    - 19.3:
+        non_striker: A Khullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bhandari
+    - 19.4:
+        non_striker: A Khullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bhandari
+        wicket:
+          player_out: P Bhandari
+          fielders:
+          - D Medagoda
+          kind: caught
+    - 19.5:
+        non_striker: A Khullar
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Leskinen
+    - 19.6:
+        non_striker: T Leskinen
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khullar
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.2:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.3:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.4:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.5:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.6:
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.7:
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Kuenburg
+        batsman: L Pickard
+    - 0.8:
+        non_striker: F Kuenburg
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Pickard
+    - 1.1:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 1.2:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 1.3:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Kuenburg
+    - 1.4:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 1.5:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Kuenburg
+    - 1.6:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 1.7:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 2.1:
+        non_striker: F Kuenburg
+        bowler: D Unhale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 2.2:
+        non_striker: F Kuenburg
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 2.3:
+        non_striker: L Pickard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 2.4:
+        non_striker: L Pickard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 2.5:
+        non_striker: L Pickard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 2.6:
+        non_striker: L Pickard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 2.7:
+        non_striker: L Pickard
+        bowler: D Unhale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 3.1:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 3.2:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Pickard
+    - 3.3:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 3.4:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 3.5:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 3.6:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 3.7:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 4.1:
+        non_striker: L Pickard
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 4.2:
+        non_striker: F Kuenburg
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 4.3:
+        non_striker: F Kuenburg
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 4.4:
+        non_striker: L Pickard
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 4.5:
+        non_striker: L Pickard
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 4.6:
+        non_striker: F Kuenburg
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 5.1:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Kuenburg
+    - 5.2:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 5.3:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 5.4:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Kuenburg
+    - 5.5:
+        non_striker: L Pickard
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 5.6:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Pickard
+    - 5.7:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 5.8:
+        non_striker: F Kuenburg
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 6.1:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 6.2:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Kuenburg
+    - 6.3:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 6.4:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 6.5:
+        non_striker: F Kuenburg
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Pickard
+    - 6.6:
+        non_striker: F Kuenburg
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 7.1:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Kuenburg
+    - 7.2:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 7.3:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Kuenburg
+    - 7.4:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 7.5:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 7.6:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 7.7:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 8.1:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 8.2:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 8.3:
+        non_striker: F Kuenburg
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 8.4:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 8.5:
+        non_striker: L Pickard
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 8.6:
+        non_striker: F Kuenburg
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 9.1:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 9.2:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 9.3:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 9.4:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 9.5:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 9.6:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 9.7:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Pickard
+    - 9.8:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 9.9:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 10.1:
+        non_striker: L Pickard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 10.2:
+        non_striker: F Kuenburg
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 10.3:
+        non_striker: F Kuenburg
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 10.4:
+        non_striker: L Pickard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 10.5:
+        non_striker: L Pickard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Kuenburg
+    - 10.6:
+        non_striker: F Kuenburg
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Pickard
+    - 11.1:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: F Kuenburg
+    - 11.2:
+        non_striker: F Kuenburg
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 11.3:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Kuenburg
+    - 11.4:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 11.5:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+    - 11.6:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Kuenburg
+        wicket:
+          player_out: F Kuenburg
+          fielders:
+          - R Khullar
+          kind: caught
+    - 11.7:
+        non_striker: L Pickard
+        bowler: A Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Divya
+    - 12.1:
+        non_striker: S Divya
+        bowler: M Saastamoinen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Pickard
+    - 12.2:
+        non_striker: L Pickard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Divya
+    - 12.3:
+        non_striker: L Pickard
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Divya
+    - 12.4:
+        non_striker: S Divya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 12.5:
+        non_striker: S Divya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 12.6:
+        non_striker: S Divya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 12.7:
+        non_striker: S Divya
+        bowler: M Saastamoinen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 13.1:
+        non_striker: S Divya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pickard
+    - 13.2:
+        non_striker: S Divya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 13.3:
+        non_striker: L Pickard
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Divya
+    - 13.4:
+        non_striker: S Divya
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Pickard
+    - 13.5:
+        non_striker: L Pickard
+        bowler: P Bhandari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Divya
+    - 13.6:
+        non_striker: L Pickard
+        bowler: P Bhandari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Divya

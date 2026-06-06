@@ -1,0 +1,1842 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2716
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - L Cardoso
+  players:
+    Botswana:
+    - L Mophakedi
+    - P Mapotsane
+    - O Kgeresi
+    - T Shadrack
+    - G Matome
+    - A Mokgotlhe
+    - M Phiase
+    - K Inakale
+    - TB Godisamang
+    - E Mmese
+    - M Modise
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - L Cardoso
+    - RMAM Avery
+    - CS Nascimento
+    - AC Sabino
+    - EC Muller
+    - M Ribeiro
+    - L Moises
+    - MB dos Santos
+    - M Artur
+  registry:
+    people:
+      A Mokgotlhe: 781f1a40
+      AC Sabino: dd45b04b
+      CS Nascimento: df997334
+      E Mmese: c05f9e9d
+      EC Muller: e1461e39
+      G Matome: a6898f7a
+      Imran Zakir: 0071171d
+      J Chibhabha: 4c5c47a4
+      K Inakale: eea862f6
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      L Mophakedi: c8cdbb92
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Modise: 024e0635
+      M Phiase: 537cc79f
+      M Ribeiro: 38424a4d
+      MB dos Santos: 8ba8dd7a
+      O Kgeresi: cba01c28
+      O Musiyamanje: b74c5754
+      P Mapotsane: 9ea555a4
+      RMAM Avery: 4cf645c9
+      T Shadrack: 6d972d02
+      TB Godisamang: ed188d83
+  teams:
+  - Botswana
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  umpires:
+  - Imran Zakir
+  - O Musiyamanje
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.3:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.4:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.5:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.6:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Mapotsane
+        batsman: L Mophakedi
+    - 0.7:
+        non_striker: P Mapotsane
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 1.1:
+        non_striker: L Mophakedi
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 1.2:
+        non_striker: L Mophakedi
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mapotsane
+    - 1.3:
+        non_striker: P Mapotsane
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Mophakedi
+    - 1.4:
+        non_striker: P Mapotsane
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 1.5:
+        non_striker: P Mapotsane
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 1.6:
+        non_striker: L Mophakedi
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 2.1:
+        non_striker: P Mapotsane
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: L Mophakedi
+          fielders:
+          - LV Boas
+          kind: caught
+    - 2.2:
+        non_striker: P Mapotsane
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+        wicket:
+          player_out: O Kgeresi
+          kind: lbw
+    - 2.3:
+        non_striker: P Mapotsane
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 2.4:
+        non_striker: P Mapotsane
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 2.5:
+        non_striker: T Shadrack
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 2.6:
+        non_striker: T Shadrack
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 3.1:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+        wicket:
+          player_out: T Shadrack
+          fielders:
+          - LV Boas
+          kind: caught
+    - 3.2:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 3.3:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 3.4:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 3.5:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mapotsane
+    - 3.6:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 4.1:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 4.2:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 4.3:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mapotsane
+    - 4.4:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 4.5:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mapotsane
+    - 4.6:
+        non_striker: G Matome
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mapotsane
+    - 5.1:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mapotsane
+    - 5.2:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.3:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 5.4:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 5.5:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mapotsane
+    - 5.6:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 5.7:
+        non_striker: P Mapotsane
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 6.1:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 6.2:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mapotsane
+    - 6.3:
+        non_striker: P Mapotsane
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 6.4:
+        non_striker: P Mapotsane
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 6.5:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 6.6:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+    - 7.1:
+        non_striker: P Mapotsane
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 7.2:
+        non_striker: P Mapotsane
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 7.3:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mapotsane
+    - 7.4:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mapotsane
+        wicket:
+          player_out: P Mapotsane
+          kind: bowled
+    - 7.5:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 7.6:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 8.1:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 8.2:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 8.3:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Matome
+    - 8.4:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 8.5:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 8.6:
+        non_striker: A Mokgotlhe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 9.1:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 9.2:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 9.3:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 9.4:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 9.5:
+        non_striker: A Mokgotlhe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 9.6:
+        non_striker: A Mokgotlhe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 10.1:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 10.2:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mokgotlhe
+    - 10.3:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 10.4:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 10.5:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 10.6:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 10.7:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 10.8:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 11.1:
+        non_striker: A Mokgotlhe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 11.2:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 11.3:
+        non_striker: A Mokgotlhe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 11.4:
+        non_striker: A Mokgotlhe
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 11.5:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mokgotlhe
+    - 11.6:
+        non_striker: G Matome
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mokgotlhe
+    - 12.1:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 12.2:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+    - 12.3:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mokgotlhe
+    - 12.4:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.5:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 12.6:
+        non_striker: A Mokgotlhe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 13.1:
+        non_striker: A Mokgotlhe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 13.2:
+        non_striker: A Mokgotlhe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 13.3:
+        non_striker: A Mokgotlhe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 13.4:
+        non_striker: A Mokgotlhe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 13.5:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mokgotlhe
+        wicket:
+          player_out: A Mokgotlhe
+          kind: bowled
+    - 13.6:
+        non_striker: G Matome
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Phiase
+    - 14.1:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 14.2:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 14.3:
+        non_striker: G Matome
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Phiase
+    - 14.4:
+        non_striker: M Phiase
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.5:
+        non_striker: M Phiase
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 14.6:
+        non_striker: M Phiase
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 15.1:
+        non_striker: M Phiase
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 15.2:
+        non_striker: M Phiase
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 15.3:
+        non_striker: M Phiase
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 15.4:
+        non_striker: M Phiase
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 15.5:
+        non_striker: M Phiase
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 15.6:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 15.7:
+        non_striker: G Matome
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 16.1:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Matome
+    - 16.2:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 16.3:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Phiase
+    - 16.4:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Phiase
+    - 16.5:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 16.6:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: G Matome
+    - 16.7:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 17.1:
+        non_striker: M Phiase
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 17.2:
+        non_striker: M Phiase
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 17.3:
+        non_striker: M Phiase
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 17.4:
+        non_striker: M Phiase
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 17.5:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Phiase
+    - 17.6:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 18.1:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 18.2:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+    - 18.3:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Phiase
+    - 18.4:
+        non_striker: M Phiase
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 18.5:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Phiase
+        wicket:
+          player_out: M Phiase
+          kind: lbw
+    - 18.6:
+        non_striker: G Matome
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Inakale
+    - 19.1:
+        non_striker: K Inakale
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 19.2:
+        non_striker: K Inakale
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Matome
+    - 19.3:
+        non_striker: K Inakale
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+    - 19.4:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Inakale
+        wicket:
+          player_out: K Inakale
+          fielders:
+          - L Agatha
+          kind: caught
+    - 19.5:
+        non_striker: G Matome
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Godisamang
+    - 19.6:
+        non_striker: TB Godisamang
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Matome
+    - 19.7:
+        non_striker: TB Godisamang
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Matome
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.2:
+        non_striker: LV Boas
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.3:
+        non_striker: LV Boas
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.4:
+        non_striker: LV Boas
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.5:
+        non_striker: LV Boas
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 0.6:
+        non_striker: L Agatha
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.1:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.2:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.3:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 1.4:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Agatha
+    - 1.5:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.6:
+        non_striker: LV Boas
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.1:
+        non_striker: L Agatha
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          fielders:
+          - M Phiase
+          kind: caught
+    - 2.2:
+        non_striker: L Agatha
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 2.3:
+        non_striker: L Agatha
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 2.4:
+        non_striker: L Cardoso
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.5:
+        non_striker: L Cardoso
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.6:
+        non_striker: L Agatha
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.1:
+        non_striker: L Cardoso
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.2:
+        non_striker: L Agatha
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 3.3:
+        non_striker: L Cardoso
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.4:
+        non_striker: L Agatha
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.5:
+        non_striker: L Agatha
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.6:
+        non_striker: L Agatha
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 4.1:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 4.2:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 4.3:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.4:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.5:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.6:
+        non_striker: L Agatha
+        bowler: K Inakale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 5.1:
+        non_striker: L Cardoso
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 5.2:
+        non_striker: L Agatha
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.3:
+        non_striker: L Agatha
+        bowler: A Mokgotlhe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: L Cardoso
+    - 5.4:
+        non_striker: L Agatha
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 5.5:
+        non_striker: L Cardoso
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 5.6:
+        non_striker: L Agatha
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.7:
+        non_striker: L Agatha
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 6.1:
+        non_striker: L Cardoso
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.2:
+        non_striker: L Agatha
+        bowler: M Phiase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Cardoso
+    - 6.3:
+        non_striker: L Agatha
+        bowler: M Phiase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Cardoso
+    - 6.4:
+        non_striker: L Agatha
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 6.5:
+        non_striker: L Agatha
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 6.6:
+        non_striker: L Cardoso
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 6.7:
+        non_striker: L Cardoso
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 6.8:
+        non_striker: L Cardoso
+        bowler: M Phiase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - T Shadrack
+          kind: caught
+    - 7.1:
+        bowler: E Mmese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RMAM Avery
+        batsman: L Cardoso
+    - 7.2:
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: L Cardoso
+    - 7.3:
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RMAM Avery
+        batsman: L Cardoso
+    - 7.4:
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RMAM Avery
+        batsman: L Cardoso
+    - 7.5:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 7.6:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 7.7:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.1:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 8.2:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 8.3:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 8.4:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 8.5:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: RMAM Avery
+    - 8.6:
+        non_striker: RMAM Avery
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.7:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 8.8:
+        non_striker: L Cardoso
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.9:
+        non_striker: RMAM Avery
+        bowler: P Mapotsane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 9.1:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.2:
+        non_striker: RMAM Avery
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 9.3:
+        non_striker: RMAM Avery
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 9.4:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 9.5:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 9.6:
+        non_striker: L Cardoso
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.7:
+        non_striker: RMAM Avery
+        bowler: E Mmese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.1:
+        non_striker: L Cardoso
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.2:
+        non_striker: RMAM Avery
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 10.4:
+        non_striker: RMAM Avery
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 10.5:
+        non_striker: L Cardoso
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 10.6:
+        non_striker: L Cardoso
+        bowler: A Mokgotlhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.1:
+        non_striker: L Cardoso
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 11.2:
+        non_striker: L Cardoso
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 11.4:
+        non_striker: RMAM Avery
+        bowler: O Kgeresi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 11.5:
+        non_striker: RMAM Avery
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 11.6:
+        non_striker: L Cardoso
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 11.7:
+        non_striker: L Cardoso
+        bowler: O Kgeresi
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RMAM Avery
+    - 11.8:
+        non_striker: L Cardoso
+        bowler: O Kgeresi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery

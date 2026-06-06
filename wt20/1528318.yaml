@@ -1,0 +1,1326 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-04-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2702
+  outcome:
+    winner: Malawi
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - P Maziya
+  players:
+    Lesotho:
+    - KM Molapo
+    - P Pheko
+    - B Tlali
+    - MM Mabathoana
+    - MA Nyabela
+    - B Phelenyane
+    - TJ Mahe
+    - N Thekiso
+    - R Limema
+    - L Polaki
+    - B Mosoaboli
+    Malawi:
+    - S Chinawa
+    - E Chiralile
+    - S Kananji
+    - A Alfonso
+    - B Kasinja
+    - C Bwanali
+    - E Mapisa
+    - L Malino
+    - M Ndipo
+    - P Maziya
+    - C Mangulama
+  registry:
+    people:
+      A Alfonso: 5088c217
+      B Kasinja: eaba37fc
+      B Mosoaboli: c92f74da
+      B Phelenyane: c982ad6f
+      B Tlali: a42cdf67
+      C Bwanali: b26a30f9
+      C Mangulama: 857c13f8
+      E Chiralile: 4e193c55
+      E Mapisa: 58ebd785
+      KM Molapo: dc5934a6
+      L Malino: 7a81836e
+      L Polaki: 10ca0ed4
+      M Ndipo: e6a893a1
+      MA Nyabela: 261fddca
+      MM Mabathoana: fb432bd3
+      N Thekiso: b835874f
+      P Maziya: 4f85f02c
+      P Pheko: 24e0b90f
+      R Limema: 95fdfe7e
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      TJ Mahe: 3c5b2e9e
+  teams:
+  - Lesotho
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Pheko
+        batsman: KM Molapo
+    - 0.2:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Pheko
+        batsman: KM Molapo
+    - 0.3:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Pheko
+        batsman: KM Molapo
+    - 0.4:
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Pheko
+        batsman: KM Molapo
+    - 0.5:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Pheko
+        batsman: KM Molapo
+    - 0.6:
+        non_striker: P Pheko
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Molapo
+        wicket:
+          player_out: KM Molapo
+          fielders:
+          - E Chiralile
+          kind: caught
+    - 0.7:
+        non_striker: P Pheko
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 0.8:
+        non_striker: P Pheko
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 1.1:
+        non_striker: B Tlali
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 1.2:
+        non_striker: B Tlali
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Pheko
+    - 1.3:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tlali
+    - 1.4:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tlali
+    - 1.5:
+        non_striker: B Tlali
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 1.6:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+    - 1.7:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tlali
+        wicket:
+          player_out: B Tlali
+          kind: lbw
+    - 2.1:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MM Mabathoana
+        batsman: P Pheko
+    - 2.2:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MM Mabathoana
+        batsman: P Pheko
+    - 2.3:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MM Mabathoana
+        batsman: P Pheko
+    - 2.4:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MM Mabathoana
+        batsman: P Pheko
+    - 2.5:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MM Mabathoana
+        batsman: P Pheko
+    - 2.6:
+        non_striker: MM Mabathoana
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 3.1:
+        non_striker: MM Mabathoana
+        bowler: S Chinawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 3.2:
+        non_striker: MM Mabathoana
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 3.3:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 3.4:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Mabathoana
+    - 3.5:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Mabathoana
+        wicket:
+          player_out: MM Mabathoana
+          fielders:
+          - E Chiralile
+          - P Maziya
+          kind: run out
+    - 3.6:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+    - 3.7:
+        non_striker: P Pheko
+        bowler: S Chinawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Nyabela
+    - 4.1:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Nyabela
+        wicket:
+          player_out: MA Nyabela
+          kind: bowled
+    - 4.2:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Phelenyane
+    - 4.3:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Phelenyane
+    - 4.4:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Phelenyane
+    - 4.5:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 4.6:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Phelenyane
+    - 4.7:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Phelenyane
+    - 4.8:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 5.1:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 5.2:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Phelenyane
+    - 5.3:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Phelenyane
+    - 5.4:
+        non_striker: B Phelenyane
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 5.5:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Phelenyane
+    - 5.6:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 5.7:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 6.1:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 6.2:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 6.3:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pheko
+    - 6.4:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 6.5:
+        non_striker: P Pheko
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Phelenyane
+    - 6.6:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 6.7:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 6.8:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 6.9:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 6.10:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pheko
+    - 6.11:
+        non_striker: B Phelenyane
+        bowler: E Mapisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 7.1:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.2:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+    - 7.3:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Phelenyane
+        wicket:
+          player_out: B Phelenyane
+          fielders:
+          - S Kananji
+          kind: caught
+    - 7.4:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Mahe
+    - 7.5:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Mahe
+        wicket:
+          player_out: TJ Mahe
+          kind: bowled
+    - 7.6:
+        non_striker: P Pheko
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 8.1:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.2:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+    - 8.3:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pheko
+        wicket:
+          player_out: P Pheko
+          fielders:
+          - A Alfonso
+          kind: caught
+    - 8.4:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 8.5:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 8.6:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 9.1:
+        non_striker: R Limema
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thekiso
+    - 9.2:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 9.3:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 9.4:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 9.5:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Limema
+    - 9.6:
+        non_striker: R Limema
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thekiso
+    - 10.1:
+        non_striker: R Limema
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thekiso
+    - 10.2:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Limema
+    - 10.3:
+        non_striker: R Limema
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thekiso
+    - 10.4:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 10.5:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Limema
+    - 10.6:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 10.7:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Limema
+    - 10.8:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 11.1:
+        non_striker: R Limema
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thekiso
+    - 11.2:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+    - 11.3:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Limema
+    - 11.4:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Limema
+        wicket:
+          player_out: R Limema
+          fielders:
+          - L Malino
+          kind: caught
+    - 11.5:
+        non_striker: N Thekiso
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Polaki
+    - 11.6:
+        non_striker: L Polaki
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 12.1:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Polaki
+    - 12.2:
+        non_striker: L Polaki
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+        wicket:
+          player_out: L Polaki
+          fielders:
+          - E Chiralile
+          - L Malino
+          kind: run out
+    - 12.3:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 12.4:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 12.5:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Mosoaboli
+    - 12.6:
+        non_striker: B Mosoaboli
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 13.1:
+        non_striker: N Thekiso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 13.2:
+        non_striker: N Thekiso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 13.3:
+        non_striker: N Thekiso
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Mosoaboli
+    - 13.4:
+        non_striker: B Mosoaboli
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 13.5:
+        non_striker: B Mosoaboli
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 13.6:
+        non_striker: B Mosoaboli
+        bowler: B Kasinja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 14.1:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 14.2:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Mosoaboli
+    - 14.3:
+        non_striker: N Thekiso
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Mosoaboli
+    - 14.4:
+        non_striker: B Mosoaboli
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 14.5:
+        non_striker: B Mosoaboli
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+    - 14.6:
+        non_striker: B Mosoaboli
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thekiso
+        wicket:
+          player_out: N Thekiso
+          kind: bowled
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Chiralile
+        batsman: S Chinawa
+    - 0.2:
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Chiralile
+        batsman: S Chinawa
+    - 0.3:
+        non_striker: S Chinawa
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 0.4:
+        non_striker: S Chinawa
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Chiralile
+    - 0.5:
+        non_striker: S Chinawa
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Chiralile
+    - 0.6:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 0.7:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 1.1:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 1.2:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.3:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 1.4:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Chiralile
+    - 1.5:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 1.6:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 1.7:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 2.1:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 2.2:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 2.3:
+        non_striker: S Chinawa
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 2.4:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Chinawa
+    - 2.5:
+        non_striker: S Chinawa
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 2.6:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 2.7:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa
+    - 2.8:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 2.9:
+        non_striker: E Chiralile
+        bowler: B Tlali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 3.1:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Chiralile
+    - 3.2:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Chiralile
+    - 3.3:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chiralile
+    - 3.4:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Chinawa
+    - 3.5:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Chiralile
+    - 3.6:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 3.7:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chinawa
+    - 3.8:
+        non_striker: E Chiralile
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chinawa
+    - 3.9:
+        non_striker: S Chinawa
+        bowler: B Phelenyane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chiralile
+    - 4.1:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chinawa
+    - 4.2:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 4.3:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+        wicket:
+          player_out: S Chinawa
+          fielders:
+          - B Tlali
+          kind: caught
+    - 4.4:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 4.5:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kananji
+    - 4.6:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 4.7:
+        non_striker: E Chiralile
+        bowler: MA Nyabela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kananji

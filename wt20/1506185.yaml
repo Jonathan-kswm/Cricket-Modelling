@@ -1,0 +1,2493 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2535
+  outcome:
+    winner: Romania
+    by:
+      runs: 115
+  overs: 20
+  player_of_match:
+  - RL Blake
+  players:
+    Romania:
+    - M Kearvell
+    - RL Blake
+    - J Chirila
+    - I Muntean
+    - D Tanase
+    - A Lupascu
+    - S Slavaston
+    - G Ionita
+    - I Palliya
+    - M Marin
+    - C Cirlig
+    Bulgaria:
+    - T Dissanayake
+    - S Sarandeva
+    - V Nikolova
+    - K Srandeva
+    - D Ruynekova
+    - S Galabova
+    - M Abadjieva
+    - N Gocheva
+    - V Atanasova
+    - N Toleva
+    - V Kostova
+  registry:
+    people:
+      A Lupascu: 66f819df
+      C Cirlig: 9cfee623
+      D Ruynekova: c3890e1e
+      D Tanase: 3e377209
+      G Ionita: c5c308b7
+      I Muntean: 9b88f80e
+      I Palliya: a5824c28
+      J Chirila: a801ca06
+      K Srandeva: 38602b15
+      M Abadjieva: f37f1c61
+      M Kearvell: d802854a
+      M Marin: 2feef01b
+      N Gocheva: 1be8f244
+      N Toleva: d381938d
+      RL Blake: e2b58daf
+      S Galabova: 21bcbbdd
+      S Sarandeva: dacecca3
+      S Slavaston: eeac4d49
+      T Dissanayake: 5fb4c015
+      V Atanasova: b97e474c
+      V Kostova: 6df505f4
+      V Nikolova: '078d1eb5'
+  teams:
+  - Romania
+  - Bulgaria
+  toss:
+    winner: Romania
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.2:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.3:
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.4:
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RL Blake
+        batsman: M Kearvell
+    - 0.5:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 0.6:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 0.7:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 0.8:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 0.9:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 1.1:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 1.2:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 1.3:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 1.4:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 1.5:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 1.6:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 2.1:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 2.2:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 2.3:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 2.4:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 2.5:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 2.6:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 2.7:
+        non_striker: M Kearvell
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 2.8:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 3.1:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 3.2:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 3.3:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 3.4:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 3.5:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Kearvell
+    - 3.6:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 3.7:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 4.1:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 4.2:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 4.3:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 4.4:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 4.5:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 4.6:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 4.7:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 4.8:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 5.1:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 5.2:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 5.3:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+    - 5.4:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 5.5:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 5.6:
+        non_striker: M Kearvell
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 6.1:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kearvell
+    - 6.2:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 6.3:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kearvell
+    - 6.4:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 6.5:
+        non_striker: M Kearvell
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 6.6:
+        non_striker: M Kearvell
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 6.7:
+        non_striker: M Kearvell
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 7.1:
+        non_striker: RL Blake
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 7.2:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 7.3:
+        non_striker: RL Blake
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 7.4:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 7.5:
+        non_striker: RL Blake
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kearvell
+    - 7.6:
+        non_striker: M Kearvell
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 8.1:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kearvell
+    - 8.2:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kearvell
+        wicket:
+          player_out: M Kearvell
+          kind: bowled
+    - 8.3:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Chirila
+    - 8.4:
+        non_striker: J Chirila
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 8.5:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 8.6:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 8.7:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 9.1:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 9.2:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 9.3:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 9.4:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 9.5:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 9.6:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 10.1:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 10.2:
+        non_striker: J Chirila
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 10.3:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 10.4:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 10.5:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 10.6:
+        non_striker: RL Blake
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 11.1:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 11.2:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 11.3:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 11.4:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 11.5:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 11.6:
+        non_striker: J Chirila
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 12.1:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 12.2:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 12.3:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 12.4:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 12.5:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 12.6:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 12.7:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 13.1:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 13.2:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 13.3:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: J Chirila
+    - 13.4:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 13.5:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 13.6:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 13.7:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 13.8:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 13.9:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 13.10:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 13.11:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 13.12:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Chirila
+    - 14.1:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 14.2:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 14.3:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 14.4:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 14.5:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 14.6:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 14.7:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RL Blake
+    - 14.8:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Chirila
+    - 14.9:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Chirila
+    - 14.10:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 14.11:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 15.1:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 15.2:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 15.3:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 15.4:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 15.5:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 15.6:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 15.7:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Chirila
+    - 15.8:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 15.9:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Chirila
+    - 15.10:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 15.11:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 16.1:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 16.2:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 16.3:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 16.4:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 16.5:
+        non_striker: RL Blake
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 16.6:
+        non_striker: J Chirila
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 17.1:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 17.2:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 17.3:
+        non_striker: RL Blake
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chirila
+    - 17.4:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 17.5:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 17.6:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 17.7:
+        non_striker: J Chirila
+        bowler: V Atanasova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 18.1:
+        non_striker: RL Blake
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: J Chirila
+    - 18.2:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 18.3:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Blake
+    - 18.4:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 18.5:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 18.6:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 18.7:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 18.8:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Blake
+    - 18.9:
+        non_striker: J Chirila
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 19.1:
+        non_striker: J Chirila
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Blake
+    - 19.2:
+        non_striker: J Chirila
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RL Blake
+    - 19.3:
+        non_striker: J Chirila
+        bowler: T Dissanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Blake
+    - 19.4:
+        non_striker: J Chirila
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Blake
+    - 19.5:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 19.6:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Chirila
+    - 19.7:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+    - 19.8:
+        non_striker: RL Blake
+        bowler: T Dissanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chirila
+- 2nd innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.2:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.3:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.4:
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sarandeva
+        batsman: T Dissanayake
+    - 0.5:
+        non_striker: T Dissanayake
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 0.6:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Dissanayake
+    - 0.7:
+        non_striker: T Dissanayake
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 0.8:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Dissanayake
+    - 0.9:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Dissanayake
+    - 0.10:
+        non_striker: T Dissanayake
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.1:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Dissanayake
+    - 1.2:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Dissanayake
+        wicket:
+          player_out: T Dissanayake
+          kind: bowled
+    - 1.3:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 1.4:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 1.5:
+        non_striker: V Nikolova
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Sarandeva
+    - 1.6:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 1.7:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: V Nikolova
+    - 1.8:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 1.9:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          fielders:
+          - I Muntean
+          - M Marin
+          kind: run out
+    - 2.1:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: S Sarandeva
+    - 2.2:
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Srandeva
+        batsman: S Sarandeva
+    - 2.3:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 2.4:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Srandeva
+    - 2.5:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 2.6:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Srandeva
+    - 2.7:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 2.8:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 2.9:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 2.10:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 2.11:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 3.1:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 3.2:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 3.3:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 3.4:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 3.5:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 3.6:
+        non_striker: S Sarandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 3.7:
+        non_striker: K Srandeva
+        bowler: I Muntean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 4.1:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 4.2:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 4.3:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 4.4:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Srandeva
+    - 4.5:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.6:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.7:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.8:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 4.9:
+        non_striker: K Srandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 5.1:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.2:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.3:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.4:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Srandeva
+    - 5.5:
+        non_striker: K Srandeva
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 5.6:
+        non_striker: K Srandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 5.7:
+        non_striker: K Srandeva
+        bowler: J Chirila
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 5.8:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Srandeva
+    - 6.1:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 6.2:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 6.3:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+        wicket:
+          player_out: K Srandeva
+          kind: lbw
+    - 6.4:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 6.5:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 6.6:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          kind: bowled
+    - 6.7:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 6.8:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 6.9:
+        non_striker: S Sarandeva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 7.1:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 7.2:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 7.3:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 7.4:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 7.5:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 7.6:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 7.7:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 8.1:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 8.2:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 8.3:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 8.4:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 8.5:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 8.6:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 8.7:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 8.8:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.1:
+        non_striker: S Sarandeva
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 9.2:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.3:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sarandeva
+    - 9.4:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.5:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 9.6:
+        non_striker: S Galabova
+        bowler: J Chirila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 10.1:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Sarandeva
+    - 10.2:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 10.3:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 10.4:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 10.5:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 10.6:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 10.7:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 11.1:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: S Galabova
+    - 11.2:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 11.3:
+        non_striker: S Galabova
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 11.4:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 11.5:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Galabova
+    - 11.6:
+        non_striker: S Galabova
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 11.7:
+        non_striker: S Galabova
+        bowler: M Kearvell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 11.8:
+        non_striker: S Sarandeva
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 11.9:
+        non_striker: S Galabova
+        bowler: M Kearvell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 12.1:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 12.2:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Sarandeva
+    - 12.3:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 12.4:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 12.5:
+        non_striker: S Sarandeva
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 12.6:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          kind: bowled
+    - 12.7:
+        non_striker: S Galabova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 13.1:
+        non_striker: M Abadjieva
+        bowler: D Tanase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 13.2:
+        non_striker: M Abadjieva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 13.3:
+        non_striker: M Abadjieva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 13.4:
+        non_striker: S Galabova
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+        wicket:
+          player_out: M Abadjieva
+          kind: lbw
+    - 13.5:
+        non_striker: N Gocheva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          fielders:
+          - M Marin
+          kind: caught
+    - 13.6:
+        non_striker: N Gocheva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Atanasova
+    - 13.7:
+        non_striker: N Gocheva
+        bowler: D Tanase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Atanasova
+    - 14.1:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gocheva
+    - 14.2:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gocheva
+    - 14.3:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gocheva
+        wicket:
+          player_out: N Gocheva
+          kind: caught and bowled
+    - 14.4:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 14.5:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 14.6:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+        wicket:
+          player_out: N Toleva
+          kind: bowled
+    - 14.7:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kostova
+    - 14.8:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kostova
+    - 14.9:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kostova
+    - 14.10:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kostova
+    - 14.11:
+        non_striker: V Atanasova
+        bowler: A Lupascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kostova
+        wicket:
+          player_out: V Atanasova
+          fielders:
+          - M Kearvell
+          - M Marin
+          kind: run out

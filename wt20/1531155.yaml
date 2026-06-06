@@ -1,0 +1,2199 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2026-04-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2731
+  outcome:
+    winner: Italy
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - Ilenia Sims
+  players:
+    Vanuatu:
+    - R Andrew
+    - V Langiatu
+    - N Navaika
+    - S Solman
+    - S Stephen
+    - G Chilia
+    - A Chilia
+    - V Vira
+    - A Griffin
+    - M Tarimiala
+    - N Kakor
+    Italy:
+    - M Rathnayake
+    - A Kontopirakis
+    - Ilenia Sims
+    - EL Bartram
+    - C Mahamalage
+    - ECB Moore
+    - K Peddrick
+    - HA Daluwatta
+    - Amaya Rajapaksha
+    - S Kanankege
+    - S Malwatta
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      A Griffin: de1c0045
+      A Kontopirakis: 4f05f64e
+      Amaya Rajapaksha: 9b52731d
+      C Mahamalage: 3250b7db
+      D Odhiambo: '45994517'
+      ECB Moore: d0ff93a9
+      EL Bartram: 5fa7f030
+      G Chilia: daf255ce
+      HA Daluwatta: 8bbfc744
+      Ilenia Sims: 03c98aa6
+      J Chibhabha: 4c5c47a4
+      K Peddrick: a031b75e
+      L Rusere: 6a4734ae
+      M Rathnayake: a969dc4c
+      M Tarimiala: 0030a57d
+      N Kakor: 1bc685ee
+      N Navaika: b0023708
+      R Andrew: 66c1accf
+      S Kanankege: '01815edc'
+      S Malwatta: bc11f3a3
+      S Solman: 24ed1f75
+      S Stephen: b48304b5
+      V Langiatu: fdd18ca0
+      V Vira: '94271647'
+      VR Angara: 5b7b706f
+  teams:
+  - Vanuatu
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - D Odhiambo
+  - VR Angara
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.2:
+        non_striker: R Andrew
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 0.3:
+        non_striker: V Langiatu
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 0.4:
+        non_striker: V Langiatu
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 0.5:
+        non_striker: R Andrew
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 0.6:
+        non_striker: R Andrew
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 1.1:
+        non_striker: R Andrew
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 1.2:
+        non_striker: V Langiatu
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 1.3:
+        non_striker: V Langiatu
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 1.4:
+        non_striker: V Langiatu
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 1.5:
+        non_striker: R Andrew
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 1.6:
+        non_striker: R Andrew
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 1.7:
+        non_striker: R Andrew
+        bowler: S Kanankege
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: V Langiatu
+    - 2.1:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 2.2:
+        non_striker: R Andrew
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.3:
+        non_striker: R Andrew
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Langiatu
+    - 2.4:
+        non_striker: R Andrew
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.5:
+        non_striker: R Andrew
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 2.6:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 3.1:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 3.2:
+        non_striker: R Andrew
+        bowler: K Peddrick
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Langiatu
+    - 3.3:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 3.4:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.5:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.6:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.7:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 4.1:
+        non_striker: R Andrew
+        bowler: A Kontopirakis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 4.2:
+        non_striker: R Andrew
+        bowler: A Kontopirakis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 4.3:
+        non_striker: R Andrew
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 4.4:
+        non_striker: R Andrew
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 4.5:
+        non_striker: V Langiatu
+        bowler: A Kontopirakis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Andrew
+    - 4.6:
+        non_striker: V Langiatu
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 4.7:
+        non_striker: V Langiatu
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+        wicket:
+          player_out: R Andrew
+          fielders:
+          - Ilenia Sims
+          kind: run out
+    - 4.8:
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Navaika
+        batsman: V Langiatu
+    - 4.9:
+        non_striker: V Langiatu
+        bowler: A Kontopirakis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 5.1:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.2:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.3:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.4:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.5:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 5.6:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 6.1:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 6.2:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.3:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 6.4:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.5:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 6.6:
+        non_striker: V Langiatu
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 7.1:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Navaika
+    - 7.2:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 7.3:
+        non_striker: V Langiatu
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 7.4:
+        non_striker: N Navaika
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.5:
+        non_striker: N Navaika
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.6:
+        non_striker: N Navaika
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.7:
+        non_striker: N Navaika
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          kind: lbw
+    - 8.1:
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Solman
+        batsman: N Navaika
+    - 8.2:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 8.3:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 8.4:
+        non_striker: S Solman
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 8.5:
+        non_striker: S Solman
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 8.6:
+        non_striker: S Solman
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 9.1:
+        non_striker: S Solman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 9.2:
+        non_striker: N Navaika
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 9.3:
+        non_striker: S Solman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.4:
+        non_striker: S Solman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.5:
+        non_striker: S Solman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 9.6:
+        non_striker: S Solman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 10.1:
+        non_striker: S Solman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 10.2:
+        non_striker: S Solman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 10.3:
+        non_striker: S Solman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 10.4:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 10.5:
+        non_striker: N Navaika
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 10.6:
+        non_striker: S Solman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.1:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 11.2:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 11.3:
+        non_striker: S Solman
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 11.4:
+        non_striker: S Solman
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 11.5:
+        non_striker: S Solman
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 11.6:
+        non_striker: S Solman
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.1:
+        non_striker: N Navaika
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 12.2:
+        non_striker: S Solman
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 12.3:
+        non_striker: S Solman
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.4:
+        non_striker: S Solman
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 12.5:
+        non_striker: S Solman
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 12.6:
+        non_striker: S Solman
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 13.1:
+        non_striker: S Solman
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 13.2:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 13.3:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+        wicket:
+          player_out: S Solman
+          fielders:
+          - M Rathnayake
+          kind: stumped
+    - 13.4:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 13.5:
+        non_striker: S Stephen
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Navaika
+    - 13.6:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Stephen
+    - 13.7:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Stephen
+    - 13.8:
+        non_striker: N Navaika
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Stephen
+    - 14.1:
+        non_striker: S Stephen
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 14.2:
+        non_striker: S Stephen
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 14.3:
+        non_striker: S Stephen
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 14.4:
+        non_striker: N Navaika
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 14.5:
+        non_striker: S Stephen
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 14.6:
+        non_striker: S Stephen
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 15.1:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 15.2:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 15.3:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 15.4:
+        non_striker: S Stephen
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 15.5:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 15.6:
+        non_striker: N Navaika
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 16.1:
+        non_striker: S Stephen
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: N Navaika
+          kind: lbw
+    - 16.2:
+        non_striker: S Stephen
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Chilia
+    - 16.3:
+        non_striker: G Chilia
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 16.4:
+        non_striker: G Chilia
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 16.5:
+        non_striker: G Chilia
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 16.6:
+        non_striker: S Stephen
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Chilia
+    - 16.7:
+        non_striker: G Chilia
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 17.1:
+        non_striker: G Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+        wicket:
+          player_out: S Stephen
+          fielders:
+          - ECB Moore
+          kind: caught
+    - 17.2:
+        non_striker: G Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 17.3:
+        non_striker: A Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 17.4:
+        non_striker: A Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 17.5:
+        non_striker: A Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Chilia
+    - 17.6:
+        non_striker: G Chilia
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+        wicket:
+          player_out: G Chilia
+          fielders:
+          - EL Bartram
+          kind: run out
+    - 18.1:
+        non_striker: A Chilia
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vira
+    - 18.2:
+        non_striker: V Vira
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 18.3:
+        non_striker: V Vira
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 18.4:
+        non_striker: A Chilia
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vira
+    - 18.5:
+        non_striker: V Vira
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 18.6:
+        non_striker: A Chilia
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vira
+    - 19.1:
+        non_striker: A Chilia
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vira
+    - 19.2:
+        non_striker: A Chilia
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Vira
+    - 19.3:
+        non_striker: A Chilia
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vira
+    - 19.4:
+        non_striker: A Chilia
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vira
+    - 19.5:
+        non_striker: A Chilia
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vira
+    - 19.6:
+        non_striker: V Vira
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chilia
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: V Vira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Kontopirakis
+        batsman: M Rathnayake
+    - 0.2:
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kontopirakis
+        batsman: M Rathnayake
+    - 0.3:
+        non_striker: M Rathnayake
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 0.4:
+        non_striker: M Rathnayake
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+        wicket:
+          player_out: A Kontopirakis
+          kind: lbw
+    - 0.5:
+        non_striker: M Rathnayake
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 0.6:
+        non_striker: M Rathnayake
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 0.7:
+        non_striker: M Rathnayake
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 1.1:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.2:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.3:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 1.4:
+        non_striker: M Rathnayake
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 1.5:
+        non_striker: M Rathnayake
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 1.6:
+        non_striker: M Rathnayake
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 1.7:
+        non_striker: M Rathnayake
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 2.1:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.2:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.3:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.4:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.5:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.6:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          kind: bowled
+    - 3.1:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: EL Bartram
+        batsman: Ilenia Sims
+    - 3.2:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: Ilenia Sims
+    - 3.3:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: Ilenia Sims
+    - 3.4:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EL Bartram
+        batsman: Ilenia Sims
+    - 3.5:
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: Ilenia Sims
+    - 3.6:
+        non_striker: EL Bartram
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 4.1:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 4.2:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 4.3:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 4.4:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 4.5:
+        non_striker: EL Bartram
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 4.6:
+        non_striker: EL Bartram
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 4.7:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.1:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 5.2:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 5.3:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.4:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EL Bartram
+    - 5.5:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Bartram
+    - 5.6:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 6.1:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 6.2:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 6.3:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 6.4:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 6.5:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 6.6:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 7.1:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 7.2:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 7.3:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 7.4:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 7.5:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 7.6:
+        non_striker: EL Bartram
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 8.1:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 8.2:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 8.3:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 8.4:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 8.5:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 8.6:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 9.1:
+        non_striker: EL Bartram
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 9.2:
+        non_striker: EL Bartram
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 9.3:
+        non_striker: EL Bartram
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 9.4:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.5:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.6:
+        non_striker: Ilenia Sims
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 10.1:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 10.2:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 10.3:
+        non_striker: EL Bartram
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+        wicket:
+          player_out: EL Bartram
+          fielders:
+          - A Griffin
+          - M Tarimiala
+          kind: run out
+    - 10.4:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 10.5:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 10.6:
+        non_striker: C Mahamalage
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 11.1:
+        non_striker: C Mahamalage
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+        wicket:
+          player_out: C Mahamalage
+          fielders:
+          - V Vira
+          - M Tarimiala
+          kind: run out
+    - 11.2:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 11.3:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 11.4:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 11.5:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 11.6:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 12.1:
+        non_striker: ECB Moore
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 12.2:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 12.3:
+        non_striker: ECB Moore
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 12.4:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ECB Moore
+    - 12.5:
+        non_striker: Ilenia Sims
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 12.6:
+        non_striker: ECB Moore
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.1:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ECB Moore
+    - 13.2:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 13.3:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 13.4:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 13.5:
+        non_striker: ECB Moore
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.6:
+        non_striker: ECB Moore
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.7:
+        non_striker: ECB Moore
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.1:
+        non_striker: ECB Moore
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.2:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 14.3:
+        non_striker: ECB Moore
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.4:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 14.5:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+        wicket:
+          player_out: ECB Moore
+          fielders:
+          - V Vira
+          - M Tarimiala
+          kind: run out
+    - 14.6:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Peddrick
+    - 15.1:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Peddrick
+    - 15.2:
+        non_striker: K Peddrick
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 15.3:
+        non_striker: K Peddrick
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 15.4:
+        non_striker: K Peddrick
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 15.5:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Peddrick
+    - 15.6:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 15.7:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Peddrick
+    - 16.1:
+        non_striker: K Peddrick
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 16.2:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Peddrick
+    - 16.3:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 16.4:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Peddrick
+    - 16.5:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 16.6:
+        non_striker: Ilenia Sims
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 17.1:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 17.2:
+        non_striker: K Peddrick
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 17.3:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 17.4:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 17.5:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+        wicket:
+          player_out: K Peddrick
+          kind: bowled
+    - 17.6:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Daluwatta
+    - 18.1:
+        non_striker: HA Daluwatta
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 18.2:
+        non_striker: HA Daluwatta
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 18.3:
+        non_striker: HA Daluwatta
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 18.4:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HA Daluwatta
+    - 18.5:
+        non_striker: HA Daluwatta
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 18.6:
+        non_striker: Ilenia Sims
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HA Daluwatta
+    - 19.1:
+        non_striker: HA Daluwatta
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 19.2:
+        non_striker: HA Daluwatta
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 19.3:
+        non_striker: HA Daluwatta
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 19.4:
+        non_striker: Ilenia Sims
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HA Daluwatta

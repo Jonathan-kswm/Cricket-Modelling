@@ -1,0 +1,2055 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2026-04-24'
+  gender: female
+  match_type: T20
+  match_type_number: 2736
+  outcome:
+    winner: United States of America
+    by:
+      runs: 72
+  overs: 20
+  player_of_match:
+  - IM Vaghela
+  players:
+    United States of America:
+    - S Kambalapalli
+    - CR Pagydyala
+    - NP Doshi
+    - IM Vaghela
+    - Pooja Ganesh
+    - RP Singh
+    - GC Bhogle
+    - AI Chudasama
+    - Maahi Madhavan
+    - SR Thadani
+    - T Chopra
+    Italy:
+    - M Rathnayake
+    - A Kontopirakis
+    - Ilenia Sims
+    - EL Bartram
+    - ECB Moore
+    - K Peddrick
+    - HA Daluwatta
+    - S Malwatta
+    - S Kanankege
+    - Amaya Rajapaksha
+    - C Mahamalage
+  registry:
+    people:
+      A Kontopirakis: 4f05f64e
+      AI Chudasama: 9414a81c
+      Amaya Rajapaksha: 9b52731d
+      C Mahamalage: 3250b7db
+      CR Pagydyala: d7c02672
+      D Odhiambo: '45994517'
+      ECB Moore: d0ff93a9
+      EL Bartram: 5fa7f030
+      GC Bhogle: a1965ce2
+      HA Daluwatta: 8bbfc744
+      IM Vaghela: 8d62fc14
+      Ilenia Sims: 03c98aa6
+      J Chibhabha: 4c5c47a4
+      K Peddrick: a031b75e
+      L Rusere: 6a4734ae
+      M Rathnayake: a969dc4c
+      Maahi Madhavan: c6002ece
+      NP Doshi: 8cb7d27f
+      Pooja Ganesh: a186b627
+      RP Singh: 0ab3c788
+      S Kambalapalli: 4fd4cef9
+      S Kanankege: '01815edc'
+      S Malwatta: bc11f3a3
+      SR Thadani: 76bda023
+      T Chopra: 73df1fe8
+      VR Angara: 5b7b706f
+  teams:
+  - United States of America
+  - Italy
+  toss:
+    winner: United States of America
+    decision: bat
+  umpires:
+  - D Odhiambo
+  - VR Angara
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.2:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.3:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Pagydyala
+        batsman: S Kambalapalli
+    - 0.4:
+        non_striker: S Kambalapalli
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 0.5:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kambalapalli
+        wicket:
+          player_out: S Kambalapalli
+          fielders:
+          - M Rathnayake
+          kind: stumped
+    - 0.6:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Doshi
+    - 1.1:
+        non_striker: CR Pagydyala
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Doshi
+    - 1.2:
+        non_striker: CR Pagydyala
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Doshi
+    - 1.3:
+        non_striker: CR Pagydyala
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Doshi
+    - 1.4:
+        non_striker: NP Doshi
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.5:
+        non_striker: NP Doshi
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 1.6:
+        non_striker: NP Doshi
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 1.7:
+        non_striker: NP Doshi
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.1:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Doshi
+        wicket:
+          player_out: NP Doshi
+          kind: caught and bowled
+    - 2.2:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.3:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.4:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IM Vaghela
+    - 2.5:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.6:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IM Vaghela
+    - 2.7:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 2.8:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 3.1:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 3.2:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 3.3:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 3.4:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 3.5:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 3.6:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 3.7:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.1:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 4.2:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.3:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 4.4:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 4.5:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 4.6:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 5.1:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 5.2:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 5.3:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 5.4:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 5.5:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 5.6:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 6.1:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 6.2:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 6.3:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 6.4:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 6.5:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 6.6:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.1:
+        non_striker: IM Vaghela
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.2:
+        non_striker: CR Pagydyala
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 7.3:
+        non_striker: CR Pagydyala
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 7.4:
+        non_striker: CR Pagydyala
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 7.5:
+        non_striker: IM Vaghela
+        bowler: HA Daluwatta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 7.6:
+        non_striker: IM Vaghela
+        bowler: HA Daluwatta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 7.7:
+        non_striker: IM Vaghela
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.8:
+        non_striker: CR Pagydyala
+        bowler: HA Daluwatta
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: IM Vaghela
+    - 7.9:
+        non_striker: IM Vaghela
+        bowler: HA Daluwatta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 8.1:
+        non_striker: IM Vaghela
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 8.2:
+        non_striker: IM Vaghela
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CR Pagydyala
+    - 8.3:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 8.4:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IM Vaghela
+    - 8.5:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 8.6:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 8.7:
+        non_striker: IM Vaghela
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 8.8:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IM Vaghela
+    - 8.9:
+        non_striker: CR Pagydyala
+        bowler: Amaya Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 9.1:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 9.2:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 9.3:
+        non_striker: CR Pagydyala
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 9.4:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 9.5:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 9.6:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 10.1:
+        non_striker: CR Pagydyala
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 10.2:
+        non_striker: CR Pagydyala
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 10.3:
+        non_striker: IM Vaghela
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 10.4:
+        non_striker: IM Vaghela
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 10.5:
+        non_striker: CR Pagydyala
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 10.6:
+        non_striker: CR Pagydyala
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IM Vaghela
+    - 11.1:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 11.2:
+        non_striker: IM Vaghela
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 11.3:
+        non_striker: CR Pagydyala
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IM Vaghela
+    - 11.4:
+        non_striker: CR Pagydyala
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 11.5:
+        non_striker: CR Pagydyala
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 11.6:
+        non_striker: CR Pagydyala
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 12.1:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 12.2:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 12.3:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 12.4:
+        non_striker: IM Vaghela
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 12.5:
+        non_striker: CR Pagydyala
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 12.6:
+        non_striker: IM Vaghela
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 13.1:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 13.2:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 13.3:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 13.4:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 13.5:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 13.6:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 14.1:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 14.2:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 14.3:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 14.4:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 14.5:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IM Vaghela
+    - 14.6:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 14.7:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 14.8:
+        non_striker: IM Vaghela
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 14.9:
+        non_striker: CR Pagydyala
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 15.1:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 15.2:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 15.3:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IM Vaghela
+    - 15.4:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 15.5:
+        non_striker: IM Vaghela
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 15.6:
+        non_striker: CR Pagydyala
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IM Vaghela
+    - 16.1:
+        non_striker: IM Vaghela
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+        wicket:
+          player_out: CR Pagydyala
+          kind: bowled
+    - 16.2:
+        non_striker: IM Vaghela
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 16.3:
+        non_striker: IM Vaghela
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 16.4:
+        non_striker: Pooja Ganesh
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IM Vaghela
+    - 16.5:
+        non_striker: Pooja Ganesh
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IM Vaghela
+    - 16.6:
+        non_striker: Pooja Ganesh
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 17.1:
+        non_striker: Pooja Ganesh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+        wicket:
+          player_out: IM Vaghela
+          fielders:
+          - Ilenia Sims
+          kind: caught
+    - 17.2:
+        non_striker: Pooja Ganesh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 17.3:
+        non_striker: RP Singh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 17.4:
+        non_striker: Pooja Ganesh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+        wicket:
+          player_out: RP Singh
+          fielders:
+          - EL Bartram
+          kind: caught
+    - 17.5:
+        non_striker: Pooja Ganesh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 17.6:
+        non_striker: Pooja Ganesh
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 18.1:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+        wicket:
+          player_out: GC Bhogle
+          fielders:
+          - K Peddrick
+          kind: caught
+    - 18.2:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 18.3:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AI Chudasama
+    - 18.4:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Chudasama
+    - 18.5:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Chudasama
+    - 18.6:
+        non_striker: Pooja Ganesh
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 19.1:
+        non_striker: Pooja Ganesh
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Chudasama
+    - 19.2:
+        non_striker: Pooja Ganesh
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 19.3:
+        non_striker: Pooja Ganesh
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 19.4:
+        non_striker: AI Chudasama
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 19.5:
+        non_striker: Pooja Ganesh
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 19.6:
+        non_striker: AI Chudasama
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pooja Ganesh
+    - 19.7:
+        non_striker: AI Chudasama
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pooja Ganesh
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kontopirakis
+        batsman: M Rathnayake
+    - 0.2:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          kind: bowled
+    - 0.3:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 0.4:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 0.5:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 0.6:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 1.1:
+        non_striker: Ilenia Sims
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kontopirakis
+    - 1.2:
+        non_striker: Ilenia Sims
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 1.3:
+        non_striker: A Kontopirakis
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 1.4:
+        non_striker: A Kontopirakis
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 1.5:
+        non_striker: Ilenia Sims
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 1.6:
+        non_striker: A Kontopirakis
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ilenia Sims
+    - 2.1:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 2.2:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 2.3:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+        wicket:
+          player_out: Ilenia Sims
+          fielders:
+          - Maahi Madhavan
+          kind: caught
+    - 2.4:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 2.5:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 2.6:
+        non_striker: A Kontopirakis
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 3.1:
+        non_striker: EL Bartram
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 3.2:
+        non_striker: A Kontopirakis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 3.3:
+        non_striker: A Kontopirakis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+        wicket:
+          player_out: EL Bartram
+          fielders:
+          - CR Pagydyala
+          kind: caught
+    - 3.4:
+        non_striker: A Kontopirakis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 3.5:
+        non_striker: A Kontopirakis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 3.6:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kontopirakis
+    - 4.1:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 4.2:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ECB Moore
+    - 4.3:
+        non_striker: A Kontopirakis
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 4.4:
+        non_striker: ECB Moore
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 4.5:
+        non_striker: ECB Moore
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+        wicket:
+          player_out: A Kontopirakis
+          fielders:
+          - T Chopra
+          kind: caught
+    - 4.6:
+        non_striker: ECB Moore
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 4.7:
+        non_striker: ECB Moore
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 5.1:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 5.2:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 5.3:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 5.4:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 5.5:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 5.6:
+        non_striker: K Peddrick
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 6.1:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.2:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.3:
+        non_striker: K Peddrick
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 6.4:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.5:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.6:
+        non_striker: K Peddrick
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 7.1:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Peddrick
+    - 7.2:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+        wicket:
+          player_out: K Peddrick
+          fielders:
+          - IM Vaghela
+          kind: caught
+    - 7.3:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Daluwatta
+    - 7.4:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Daluwatta
+    - 7.5:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HA Daluwatta
+    - 7.6:
+        non_striker: HA Daluwatta
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ECB Moore
+    - 8.1:
+        non_striker: ECB Moore
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HA Daluwatta
+    - 8.2:
+        non_striker: ECB Moore
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Daluwatta
+        wicket:
+          player_out: HA Daluwatta
+          fielders:
+          - Pooja Ganesh
+          kind: stumped
+    - 8.3:
+        non_striker: ECB Moore
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+    - 8.4:
+        non_striker: ECB Moore
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Malwatta
+    - 8.5:
+        non_striker: S Malwatta
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 8.6:
+        non_striker: S Malwatta
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ECB Moore
+    - 9.1:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+    - 9.2:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Malwatta
+    - 9.3:
+        non_striker: S Malwatta
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 9.4:
+        non_striker: S Malwatta
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 9.5:
+        non_striker: S Malwatta
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 9.6:
+        non_striker: S Malwatta
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ECB Moore
+    - 10.1:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+    - 10.2:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+    - 10.3:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+    - 10.4:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Malwatta
+        wicket:
+          player_out: S Malwatta
+          kind: caught and bowled
+    - 10.5:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kanankege
+    - 10.6:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+    - 10.7:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+    - 11.1:
+        non_striker: S Kanankege
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 11.2:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+    - 11.3:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Kanankege
+    - 11.4:
+        non_striker: S Kanankege
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 11.5:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+    - 11.6:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+    - 12.1:
+        non_striker: S Kanankege
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ECB Moore
+    - 12.2:
+        non_striker: S Kanankege
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 12.3:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kanankege
+        wicket:
+          player_out: S Kanankege
+          kind: bowled
+    - 12.4:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 12.5:
+        non_striker: ECB Moore
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amaya Rajapaksha
+    - 12.6:
+        non_striker: Amaya Rajapaksha
+        bowler: S Kambalapalli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 13.1:
+        non_striker: Amaya Rajapaksha
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 13.2:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 13.3:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 13.4:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 13.5:
+        non_striker: ECB Moore
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amaya Rajapaksha
+    - 13.6:
+        non_striker: Amaya Rajapaksha
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 14.1:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 14.2:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amaya Rajapaksha
+    - 14.3:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 14.4:
+        non_striker: ECB Moore
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amaya Rajapaksha
+    - 14.5:
+        non_striker: Amaya Rajapaksha
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 14.6:
+        non_striker: Amaya Rajapaksha
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 15.1:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+    - 15.2:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amaya Rajapaksha
+    - 15.3:
+        non_striker: Amaya Rajapaksha
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+    - 15.4:
+        non_striker: Amaya Rajapaksha
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ECB Moore
+    - 15.5:
+        non_striker: ECB Moore
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amaya Rajapaksha
+        wicket:
+          player_out: Amaya Rajapaksha
+          fielders:
+          - SR Thadani
+          - T Chopra
+          kind: run out
+    - 15.6:
+        non_striker: C Mahamalage
+        bowler: T Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ECB Moore
+        wicket:
+          player_out: ECB Moore
+          fielders:
+          - CR Pagydyala
+          kind: caught

@@ -1,0 +1,2569 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2025-10-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2539
+  outcome:
+    winner: Norway
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - VB Viyala
+  players:
+    Austria:
+    - P Sabu
+    - H Bhullar
+    - AM Zepeda
+    - S Bhardwaj
+    - SM Ariyasinghage
+    - A Nookala
+    - Hadia Siddiqui
+    - MPM Pathirannehelage
+    - P Ganeshan
+    - Ashi Chopla
+    - A Saifee
+    Norway:
+    - AS Gorad
+    - Mirab Sajjad
+    - Ayesha Hasan
+    - R Immadi
+    - Bijeyata Kumari
+    - Alina Aslam
+    - Nayab Razwan
+    - Mirab Razwan
+    - VB Viyala
+    - P Agrawal
+    - Prachi Kumari
+  registry:
+    people:
+      A Nookala: 57922f7c
+      A Saifee: 7efe9059
+      AM Zepeda: c9f95a16
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ashi Chopla: 89d6902b
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      H Bhullar: c9ffb93d
+      Hadia Siddiqui: 14bc5d2d
+      MPM Pathirannehelage: 0c142594
+      Mirab Razwan: 498031f9
+      Mirab Sajjad: 41db4d1f
+      Nayab Razwan: f12e21a0
+      P Agrawal: bb1fcd51
+      P Ganeshan: 3829c5ea
+      P Sabu: a38da707
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      S Bhardwaj: 83e9173e
+      SM Ariyasinghage: 64ddc3e7
+      VB Viyala: 228a747d
+  teams:
+  - Austria
+  - Norway
+  toss:
+    winner: Austria
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.2:
+        non_striker: H Bhullar
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 0.3:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 0.4:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 0.5:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bhullar
+    - 0.6:
+        non_striker: H Bhullar
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.1:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.2:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Bhullar
+    - 1.3:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: H Bhullar
+    - 1.4:
+        non_striker: H Bhullar
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.5:
+        non_striker: H Bhullar
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.6:
+        non_striker: H Bhullar
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 1.7:
+        non_striker: H Bhullar
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 1.8:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.9:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 2.1:
+        non_striker: H Bhullar
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+        wicket:
+          player_out: H Bhullar
+          fielders:
+          - Mirab Razwan
+          - VB Viyala
+          kind: run out
+    - 2.2:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 2.3:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 2.4:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 2.5:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 2.6:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 2.7:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 3.1:
+        non_striker: AM Zepeda
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.2:
+        non_striker: AM Zepeda
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 3.3:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 3.4:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 3.5:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 3.6:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 3.7:
+        non_striker: P Sabu
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 4.1:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 4.2:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 4.3:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 4.4:
+        non_striker: P Sabu
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 4.5:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 4.6:
+        non_striker: AM Zepeda
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 5.1:
+        non_striker: P Sabu
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 5.2:
+        non_striker: P Sabu
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 5.3:
+        non_striker: P Sabu
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 5.4:
+        non_striker: P Sabu
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 5.5:
+        non_striker: P Sabu
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 5.6:
+        non_striker: AM Zepeda
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          kind: bowled
+    - 5.7:
+        non_striker: AM Zepeda
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 6.1:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 6.2:
+        non_striker: AM Zepeda
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Bhardwaj
+    - 6.3:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+        wicket:
+          player_out: AM Zepeda
+          fielders:
+          - Mirab Razwan
+          kind: caught
+    - 6.4:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ariyasinghage
+    - 6.5:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ariyasinghage
+    - 6.6:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ariyasinghage
+        wicket:
+          player_out: SM Ariyasinghage
+          kind: lbw
+    - 7.1:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Nookala
+        batsman: S Bhardwaj
+    - 7.2:
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Nookala
+        batsman: S Bhardwaj
+    - 7.3:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Nookala
+    - 7.4:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nookala
+        wicket:
+          player_out: A Nookala
+          fielders:
+          - Bijeyata Kumari
+          kind: caught
+    - 7.5:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hadia Siddiqui
+    - 7.6:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadia Siddiqui
+    - 7.7:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hadia Siddiqui
+    - 7.8:
+        non_striker: S Bhardwaj
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hadia Siddiqui
+    - 8.1:
+        non_striker: Hadia Siddiqui
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 8.2:
+        non_striker: Hadia Siddiqui
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 8.3:
+        non_striker: S Bhardwaj
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hadia Siddiqui
+    - 8.4:
+        non_striker: Hadia Siddiqui
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+        wicket:
+          player_out: Hadia Siddiqui
+          fielders:
+          - Ayesha Hasan
+          kind: run out
+    - 8.5:
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPM Pathirannehelage
+        batsman: S Bhardwaj
+    - 8.6:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 9.1:
+        non_striker: S Bhardwaj
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 9.2:
+        non_striker: MPM Pathirannehelage
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 9.3:
+        non_striker: MPM Pathirannehelage
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Bhardwaj
+    - 9.4:
+        non_striker: S Bhardwaj
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 9.5:
+        non_striker: S Bhardwaj
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 9.6:
+        non_striker: S Bhardwaj
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 9.7:
+        non_striker: S Bhardwaj
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 9.8:
+        non_striker: MPM Pathirannehelage
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 10.1:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 10.2:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 10.3:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 10.4:
+        non_striker: MPM Pathirannehelage
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 10.5:
+        non_striker: MPM Pathirannehelage
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 10.6:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 11.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 11.2:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 11.3:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 11.4:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 11.5:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 11.6:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 11.7:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 11.8:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 11.9:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 12.1:
+        non_striker: MPM Pathirannehelage
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 12.2:
+        non_striker: MPM Pathirannehelage
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Bhardwaj
+    - 12.3:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 12.4:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 12.5:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 12.6:
+        non_striker: S Bhardwaj
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 13.1:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 13.2:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 13.3:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 13.4:
+        non_striker: MPM Pathirannehelage
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 13.5:
+        non_striker: MPM Pathirannehelage
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 13.6:
+        non_striker: MPM Pathirannehelage
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 13.7:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 13.8:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 13.9:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 13.10:
+        non_striker: S Bhardwaj
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 14.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 14.2:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 14.3:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+        wicket:
+          player_out: S Bhardwaj
+          kind: bowled
+    - 14.4:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 14.5:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 14.6:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Ganeshan
+    - 14.7:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 15.1:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 15.2:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 15.3:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 15.4:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 15.5:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 15.6:
+        non_striker: P Ganeshan
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 16.1:
+        non_striker: P Ganeshan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 16.2:
+        non_striker: P Ganeshan
+        bowler: Prachi Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 16.3:
+        non_striker: P Ganeshan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 16.4:
+        non_striker: P Ganeshan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 16.5:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 16.6:
+        non_striker: MPM Pathirannehelage
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Ganeshan
+    - 16.7:
+        non_striker: P Ganeshan
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 17.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 17.2:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 17.3:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Ganeshan
+    - 17.4:
+        non_striker: P Ganeshan
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPM Pathirannehelage
+    - 17.5:
+        non_striker: P Ganeshan
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 17.6:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 17.7:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Ganeshan
+    - 17.8:
+        non_striker: MPM Pathirannehelage
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Ganeshan
+    - 17.9:
+        non_striker: P Ganeshan
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.1:
+        non_striker: MPM Pathirannehelage
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Ganeshan
+    - 18.2:
+        non_striker: P Ganeshan
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.3:
+        non_striker: P Ganeshan
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 18.4:
+        non_striker: P Ganeshan
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.5:
+        non_striker: P Ganeshan
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.6:
+        non_striker: P Ganeshan
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+        wicket:
+          player_out: MPM Pathirannehelage
+          fielders:
+          - Nayab Razwan
+          kind: caught
+    - 19.1:
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ashi Chopla
+        batsman: P Ganeshan
+    - 19.2:
+        non_striker: P Ganeshan
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashi Chopla
+    - 19.3:
+        non_striker: P Ganeshan
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashi Chopla
+        wicket:
+          player_out: Ashi Chopla
+          kind: bowled
+    - 19.4:
+        non_striker: P Ganeshan
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Saifee
+    - 19.5:
+        non_striker: P Ganeshan
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Saifee
+        wicket:
+          player_out: P Ganeshan
+          fielders:
+          - Ayesha Hasan
+          kind: run out
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.2:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.3:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirab Sajjad
+        batsman: AS Gorad
+    - 0.4:
+        non_striker: AS Gorad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 0.5:
+        non_striker: AS Gorad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 0.6:
+        non_striker: AS Gorad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.1:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 1.4:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 1.5:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 1.6:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 1.7:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 1.8:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 1.9:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 1.10:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mirab Sajjad
+    - 2.1:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.2:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 2.3:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.4:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.5:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.6:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 2.7:
+        non_striker: Mirab Sajjad
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.1:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 3.2:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 3.3:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 3.4:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 3.5:
+        non_striker: AS Gorad
+        bowler: Ashi Chopla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mirab Sajjad
+    - 3.6:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 3.7:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 3.8:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Gorad
+    - 3.9:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Gorad
+    - 3.10:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.11:
+        non_striker: Mirab Sajjad
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - A Nookala
+          kind: caught
+    - 4.1:
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: Mirab Sajjad
+    - 4.2:
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayesha Hasan
+        batsman: Mirab Sajjad
+    - 4.3:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 4.4:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 4.5:
+        non_striker: Ayesha Hasan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 4.6:
+        non_striker: Ayesha Hasan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 5.1:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 5.2:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 5.3:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 5.4:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 5.5:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 5.6:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 6.1:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 6.2:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 6.3:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Hasan
+    - 6.4:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ayesha Hasan
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 7.1:
+        non_striker: Mirab Sajjad
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 7.2:
+        non_striker: Ayesha Hasan
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 7.3:
+        non_striker: Mirab Sajjad
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.4:
+        non_striker: Mirab Sajjad
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.5:
+        non_striker: Mirab Sajjad
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 7.6:
+        non_striker: Mirab Sajjad
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 8.1:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 8.2:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 8.3:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 8.4:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 8.5:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 8.6:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 8.7:
+        non_striker: Ayesha Hasan
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 9.1:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 9.2:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.3:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 9.4:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.5:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 9.6:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 9.7:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 9.8:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          fielders:
+          - MPM Pathirannehelage
+          kind: caught
+    - 9.9:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 9.10:
+        non_striker: R Immadi
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 10.1:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 10.2:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 10.3:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 10.4:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 10.5:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+        wicket:
+          player_out: R Immadi
+          kind: bowled
+    - 10.6:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 10.7:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 10.8:
+        non_striker: Bijeyata Kumari
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 11.1:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 11.2:
+        non_striker: Bijeyata Kumari
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 11.3:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - Hadia Siddiqui
+          kind: caught
+    - 11.4:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 11.5:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 11.6:
+        non_striker: Alina Aslam
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 12.1:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 12.2:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 12.3:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 12.4:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 12.5:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 12.6:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 13.1:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 13.2:
+        non_striker: Alina Aslam
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 13.3:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 13.4:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 13.5:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 13.6:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 13.7:
+        non_striker: Mirab Sajjad
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 14.1:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 14.2:
+        non_striker: Alina Aslam
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 14.3:
+        non_striker: Alina Aslam
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 14.4:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 14.5:
+        non_striker: Alina Aslam
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mirab Sajjad
+    - 14.6:
+        non_striker: Alina Aslam
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Sajjad
+    - 14.7:
+        non_striker: Mirab Sajjad
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 15.1:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Sajjad
+    - 15.2:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 15.3:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 15.4:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Sajjad
+    - 15.5:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        replacements:
+          role:
+          - in: Nayab Razwan
+            out: Mirab Sajjad
+            reason: injury
+            role: batter
+        batsman: Nayab Razwan
+    - 15.6:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 15.7:
+        non_striker: Alina Aslam
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 16.1:
+        non_striker: Nayab Razwan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Alina Aslam
+    - 16.2:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 16.3:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 16.4:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 16.5:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 16.6:
+        non_striker: Nayab Razwan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 16.7:
+        non_striker: Nayab Razwan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 16.8:
+        non_striker: Nayab Razwan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 17.1:
+        non_striker: Nayab Razwan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 17.2:
+        non_striker: Nayab Razwan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 17.3:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 17.4:
+        non_striker: Nayab Razwan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 17.5:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 17.6:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nayab Razwan
+    - 17.7:
+        non_striker: Nayab Razwan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+        wicket:
+          player_out: Nayab Razwan
+          fielders:
+          - A Nookala
+          - P Ganeshan
+          kind: run out
+    - 17.8:
+        non_striker: Mirab Razwan
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 18.1:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirab Razwan
+    - 18.2:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirab Razwan
+    - 18.3:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 18.4:
+        non_striker: Mirab Razwan
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 18.5:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Mirab Razwan
+          kind: lbw
+    - 18.6:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 18.7:
+        non_striker: Alina Aslam
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VB Viyala
+    - 19.1:
+        non_striker: VB Viyala
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Alina Aslam
+    - 19.2:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+        wicket:
+          player_out: VB Viyala
+          fielders:
+          - P Sabu
+          - A Nookala
+          kind: run out
+    - 19.3:
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Agrawal
+        batsman: Alina Aslam
+    - 19.4:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+        wicket:
+          player_out: P Agrawal
+          fielders:
+          - AM Zepeda
+          kind: caught
+    - 19.5:
+        non_striker: Alina Aslam
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+        wicket:
+          player_out: Prachi Kumari
+          fielders:
+          - A Nookala
+          kind: run out
+    - 19.6:
+        non_striker: Mirab Sajjad
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Alina Aslam

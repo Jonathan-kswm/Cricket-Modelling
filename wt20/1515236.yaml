@@ -1,0 +1,2127 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2026-02-01'
+  gender: female
+  match_type: T20
+  match_type_number: 2660
+  outcome:
+    winner: Scotland
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - DEM Carter
+  players:
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - M McColl
+    - PA Chatterji
+    - R Slater
+    - C Abel
+    - O Bell
+    - AH Maqsood
+    United States of America:
+    - D Dhingra
+    - CR Pagydyala
+    - E Claridge
+    - IM Vaghela
+    - RP Singh
+    - TG Norris
+    - Pooja Ganesh
+    - AI Chudasama
+    - Maahi Madhavan
+    - G Kodali
+    - S Immadi
+  registry:
+    people:
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      AI Chudasama: 9414a81c
+      C Abel: d92d3563
+      CR Pagydyala: d7c02672
+      D Dhingra: b0dc5d0d
+      DEM Carter: c3394c16
+      E Claridge: d8c6a647
+      G Kodali: f606177e
+      IM Vaghela: 8d62fc14
+      K Fraser: a0a65375
+      KE Bryce: f13d3eba
+      M McColl: d5fa2ab3
+      Maahi Madhavan: c6002ece
+      O Bell: 385eac52
+      PA Chatterji: 8e7be59c
+      Pooja Ganesh: a186b627
+      R Slater: 8a452195
+      RP Singh: 0ab3c788
+      Reon King: 20fbf68c
+      Rizwan Akram: b5346f1e
+      S Dambanevana: '039923bd'
+      S Immadi: a6dd06d6
+      SJ Bryce: 2ca65aee
+      Shathira Jakir: 6b992a6f
+      Shivani Mishra: 2982a0c7
+      TG Norris: 8ae7bb3e
+  teams:
+  - Scotland
+  - United States of America
+  toss:
+    winner: Scotland
+    decision: bat
+  umpires:
+  - Rizwan Akram
+  - Shivani Mishra
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.2:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.3:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.4:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.5:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Fraser
+        batsman: DEM Carter
+    - 0.6:
+        non_striker: K Fraser
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DEM Carter
+    - 1.1:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.2:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 1.3:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: K Fraser
+    - 1.4:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 1.6:
+        non_striker: K Fraser
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.1:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+    - 2.2:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 2.3:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Fraser
+    - 2.5:
+        non_striker: K Fraser
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: K Fraser
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 3.1:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          fielders:
+          - CR Pagydyala
+          kind: caught
+    - 3.2:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+    - 3.3:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.4:
+        non_striker: SJ Bryce
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 3.5:
+        non_striker: SJ Bryce
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.6:
+        non_striker: DEM Carter
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 4.4:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 4.6:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.7:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 4.8:
+        non_striker: DEM Carter
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: SJ Bryce
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.4:
+        non_striker: SJ Bryce
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DEM Carter
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.1:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.2:
+        non_striker: SJ Bryce
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.3:
+        non_striker: SJ Bryce
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.4:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: SJ Bryce
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.6:
+        non_striker: SJ Bryce
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 7.1:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - AI Chudasama
+          kind: caught
+    - 7.2:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 7.3:
+        non_striker: A Lister
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.4:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 7.5:
+        non_striker: A Lister
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: A Lister
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 8.1:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DEM Carter
+    - 8.3:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.5:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 8.6:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.1:
+        non_striker: A Lister
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.2:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.3:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.4:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 9.6:
+        non_striker: A Lister
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.1:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.2:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 10.3:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.4:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.5:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 10.6:
+        non_striker: DEM Carter
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.1:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          kind: bowled
+    - 11.2:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 11.3:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          fielders:
+          - AI Chudasama
+          kind: caught
+    - 11.4:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 11.5:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 11.6:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: PA Chatterji
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.2:
+        non_striker: A Lister
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 12.3:
+        non_striker: A Lister
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.4:
+        non_striker: PA Chatterji
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.6:
+        non_striker: A Lister
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.1:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.2:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 13.3:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 13.4:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 13.5:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.6:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.1:
+        non_striker: PA Chatterji
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 14.2:
+        non_striker: PA Chatterji
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 14.3:
+        non_striker: PA Chatterji
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.4:
+        non_striker: A Lister
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 14.5:
+        non_striker: A Lister
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.6:
+        non_striker: A Lister
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 15.1:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 15.2:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.3:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.4:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.5:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 15.6:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 16.1:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Chatterji
+    - 16.2:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 16.3:
+        non_striker: PA Chatterji
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lister
+    - 16.4:
+        non_striker: PA Chatterji
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 16.5:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 16.6:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 16.7:
+        non_striker: A Lister
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.1:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.2:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 17.3:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.4:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 17.5:
+        non_striker: A Lister
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.6:
+        non_striker: PA Chatterji
+        bowler: Maahi Madhavan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 18.1:
+        non_striker: PA Chatterji
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - CR Pagydyala
+          kind: caught
+    - 18.2:
+        non_striker: PA Chatterji
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 18.3:
+        non_striker: R Slater
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 18.4:
+        non_striker: PA Chatterji
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 18.5:
+        non_striker: R Slater
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 18.6:
+        non_striker: R Slater
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 19.1:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 19.2:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Chatterji
+    - 19.3:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Chatterji
+    - 19.4:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          fielders:
+          - E Claridge
+          kind: stumped
+    - 19.5:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+    - 19.6:
+        non_striker: R Slater
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Abel
+        wicket:
+          player_out: C Abel
+          fielders:
+          - E Claridge
+          kind: stumped
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.2:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+        wicket:
+          player_out: D Dhingra
+          fielders:
+          - K Fraser
+          kind: caught
+    - 0.3:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+    - 0.4:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 0.5:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 0.6:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.1:
+        non_striker: CR Pagydyala
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 1.2:
+        non_striker: E Claridge
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 1.3:
+        non_striker: E Claridge
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 1.4:
+        non_striker: CR Pagydyala
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Claridge
+    - 1.5:
+        non_striker: CR Pagydyala
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 1.6:
+        non_striker: E Claridge
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 2.1:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 2.2:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 2.3:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Claridge
+    - 2.4:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 2.5:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.6:
+        non_striker: E Claridge
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 2.7:
+        non_striker: CR Pagydyala
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 3.1:
+        non_striker: CR Pagydyala
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 3.2:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 3.3:
+        non_striker: CR Pagydyala
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Claridge
+    - 3.4:
+        non_striker: CR Pagydyala
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Claridge
+    - 3.5:
+        non_striker: CR Pagydyala
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 3.6:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 3.7:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.1:
+        non_striker: E Claridge
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.2:
+        non_striker: CR Pagydyala
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+    - 4.3:
+        non_striker: CR Pagydyala
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 4.4:
+        non_striker: E Claridge
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 4.5:
+        non_striker: E Claridge
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.6:
+        non_striker: CR Pagydyala
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Claridge
+    - 4.7:
+        non_striker: CR Pagydyala
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Claridge
+    - 5.1:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 5.2:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Pagydyala
+    - 5.3:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 5.4:
+        non_striker: CR Pagydyala
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Claridge
+    - 5.5:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 5.6:
+        non_striker: E Claridge
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 6.1:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 6.2:
+        non_striker: CR Pagydyala
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 6.3:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 6.4:
+        non_striker: CR Pagydyala
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 6.5:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 6.6:
+        non_striker: CR Pagydyala
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Claridge
+    - 7.1:
+        non_striker: E Claridge
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.2:
+        non_striker: CR Pagydyala
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Claridge
+    - 7.3:
+        non_striker: CR Pagydyala
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 7.4:
+        non_striker: E Claridge
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.5:
+        non_striker: CR Pagydyala
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 7.6:
+        non_striker: E Claridge
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 8.1:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 8.2:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 8.3:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+        wicket:
+          player_out: CR Pagydyala
+          fielders:
+          - DEM Carter
+          kind: caught
+    - 8.4:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 8.5:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 8.6:
+        non_striker: E Claridge
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 8.7:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 9.1:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 9.2:
+        non_striker: E Claridge
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 9.3:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+        wicket:
+          player_out: E Claridge
+          fielders:
+          - O Bell
+          kind: caught
+    - 9.4:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 9.5:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 9.6:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 10.1:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 10.2:
+        non_striker: RP Singh
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 10.3:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 10.4:
+        non_striker: RP Singh
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 10.5:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Singh
+    - 10.6:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 11.1:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 11.2:
+        non_striker: RP Singh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IM Vaghela
+    - 11.3:
+        non_striker: RP Singh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 11.4:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 11.5:
+        non_striker: RP Singh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 11.6:
+        non_striker: IM Vaghela
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 12.1:
+        non_striker: IM Vaghela
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Singh
+    - 12.2:
+        non_striker: IM Vaghela
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 12.3:
+        non_striker: RP Singh
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+        wicket:
+          player_out: RP Singh
+          fielders:
+          - DEM Carter
+          - AH Maqsood
+          kind: run out
+    - 12.4:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TG Norris
+        batsman: IM Vaghela
+    - 12.5:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TG Norris
+        batsman: IM Vaghela
+    - 12.6:
+        non_striker: IM Vaghela
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 13.1:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 13.2:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Norris
+    - 13.3:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 13.4:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Norris
+    - 13.5:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 13.6:
+        non_striker: IM Vaghela
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 14.1:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 14.2:
+        non_striker: TG Norris
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 14.3:
+        non_striker: IM Vaghela
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 14.4:
+        non_striker: TG Norris
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 14.5:
+        non_striker: TG Norris
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+        wicket:
+          player_out: IM Vaghela
+          kind: bowled
+    - 14.6:
+        non_striker: TG Norris
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 15.1:
+        non_striker: TG Norris
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 15.2:
+        non_striker: Pooja Ganesh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 15.3:
+        non_striker: Pooja Ganesh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 15.4:
+        non_striker: TG Norris
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 15.5:
+        non_striker: Pooja Ganesh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+        wicket:
+          player_out: TG Norris
+          fielders:
+          - AH Maqsood
+          kind: caught
+    - 15.6:
+        non_striker: Pooja Ganesh
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 16.1:
+        non_striker: Pooja Ganesh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AI Chudasama
+    - 16.2:
+        non_striker: Pooja Ganesh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 16.3:
+        non_striker: AI Chudasama
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 16.4:
+        non_striker: Pooja Ganesh
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 16.5:
+        non_striker: AI Chudasama
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 16.6:
+        non_striker: AI Chudasama
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 17.1:
+        non_striker: AI Chudasama
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 17.2:
+        non_striker: Pooja Ganesh
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AI Chudasama
+    - 17.3:
+        non_striker: Pooja Ganesh
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AI Chudasama
+    - 17.4:
+        non_striker: Pooja Ganesh
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+        wicket:
+          player_out: AI Chudasama
+          fielders:
+          - A Lister
+          kind: caught
+    - 17.5:
+        non_striker: Pooja Ganesh
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maahi Madhavan
+        wicket:
+          player_out: Maahi Madhavan
+          fielders:
+          - SJ Bryce
+          - R Slater
+          kind: run out
+    - 17.6:
+        non_striker: Pooja Ganesh
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 18.1:
+        non_striker: Pooja Ganesh
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 18.2:
+        non_striker: G Kodali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+        wicket:
+          player_out: Pooja Ganesh
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 18.3:
+        non_striker: G Kodali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Immadi
+    - 18.4:
+        non_striker: S Immadi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 18.5:
+        non_striker: G Kodali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Immadi
+    - 18.6:
+        non_striker: G Kodali
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Immadi
+        wicket:
+          player_out: S Immadi
+          fielders:
+          - DEM Carter
+          kind: caught
