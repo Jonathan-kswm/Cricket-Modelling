@@ -67,9 +67,9 @@ violations <- wt20 %>%
   filter(legal_deliveries > 120)
 
 if (nrow(violations) == 0) {
-  cat("\nSanity check passed: no innings exceeds 120 legal deliveries.\n")
+  cat("\nNo innings exceeds 120 legal deliveries.\n")
 } else {
-  cat("\nSanity check FAILED: innings exceeding 120 legal deliveries:\n")
+  cat("\nInnings exceeding 120 legal deliveries:\n")
   print(violations)
 }
 
@@ -78,13 +78,22 @@ if (nrow(violations) == 0) {
 # match_id, Date, Venue, City, match_type, Gender, Team_1, Team_2, Toss_winner, Toss_decision
 # Winner, Win_by_runs, Win_by_wickets, Player_of_match
 
-#test dataframe delete later
-test_df <- data.frame(
-  match_id  <- c("1","1","1","2","2","2","3","3","3"),
-
-)
-
 game_split <- function(data) {
   games <- split(data, data$match_id)
-  return (games)
+  
+  games <- lapply(games, function(match) {
+    static <- list(
+      game_id = as.character(match$match_id[1]),
+      info = match[1, c("date", "venue", "city", "match_type", "gender", "team_1", "team_2", "toss_winner", "toss_decision", "winner", "win_by_runs", "win_by_wickets", "player_of_match")]
+    )
+    
+    inns <- split(match, match$innings)
+    names(inns) <- paste0("innings_", names(inns))
+    
+    c(static, inns)
+  })
+  return(games)
 }
+
+
+wt20_data <- game_split(wt20)

@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Claude Code local settings
+.claude/
+
+# Large / generated data (kept local; regenerable from scripts and wt20/*.yaml)
+wt20_ball_by_ball.csv
+t20s/
+Modelling_doc.nb.html
