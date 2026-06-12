@@ -97,3 +97,4 @@ game_split <- function(data) {
 
 
 wt20_data <- game_split(wt20)
+
