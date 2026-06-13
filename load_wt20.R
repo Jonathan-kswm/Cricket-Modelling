@@ -56,8 +56,6 @@ wt20 <- read_csv(
   )
 )
 
-print(summary(wt20))
-
 # Sanity check: no regular innings (1 or 2) should have more than 120
 # legal deliveries. Super overs (innings 3) are excluded.
 violations <- wt20 %>%
@@ -98,6 +96,5 @@ game_split <- function(data) {
   })
   return(games)
 }
-
 
 wt20_data <- game_split(wt20)

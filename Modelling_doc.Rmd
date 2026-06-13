@@ -1,32 +1,24 @@
 ---
-title: "Modeling Notebook"
-output: html_notebook
+title: "Statistical Analysis & Predictive Modelling of Women's T20 International Cricket"
+output: html_document
 ---
 
-I have produced a data set containing ball by ball information for 1960 women's T20 internationals.
+# Statistical Analysis & Predictive Modelling of Women's T20 International Cricket
+Women's T20 International cricket presents a compelling and underexplored domain for statistical modelling. Unlike men's cricket, which has benefited from decades of academic analysis and established predictive frameworks, WT20I remains statistically sparse—characterised by limited match histories per player and team, constrained training data, and fundamental differences in match dynamics (pace of play, risk tolerance, skill distributions).
 
+
+
+Make sure the code in the block below is run before any of the other cells in the document. Make sure that wt20_ball_by_ball.csv is in the directory (this can be created by running parse_wt20.py)
 ```{r Summary of our Data set}
-summary(wt20)
+source("Model_discovary.R")
 ```
-
-Selecting some good variables for pairs:
-
-```{r}
-cts_data <- data.frame(wt20$date, wt20$win_by_runs, wt20$target, wt20$current_run_rate, wt20$required_run_rate)
-
-pairs(cts_data)
-```
-
-- We can see some <!-- R Notebook saved outputs: do not edit
-  RNOTEBOOK_RMD_STATE_BEGIN
-  eyJ2ZXJzaW9uIjoyLCJjb2RlQ2VsbFN0YXRlcyI6W3siZmluZ2VycHJpbnQiOiJ7XCJsYW5ndWFnZVwiOlwiclwiLFwiY29kZVwi
-  Olwic3VtbWFyeSh3dDIwKVxcclwiLFwib3B0aW9uc1wiOntcImxhYmVsXCI6XCJTdW1tYXJ5IG9mIG91ciBEYXRhIHNldFwifX0i
-  LCJyZXN1bHQiOnsidHlwZSI6InJlc3VsdCIsImNodW5rX2lkIjoibmItMiIsInNvdXJjZV9jb2RlIjoic3VtbWFyeSh3dDIwKVxy
-  XG4iLCJjb25zb2xlX3NlZ21lbnRzIjpbXSwiY29uc29sZSI6IiIsInN0ZG91dCI6IiIsInN0ZGVyciI6IiIsInBsb3RzIjpbXSwi
-  cGxvdHNfaHRtbCI6W10sImRhdGFmcmFtZXMiOltdLCJvdXRwdXRfb3JkZXIiOltdLCJlcnJvciI6IndyaXRlIEVQSVBFIn19LHsi
-  ZmluZ2VycHJpbnQiOiJ7XCJsYW5ndWFnZVwiOlwiclwiLFwiY29kZVwiOlwiY3RzX2RhdGEgPC0gZGF0YS5mcmFtZSh3dDIwJGRh
-  dGUsIHd0MjAkd2luX2J5X3J1bnMsIHd0MjAkdGFyZ2V0LCB3dDIwJGN1cnJlbnRfcnVuX3JhdGUsIHd0MjAkcmVxdWlyZWRfcnVu
-  X3JhdGUpXFxyXFxuXFxyXFxucGFpcnMoY3RzX2RhdGEpXFxyXCIsXCJvcHRpb25zXCI6e319IiwicmVzdWx0IjpudWxsfV0sImNv
-  ZGVDZWxsUmVzdWx0cyI6W119
-  RNOTEBOOK_RMD_STATE_END
-  -->
+<!-- R Notebook saved outputs: do not edit
+RNOTEBOOK_RMD_STATE_BEGIN
+eyJ2ZXJzaW9uIjoyLCJjb2RlQ2VsbFN0YXRlcyI6W3siZmluZ2VycHJpbnQiOiJ7XCJsYW5ndWFnZVwiOlwiclwiLFwiY29kZVwi
+Olwic291cmNlKFxcXCJNb2RlbF9kaXNjb3ZhcnkuUlxcXCIpXCIsXCJvcHRpb25zXCI6e1wibGFiZWxcIjpcIlN1bW1hcnkgb2Yg
+b3VyIERhdGEgc2V0XCJ9fSIsInJlc3VsdCI6eyJ0eXBlIjoicmVzdWx0IiwiY2h1bmtfaWQiOiJuYi0yIiwic291cmNlX2NvZGUi
+OiJzb3VyY2UoXCJNb2RlbF9kaXNjb3ZhcnkuUlwiKVxuIiwiY29uc29sZV9zZWdtZW50cyI6W10sImNvbnNvbGUiOiIiLCJzdGRv
+dXQiOiIiLCJzdGRlcnIiOiIiLCJwbG90cyI6W10sInBsb3RzX2h0bWwiOltdLCJkYXRhZnJhbWVzIjpbXSwib3V0cHV0X29yZGVy
+IjpbXSwiZXJyb3IiOiJ3cml0ZSBFUElQRSJ9fV0sImNvZGVDZWxsUmVzdWx0cyI6W119
+RNOTEBOOK_RMD_STATE_END
+-->
