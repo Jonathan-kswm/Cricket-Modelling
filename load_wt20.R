@@ -73,23 +73,27 @@ if (nrow(violations) == 0) {
   print(violations)
 }
 
-#We want to add two functions; one to split game by game, one to split over by over
+#We want to add two functions; one to split game by game,
+#one to split over by over
 #Static data (same throughout the game)
-# match_id, Date, Venue, City, match_type, Gender, Team_1, Team_2, Toss_winner, Toss_decision
+# match_id, Date, Venue, City, match_type, Gender,
+#Team_1, Team_2, Toss_winner, Toss_decision
 # Winner, Win_by_runs, Win_by_wickets, Player_of_match
 
 game_split <- function(data) {
   games <- split(data, data$match_id)
-  
   games <- lapply(games, function(match) {
     static <- list(
       game_id = as.character(match$match_id[1]),
-      info = match[1, c("date", "venue", "city", "match_type", "gender", "team_1", "team_2", "toss_winner", "toss_decision", "winner", "win_by_runs", "win_by_wickets", "player_of_match")]
+      info = match[1, c(
+        "date", "venue", "city", "match_type", "gender",
+        "team_1", "team_2", "toss_winner", "toss_decision",
+        "winner", "win_by_runs", "win_by_wickets",
+        "player_of_match"
+      )]
     )
-    
     inns <- split(match, match$innings)
     names(inns) <- paste0("innings_", names(inns))
-    
     c(static, inns)
   })
   return(games)
@@ -97,4 +101,3 @@ game_split <- function(data) {
 
 
 wt20_data <- game_split(wt20)
-
