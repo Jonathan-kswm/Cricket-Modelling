@@ -87,8 +87,28 @@ match_outcome <- function(match, team){
   }
 }
 
+summarise_block <- function(label, results_subset, total) {
+  #used to print a block later
+  n      <- length(results_subset)
+  wins   <- sum(results_subset == "won")
+  losses <- sum(results_subset == "lost")
+  ties   <- sum(results_subset == "tied")
+  #Base the win rate on decisive games only so ties don't dilute it.
+  decisive <- wins + losses
+  list(
+    label        = label,
+    n            = n,
+    wins         = wins,
+    losses       = losses,
+    ties         = ties,
+    decisive     = decisive,
+    win_rate     = if (decisive > 0) 100 * (wins / decisive) else NA,
+    pct_of_total = if (total > 0) 100 * (n / total) else NA
+  )
+}
+
 conditional <- function(event, parameter = NULL, modifier = NULL,
-                        inns = NULL, data = wt20_data, print = TRUE) {
+                        inns = NULL, data = wt20_data) {
   #catch errors in input
   if (event %in% valid_inputs$Binary_inputs ||
       event %in% valid_inputs$Cts_inputs) {
@@ -135,67 +155,91 @@ conditional <- function(event, parameter = NULL, modifier = NULL,
       decisions <- c(decisions, outcome$by_decision)
     }
     total <- length(results)
-    if (print) {
-      cat("Condition:", event, "\n",
-          "Occurrences:", total, "\n")
-    }
-
-    #helper to print one block of outcomes for a subset of the games
-    print_block <- function(label, keep) {
-      res    <- results[keep]
-      n      <- length(res)
-      wins   <- sum(res == "won")
-      losses <- sum(res == "lost")
-      ties   <- sum(res == "tied")
-      #Base the win rate on decisive games only so ties don't dilute it.
-      decisive <- wins + losses
-      if (print) {
-        cat(" -----------------------------\n",
-            label, "\n",
-            "Occurrences:", n, " (", 100 * round(n / total, 3), "%)", "\n",
-            "Outcomes Won:", wins, "\n",
-            "Outcomes Lost:", losses, "\n",
-            "Outcomes Tied:", ties, " (", 100 * round(ties / total, 3), "%)",
-            "\n\n",
-            "Win Rate (decisive games): ",
-            if (decisive > 0) round(wins / decisive, 3) * 100 else NA, "% \n\n")
-      }
-    }
 
     if (event == "Won Toss") {
       #Won Toss stays as a single block
-      print_block(event, rep(TRUE, total))
+      blocks <- list(summarise_block(event, results, total))
     } else {
       #split by whether the team chose to bat/bowl first (i.e. won the toss)
-      print_block(paste(event, "after winning the toss:"), decisions)
-      print_block(paste(event, "after loosing the toss:"), !decisions)
+      blocks <- list(
+        summarise_block(paste(event, "after winning the toss:"),
+                        results[decisions], total),
+        summarise_block(paste(event, "after loosing the toss:"),
+                        results[!decisions], total)
+      )
     }
+    type <- "binary"
   } else {
-    results <- character()
     for (game in data) {
       team <- cts_condition(game, event, parameter, modifier, inns)
       if (!is.null(team)) {
         results <- c(results, match_outcome(game, team))
       }
     }
-    total <- length(results)
-    wins <- sum(results == "won")
-    losses <- sum(results == "lost")
-    ties <- sum(results == "tied")
-    #Base the win rate on decisive games only so ties don't dilute it.
-    decisive <- wins + losses
-    winrate <- if (decisive > 0) 100 * (wins / decisive) else NA
-    if (print) {
-      cat("Condition:", event, modifier, "than", parameter, "in the", inns,
-          "innings resulted in the following\n",
-          "Occurrences:", total, "\n",
-          "-------------------------\n",
-          "Wins: ", wins, "\n",
-          "Losses:", losses, "\n",
-          "Ties: ", ties, "\n",
-          "\n",
-          "Win rate (decisive games):", round(winrate, 3), "%")
-    }
-    return(invisible(winrate))
+    total  <- length(results)
+    blocks <- list(summarise_block(event, results, total))
+    type   <- "cts"
   }
+
+  #Hoist each per-block stat to the top level so s$win_rate (etc.) works
+  #directly. One block -> a scalar; two blocks -> an unnamed length-2 vector
+  #in block order, i.e. (toss went their way, toss did not).
+  stat_names <- c("n", "wins", "losses", "ties", "decisive",
+                  "win_rate", "pct_of_total")
+  hoisted <- lapply(stat_names, function(s)
+    unname(vapply(blocks, function(b) b[[s]], numeric(1))))
+  names(hoisted) <- stat_names
+
+  structure(
+    c(list(
+        event     = event,
+        type      = type,
+        parameter = parameter,
+        modifier  = modifier,
+        inns      = inns,
+        total     = total,
+        results   = results,
+        blocks    = list(blocks)
+      ),
+      hoisted),
+    class = "conditional_result"
+  )
+}
+
+#S3 print method: all presentation lives here, separate from the computation
+#in conditional(). R calls this automatically when a conditional_result is
+#shown at the console.
+print.conditional_result <- function(x, ...) {
+  if (x$type == "binary") {
+    cat("Condition:", x$event, "\n",
+        "Occurrences:", x$total, "\n")
+    for (b in x$blocks) {
+      cat(" -----------------------------\n",
+          b$label, "\n",
+          "Occurrences:", b$n, " (", round(b$pct_of_total, 1), "%)", "\n",
+          "Outcomes Won:", b$wins, "\n",
+          "Outcomes Lost:", b$losses, "\n",
+          "Outcomes Tied:", b$ties, " (",
+          round(100 * b$ties / x$total, 1), "%)", "\n\n",
+          "Win Rate (decisive games): ", round(b$win_rate, 1), "% \n\n")
+    }
+  } else {
+    b <- x$blocks[[1]]
+    cat("Condition:", x$event, x$modifier, "than", x$parameter,
+        "in the", x$inns, "innings resulted in the following\n",
+        "Occurrences:", x$total, "\n",
+        "-------------------------\n",
+        "Wins: ", b$wins, "\n",
+        "Losses:", b$losses, "\n",
+        "Ties: ", b$ties, "\n",
+        "\n",
+        "Win rate (decisive games):", round(b$win_rate, 3), "%")
+  }
+  invisible(x)
+}
+
+#------------------------------------------------------------------------------
+# have a look at how individual teams perform
+team_stats <- function (team) {
+
 }
