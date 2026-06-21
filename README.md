@@ -1,7 +1,7 @@
 # Cricket-Modelling
 
 ## Set-up
-I used [Cricsheet](https://cricsheet.org/) for the ball by ball data. 
+I used **<a href="https://cricsheet.org/" target="_blank">Cricsheet</a>** for the ball by ball data. 
 The T20 data for international games comes in YAML format with both mens and womens games.
 
 ### Parsing the YAML folder
@@ -23,7 +23,7 @@ constant throughout a game and a dataframe that contains just the information th
 This is sourced at the start of R files where it is required.
 
 ## Model Discovery
-[Model_discovery.R]() contains functions to help you discover information about what has happened in the games in the 
+[Model_discovery.R](https://github.com/Jonathan-kswm/Cricket-Modelling/blob/main/Model_discovery.R) contains functions to help you discover information about what has happened in the games in the 
 dataset.
 - valid_inputs
   - this is a dictionary of inputs that are used within the file
@@ -95,4 +95,4 @@ Condition: No Balls Greater than 3 in the Second innings resulted in the followi
 ```
 
 ## Modeling Doc
-This is used to visualise and explain the results from [Model_discovery.R]()
+This is used to visualise and explain the results from [Model_discovery.R](https://github.com/Jonathan-kswm/Cricket-Modelling/blob/main/Model_discovery.R)
