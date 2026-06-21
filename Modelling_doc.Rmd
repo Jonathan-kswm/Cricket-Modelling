@@ -10,7 +10,7 @@ Women's T20 International cricket presents a compelling and underexplored domain
 
 Make sure the code in the block below is run before any of the other cells in the document. Make sure that wt20_ball_by_ball.csv is in the directory (this can be created by running parse_wt20.py)
 ```{r Summary of our Data set}
-source("Model_discovary.R")
+source("Model_discovery.R")
 ```
 <!-- R Notebook saved outputs: do not edit
 RNOTEBOOK_RMD_STATE_BEGIN
