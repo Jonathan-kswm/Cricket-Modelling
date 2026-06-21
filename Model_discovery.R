@@ -40,7 +40,7 @@ cts_condition <- function(match, event, parameter, modifier, inns) {
   codes <- c("First" = "innings_1",
     "Second" = "innings_2"
   )
-  compare <- function(a, b) if (modifier == "Lesser") a <= b else a >= b
+  compare <- function(a, b) if (modifier == "Lesser") a <= b else a > b
   index <- match[[codes[[inns]]]]
   #Guard against games that never had this innings (abandoned/no-result).
   #Without this, sum(NULL) == 0 would spuriously satisfy a "Lesser" test and
@@ -199,7 +199,7 @@ conditional <- function(event, parameter = NULL, modifier = NULL,
         inns      = inns,
         total     = total,
         results   = results,
-        blocks    = list(blocks)
+        blocks    = blocks
       ),
       hoisted),
     class = "conditional_result"
@@ -216,7 +216,7 @@ print.conditional_result <- function(x, ...) {
     for (b in x$blocks) {
       cat(" -----------------------------\n",
           b$label, "\n",
-          "Occurrences:", b$n, " (", round(b$pct_of_total, 1), "%)", "\n",
+          "Occurrences:", b$n, " (",round(b$pct_of_total, 1), "%) \n",
           "Outcomes Won:", b$wins, "\n",
           "Outcomes Lost:", b$losses, "\n",
           "Outcomes Tied:", b$ties, " (",
