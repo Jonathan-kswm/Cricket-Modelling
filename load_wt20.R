@@ -98,3 +98,17 @@ game_split <- function(data) {
 }
 
 wt20_data <- game_split(wt20)
+
+collect_teams <- function(data = wt20) {
+  #this should do something simmilar to game_split
+  #only instead of match_id we will split by team
+  #we need to bare in mind that any team can appear in eather team 1 or team 2
+  #so we need to make sure we add both together
+  teams_1 <- split(data, data$team_1)
+  teams_2 <- split(data, data$team_2)
+  list_of_teams <-  list()
+  
+  for (team in teams_1) {
+    games <- game_split(team)
+  }
+}

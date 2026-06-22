@@ -2,7 +2,7 @@
 #This should answer the question if we see observation A how many of the games
 # in the dataset does A occur in and what is the distribution of wins to losses
 # of the games in the dataset with event A
-source("load_wt20.R") #This ensures that wt20_data is always loaded for this file
+source("load_wt20.myR") #This ensures that wt20_data is always loaded for this file
 
 valid_inputs <- list(
   "Binary_inputs" = c("Won Toss", "Batted First", "Bowled First"),
@@ -240,6 +240,10 @@ print.conditional_result <- function(x, ...) {
 
 #------------------------------------------------------------------------------
 # have a look at how individual teams perform
-team_stats <- function (team) {
-
+team_stats <- function (team, data = wt20_data) {
+  # I want something like this:
+  # Games: no. games
+  # Wins: no. wins
+  # Losses: no. losses
+  #
 }
