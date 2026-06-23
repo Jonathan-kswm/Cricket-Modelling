@@ -245,5 +245,6 @@ team_stats <- function (team, data = wt20_data) {
   # Games: no. games
   # Wins: no. wins
   # Losses: no. losses
-  #
+
+
 }

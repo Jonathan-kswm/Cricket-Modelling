@@ -79,7 +79,7 @@ if (nrow(violations) == 0) {
 # Winner, Win_by_runs, Win_by_wickets, Player_of_match
 
 game_split <- function(data) {
-  games <- split(data, data$match_id)
+  games <- split(data, data$match_id, drop = TRUE)
   games <- lapply(games, function(match) {
     static <- list(
       game_id = as.character(match$match_id[1]),
@@ -100,15 +100,18 @@ game_split <- function(data) {
 wt20_data <- game_split(wt20)
 
 collect_teams <- function(data = wt20) {
-  #this should do something simmilar to game_split
-  #only instead of match_id we will split by team
-  #we need to bare in mind that any team can appear in eather team 1 or team 2
-  #so we need to make sure we add both together
-  teams_1 <- split(data, data$team_1)
-  teams_2 <- split(data, data$team_2)
-  list_of_teams <-  list()
-  
-  for (team in teams_1) {
-    games <- game_split(team)
-  }
+  #Re-organise the data by team. Each team maps to a game_split() result
+  #containing every match that team played in, on either side. A team can
+  #appear as team_1 or team_2, so the set of teams is the union of both
+  #columns and each match is selected with team_1 == team | team_2 == team.
+  teams <- sort(unique(c(as.character(data$team_1),
+                         as.character(data$team_2))))
+  team_games <- lapply(teams, function(team) {
+    matches <- dplyr::filter(data, team_1 == team | team_2 == team)
+    game_split(matches)
+  })
+  names(team_games) <- teams
+  team_games
 }
+
+teams_data <- collect_teams(wt20)
